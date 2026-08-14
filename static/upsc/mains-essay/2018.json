@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2018_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Alternative technologies for a climate change resilient India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "A good life is one inspired by love and guided by knowledge.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Poverty anywhere is a threat to prosperity everywhere.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Management of Indian border disputes — a complex task.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Customary morality cannot be a guide to modern life.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "'The past' is a permanent dimension of human consciousness and values.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_essay_q7",
+      "type": "fill-blank",
+      "question": "A people that values its privileges above its principles loses both.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_essay_q8",
+      "type": "fill-blank",
+      "question": "Reality does not conform to the ideal, but confirms it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

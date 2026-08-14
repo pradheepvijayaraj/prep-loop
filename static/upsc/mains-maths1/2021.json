@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2021_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) If $A=\\begin{pmatrix}1&-1&1\\\\2&-1&0\\\\1&0&0\\end{pmatrix}$, then show that $A^{2}=A^{-1}$ (without finding $A^{-1}$).\n(b) Find the matrix associated with the linear operator on $V_{3}(\\mathbb{R})$ defined by $T(a,b,c)=(a+b,a-b,2c)$ with respect to the ordered basis $B=\\{(0, 1,1),(1, 0,1),(1, 1,0)\\}$.\n(c) Given $\\Delta(x)=\\begin{vmatrix}f(x+\\alpha)&f(x+2\\alpha)&f(x+3\\alpha)\\\\f(\\alpha)&f(2\\alpha)&f(3\\alpha)\\\\f'(\\alpha)&f'(2\\alpha)&f'(3\\alpha)\\end{vmatrix}$, where $f$ is a real-valued differentiable function and $\\alpha$ is a constant, find $\\lim_{x\\to 0}\\frac{\\Delta(x)}{x}$.\n(d) Show that between any two roots of $e^{x}\\cos x=1$, there exists at least one root of $e^{x}\\sin x-1=0$.\n(e) Find the equation of the cylinder whose generators are parallel to the line $\\frac{x}{1}=-\\frac{y}{2}=\\frac{z}{3}$ and whose guiding curve is $x^{2}+2y^{2}=1$, $z=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Show that the planes which cut the cone $ax^{2}+by^{2}+cz^{2}=0$ in perpendicular generators touch the cone $\\frac{x^{2}}{b+c}+\\frac{y^{2}}{c+a}+\\frac{z^{2}}{a+b}=0$.\n(b) Given that $f(x,y)=|x^{2}-y^{2}|$, find $f_{xy}(0, 0)$ and $f_{yx}(0, 0)$. Hence show that $f_{xy}(0, 0)=f_{yx}(0, 0)$.\n(c) Show that $S=\\{(x,2y,3x):x,y\\in\\mathbb{R}\\}$ is a subspace of $\\mathbb{R}^{3}$. Find two bases of $S$. Also find the dimension of $S$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) (i) If $u=x^{2}+y^{2}$, $v=x^{2}-y^{2}$, where $x=r\\cos\\theta$, $y=r\\sin\\theta$, then find $\\frac{\\partial(u,v)}{\\partial(r,\\theta)}$.\n(ii) If $\\int_{0}^{x}f(t)\\,dt=x+\\int_{x}^{1}tf(t)\\,dt$, then find the value of $f(1)$.\n(iii) Express $\\int_{a}^{b}(x-a)^{m}(b-x)^{n}\\,dx$ in terms of the Beta function.\n(b) A sphere of constant radius $r$ passes through the origin $O$ and cuts the axes at the points $A$, $B$ and $C$. Find the locus of the foot of the perpendicular drawn from $O$ to the plane $ABC$.\n(c) (i) Prove that the eigenvectors corresponding to two distinct eigenvalues of a real symmetric matrix are orthogonal.\n(ii) For two square matrices $A$ and $B$ of order $2$, show that $\\mathrm{trace}(AB)=\\mathrm{trace}(BA)$. Hence show that $AB-BA\\neq I_{2}$, where $I_{2}$ is the identity matrix of order $2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Reduce the following matrix to a row-reduced echelon form and hence find its rank: $A=\\begin{pmatrix}1&3&2&4&1\\\\0&0&2&2&0\\\\2&6&2&6&2\\\\3&9&1&10&6\\end{pmatrix}$.\n(ii) Find the eigenvalues and the corresponding eigenvectors of the matrix $A=\\begin{pmatrix}0&-i\\\\i&0\\end{pmatrix}$ over the complex-number field.\n(b) Show that the entire area of the Astroid $x^{2/3}+y^{2/3}=a^{2/3}$ is $\\frac{3}{8}\\pi a^{2}$.\n(c) Find the equation of the plane containing the lines $\\frac{x+1}{3}=\\frac{y+3}{5}=\\frac{z+5}{7}$ and $\\frac{x-2}{1}=\\frac{y-4}{3}=\\frac{z-6}{5}$. Also find the point of intersection of the given lines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the differential equation $\\frac{d^{2}y}{dx^{2}}+2y=x^{2}e^{3x}+e^{x}\\cos 2x$.\n(b) Using the Laplace transform method, solve the initial value problem $\\frac{d^{2}y}{dx^{2}}+4y=e^{-2x}\\sin 2x$ with $y(0)=y'(0)=0$.\n(c) Two rods $LM$ and $MN$ are joined rigidly at the point $M$ such that $(LM)^{2}+(MN)^{2}=(LN)^{2}$ and they are hung freely in equilibrium from a fixed point $L$. Let $\\omega$ be the weight per unit length of both the rods which are uniform. Determine the angle which the rod $LM$ makes with the vertical direction, in terms of the lengths of the rods.\n(d) If a planet which revolves around the Sun in a circular orbit is suddenly stopped in its orbit, then find the time in which it would fall into the Sun. Also find the ratio of its falling time to the period of revolution of the planet.\n(e) Show that $\\nabla^{2}\\!\\left[\\nabla\\cdot\\left(\\frac{\\vec{r}}{r}\\right)\\right]=\\frac{2}{r^{4}}$, where $\\vec{r}=x\\hat{\\imath}+y\\hat{\\jmath}+z\\hat{k}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) A heavy string, which is not of uniform density, is hung up from two points. Let $T_{1}$, $T_{2}$, $T_{3}$ be the tensions at the intermediate points $A$, $B$, $C$ of the catenary respectively where its inclinations to the horizontal are in arithmetic progression with common difference $\\beta$. Let $\\omega_{1}$ and $\\omega_{2}$ be the weights of the parts $AB$ and $BC$ of the string respectively. Prove that (i) the harmonic mean of $T_{1}$, $T_{2}$ and $T_{3}$ is $\\frac{3T_{2}}{1+2\\cos\\beta}$;\n(ii) $\\frac{T_{1}}{T_{3}}=\\frac{\\omega_{1}}{\\omega_{2}}$.\n(b) Solve the equation $\\frac{d^{2}y}{dx^{2}}+(\\tan x-3\\cos x)\\frac{dy}{dx}+2y\\cos^{2}x=\\cos^{4}x$ completely by demonstrating all the steps involved.\n(c) Evaluate $\\oint_{C}\\vec{F}\\cdot d\\vec{r}$, where $C$ is an arbitrary closed curve in the $xy$-plane and $\\vec{F}=\\frac{-y\\hat{\\imath}+x\\hat{\\jmath}}{x^{2}+y^{2}}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) Verify Gauss divergence theorem for $\\vec{F}=2x^{2}y\\,\\hat{\\imath}-y^{2}\\,\\hat{\\jmath}+4xz^{2}\\,\\hat{k}$ taken over the region in the first octant bounded by $y^{2}+z^{2}=9$ and $x=2$.\n(b) Find all possible solutions of the differential equation $y^{2}\\log y=xy\\frac{dy}{dx}+\\left(\\frac{dy}{dx}\\right)^{2}$.\n(c) A heavy particle hangs by an inextensible string of length $a$ from a fixed point and is then projected horizontally with a velocity $\\sqrt{2gh}$. If $\\frac{5a}{2}>h>a$, then prove that the circular motion ceases when the particle has reached the height $\\frac{1}{3}(a+2h)$ from the point of projection. Also prove that the greatest height ever reached by the particle above the point of projection is $\\frac{(4a-h)(a+2h)^{2}}{27a^{2}}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Find the orthogonal trajectories of the family of confocal conics $\\frac{x^{2}}{a^{2}+\\lambda}+\\frac{y^{2}}{b^{2}+\\lambda}=1$, where $a>b>0$ are constants and $\\lambda$ is a parameter. Show that the given family of curves is self-orthogonal.\n(ii) Find the general solution of the differential equation $x^{2}\\frac{d^{2}y}{dx^{2}}-2x(1+x)\\frac{dy}{dx}+2(1+x)y=0$. Hence, by the method of variation of parameters, solve $x^{2}\\frac{d^{2}y}{dx^{2}}-2x(1+x)\\frac{dy}{dx}+2(1+x)y=x^{3}$.\n(b) Describe the motion and path of a particle of mass $m$ which is projected in a vertical plane through a point of projection with velocity $u$ in a direction making an angle $\\theta$ with the horizontal direction. Further, if particles are projected from that point in the same vertical plane with velocity $4\\sqrt{g}$, then determine the locus of vertices of their paths.\n(c) Using Stokes' theorem, evaluate $\\iint_{S}(\\nabla\\times\\vec{F})\\cdot\\hat{n}\\,dS$, where $\\vec{F}=(x^{2}+y-4)\\hat{\\imath}+3xy\\,\\hat{\\jmath}+(2xy+z^{2})\\hat{k}$ and $S$ is the surface of the paraboloid $z=4-(x^{2}+y^{2})$ above the $xy$-plane. Here $\\hat{n}$ is the unit outward normal vector on $S$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

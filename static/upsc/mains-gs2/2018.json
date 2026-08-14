@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "GS2",
+    "section": "mains-gs2",
+    "sourceId": "upsc_2018_mains_gs2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_gs2_q1",
+      "type": "fill-blank",
+      "question": "In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q2",
+      "type": "fill-blank",
+      "question": "Whether the National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q3",
+      "type": "fill-blank",
+      "question": "Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q4",
+      "type": "fill-blank",
+      "question": "Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q5",
+      "type": "fill-blank",
+      "question": "\"The Comptroller and Auditor General (CAG) has a very vital role to play.\" Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q6",
+      "type": "fill-blank",
+      "question": "\"Policy contradictions among various competing sectors and stakeholders have resulted in inadequate 'protection and prevention of degradation' to environment.\" Comment with relevant illustrations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q7",
+      "type": "fill-blank",
+      "question": "Appropriate local community-level healthcare intervention is a prerequisite to achieve 'Health for All' in India. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q8",
+      "type": "fill-blank",
+      "question": "E-governance is not only about utilization of the power of new technology, but also much about critical importance of the 'use value' of information. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q9",
+      "type": "fill-blank",
+      "question": "\"India's relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q10",
+      "type": "fill-blank",
+      "question": "A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India's joining the Ashgabat Agreement, 2018.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q11",
+      "type": "fill-blank",
+      "question": "Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q12",
+      "type": "fill-blank",
+      "question": "How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q13",
+      "type": "fill-blank",
+      "question": "Indian and USA are two large democracies. Examine the basic tenets on which the two political systems are based.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q14",
+      "type": "fill-blank",
+      "question": "How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q15",
+      "type": "fill-blank",
+      "question": "Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing developmental projects?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q16",
+      "type": "fill-blank",
+      "question": "Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q17",
+      "type": "fill-blank",
+      "question": "How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q18",
+      "type": "fill-blank",
+      "question": "The China-Pakistan Economic Corridor (CPEC) is viewed as a cardinal subset of China's larger 'One Belt One Road' initiative. Give a brief description of CPEC and enumerate the reasons why India has distanced itself from the same.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q19",
+      "type": "fill-blank",
+      "question": "Left Wing Extremism (LWE) is showing a downward trend, but still affects many parts of the country. Briefly explain the Government of India's approach to counter the challenges posed by LWE.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_gs2_q20",
+      "type": "fill-blank",
+      "question": "What are the key areas of reform if the WTO has to survive in the present context of 'Trade War', especially keeping in mind the interest of India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2018_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $R$ be an integral domain with unit element. Show that any unit in $R[x]$ is a unit in $R$.\n(b) Prove the inequality $\\frac{\\pi^{2}}{9}<\\int_{\\pi/6}^{\\pi/2}\\frac{x}{\\sin x}\\,dx<\\frac{2\\pi^{2}}{9}$.\n(c) Prove that the function $u(x,y)=(x-1)^{3}-3xy^{2}+3y^{2}$ is harmonic and find its harmonic conjugate and the corresponding analytic function $f(z)$ in terms of $z$.\n(d) Find the range of $p(>0)$ for which the series $\\frac{1}{(1+a)^{p}}-\\frac{1}{(2+a)^{p}}+\\frac{1}{(3+a)^{p}}-\\cdots$, $a>0$, is (i) absolutely convergent\n(ii) conditionally convergent.\n(e) An agricultural firm has $180$ tons of nitrogen fertilizer, $250$ tons of phosphate and $220$ tons of potash. It will be able to sell a mixture of these substances in their respective ratio $3:3:4$ at a profit of Rs.\\ $1500$ per ton and a mixture in the ratio $2:4:2$ at a profit of Rs.\\ $1200$ per ton. Pose a linear programming problem to show how many tons of these two mixtures should be prepared to obtain the maximum profit.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Show that the quotient group of $(\\mathbb{R},+)$ modulo $\\mathbb{Z}$ is isomorphic to the multiplicative group of complex numbers on the unit circle in the complex plane. Here $\\mathbb{R}$ is the set of real numbers and $\\mathbb{Z}$ is the set of integers.\n(b) Solve the following linear programming problem by Big $M$-method and show that the problem has finite optimal solutions. Also find the value of the objective function: minimize $z=3x_{1}+5x_{2}$ subject to $x_{1}+2x_{2}\\ge 8$, $3x_{1}+2x_{2}\\ge 12$, $5x_{1}+6x_{2}\\le 60$, $x_{1},x_{2}\\ge 0$.\n(c) Show that if a function $f$ defined on an open interval $(a,b)$ of $\\mathbb{R}$ is convex, then $f$ is continuous. Show, by example, if the condition of open interval is dropped, then the convex function need not be continuous.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Find all the proper subgroups of the multiplicative group of the field $(\\mathbb{Z}_{13},+_{13},\\times_{13})$, where $+_{13}$ and $\\times_{13}$ represent addition modulo $13$ and multiplication modulo $13$ respectively.\n(b) Show by applying the residue theorem that $\\int_{0}^{\\infty}\\frac{dx}{(x^{2}+a^{2})^{2}}=\\frac{\\pi}{4a^{3}}$, $a>0$.\n(c) How many basic solutions are there in the following linearly independent set of equations? Find all of them.\n$2x_{1}-x_{2}+3x_{3}+x_{4}=6$, $4x_{1}-2x_{2}-x_{3}+2x_{4}=10$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Suppose $\\mathbb{R}$ be the set of all real numbers and $f:\\mathbb{R}\\to\\mathbb{R}$ is a function such that the following equations hold for all $x,y\\in\\mathbb{R}$: (i) $f(x+y)=f(x)+f(y)$;\n(ii) $f(xy)=f(x)f(y)$. Show that for all $x\\in\\mathbb{R}$ either $f(x)=0$, or $f(x)=x$.\n(b) Find the Laurent series which represent the function $\\frac{1}{(1+z^{2})(z+2)}$ when (i) $|z|<1$;\n(ii) $1<|z|<2$;\n(iii) $|z|>2$.\n(c) In a factory there are five operators $O_{1},O_{2},O_{3},O_{4},O_{5}$ and five machines $M_{1},M_{2},M_{3},M_{4},M_{5}$. The operating costs are given when the $O_{i}$ operator operates the $M_{j}$ machine ($i,j=1, 2,\\ldots,5$). But there is a restriction that $O_{3}$ cannot be allowed to operate the third machine $M_{3}$ and $O_{2}$ cannot be allowed to operate the fifth machine $M_{5}$. The cost matrix (rows $O_{1}$ to $O_{5}$, columns $M_{1}$ to $M_{5}$) is $\\begin{pmatrix}24&29&18&32&19\\\\17&26&34&22&21\\\\27&16&28&17&25\\\\22&18&28&30&24\\\\28&16&31&24&27\\end{pmatrix}$. Find the optimal assignment and the optimal assignment cost also.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Find the partial differential equation of the family of all tangent planes to the ellipsoid $x^{2}+4y^{2}+4z^{2}=4$, which are not perpendicular to the $xy$-plane.\n(b) Using Newton's forward difference formula find the lowest degree polynomial $u_{x}$ when it is given that $u_{1}=1$, $u_{2}=9$, $u_{3}=25$, $u_{4}=55$ and $u_{5}=105$.\n(c) For an incompressible fluid flow, two components of velocity $(u,v,w)$ are given by $u=x^{2}+2y^{2}+3z^{2}$, $v=x^{2}y-y^{2}z+zx$. Determine the third component $w$ so that they satisfy the equation of continuity. Also, find the $z$-component of acceleration.\n(d) Starting from rest in the beginning, the speed (in Km/h) of a train at different times (in minutes) is given by the following table: time $2, 4,6, 8,10, 12,14, 16,18, 20$ with corresponding speeds $10, 18,25, 29,32, 20,11, 5,2, 8\\cdot 5$. Using Simpson's $\\frac{1}{3}$rd rule, find the approximate distance travelled (in Km) in $20$ minutes from the beginning.\n(e) Write down the basic algorithm for solving the equation $xe^{x}-1=0$ by bisection method, correct to $4$ decimal places.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Find the general solution of the partial differential equation $(y^{3}x-2x^{4})p+(2y^{4}-x^{3}y)q=9z(x^{3}-y^{3})$, where $p=\\frac{\\partial z}{\\partial x}$, $q=\\frac{\\partial z}{\\partial y}$, and find its integral surface that passes through the curve $x=t$, $y=t^{2}$, $z=1$.\n(b) Find the equivalent of numbers given in a specified number system to the system mentioned against them: (i) $(111011\\cdot 101)_{2}$ to decimal system;\n(ii) $(1000111110000\\cdot 00101100)_{2}$ to hexadecimal system;\n(iii) $(\\mathrm{C4F2})_{16}$ to decimal system;\n(iv) $(418)_{10}$ to binary system.\n(c) Suppose the Lagrangian of a mechanical system is given by $L=\\frac{1}{2}m(a\\dot{x}^{2}+2b\\dot{x}\\dot{y}+c\\dot{y}^{2})-\\frac{1}{2}k(ax^{2}+2bxy+cy^{2})$, where $a,b,c$, $m(>0)$, $k(>0)$ are constants and $b^{2}\\ne ac$. Write down the Lagrangian equations of motion and identify the system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Solve the partial differential equation $(2D^{2}-5DD'+2D'^{2})z=5\\sin(2x+y)+24(y-x)+e^{3x+4y}$, where $D\\equiv\\frac{\\partial}{\\partial x}$, $D'\\equiv\\frac{\\partial}{\\partial y}$.\n(b) Find the values of the constants $a,b,c$ such that the quadrature formula $\\int_{0}^{h}f(x)\\,dx=h\\left[af(0)+bf\\!\\left(\\frac{h}{3}\\right)+cf(h)\\right]$ is exact for polynomials of as high degree as possible, and hence find the order of the truncation error.\n(c) The Hamiltonian of a mechanical system is given by $H=p_{1}q_{1}-aq_{1}^{2}+bq_{2}^{2}-p_{2}q_{2}$, where $a,b$ are the constants. Solve the Hamiltonian equations and show that $\\frac{p_{2}-bq_{2}}{q_{1}}=$ constant.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Simplify the Boolean expression $(a+b)\\cdot(\\bar{b}+c)+b\\cdot(\\bar{a}+\\bar{c})$ by using the laws of Boolean algebra. From its truth table write it in minterm normal form.\n(b) For a two-dimensional potential flow, the velocity potential is given by $\\phi=x^{2}y-xy^{2}+\\frac{1}{3}(x^{3}-y^{3})$. Determine the velocity components along the directions $x$ and $y$. Also, determine the stream function $\\psi$ and check whether $\\phi$ represents a possible case of flow or not.\n(c) A thin annulus occupies the region $0<a\\le r\\le b$, $0\\le\\theta\\le 2\\pi$. The faces are insulated. Along the inner edge the temperature is maintained at $0^{\\circ}$, while along the outer edge the temperature is held at $T=K\\cos\\frac{\\theta}{2}$, where $K$ is a constant. Determine the temperature distribution in the annulus.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

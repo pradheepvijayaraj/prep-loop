@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2016_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "If development is not engendered, it is endangered.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Need brings greed, if greed increases it spoils bread.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Water disputes between States in federal India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Innovation is the key determinant of economic growth and social welfare.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Cooperative federalism:\n\n1. Myth or reality.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "Cyberspace and Internet:\n\n1. Blessing or curse to the human civilization in the long run.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q7",
+      "type": "fill-blank",
+      "question": "Near jobless growth in India:\n\n1. An anomaly or an outcome of economic reforms.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q8",
+      "type": "fill-blank",
+      "question": "Digital economy:\n\n1. A leveller or a source of economic inequality.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

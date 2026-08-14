@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2024_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Forests precede civilizations and deserts follow them.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "The Empires of the future will be the empires of the mind.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "There is no path to happiness; Happiness is the path.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "The doubter is a true man of Science.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Social media is triggering 'Fear of Missing Out' amongst the youth, precipitating depression and loneliness.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "Nearly all men can stand adversity, but to test the character, give him power.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_essay_q7",
+      "type": "fill-blank",
+      "question": "All ideas having large consequences are always simple.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_essay_q8",
+      "type": "fill-blank",
+      "question": "The cost of being wrong is less than the cost of doing nothing.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

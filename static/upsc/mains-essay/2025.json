@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2025_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Truth knows no color.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "The supreme art of war is to subdue the enemy without fighting.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Thought finds a world and creates one also.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Best lessons are learnt through bitter experiences.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Muddy water is best cleared by leaving it alone.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "The years teach much which the days never know.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_essay_q7",
+      "type": "fill-blank",
+      "question": "It is best to see life as a journey, not as a destination.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_essay_q8",
+      "type": "fill-blank",
+      "question": "Contentment is natural wealth; luxury is artificial poverty.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

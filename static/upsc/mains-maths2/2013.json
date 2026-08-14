@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2013",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2013,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2013_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2013_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Show that the set of matrices $S=\\left\\{\\begin{pmatrix}a&-b\\\\ b&a\\end{pmatrix}:a,b\\in\\mathbb{R}\\right\\}$ is a field under the usual binary operations of matrix addition and matrix multiplication. What are the additive and multiplicative identities, and what is the inverse of $\\begin{pmatrix}1&-1\\\\ 1&1\\end{pmatrix}$? Consider the map $f:\\mathbb{C}\\to S$ defined by $f(a+ib)=\\begin{pmatrix}a&-b\\\\ b&a\\end{pmatrix}$. Show that $f$ is an isomorphism. (Here $\\mathbb{R}$ is the set of real numbers and $\\mathbb{C}$ is the set of complex numbers.)\n(b) Give an example of an infinite group in which every element has finite order.\n(c) Let $f(x)=\\frac{x^{2}}{2}+4$ if $x\\ge 0$ and $f(x)=-\\frac{x^{2}}{2}+2$ if $x<0$. Is $f$ Riemann integrable on the interval $[-1, 2]$? Why? Does there exist a function $g$ such that $g'(x)=f(x)$? Justify your answer.\n(d) Prove that if $b e^{a+1}<1$ where $a$ and $b$ are positive and real, then the function $z^{n}e^{-a}-b e^{z}$ has $n$ zeros in the unit circle.\n(e) Maximize $z=2x_1+3x_2-5x_3$ subject to $x_1+x_2+x_3=7$ and $2x_1-5x_2+x_3\\ge 10$ with $x_i\\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) What are the orders of the following permutations in $S_{10}$: the permutation sending $(1, 2,3, 4,5, 6,7, 8,9, 10)$ to $(1, 8,7, 3,10, 5,4, 2,6, 9)$, and the product of cycles $(1\\,2\\,3\\,4\\,5)(6\\,7)$?\n(b) What is the maximal possible order of an element in $S_{10}$? Why? Give an example of such an element. How many elements of that order are there in $S_{10}$?\n(c) Show that the series $\\sum_{n=1}^{\\infty}\\frac{(-1)^{n-1}}{n+x^{2}}$ is uniformly convergent but not absolutely convergent for all real values of $x$.\n(d) Show that every open subset of $\\mathbb{R}$ is a countable union of disjoint open intervals.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $J=\\{a+bi:a,b\\in\\mathbb{Z}\\}$ be the ring of Gaussian integers (a subring of $\\mathbb{C}$). Which of the following is $J$: a Euclidean domain, a principal ideal domain, a unique factorization domain? Justify your answer.\n(b) Let $R^{C}$ be the ring of all real-valued continuous functions on $[0, 1]$ under the pointwise operations $(f+g)(x)=f(x)+g(x)$ and $(fg)(x)=f(x)g(x)$. Let $M=\\{f\\in R^{C}:f(\\frac{1}{2})=0\\}$. Is $M$ a maximal ideal of $R^{C}$? Justify your answer.\n(c) Let $f(x,y)=y^{2}+4xy+3x^{2}+x^{3}+1$. At what points will $f(x,y)$ have a maximum or a minimum?\n(d) Let $[x]$ denote the integer part of the real number $x$, that is, if $n\\le x<n+1$ for an integer $n$, then $[x]=n$. Is the function $f(x)=[x]^{2}+3$ Riemann integrable on $[-1, 2]$? If not, explain why. If it is integrable, compute $\\int_{-1}^{2}([x]^{2}+3)\\,dx$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Solve the minimum time assignment problem with jobs $J_1,J_2,J_3,J_4$ and machines $M_1,M_2,M_3,M_4$ and cost matrix rows $J_1:(3, 12,5, 14)$, $J_2:(7, 9,8, 12)$, $J_3:(5, 11,10, 12)$, $J_4:(6, 14,4, 11)$.\n(b) Using Cauchy's residue theorem, evaluate the integral $I=\\int_{0}^{\\pi}\\sin^{4}\\theta\\,d\\theta$.\n(c) Minimize $z=5x_1-4x_2+6x_3-8x_4$ subject to the constraints $x_1+2x_2-2x_3+4x_4\\le 40$, $2x_1-x_2+x_3+2x_4\\le 8$, $4x_1-2x_2+x_3-x_4\\le 10$ and $x_i\\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Form a partial differential equation by eliminating the arbitrary functions $f$ and $g$ from $z=y f(x)+x g(y)$.\n(b) Reduce the equation $y\\frac{\\partial^{2}z}{\\partial x^{2}}+(x+y)\\frac{\\partial^{2}z}{\\partial x\\partial y}+x\\frac{\\partial^{2}z}{\\partial y^{2}}=0$ to its canonical form when $x\\neq y$.\n(c) In an examination, the number of students who obtained marks between certain limits is given by: marks $30$--$40$: $31$ students; $40$--$50$: $42$; $50$--$60$: $51$; $60$--$70$: $35$; $70$--$80$: $31$. Using Newton forward interpolation formula, find the number of students whose marks lie between $45$ and $50$.\n(d) Prove that the necessary and sufficient condition that the vortex lines may be at right angles to the stream lines is $u,v,w=\\mu\\left(\\frac{\\partial\\varphi}{\\partial x},\\frac{\\partial\\varphi}{\\partial y},\\frac{\\partial\\varphi}{\\partial z}\\right)$, where $\\mu$ and $\\varphi$ are functions of $x,y,z,t$.\n(e) Four solid spheres $A,B,C$ and $D$, each of mass $m$ and radius $a$, are placed with their centres on the four corners of a square of side $b$. Calculate the moment of inertia of the system about a diagonal of the square.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve $(D^{2}+DD-6D'^{2})z=x^{2}\\sin(x+y)$, where $D$ and $D'$ denote $\\frac{\\partial}{\\partial x}$ and $\\frac{\\partial}{\\partial y}$.\n(b) Find the surface which intersects the surfaces of the system $z(x+y)=C(3z+1)$ (with $C$ a constant) orthogonally and which passes through the circle $x^{2}+y^{2}=1$, $z=1$.\n(c) A tightly stretched string with fixed end points $x=0$ and $x=\\ell$ is initially at rest in equilibrium position. If it is set vibrating by giving each point a velocity $\\lambda x(\\ell-x)$, find the displacement of the string at any distance $x$ from one end at any time $t$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Develop an algorithm for the Newton-Raphson method to solve $f(x)=0$ starting with initial iterate $x_0$, where $n$ is the number of iterations allowed, eps is the prescribed relative error and delta is the prescribed lower bound for $f'(x)$.\n(b) Use Euler's method with step size $h=0.15$ to compute the approximate value of $y(0.6)$, correct up to five decimal places, for the initial value problem $y'=x(y+x)-2$ with $y(0)=2$.\n(c) The velocity of a train which starts from rest is given by the table with times $t=2, 4,6, 8,10, 12,14, 16,18, 20$ minutes and velocities $v=16, 28.8, 40,46.4, 51.2, 32.0, 17.6, 8,3.2, 0$ km per hour. Estimate approximately the total distance run in $30$ minutes by using composite Simpson's one-third rule.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Two equal rods $AB$ and $BC$, each of length $\\ell$, smoothly jointed at $B$, are suspended from $A$ and oscillate in a vertical plane through $A$. Show that the periods of normal oscillations are $\\frac{2\\pi}{n}$ where $n^{2}=\\left(3\\pm\\frac{6}{\\sqrt{7}}\\right)\\frac{g}{\\ell}$.\n(b) If fluid fills the region of space on the positive side of the $x$-axis, which is a rigid boundary, and if there is a source of strength $m$ at the point $(0,a)$ and an equal sink at $(0,b)$, and if the pressure on the negative side is the same as the pressure at infinity, show that the resultant pressure on the boundary is $\\frac{\\pi\\rho m^{2}(a-b)^{2}}{2ab(a+b)}$, where $\\rho$ is the density of the fluid.\n(c) If $n$ rectilinear vortices of the same strength $K$ are symmetrically arranged as generators of a circular cylinder of radius $a$ in an infinite liquid, prove that the vortices will move round the cylinder uniformly in time $\\frac{8\\pi^{2}a^{3}}{(n-1)K}$. Find the velocity at any point of the liquid.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

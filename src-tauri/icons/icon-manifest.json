@@ -1,0 +1,7 @@
+{
+  "default": "preploop-infinity.svg",
+  "bg_color": "#000000",
+  "android_bg": "preploop-android-background.svg",
+  "android_fg": "preploop-android-foreground.svg",
+  "android_fg_scale": 100
+}

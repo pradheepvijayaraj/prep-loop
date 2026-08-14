@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2015,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2015_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_csat_q1",
+      "type": "single-choice",
+      "question": "A society has fighters and cowards. Cowards are enemies with each other and with fighters, while fighters are indifferent to each other. If A and B are enemies, C and D are friends, E and F are indifferent, A and E are not enemies, and B and F are enemies, which statement is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B, C, and F are cowards."
+        },
+        {
+          "id": "b",
+          "text": "A, E, and F are fighters."
+        },
+        {
+          "id": "c",
+          "text": "B and E are in the same category."
+        },
+        {
+          "id": "d",
+          "text": "A and F are in different categories."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q2",
+      "type": "single-choice",
+      "question": "In a group of persons traveling in a bus, 6 persons can speak Tamil, 15 can speak Hindi, and 6 can speak Gujarati. In that group, none can speak any other language. If 2 persons in the group can speak two languages only, and one person can speak all three languages, then how many persons are there in the group?",
+      "options": [
+        {
+          "id": "a",
+          "text": "21"
+        },
+        {
+          "id": "b",
+          "text": "22"
+        },
+        {
+          "id": "c",
+          "text": "23"
+        },
+        {
+          "id": "d",
+          "text": "24"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q3",
+      "type": "single-choice",
+      "question": "The monthly incomes of Peter and Paul are in the ratio of $4:3$. Their expenses are in the ratio of $3:2$. If both save Rs. 6000 at the end of the month, their respective monthly incomes are:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. $24,000$ and Rs. $18,000$"
+        },
+        {
+          "id": "b",
+          "text": "Rs. $28,000$ and Rs. $21,000$"
+        },
+        {
+          "id": "c",
+          "text": "Rs. $32,000$ and Rs. $24,000$"
+        },
+        {
+          "id": "d",
+          "text": "Rs. $34,000$ and Rs. $26,000$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q4",
+      "type": "single-choice",
+      "question": "Each of A, B, C, and D has Rs. 100. A pays Rs. 20 to B, who pays Rs. 10 to C, who gets Rs. 30 from D. In this context, which one of the following statements is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C is the richest."
+        },
+        {
+          "id": "b",
+          "text": "D is the poorest."
+        },
+        {
+          "id": "c",
+          "text": "C has more than what A and D have together."
+        },
+        {
+          "id": "d",
+          "text": "B is richer than D."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q5",
+      "type": "single-choice",
+      "question": "Geeta: Naresh has become a better boxer since he started meditation.\nRadha: Impossible. A boxer’s most important asset is his aggressiveness.\n\nRadha’s statement reflects her belief that",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meditation tends to make a person less aggressive."
+        },
+        {
+          "id": "b",
+          "text": "Meditation has little or no effect on the person who practices it."
+        },
+        {
+          "id": "c",
+          "text": "Naresh would not have taken to meditation as he was a boxer."
+        },
+        {
+          "id": "d",
+          "text": "Aggressiveness and meditation are unrelated."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q6",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. Life on other heavenly bodies is considered to be a possibility.\n2. Voyage to space is now an established fact.\n\nFrom the above statements, it may be concluded that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "UFOs are heavenly bodies."
+        },
+        {
+          "id": "b",
+          "text": "UFOs are sent from other heavenly bodies."
+        },
+        {
+          "id": "c",
+          "text": "Some living species on other heavenly bodies are more intelligent than man."
+        },
+        {
+          "id": "d",
+          "text": "Nothing definite can be said about the UFOs."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q7",
+      "type": "single-choice",
+      "question": "The graph depicts the earnings of A and B over the period 2000 to 2010:\n\n![52](/upsc/assets/csat/CSAT_2015_Q52_818f24da3b.png)\n\nFrom the graph, which one of the following can be concluded?",
+      "options": [
+        {
+          "id": "a",
+          "text": "On the average A earned more than B during this period."
+        },
+        {
+          "id": "b",
+          "text": "On the average B earned more than A during this period."
+        },
+        {
+          "id": "c",
+          "text": "The earnings of A and B were equal during this period."
+        },
+        {
+          "id": "d",
+          "text": "The earning of A were less as compared to B during this period."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q8",
+      "type": "single-choice",
+      "question": "Consider the following matrix:\n\n| 3 | 8 | 10 | 2 | ? | 1 |\n|----|----|----|----|----|----|\n| 6 | 56 | 90 | 2 | 20 | 0 |\n\nWhat is the missing number at ‘?’ in the matrix?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "0"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q9",
+      "type": "single-choice",
+      "question": "A selection is to be made for one post of Principal and two posts of Vice-Principal. Amongst the six candidates called for the interview, only two are eligible for the post of Principal while they all are eligible for the post of Vice-Principal. The number of possible combinations of selectees is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "18"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q10",
+      "type": "single-choice",
+      "question": "Four persons A, B, C, and D, consisting of two married couples, are in a group. Both the women are shorter than their respective husbands. A is the tallest among the four. C is taller than B. D is B’s brother.\n\nIn this context, which one of the following statements is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All four have family ties."
+        },
+        {
+          "id": "b",
+          "text": "B is the shortest among the four."
+        },
+        {
+          "id": "c",
+          "text": "C is taller than D."
+        },
+        {
+          "id": "d",
+          "text": "A is B’s husband."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q11",
+      "type": "single-choice",
+      "question": "Consider the following statements followed by two conclusions:\n\nStatements:\n1. Some men are great.\n2. Some men are wise.\n\nConclusions:\nI. Men are either great or wise.\nII. Some men are neither great nor wise.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only conclusion I is valid."
+        },
+        {
+          "id": "b",
+          "text": "Only conclusion II is valid."
+        },
+        {
+          "id": "c",
+          "text": "Both the conclusions are valid."
+        },
+        {
+          "id": "d",
+          "text": "Neither of the conclusions is valid."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q12",
+      "type": "single-choice",
+      "question": "All good athletes want to win, and all athletes who want to win eat a well-balanced diet; therefore, all athletes who do not eat a well-balanced diet are bad athletes.\nThe best conclusion from this statement is that",
+      "options": [
+        {
+          "id": "a",
+          "text": "No bad athlete wants to win."
+        },
+        {
+          "id": "b",
+          "text": "No athlete who does not eat a well-balanced diet is a good athlete."
+        },
+        {
+          "id": "c",
+          "text": "Every athlete who eats a well-balanced diet is a good athlete."
+        },
+        {
+          "id": "d",
+          "text": "All athletes who want to win are good athletes."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q13",
+      "type": "single-choice",
+      "question": "Two equal glasses of the same type are respectively $\\frac{1}{3}$ and $\\frac{1}{4}$ full of milk. They are then filled up with water and the contents are mixed in a pot. What is the ratio of milk to water in the pot?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7:17"
+        },
+        {
+          "id": "b",
+          "text": "1:3"
+        },
+        {
+          "id": "c",
+          "text": "9:21"
+        },
+        {
+          "id": "d",
+          "text": "11:23"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q14",
+      "type": "single-choice",
+      "question": "There are 5 tasks and 5 persons. Task-1 cannot be assigned to person-1 or person-2. Task-2 must be assigned to person-3 or person-4. Each person is to be assigned one task. In how many ways can the assignment be done?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "24"
+        },
+        {
+          "id": "d",
+          "text": "144"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q15",
+      "type": "single-choice",
+      "question": "The proportion of expenditure on various items by two families A and B are represented in the following bar charts:\n\n![59](/upsc/assets/csat/CSAT_2015_Q59_1b0d8cc985.png)\n\nFrom these charts, we can conclude that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Family A spent more money on food than Family B."
+        },
+        {
+          "id": "b",
+          "text": "Family B spent more money on food than Family A."
+        },
+        {
+          "id": "c",
+          "text": "Family A and Family B spent the same amount on food."
+        },
+        {
+          "id": "d",
+          "text": "The expenditure on food by Family A and Family B cannot be compared."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q16",
+      "type": "single-choice",
+      "question": "Year-wise variation of the price of a certain commodity is shown in the following graph:\n\n![58](/upsc/assets/csat/CSAT_2015_Q58_a31412a75d.png)\n\nThe price of the commodity in the year 1980:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Must have been Rs. 10/-."
+        },
+        {
+          "id": "b",
+          "text": "Must have been Rs. 12/-."
+        },
+        {
+          "id": "c",
+          "text": "Must have been anywhere between Rs. 10/- and Rs. 20/-."
+        },
+        {
+          "id": "d",
+          "text": "Is higher than that in the year 1991."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q17",
+      "type": "single-choice",
+      "question": "The number of persons who read magazine X only is thrice the number of persons who read magazine Y. The number of persons who read magazine Y only is thrice the number of persons who read magazine X. Then, which of the following conclusions can be drawn?\n\n1. The number of persons who read both the magazines is twice the number of persons who read only magazine X.\n2. The total number of persons who read either one magazine or both the magazines is twice the number of persons who read both the magazines.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q18",
+      "type": "single-choice",
+      "question": "A person ordered 5 pairs of black socks and some pairs of brown socks. The price of a black pair was thrice that of a brown pair. While preparing the bill, the bill clerk interchanged the number of black and brown pairs by mistake which increased the bill by 100%. What was the number of pairs of brown socks in the original order?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "20"
+        },
+        {
+          "id": "d",
+          "text": "25"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q19",
+      "type": "single-choice",
+      "question": "An automobile owner reduced his monthly petrol consumption when the prices went up. The price-consumption relationship is as follows:\n\nPrice (in Rs. per litre) 40 50 60 75\nMonthly consumption (in litres) 60 48 40 32\n\nIf the price goes uRs. 80 per litre, his expected consumption (in litres) will be",
+      "options": [
+        {
+          "id": "a",
+          "text": "30"
+        },
+        {
+          "id": "b",
+          "text": "28"
+        },
+        {
+          "id": "c",
+          "text": "26"
+        },
+        {
+          "id": "d",
+          "text": "24"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q20",
+      "type": "single-choice",
+      "question": "How many logically possible orders of the six cousins (A, B, C, D, E, and F) can be formed in increasing order of age?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q21",
+      "type": "single-choice",
+      "question": "If ABC × DEED = ABCABC; where A, B, C, D and E are different digits, what are the values of D and E?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$D = 2$, $E = 0$"
+        },
+        {
+          "id": "b",
+          "text": "$D = 0$, $E = 1$"
+        },
+        {
+          "id": "c",
+          "text": "$D = 1$, $E = 0$"
+        },
+        {
+          "id": "d",
+          "text": "$D = 1$, $E = 2$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q22",
+      "type": "single-choice",
+      "question": "A father is nine times as old as his son and the mother is eight times as old as the son. The sum of the father’s and the mother’s age is 51 years. What is the age of the son?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7 years"
+        },
+        {
+          "id": "b",
+          "text": "5 years"
+        },
+        {
+          "id": "c",
+          "text": "4 years"
+        },
+        {
+          "id": "d",
+          "text": "3 years"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q23",
+      "type": "single-choice",
+      "question": "In a box of marbles, there are 3 fewer white marbles than red ones and 5 more white marbles than green ones. If there are 10 white marbles, how many marbles are in the box?",
+      "options": [
+        {
+          "id": "a",
+          "text": "26"
+        },
+        {
+          "id": "b",
+          "text": "28"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "36"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q24",
+      "type": "single-choice",
+      "question": "Each of the six different faces of a cube has been coated with a different color, i.e., V, I, B, G, Y, and O. Following information is given:\n\n1. Colors Y, O, and B are on adjacent faces.\n2. Colors I, G, and Y are on adjacent faces.\n3. Colors B, G, and Y are on adjacent faces.\n\nWhich is the color of the face opposite to the face colored with O?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "V"
+        },
+        {
+          "id": "c",
+          "text": "G"
+        },
+        {
+          "id": "d",
+          "text": "I"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q25",
+      "type": "single-choice",
+      "question": "What is the missing number ‘X’ of the series: 7, $X$, 21, 31, 43?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "13"
+        },
+        {
+          "id": "d",
+          "text": "14"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q26",
+      "type": "single-choice",
+      "question": "Two pipes A and B can independently fill a tank completely in 20 and 30 minutes respectively. If both the pipes are opened simultaneously, how much time will they take to fill the tank completely?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 minutes"
+        },
+        {
+          "id": "b",
+          "text": "12 minutes"
+        },
+        {
+          "id": "c",
+          "text": "15 minutes"
+        },
+        {
+          "id": "d",
+          "text": "25 minutes"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q27",
+      "type": "single-choice",
+      "question": "In a test, a candidate attempted only 8 questions and secured 50% marks in each of the questions. If he obtained a total of 40% in the test and all questions in the test carried equal marks, how many questions were there in the test?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "15"
+        },
+        {
+          "id": "d",
+          "text": "16"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q28",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. A man had a wife, two sons, and two daughters in his family.\n2. The daughters were invited to a feast, and the male members of the family went out to take part in a picnic.\n3. The man’s father did not return from his work.\n\nWhich of the following statements is true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only the man’s wife was left at home."
+        },
+        {
+          "id": "b",
+          "text": "It is likely that the man’s wife was left at home."
+        },
+        {
+          "id": "c",
+          "text": "None was left at home."
+        },
+        {
+          "id": "d",
+          "text": "More than one person was left at home."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q29",
+      "type": "single-choice",
+      "question": "Shahid and Rohit start from the same point in opposite directions. After each 1 km, Shahid always turns left and Rohit always turns right. Which of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "After both have travelled 2 km, the distance between them is 4 km."
+        },
+        {
+          "id": "b",
+          "text": "They meet after each has travelled 3 km."
+        },
+        {
+          "id": "c",
+          "text": "They meet for the first time after each has travelled 4 km."
+        },
+        {
+          "id": "d",
+          "text": "They go on without ever meeting again."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q30",
+      "type": "single-choice",
+      "question": "A group consists of Anil, David, Shabnam, and Rekha. Anil speaks Tamil, Shabnam speaks Marathi, and both Rekha and David can drive. Only one man and one woman can drive. Which of the following statements is true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both Tamil speakers can drive."
+        },
+        {
+          "id": "b",
+          "text": "Both Marathi speakers can drive."
+        },
+        {
+          "id": "c",
+          "text": "Both drivers speak Marathi."
+        },
+        {
+          "id": "d",
+          "text": "Only one driver speaks Tamil."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q31",
+      "type": "single-choice",
+      "question": "Usha runs faster than Kamala, Priti runs slower than Swati, and Swati runs slower than Kamala. Who is the slowest runner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kamala"
+        },
+        {
+          "id": "b",
+          "text": "Priti"
+        },
+        {
+          "id": "c",
+          "text": "Swati"
+        },
+        {
+          "id": "d",
+          "text": "Usha"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q32",
+      "type": "single-choice",
+      "question": "In a society, friends of the same sex hug while friends of opposite sexes shake hands. A group of friends met at a party, resulting in 24 handshakes. What is the possible number of hugs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "39"
+        },
+        {
+          "id": "b",
+          "text": "30"
+        },
+        {
+          "id": "c",
+          "text": "21"
+        },
+        {
+          "id": "d",
+          "text": "20"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q33",
+      "type": "single-choice",
+      "question": "In a competitive exam, 60% of candidates are men, and 40% are women. 70% of men and 75% of women clear the qualifying test. In the final test, 80% of men and 70% of women succeed. Which statement is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Success rate is higher for women."
+        },
+        {
+          "id": "b",
+          "text": "Overall success rate is below $50\\%$."
+        },
+        {
+          "id": "c",
+          "text": "More men cleared the exam than women."
+        },
+        {
+          "id": "d",
+          "text": "Both A and B are correct."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q34",
+      "type": "single-choice",
+      "question": "A student has to opt for 2 subjects out of 5 subjects for a course, namely, Commerce, Economics, Statistics, Mathematics I, and Mathematics II. Mathematics II can be offered only if Mathematics I is also opted. The number of different combinations of two subjects that can be opted is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q35",
+      "type": "single-choice",
+      "question": "Consider the figure given below:\n\n![11](/upsc/assets/csat/CSAT_2015_Q11_90035d8d56.png)\n\nTo fit the question mark, the correct answer is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "![11A](/upsc/assets/csat/CSAT_2015_Q11_Option_A_6a0ebb3b9a.png)"
+        },
+        {
+          "id": "b",
+          "text": "![11B](/upsc/assets/csat/CSAT_2015_Q11_Option_B_0c65ca80d0.png)"
+        },
+        {
+          "id": "c",
+          "text": "![11C](/upsc/assets/csat/CSAT_2015_Q11_Option_C_8b5b1279b7.png)"
+        },
+        {
+          "id": "d",
+          "text": "![11D](/upsc/assets/csat/CSAT_2015_Q11_Option_D_5805b9c631.png)"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q36",
+      "type": "single-choice",
+      "question": "In a town, 45% of the population read magazine A, 55% read magazine B, 40% read magazine C, 30% read magazines A and B, 15% read magazines B and C, 25% read magazines A and C, and 10% read all three magazines. What percentage do not read any magazine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$10\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$15\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$20\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$25\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q37",
+      "type": "single-choice",
+      "question": "A cow costs more than 4 goats but less than 5 goats. If a goat costs between Rs. 600 and Rs. 800, what is the most valid conclusion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A cow costs less than Rs. $2,500$."
+        },
+        {
+          "id": "b",
+          "text": "A cow costs less than Rs. $3,600$."
+        },
+        {
+          "id": "c",
+          "text": "A cow costs between Rs. $2,600$ and Rs. $3,800$."
+        },
+        {
+          "id": "d",
+          "text": "A cow costs between Rs. $2,400$ and Rs. $4,000$."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q38",
+      "type": "single-choice",
+      "question": "In a 500-meter race, B starts 45 meters ahead of A, but A wins the race while B is still 35 meters behind. What is the ratio of the speed of A to B assuming that both start at the same time?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$25:21$"
+        },
+        {
+          "id": "b",
+          "text": "$25:20$"
+        },
+        {
+          "id": "c",
+          "text": "$5:3$"
+        },
+        {
+          "id": "d",
+          "text": "$5:7$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q39",
+      "type": "single-choice",
+      "question": "Examine the following statements:\n\n1. Lady’s finger is tastier than cabbage.\n2. Cauliflower is tastier than lady’s finger.\n3. Cabbage is not tastier than peas.\n\nThe conclusion that can be drawn from these statements is that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peas are as tasty as lady’s finger."
+        },
+        {
+          "id": "b",
+          "text": "Peas are as tasty as cauliflower and lady’s finger."
+        },
+        {
+          "id": "c",
+          "text": "Cabbage is the least tasty of the four vegetables."
+        },
+        {
+          "id": "d",
+          "text": "Cauliflower is tastier than cabbage."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q40",
+      "type": "single-choice",
+      "question": "Between 6 PM and 7 PM, the minute hand of a clock will be ahead of the hour hand by 3 minutes at:",
+      "options": [
+        {
+          "id": "a",
+          "text": "6:15 PM"
+        },
+        {
+          "id": "b",
+          "text": "6:18 PM"
+        },
+        {
+          "id": "c",
+          "text": "6:36 PM"
+        },
+        {
+          "id": "d",
+          "text": "6:48 PM"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q41",
+      "type": "single-choice",
+      "question": "Cousins A, B, C, D, E, and F are of different ages. E is the oldest at 22, and the youngest is 17. A is older than B, and C is older than D. F’s age is between B and D, and A is one year older than C. Which of the following is possible?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D is 20 years old"
+        },
+        {
+          "id": "b",
+          "text": "F is 18 years old"
+        },
+        {
+          "id": "c",
+          "text": "F is 19 years old"
+        },
+        {
+          "id": "d",
+          "text": "F is 20 years old"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q42",
+      "type": "single-choice",
+      "question": "Out of 130 students appearing in an examination, 62 failed in English, 52 failed in Mathematics, whereas 24 failed in both English and Mathematics. The number of students who passed finally is",
+      "options": [
+        {
+          "id": "a",
+          "text": "40"
+        },
+        {
+          "id": "b",
+          "text": "50"
+        },
+        {
+          "id": "c",
+          "text": "55"
+        },
+        {
+          "id": "d",
+          "text": "60"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q43",
+      "type": "single-choice",
+      "question": "If A runs less fast than B, and B runs as fast but not faster than C, then as compared to A, C runs",
+      "options": [
+        {
+          "id": "a",
+          "text": "Slower than A."
+        },
+        {
+          "id": "b",
+          "text": "Faster than A."
+        },
+        {
+          "id": "c",
+          "text": "With the same speed as A."
+        },
+        {
+          "id": "d",
+          "text": "Given data is not sufficient to determine."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q44",
+      "type": "single-choice",
+      "question": "Twelve people form a club. By picking lots, one of them will host a dinner for all once in a month. The number of dinners a particular member has to host in one year is",
+      "options": [
+        {
+          "id": "a",
+          "text": "One"
+        },
+        {
+          "id": "b",
+          "text": "Zero"
+        },
+        {
+          "id": "c",
+          "text": "Three"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be predicted"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q45",
+      "type": "single-choice",
+      "question": "In a parking area, the total number of wheels of all the cars (four-wheelers) and scooters/motorbikes (two-wheelers) is 100 more than twice the number of parked vehicles. The number of cars parked is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "35"
+        },
+        {
+          "id": "b",
+          "text": "45"
+        },
+        {
+          "id": "c",
+          "text": "50"
+        },
+        {
+          "id": "d",
+          "text": "55"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q46",
+      "type": "single-choice",
+      "question": "Two cities, A and B, are 360 km apart. A car goes from A to B at a speed of 40 km/hr and returns to A at 60 km/hr. What is the car's average speed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "45 km/hr"
+        },
+        {
+          "id": "b",
+          "text": "48 km/hr"
+        },
+        {
+          "id": "c",
+          "text": "50 km/hr"
+        },
+        {
+          "id": "d",
+          "text": "55 km/hr"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q47",
+      "type": "single-choice",
+      "question": "Four cardboard pieces of specific shapes are shown in the following figure:\n\n![14](/upsc/assets/csat/CSAT_2015_Q14_d1053f67ea.png)\n\nWhich one of the following figures given can be formed by joining these pieces together?",
+      "options": [
+        {
+          "id": "a",
+          "text": "![14A](/upsc/assets/csat/CSAT_2015_Q14_Option_A_889849c50e.png)"
+        },
+        {
+          "id": "b",
+          "text": "![14B](/upsc/assets/csat/CSAT_2015_Q14_Option_B_0ec3033c5b.png)"
+        },
+        {
+          "id": "c",
+          "text": "![14C](/upsc/assets/csat/CSAT_2015_Q14_Option_C_d53e27cc61.png)"
+        },
+        {
+          "id": "d",
+          "text": "![14D](/upsc/assets/csat/CSAT_2015_Q14_Option_D_ce70edf937.png)"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q48",
+      "type": "single-choice",
+      "question": "Lines X, Y, Z, U, V, and W lie in a plane. Line X is perpendicular to Y and parallel to Z. Line U is perpendicular to both V and W. Line X is also perpendicular to V. Which statement is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Z, U, and W are parallel."
+        },
+        {
+          "id": "b",
+          "text": "X, V, and Y are parallel."
+        },
+        {
+          "id": "c",
+          "text": "Z, V, and U are perpendicular to W."
+        },
+        {
+          "id": "d",
+          "text": "Y, V, and W are parallel."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q49",
+      "type": "single-choice",
+      "question": "“By liberty, I mean the eager maintenance of that atmosphere in which men have the opportunity to be their best selves.”\n\nWhich one of the following expresses the view implied in the above statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liberty is the absence of restraint on human action."
+        },
+        {
+          "id": "b",
+          "text": "Liberty is what law permits people to perform."
+        },
+        {
+          "id": "c",
+          "text": "Liberty is the ability to do what one desires."
+        },
+        {
+          "id": "d",
+          "text": "Liberty is the maintenance of conditions for the growth of human personality."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q50",
+      "type": "single-choice",
+      "question": "Open defecation is disastrous when practiced in very densely populated areas, when it is impossible to keep away human feces from crops, wells, food, and children’s hands. Groundwater is also contaminated by open defecation. Many ingested germs and worms spread diseases. They prevent the body from absorbing calories and nutrients. Nearly one-half of India’s children remain malnourished. Lakhs of them die from preventable conditions. Diarrhea leaves Indian bodies smaller on average than those of people in some poorer countries where people eat fewer calories. Underweight mothers produce stunted babies prone to sickness who may fail to develop their full cognitive potential. The germs released into the environment harm rich and poor alike, even those who use latrines.\n\nWhich among the following is the most critical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Central and State governments in India do not have enough resources to afford a latrine for each household."
+        },
+        {
+          "id": "b",
+          "text": "Open defecation is the most important public health problem of India."
+        },
+        {
+          "id": "c",
+          "text": "Open defecation reduces the human capital of India’s workforce."
+        },
+        {
+          "id": "d",
+          "text": "Open defecation is a public health problem in all developing countries."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q51",
+      "type": "single-choice",
+      "question": "The ultimate aim of government is not to rule or control by fear, nor to demand obedience, but conversely, to free every man from fear, that he may live in all possible security. In other words, to strengthen his natural right to exist and work without injury to himself or others. The object of government is not to change men from rational beings into beasts or puppets. It should enable them to develop their minds and bodies in security, and to employ their reason unshackled.\n\nWhich among the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The true aim of government is to secure the citizens their social and political freedom."
+        },
+        {
+          "id": "b",
+          "text": "The primary concern of government is to provide absolute social security to all its citizens."
+        },
+        {
+          "id": "c",
+          "text": "The best government is the one that allows the citizens to enjoy absolute liberty in all matters of life."
+        },
+        {
+          "id": "d",
+          "text": "The best government is the one that provides absolute physical security to the people of the country."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q52",
+      "type": "single-choice",
+      "question": "Set against a rural backdrop, \"Stench of Kerosene\" is the story of a couple, Guleri and Manak, who have been happily married for several years but do not have a child. Manak’s mother is desperate to have a grandchild to carry on the family name. Hence, she gets Manak remarried in Guleri’s absence. Manak, who acts as a reluctant but passive spectator, is meanwhile informed by a friend that Guleri, on hearing about her husband’s second marriage, poured kerosene on her clothes and set fire to them. Manak is heartbroken and begins to live as if he were a dead man. When his second wife delivers a son, Manak stares at the child for a long time and blurts out, “Take him away! He stinks of kerosene.”\n\nThis is a sensitive issue-based story which tries to sensitize the readers about",
+      "options": [
+        {
+          "id": "a",
+          "text": "Male chauvinism and infidelity."
+        },
+        {
+          "id": "b",
+          "text": "Love and betrayal."
+        },
+        {
+          "id": "c",
+          "text": "Lack of legal safeguards for women."
+        },
+        {
+          "id": "d",
+          "text": "Influence of patriarchal mindset."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q53",
+      "type": "single-choice",
+      "question": "Climate change is already making many people hungry all over the world by disrupting crop yields and pushing up prices. And it is not just food but nutrients that are becoming scarcer as the climate changes. It is the poorest communities that will suffer the worst effects of climate change, including increased hunger and malnutrition as crop production and livelihoods are threatened. On the other hand, poverty is a driver of climate change, as desperate communities resort to unsustainable use of resources to meet current needs.\n\nWhich among the following is the most logical corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Governments should allocate more funds to poverty alleviation programs and increase food subsidies to poor communities."
+        },
+        {
+          "id": "b",
+          "text": "Poverty and climate impacts reinforce each other and therefore we have to re-imagine our food systems."
+        },
+        {
+          "id": "c",
+          "text": "All the countries of the world must unite in fighting poverty and malnutrition and treat poverty as a global problem."
+        },
+        {
+          "id": "d",
+          "text": "We must stop unsustainable agricultural practices immediately and control food prices."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q54",
+      "type": "single-choice",
+      "question": "The ultimate aim of government is not to rule or control by fear, nor to demand obedience, but conversely, to free every man from fear, that he may live in all possible security. In other words, to strengthen his natural right to exist and work without injury to himself or others. The object of government is not to change men from rational beings into beasts or puppets. It should enable them to develop their minds and bodies in security, and to employ their reason unshackled.\n\nWhich among the following is the most logical and rational assumption that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The task of providing urban services is a complex issue that requires the organizational expansion of municipal bodies all over the country."
+        },
+        {
+          "id": "b",
+          "text": "Our cities can provide better quality of life if our local government bodies have adequate staff with required skills and competencies."
+        },
+        {
+          "id": "c",
+          "text": "Lack of skilled staff is due to the absence of institutions that offer the requisite skills in city management."
+        },
+        {
+          "id": "d",
+          "text": "Our country is not taking advantage of the demographic dividend to manage the problems associated with rapid urbanization."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q55",
+      "type": "single-choice",
+      "question": "We generally talk about democracy, but when it comes to any particular thing, we prefer belonging to our caste or community or religion. So long as we have this kind of temptation, our democracy will remain a phoney kind of democracy. We must be in a position to respect a man as a man and to extend opportunities for development to those who deserve them and not to those who happen to belong to our community or race. This fact of favoritism has been responsible for much discontent and ill-will in our country.\n\nWhich one of the following statements best sums up the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Our country has a lot of diversity with its many castes, communities, and religions."
+        },
+        {
+          "id": "b",
+          "text": "True democracy could be established by providing equal opportunities to all."
+        },
+        {
+          "id": "c",
+          "text": "So far, none of us has actually understood the meaning of democracy."
+        },
+        {
+          "id": "d",
+          "text": "It will never be possible for us to establish truly democratic governance in our country."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q56",
+      "type": "single-choice",
+      "question": "No right is absolute, exclusive, or inviolable. The right of personal property has to be perceived in the larger context of its assumed legitimacy. It should unite the principles of liberty and equality and the principle of cooperation.\n\nWhich one of the following statements is the most convincing explanation of the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The right of personal property is a natural right supported by statutes and scriptures."
+        },
+        {
+          "id": "b",
+          "text": "Personal property is theft and an instrument of exploitation. Hence, it violates economic justice."
+        },
+        {
+          "id": "c",
+          "text": "The right of personal property negates distributive justice and cooperation principles."
+        },
+        {
+          "id": "d",
+          "text": "The comprehensive idea of Economic justice demands that the right to acquire property should reconcile with others' rights."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q57",
+      "type": "single-choice",
+      "question": "Individuals, groups, and leaders who promote human development operate under strong institutional, structural, and political constraints that affect policy options. But experience suggests broad principles for shaping an appropriate agenda for human development. One important finding from several decades of human development experience is that focusing exclusively on economic growth is problematic. While we have good knowledge about how to advance health and education, the causes of growth are much less certain and growth is often elusive. Further, an unbalanced emphasis on growth is often associated with negative environmental consequences and adverse distributional effects. The experience of China, with its impressive growth records, reflects these broader concerns and underlines the importance of balanced approaches that emphasize investments in the non-income aspects of human development.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Higher economic growth is essential to ensure reduction in economic disparity.\n2. Environmental degradation is sometimes a consequence of economic growth.\n\nWhich of the above is/are valid assumptions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q58",
+      "type": "single-choice",
+      "question": "Individuals, groups, and leaders who promote human development operate under strong institutional, structural, and political constraints that affect policy options. But experience suggests broad principles for shaping an appropriate agenda for human development. One important finding from several decades of human development experience is that focusing exclusively on economic growth is problematic. While we have good knowledge about how to advance health and education, the causes of growth are much less certain and growth is often elusive. Further, an unbalanced emphasis on growth is often associated with negative environmental consequences and adverse distributional effects. The experience of China, with its impressive growth records, reflects these broader concerns and underlines the importance of balanced approaches that emphasize investments in the non-income aspects of human development.\n\nWith reference to the above passage, consider the following statements:\n\n1. In developing countries, a strong institutional framework is the only requirement for human development and policy options.\n2. Human development and economic growth are not always positively inter-related.\n3. Focusing only on human development should be the goal of policymaking.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q59",
+      "type": "single-choice",
+      "question": "The conflict between man and state is as old as state history. While attempts for proper adjustment between state and individual claims are ongoing, solutions seem distant due to society's dynamic nature, where old values yield to new ones. Absolute freedom of speech and action would result in chaos and anarchy.\n\nThe author’s viewpoint can best be summed up in which of the following statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The conflict between state and individual claims remains unresolved."
+        },
+        {
+          "id": "b",
+          "text": "Anarchy and chaos are the results of democratic traditions."
+        },
+        {
+          "id": "c",
+          "text": "Old values persist despite society's dynamic nature."
+        },
+        {
+          "id": "d",
+          "text": "Constitutional freedom of speech is not in society's interest."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q60",
+      "type": "single-choice",
+      "question": "India accounts for nearly a fifth of the world’s child deaths. In terms of numbers, it is the highest in the world — nearly 16 lakhs every year. Of these, more than half die in the first month of life. Officials believe that the reason for this is the absence of steps to propagate basic health practices relating to breastfeeding and immunisation. Also, the large reproductive population of 2.6 crore remains benefit of care during the critical phases of pregnancy and post-delivery. Added to this is the prevalence of child marriages, anaemia among young women and lack of focus on adolescent sanitation, all of which impact child death rates.\n\nWhich is the critical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A lot of Indians are illiterate and hence do not recognize the value of basic health practices."
+        },
+        {
+          "id": "b",
+          "text": "India has a very huge population and the government alone cannot manage public health services."
+        },
+        {
+          "id": "c",
+          "text": "Universalization and integration of maternal health and child health services can effectively address the problem."
+        },
+        {
+          "id": "d",
+          "text": "The nutrition of women in childbearing age does not affect the child mortality rate."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q61",
+      "type": "single-choice",
+      "question": "I must say that, beyond occasionally exposing me to laughter, my constitutional shyness has been of no disadvantage whatever. In fact, I can see that, on the contrary, it has been all to my advantage. My hesitancy in speech, which was once an annoyance, is now a pleasure. Its greatest benefit has been that it has taught me the economy of words. I have naturally formed the habit of restraining my thoughts. And I can now give myself the certificate that a thoughtless word hardly ever escapes my tongue or pen. I do not recollect ever having had to regret anything in my speech or writing. I have thus been spared many a mishap and waste of time.\nExperience has taught me that silence is part of the spiritual discipline of a votary of truth. Proneness to exaggerate, to suppress or modify the truth, wittingly or unwittingly, is a natural weakness of man, and silence is a natural weakness of man, and silence is necessary in order to surmount it. A man of few words will rarely be thoughtless in his speech; he will measure every word. We find so many people impatient to talk. There is no chairman of a meeting who is not pestered with notes for permission to speak. And whenever the permission is given the speaker generally exceeds the time-limit, asks for more time, and keeps on talking without permission. All this talking can hardly be said to be of any benefit to the world. It is so much waste of time. My shyness has been in reality my shield and buckler. It has allowed me to grow. It has helped me in my discernment of truth.\n\nIn reference to the above passage, for the author, silence is necessary in order to surmount",
+      "options": [
+        {
+          "id": "a",
+          "text": "constitutional shyness"
+        },
+        {
+          "id": "b",
+          "text": "hesitancy in speech"
+        },
+        {
+          "id": "c",
+          "text": "suppression of thoughts"
+        },
+        {
+          "id": "d",
+          "text": "tendency to overstate"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q62",
+      "type": "single-choice",
+      "question": "I must say that, beyond occasionally exposing me to laughter, my constitutional shyness has been of no disadvantage whatever. In fact, I can see that, on the contrary, it has been all to my advantage. My hesitancy in speech, which was once an annoyance, is now a pleasure. Its greatest benefit has been that it has taught me the economy of words. I have naturally formed the habit of restraining my thoughts. And I can now give myself the certificate that a thoughtless word hardly ever escapes my tongue or pen. I do not recollect ever having had to regret anything in my speech or writing. I have thus been spared many a mishap and waste of time.\nExperience has taught me that silence is part of the spiritual discipline of a votary of truth. Proneness to exaggerate, to suppress or modify the truth, wittingly or unwittingly, is a natural weakness of man, and silence is a natural weakness of man, and silence is necessary in order to surmount it. A man of few words will rarely be thoughtless in his speech; he will measure every word. We find so many people impatient to talk. There is no chairman of a meeting who is not pestered with notes for permission to speak. And whenever the permission is given the speaker generally exceeds the time-limit, asks for more time, and keeps on talking without permission. All this talking can hardly be said to be of any benefit to the world. It is so much waste of time. My shyness has been in reality my shield and buckler. It has allowed me to grow. It has helped me in my discernment of truth.\n\nIn reference to the above passage, the most appropriate reason for the author to be spared many a mishap is that",
+      "options": [
+        {
+          "id": "a",
+          "text": "he hardly utters or writes a thoughtless word"
+        },
+        {
+          "id": "b",
+          "text": "he is a man of immense patience"
+        },
+        {
+          "id": "c",
+          "text": "he believes that he is a spiritual person"
+        },
+        {
+          "id": "d",
+          "text": "he is a votary of truth"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q63",
+      "type": "single-choice",
+      "question": "I must say that, beyond occasionally exposing me to laughter, my constitutional shyness has been of no disadvantage whatever. In fact, I can see that, on the contrary, it has been all to my advantage. My hesitancy in speech, which was once an annoyance, is now a pleasure. Its greatest benefit has been that it has taught me the economy of words. I have naturally formed the habit of restraining my thoughts. And I can now give myself the certificate that a thoughtless word hardly ever escapes my tongue or pen. I do not recollect ever having had to regret anything in my speech or writing. I have thus been spared many a mishap and waste of time.\nExperience has taught me that silence is part of the spiritual discipline of a votary of truth. Proneness to exaggerate, to suppress or modify the truth, wittingly or unwittingly, is a natural weakness of man, and silence is a natural weakness of man, and silence is necessary in order to surmount it. A man of few words will rarely be thoughtless in his speech; he will measure every word. We find so many people impatient to talk. There is no chairman of a meeting who is not pestered with notes for permission to speak. And whenever the permission is given the speaker generally exceeds the time-limit, asks for more time, and keeps on talking without permission. All this talking can hardly be said to be of any benefit to the world. It is so much waste of time. My shyness has been in reality my shield and buckler. It has allowed me to grow. It has helped me in my discernment of truth.\n\nThe author says that a thoughtless word hardly ever escapes his tongue or pen. Which one of the following is not a valid reason for this?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He has no intention to waste his time"
+        },
+        {
+          "id": "b",
+          "text": "He believes in the economy of words"
+        },
+        {
+          "id": "c",
+          "text": "He believes in restraining his thoughts"
+        },
+        {
+          "id": "d",
+          "text": "He has hesitancy in his speech"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q64",
+      "type": "single-choice",
+      "question": "Vast numbers of Indian citizens without bank accounts live in rural areas, are financially and functionally illiterate, and have little experience with technology. A research study was conducted in a particular area in which electronic wage payments in Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) are meant to go directly to the poor. It was observed that recipients often assume that the village leader needs to mediate the process, as was the case under the previous paper-based system. Among households under this research study area who claimed to have at least one bank account, over a third reported still receiving MGNREGS wages in cash directly from a village leader.\n\nWhat is the most logical, rational, and crucial message that is implied in the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "MGNREGS should be extended only to those who have a bank account."
+        },
+        {
+          "id": "b",
+          "text": "The paper-based system of payments is more efficient than electronic payment in the present scenario."
+        },
+        {
+          "id": "c",
+          "text": "The goal of electronic wage payments was not to eliminate mediation by village leaders."
+        },
+        {
+          "id": "d",
+          "text": "It is essential to provide financial literacy to the rural poor."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q65",
+      "type": "single-choice",
+      "question": "Climate change is a complex policy issue with financial implications. Developing countries like India need funds to design and implement adaptation and mitigation plans. However, funding from developed nations, as obligated under the UNFCCC due to their GHG contributions, remains a debated issue.\n\nWhat is essentially discussed in the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conflict between developed and developing countries regarding mitigation."
+        },
+        {
+          "id": "b",
+          "text": "Resource exploitation by developed nations."
+        },
+        {
+          "id": "c",
+          "text": "Lack of political will in adaptation planning."
+        },
+        {
+          "id": "d",
+          "text": "Governance problems in developing nations due to climate change."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q66",
+      "type": "single-choice",
+      "question": "Climate change is a complex policy issue with financial implications. Developing countries like India need funds to design and implement adaptation and mitigation plans. However, funding from developed nations, as obligated under the UNFCCC due to their GHG contributions, remains a debated issue.\n\nBased on the above passage, Climate change’s implications for developing nations include:\n\n1. Domestic finances.\n2. Capacity for multilateral trade.\n\nSelect the correct using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q67",
+      "type": "single-choice",
+      "question": "Climate change is a complex policy issue with financial implications. Developing countries like India need funds to design and implement adaptation and mitigation plans. However, funding from developed nations, as obligated under the UNFCCC due to their GHG contributions, remains a debated issue.\n\nAs per above passage, the Convention places funding responsibility on developed countries because of:\n\n1. Their higher per capita incomes.\n2. Their large GDP.\n3. Their significant contribution to GHGs.\n4. All of the above.\n\nSelect the correct using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q68",
+      "type": "single-choice",
+      "question": "Climate change is a complex policy issue with financial implications. Developing countries like India need funds to design and implement adaptation and mitigation plans. However, funding from developed nations, as obligated under the UNFCCC due to their GHG contributions, remains a debated issue.\n\nAccording to the passage, which of the following is a matter of intense debate under the UNFCCC?\n\n1. The scale and size of required financial support.\n2. Crop loss due to climate change in developing countries.\n3. Enhancing mitigation and adaptation actions in developing nations.\n\nSelect the correct answer using the code is given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q69",
+      "type": "single-choice",
+      "question": "Human history abounds in claims and theories confining the right of governing to a few select citizens. Exclusion of the many is justified on the ground that human beings may be rightfully segregated for the good of society and viability of the political process.\n\nWhich one of the following statements is least essential as a part of the argument in the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Man seeks control over external things affecting him."
+        },
+        {
+          "id": "b",
+          "text": "In society, there are ‘super’ and ‘sub’ human beings."
+        },
+        {
+          "id": "c",
+          "text": "Exceptions to universal citizen participation are conducive to systemic efficacy."
+        },
+        {
+          "id": "d",
+          "text": "Governing implies recognition of disparities in individual capacities."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q70",
+      "type": "single-choice",
+      "question": "The existence/establishment of formal financial institutions that offer safe, reliable, and alternative financial instruments is fundamental in mobilizing savings. To save, individuals need access to safe and reliable financial institutions, such as banks, and to appropriate financial instruments and reasonable financial incentives. Such access is not always available to all people in developing countries like India and more so in rural areas. Savings help poor households manage volatility in cash flow, smooth consumption, and build working capital. Poor households without access to a formal savings mechanism encourage immediate spending temptations.\n\nWhat is the crucial message conveyed in the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Establish more banks."
+        },
+        {
+          "id": "b",
+          "text": "Increase the Gross Domestic Product (GDP) growth rate."
+        },
+        {
+          "id": "c",
+          "text": "Increase the interest rate of bank deposits."
+        },
+        {
+          "id": "d",
+          "text": "Promote financial inclusion."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q71",
+      "type": "single-choice",
+      "question": "The existence/establishment of formal financial institutions that offer safe, reliable, and alternative financial instruments is fundamental in mobilizing savings. To save, individuals need access to safe and reliable financial institutions, such as banks, and to appropriate financial instruments and reasonable financial incentives. Such access is not always available to all people in developing countries like India and more so in rural areas. Savings help poor households manage volatility in cash flow, smooth consumption, and build working capital. Poor households without access to a formal savings mechanism encourage immediate spending temptations.\n\nWith reference to the above passage, consider the following statements:\n1. Indian financial institutions do not offer any financial instruments to rural households to mobilize their savings.\n2. Poor households tend to spend their earnings/savings due to a lack of access to appropriate financial instruments.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q72",
+      "type": "single-choice",
+      "question": "Food travels more than the people who eat them. Grocery stores and supermarkets are located with preserved and processed foods. This, however, often leads to environmental threats, such as pollution generated by long-distance food transportation and wastage of food during processing and transportation, destruction of rainforests, reduced nutritional content, increased demand for preservation and packaging. Food insecurity also increases as the produce comes from regions that are not feeding their own population properly.\"\n\nWith reference to the above passage, which of the following statements is/are true?\n\n1. Consuming regionally grown food and not depending on long-travelled food is a part of eco-friendly behaviour.\n2. Food processing industry puts a burden on our natural resources.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q73",
+      "type": "single-choice",
+      "question": "The mangroves can shed tons of leaves per acre every year, fungi and bacteria break down this leaf litter and consume it, they are then consumed by tiny worms and crustaceans, which in turn feed small fish, which feed large fish, birds, and crocodiles.\n\nWhich among the following is the most logical inference of the above statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coastal areas cannot have food chains without mangroves."
+        },
+        {
+          "id": "b",
+          "text": "Mangroves are an essential component of all marine ecosystems."
+        },
+        {
+          "id": "c",
+          "text": "Mangroves have a crucial role in some of the coastal food chains."
+        },
+        {
+          "id": "d",
+          "text": "The composition of marine flora and fauna is largely determined by mangroves."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q74",
+      "type": "single-choice",
+      "question": "Governments may have to take steps which would otherwise be an infringement on the Fundamental Rights of individuals, such as acquiring a person’s land against his will or refusing permission for putting up a building, but the larger public interest for which these are done must be authorized by the people (Parliament). Discretionary powers to the administration can be done away with. It is becoming more and more difficult to keep this power within limits as the government has many tasks to perform. Where discretion has to be used, there must be rules and safeguards to prevent misuse of that power. Systems have to be devised which minimize, if not prevent, the abuse of discretionary power. Government work must be conducted within a framework of recognized rules and principles, and decisions should be similar and predictable.\n\nWhich among the following is the most logical assumption that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Government should always be given wide discretionary power in all matters of administration."
+        },
+        {
+          "id": "b",
+          "text": "The supremacy of rules and safeguards should prevail as opposed to the influence of exclusive discretion of authority."
+        },
+        {
+          "id": "c",
+          "text": "Parliamentary democracy is possible only if the Government has wider discretionary power."
+        },
+        {
+          "id": "d",
+          "text": "None of the above statements is a logical assumption that can be made from this passage."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q75",
+      "type": "single-choice",
+      "question": "The Global Financial Stability Report finds that the share of portfolio investments from advanced economies in the total debt and equity investments in emerging economies has doubled in the past decade to 12 percent. The phenomenon has implications for Indian policymakers as foreign portfolio investments in the debt and equity markets have been on the rise. The phenomenon is also flagged as a threat that could compromise global financial stability in a chain reaction, in the event of the United States Federal Reserve’s imminent reversal of its “Quantitative Easing” policy.\n\nWhich among the following is the most rational and critical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Foreign portfolio investments are not good for emerging economies."
+        },
+        {
+          "id": "b",
+          "text": "Advanced economies undermine global financial stability."
+        },
+        {
+          "id": "c",
+          "text": "India should desist from accepting foreign portfolio investments in the future."
+        },
+        {
+          "id": "d",
+          "text": "Emerging economies are at a risk of shock from advanced economies."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q76",
+      "type": "single-choice",
+      "question": "By 2050, the Earth’s population will likely have swelled from seven to nine billion people. To fill all those stomachs — while accounting for shifting consumption patterns, climate change, and a finite amount of arable land and potable water — some experts say food production will have to double. How can we make the numbers add up? Experts say higher yielding crop varieties and more efficient farming methods will be crucial. So will waste reduction. Experts urge cities to reclaim nutrients and water from the waste stream and preserve farmland. Poor countries, they say, can improve crop storage and packaging, and rich nations could cut back on resource-intensive foods like meat.\n\nWhich one of the following statements best sums up the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The population of the world is growing very fast."
+        },
+        {
+          "id": "b",
+          "text": "Food security is a perennial problem only in developing countries."
+        },
+        {
+          "id": "c",
+          "text": "The world does not have enough resources to meet the impending food scarcity."
+        },
+        {
+          "id": "d",
+          "text": "Food security is increasingly a collective challenge."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q77",
+      "type": "single-choice",
+      "question": "The ultimate aim of government is not to rule or control by fear, nor to demand obedience, but conversely, to free every man from fear, that he may live in all possible security. In other words, to strengthen his natural right to exist and work without injury to himself or others. The object of government is not to change men from rational beings into beasts or puppets. It should enable them to develop their minds and bodies in security, and to employ their reason unshackled.\n\nWhich among the following is the most logical corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mass nesting in all species of birds is essential to ensure the complete survival of their offspring."
+        },
+        {
+          "id": "b",
+          "text": "Only birds have the capacity to develop social behavior and thus can do mass nesting to raise their chicks in safety."
+        },
+        {
+          "id": "c",
+          "text": "Social behavior in some species of birds increases the odds of survival in an unsafe world."
+        },
+        {
+          "id": "d",
+          "text": "All species of birds set up creches for their chicks to teach them social behavior and loyalty."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q78",
+      "type": "single-choice",
+      "question": "India has suffered from persistent high inflation. Increase in administered prices, demand and supply imbalances, imported inflation aggravated by rupee depreciation, and speculation have combined to keep high inflation going. Many of them are the outcomes of economic reforms. India’s vulnerability to prices has increased with trade liberalization. The effort to reduce subsidies has resulted in a continuous increase in administered commodity prices.\n\nWhat is the most logical, rational, and crucial message that is implied in the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Under the present circumstances, India should completely avoid all trade liberalization policies and all subsidies."
+        },
+        {
+          "id": "b",
+          "text": "Due to its peculiar socio-economic situation, India is not yet ready for the trade liberalization process."
+        },
+        {
+          "id": "c",
+          "text": "There is no solution in sight for the problems of continuing poverty and inflation in India in the near future."
+        },
+        {
+          "id": "d",
+          "text": "Economic reforms can often create a high-inflation economy."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q79",
+      "type": "single-choice",
+      "question": "The richer states have a responsibility to cut down carbon emissions and promote clean energy investments. These are the states that got electricity, grew faster, and now have high per capita income, making them capable of sharing India’s burden of becoming eco-friendly. Delhi, for example, can help by generating its own clean electricity using solar rooftop panels or even help poor states finance their clean energy projects. It is no secret that State Electricity Boards, which control 95% of the distribution network, are neck-deep in losses. These losses further discourage state utilities from adopting renewable energy as it is more expensive than fossil fuels.\n\nWhich among the following is the most logical and rational assumption that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The richer states must lead in the production and adoption of renewable energy."
+        },
+        {
+          "id": "b",
+          "text": "The poor states always have to depend on rich states for electricity."
+        },
+        {
+          "id": "c",
+          "text": "The State Electricity Boards can improve their finances by undertaking clean energy projects."
+        },
+        {
+          "id": "d",
+          "text": "The high economic disparity between the rich and poor states is the major cause of high carbon emissions in India."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2015_csat_q80",
+      "type": "single-choice",
+      "question": "Many people in India feel that if we cut our defence expenditure on weapon-building, we can create a climate of peace with our neighbours, subsequently reducing the conflict or creating a no-war situation. People who proclaim such ideas are either the victims of war or the propagators of false argument.\n\nWith reference to the above passage, which of the following is the most valid assumption?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Building of weapons systems by us has instigated our neighbours to wage wars against us."
+        },
+        {
+          "id": "b",
+          "text": "The greater spending on weapon-building by us would lessen the possibility of armed conflict with our neighbours."
+        },
+        {
+          "id": "c",
+          "text": "It is necessary to have state-of-the-art weapons systems for national security."
+        },
+        {
+          "id": "d",
+          "text": "Many people in India believe that we are wasting our resources on weapon-building."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

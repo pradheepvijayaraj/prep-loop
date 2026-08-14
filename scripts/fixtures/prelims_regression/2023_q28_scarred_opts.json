@@ -1,0 +1,18 @@
+[
+  {
+    "id": "a",
+    "text": "Both Statement-! and Statement-11 are correct and Statement-11 is the correct explanation for Statement-!"
+  },
+  {
+    "id": "b",
+    "text": "Both Statement-! and Statement-11 are correct and Statement-11 is not the correct explanation for Statement-!"
+  },
+  {
+    "id": "c",
+    "text": "Statement-! is correct but Statement-11 is incorrect"
+  },
+  {
+    "id": "d",
+    "text": "Statement-! is incorrect but Statement-11 is correct"
+  }
+]

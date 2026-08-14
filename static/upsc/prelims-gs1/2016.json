@@ -1,0 +1,3406 @@
+{
+  "metadata": {
+    "name": "Prelims GS Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 100,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2016,
+    "stage": "Prelims",
+    "paper": "GS1",
+    "section": "prelims-gs1",
+    "sourceId": "upsc_2016_gs1",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_gs1_q1",
+      "type": "single-choice",
+      "question": "Which of the following statements is/are correct?\n1. A bill pending in the Lok Sabha lapses on its prorogation\n2. A bill pending in the Rajya Sabha, which has not been passed by the Lok Sabha, shall not lapse on dissolution of the Lok Sabha\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q2",
+      "type": "single-choice",
+      "question": "With reference to ‘IFC Masala Bonds’, sometimes seen in the news, which of the statements given below is/are correct?\n\n1. The International Finance Corporation, which offers these bonds, is an arm of the World Bank.\n2. They are the rupee-denominated bonds and are a source of debt financing for the public and private sector.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q3",
+      "type": "single-choice",
+      "question": "There has been a persistent deficit budget year after year. Which action/actions of the following can be taken by the Government to reduce the deficit?\n1. Reducing revenue expenditure\n2. Introducing new welfare schemes\n3. Rationalizing subsidies\n4. Reducing import duty\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q4",
+      "type": "single-choice",
+      "question": "The establishment of \"Payment Banks' is being allowed in India to promote Financial inclusion. Which of the following statements is/are correct in this context?\n1. Mobile telephone companies and supermarket chains that are owned and controlled by residents are eligible to be promoters of Payment Banks\n2. Payment Banks can issue both credit cards and debit cards\n3. Payment Banks cannot undertake lending activities\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q5",
+      "type": "single-choice",
+      "question": "With reference to 'LiFi', recently in the news, which of the following statements is/are correct?\n1. It uses light as the medium for high-speed data transmission\n2. It is a wireless technology and is several time faster than 'WiFi\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q6",
+      "type": "single-choice",
+      "question": "The term Intended Nationally Determined Contribution is sometimes seen in the news in the context of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pledge made by the European countries to rehabilitate refuges from the waraffected Middle East"
+        },
+        {
+          "id": "b",
+          "text": "Plain of nation outlined by the countries of the world to combat climate changes"
+        },
+        {
+          "id": "c",
+          "text": "Capital contributed by the member countries in the establishment of Asian Infrastructure Investment Bank"
+        },
+        {
+          "id": "d",
+          "text": "Plain of action outlined by the countries of the regarding Sustainable Developments Goals"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q7",
+      "type": "single-choice",
+      "question": "Which one of the following is a purpose of 'UDAY', a scheme of the Government?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Providing technical and financial assistance to start-up entrepreneurs in the field or renewable source of energy"
+        },
+        {
+          "id": "b",
+          "text": "Providing electricity to every household in the country by 2018"
+        },
+        {
+          "id": "c",
+          "text": "Replacing the coal-based power plants with natural gas, nuclear, solar, wind and tidal power plants over a period of time"
+        },
+        {
+          "id": "d",
+          "text": "Providing for financial turnaround and revival of power distribution companies"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q8",
+      "type": "single-choice",
+      "question": "Which of the following is/are the indicator/indicators used by IFPRI to compute the Global Hunger Index Report?\n\n1. Undernourishment\n2. Child stunting\n3. Child mortality\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q9",
+      "type": "single-choice",
+      "question": "Regarding the taxation system of Krishna Deva, the ruler of Vijayanagar, consider the following statements:\n\n1. The tax rate on land was fixed depending on the quality of the land.\n2. Private owners of workshops paid an industries tax.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q10",
+      "type": "single-choice",
+      "question": "Which one of the following books of ancient India has the love story of the son of the founder of Sunga dynasty?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swapnavasavadatta"
+        },
+        {
+          "id": "b",
+          "text": "Malavikagnimitra"
+        },
+        {
+          "id": "c",
+          "text": "Meghadoota"
+        },
+        {
+          "id": "d",
+          "text": "Ratnavali"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q11",
+      "type": "single-choice",
+      "question": "In the context of which of the following do you sometimes find the terms ‘amber box, blue box and green box’ in the news?",
+      "options": [
+        {
+          "id": "a",
+          "text": "WTO affairs"
+        },
+        {
+          "id": "b",
+          "text": "SAARC affairs"
+        },
+        {
+          "id": "c",
+          "text": "UNFCCC affairs"
+        },
+        {
+          "id": "d",
+          "text": "India-EU negotiations on FTA"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q12",
+      "type": "single-choice",
+      "question": "Which of the following is/are included in the capital budget of the Government of India?\n\n1. Expenditure on acquisition of assets like roads, buildings, machinery, etc.\n2. Loans received from foreign governments.\n3. Loans and advances granted to the States and Union Territories.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q13",
+      "type": "single-choice",
+      "question": "What is/are the importance/importances of the 'United Nations Convention to Combat Desertification'?\n\n1. It aims to promote effective action through innovative national programmes and supportive international partnerships.\n2. It has a special/particular focus on South Asia and North Africa regions, and its Secretariat facilitates the allocation of major portion of financial resources to these regions.\n3. It is committed to bottom-up approach, encouraging the participation of local people in combating the desertification.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q14",
+      "type": "single-choice",
+      "question": "Recently, which one of the following currencies has been proposed to be added to the basket of IMF's SDR?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rouble"
+        },
+        {
+          "id": "b",
+          "text": "Rand"
+        },
+        {
+          "id": "c",
+          "text": "Indian Rupee"
+        },
+        {
+          "id": "d",
+          "text": "Renminbi"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q15",
+      "type": "single-choice",
+      "question": "With reference to the International Monetary and Financial Committee (IMFC), consider the following statements:\n1. IMFC discusses matters of concern affecting the global economy, and advises the International Monetary Fund (IMF) on the direction of its work\n2. The World Bank participates as observer in IMFC's meetings.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q16",
+      "type": "single-choice",
+      "question": "'Rashtriya Garima Abhiyaan' is a national campaign to",
+      "options": [
+        {
+          "id": "a",
+          "text": "rehabilitate the homeless and destitute persons and provide then with suitable sources of livelihood"
+        },
+        {
+          "id": "b",
+          "text": "release the sex workers from the practice and provide them with alternative sources of livelihood"
+        },
+        {
+          "id": "c",
+          "text": "eradicate the practice of manual scavenging and rehabilitate the manual scavengers"
+        },
+        {
+          "id": "d",
+          "text": "release the bonded labourers free their bondage and rehabilitate them"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q17",
+      "type": "single-choice",
+      "question": "With reference to the cultural history of medieval India, consider the following statements:\n1. Siddhas (Sittars) of Tamil region were monotheistic and condemned idolatry\n2. Lingayats of Kannada region questioned the theory of rebirth and rejected the caste hierarchy\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q18",
+      "type": "single-choice",
+      "question": "What is/are unique about ‘Kharai camel’, a breed found in India?\n\n1. It is capable of swimming uthree kilometres in seawater.\n2. It survives by grazing on mangroves.\n3. It lives in the wild and cannot be domesticated.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q19",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Community sometimes mentioned in the news In the affairs of\n1. Kurd: Bangladesh\n2. Madhesi: Nepal\n3. Robingya: Myanmar Which of the pairs given above is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q20",
+      "type": "single-choice",
+      "question": "With reference to 'Organization for the prohibition of Chemical Weapons (OPCW)' consider the following statements:\n1. It is an organization of European Union in working relation with NATO and WHO\n2. It monitors chemical industry to prevent new weapons free emerging\n3. It provides assistance and protection to Stated Parties against chemical weapons threats.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q21",
+      "type": "single-choice",
+      "question": "With reference to 'Pradhan Mantri Fasal Bima Yojana', consider the following statements:\n1. Under this scheme, farmers with have to pay a uniform premium of two percent for any crop they cultivate in any season of the year\n2. This scheme covers post-harvest losses arising out of cyclones and unseasonal rains. Which of the statements given about is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q22",
+      "type": "single-choice",
+      "question": "In which of the following regions of India are you most likely to come across the 'Great Indian Hornbill' in its natural habitat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sand deserts of northwest India"
+        },
+        {
+          "id": "b",
+          "text": "Higher Himalayas of Jammu and Kashmir"
+        },
+        {
+          "id": "c",
+          "text": "Salt marshes of western Gujarat"
+        },
+        {
+          "id": "d",
+          "text": "Western Ghats"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q23",
+      "type": "single-choice",
+      "question": "Which of the following are the key features of 'National Ganga River Basin Authority (NGRBA)'?\n1. River basin is the unit of planning and management\n2. It spearheads the river conservation efforts at the national level\n3. One of the Chief Ministers of the State through which the Ganga flows becomes the Chairman of NGRBA on rotation basis\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q24",
+      "type": "single-choice",
+      "question": "Why does the Government of India promote the use of 'Neem-coated Urea' in agriculture?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Release of Neem oil in the soil increases nitrogen fixation by the soil microorganisms"
+        },
+        {
+          "id": "b",
+          "text": "Neem coating slows down the rate of dissolution of urea in the soil"
+        },
+        {
+          "id": "c",
+          "text": "Nitrous oxide, which is a greenhouse gas, is not at all released into atmosphere by crop fields"
+        },
+        {
+          "id": "d",
+          "text": "It is a combination of a weedicide and a fertilizer for particular crops"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q25",
+      "type": "single-choice",
+      "question": "What is/are the purpose/purposes of Government’s ‘Sovereign Gold Bond Scheme’ and ‘Gold Monetization Scheme’?\n\n1. To bring the idle gold lying with Indian households into the economy\n2. To promote FDI in the gold and jewellery sector\n3. To reduce India’s dependence on gold imports\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q26",
+      "type": "single-choice",
+      "question": "With reference to 'Stand Up India Scheme', which of the following statements is/are correct?\n1. Its purpose is to promote entrepreneurship among SC/ST and women entrepreneurs\n2. It provides for refinance through SIDBI\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q27",
+      "type": "single-choice",
+      "question": "The FAO accords the status of ‘Globally Important Agricultural Heritage System (GIAHS)’ to traditional agricultural systems. What is the overall goal of this initiative?\n1. To provide modern technology, training in modern farming methods and financial support to local communities of identified GIAHS so as to greatly enhance their agricultural productivity\n2. To identify and safeguard eco-friendly traditional farm practices and their associated landscapers, agricultural biodiversity and knowledge systems of the local communities\n3. To provide Geographical Indication status to all the varieties of agricultural produce in such identified GIAHS\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q28",
+      "type": "single-choice",
+      "question": "Which of the following is/are tributary/ tributaries of Brahmaputra?\n1. Dibang\n2. Kameng\n3. Lohit\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q29",
+      "type": "single-choice",
+      "question": "The term ‘Core Banking Solutions’ is sometimes seen in the news. Which of the following statements best describes/describe this term?\n\n1. It is a networking of a bank’s branches which enables customers to operate their accounts from any branch of the bank on its network regardless of where they open their accounts.\n2. It is an effort to increase RBI’s control over commercial banks through computerization.\n3. It is a detailed procedure by which a bank with huge non-performing assets is taken over by another bank.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q30",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Terms sometimes seen in the news Their origin\n1. Annex-I Countries: Cartagena Protocol\n2. Certified Emissions Reductions: Nagoya Protocol\n3. Clean Development Mechanism: Kyoto Protocol Which of the pairs given above is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q31",
+      "type": "single-choice",
+      "question": "With reference to 'Pradhan Mantri Fasal Bima Yojana', consider the following statements:\n\n1. Under this scheme, farmers will have to pay a uniform premium of two percent for any crop they cultivate in any season of the year.\n2. This scheme covers post-harvest losses arising out of cyclones and unseasonal rains.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q32",
+      "type": "single-choice",
+      "question": "'Mission Indradhanush' launched by the Government of India pertains to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Immunization of children and pregnant women"
+        },
+        {
+          "id": "b",
+          "text": "Construction of smart cities across the country"
+        },
+        {
+          "id": "c",
+          "text": "India's own search for the Earth-like planets in outer space"
+        },
+        {
+          "id": "d",
+          "text": "New Educational policy"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q33",
+      "type": "single-choice",
+      "question": "Which of the following best describe the aim of 'Green India Mission' of the Government of India?\n1. Incorporating environment benefits and costs into the Union and State Budgets thereby implementing the 'green accounting'\n2. Launching the second green revolution to enhance agriculture output so as to ensure food security to one and all in the future\n3. Restoring and enhancing forest cover and responding to climate change by a combination of adaptation and mitigation measures\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 Only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q34",
+      "type": "single-choice",
+      "question": "With reference to pre-packaged items in India, it is mandatory to the manufacturer to put which of the following information on the main label, as per the Food Safety and Standards (Packaging and Labeling) Regulations, 2011?\n1. List of ingredients including additives\n2. Nutrition information\n3. Recommendations, if any made by the medical profession about the possibility of any allergic reactions\n4. Vegetarian/non-vegetarian\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q35",
+      "type": "single-choice",
+      "question": "'Project Loon', sometimes seen in the news, is related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Waste management technology"
+        },
+        {
+          "id": "b",
+          "text": "Wireless communication technology"
+        },
+        {
+          "id": "c",
+          "text": "Solar power production technology"
+        },
+        {
+          "id": "d",
+          "text": "Water conservation technology"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q36",
+      "type": "single-choice",
+      "question": "'Net metering' is sometimes seen in the news in the context of promoting the",
+      "options": [
+        {
+          "id": "a",
+          "text": "production and use of solar energy by the households/consumers"
+        },
+        {
+          "id": "b",
+          "text": "use of piped natural gas in the kitchens of households"
+        },
+        {
+          "id": "c",
+          "text": "installation of CNG kits in motor- cars"
+        },
+        {
+          "id": "d",
+          "text": "installation of water meters in urban households"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q37",
+      "type": "single-choice",
+      "question": "India's ranking in the 'Ease of Doing Business Index' is sometimes seen in the news.\n\nWhich of the following has declared that ranking?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Organization for Economic Cooperation and Development (OECD)"
+        },
+        {
+          "id": "b",
+          "text": "World Economic Forum"
+        },
+        {
+          "id": "c",
+          "text": "World Bank"
+        },
+        {
+          "id": "d",
+          "text": "World Trade Organization (WTO)"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q38",
+      "type": "single-choice",
+      "question": "Banjaras during the medieval period of Indian history were generally",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agriculturists"
+        },
+        {
+          "id": "b",
+          "text": "Warriors"
+        },
+        {
+          "id": "c",
+          "text": "Weaves"
+        },
+        {
+          "id": "d",
+          "text": "Traders"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q39",
+      "type": "single-choice",
+      "question": "Who of the following had first deciphered the edicts of Emperor Ashoka?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Georg Bühler"
+        },
+        {
+          "id": "b",
+          "text": "James Prinsep"
+        },
+        {
+          "id": "c",
+          "text": "Max Muller"
+        },
+        {
+          "id": "d",
+          "text": "William Jones"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q40",
+      "type": "single-choice",
+      "question": "With reference to the 'Gram Nyayalaya Act', which of the following statements is/are correct?\n1. As per the Act, Gram Nyayalayas can hear only civil cases and not criminal cases\n2. The Act allows local social activists as mediators/reconciliators\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q41",
+      "type": "single-choice",
+      "question": "With reference to the 'Trans-Pacific Partnership', consider the following statements:\n1. It is an agreement among all the Pacific Rim countries except China and Russia\n2. It is a strategic alliance for the purpose of maritime security only.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q42",
+      "type": "single-choice",
+      "question": "Consider the following statements: The India-Africa Summit\n1. Held in 2015 was the third such Summit\n2. Was actually initiated by Jawaharlal Nehru in 1951\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q43",
+      "type": "single-choice",
+      "question": "What is/are the purpose/purposes of the 'Marginal Cost of Funds based Lending Rate (MCLR)' announced by RBI?\n1. These guidelines help improve the transparency in the methodology followed by banks for determining the interest rates on advances\n2. These guidelines help ensure availability of bank credit & interest rates which are fair to the borrowers as well as the banks\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q44",
+      "type": "single-choice",
+      "question": "In the cities of our country, which among the following atmospheric gases are normally considered in calculating the value of Air Quality Index?\n\n1. Carbon dioxide\n2. Carbon monoxide\n3. Nitrogen dioxide\n4. Sulfur dioxide\n5. Methane\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 4 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q45",
+      "type": "single-choice",
+      "question": "Recently, our scientists have discovered a new and distinct species of banana plant which attains a height of about 11 metres and has orange-coloured fruit pulp. In which part of India has it been discovered?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andaman Islands"
+        },
+        {
+          "id": "b",
+          "text": "Anamalai Forests"
+        },
+        {
+          "id": "c",
+          "text": "Maikala Hills"
+        },
+        {
+          "id": "d",
+          "text": "Tropical rain forest of northeast"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q46",
+      "type": "single-choice",
+      "question": "Which one of the following is the best description of ‘INS Astradharini’, that was in the news recently?",
+      "options": [
+        {"id": "a", "text": "Amphibious warfare ship"},
+        {"id": "b", "text": "Nuclear-powered submarine"},
+        {"id": "c", "text": "Torpedo launch and recovery vessel"},
+        {"id": "d", "text": "Nuclear-powered aircraft carrier"}
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q47",
+      "type": "single-choice",
+      "question": "What is ‘Greased Lightning-10 (GL-10)’, recently in the news?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Electric plane tested by NASA"
+        },
+        {
+          "id": "b",
+          "text": "Solar-powered two-seater aircraft designed by Japan"
+        },
+        {
+          "id": "c",
+          "text": "Space observatory launched by China"
+        },
+        {
+          "id": "d",
+          "text": "Reusable rocket designed by ISRO"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q48",
+      "type": "single-choice",
+      "question": "With reference to ‘Initiative for Nutritional Security through Intensive Millets Promotion’, which of the following statements is/are correct?\n\n1. This initiative aims to demonstrate the improved production and post-harvest technologies, and to demonstrate value addition techniques, in an integrated manner, with cluster approach.\n2. Poor, small, marginal and tribal farmers have larger stake in this scheme.\n3. An important objective of the scheme is to encourage farmers of commercial crops to shift to millet cultivation by offering them free kits of critical inputs of nutrients and micro-irrigation equipment.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q49",
+      "type": "single-choice",
+      "question": "The 'Swadeshi' and 'Boycott' adopted as methods of struggle for the first time during the",
+      "options": [
+        {
+          "id": "a",
+          "text": "agitation against the Partition of Bengal"
+        },
+        {
+          "id": "b",
+          "text": "Home Rule Movement"
+        },
+        {
+          "id": "c",
+          "text": "Non-Cooperation Movement"
+        },
+        {
+          "id": "d",
+          "text": "visit of the Simon Commission to India"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q50",
+      "type": "single-choice",
+      "question": "With reference to the religious history of India, consider the following statements:\n1. The concept Bodhisattva is central to Hinayana sect of Buddhism\n2. Bodhisattva is a compassionate one on his way to enlightenment\n3. Bodhisattva delays achieving his own salvation to help all sentient beings on their path to it.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q51",
+      "type": "single-choice",
+      "question": "'Doctors Without Borders (Medecins Sans Frontieres)', often in the news, is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "a division of World Health Organization"
+        },
+        {
+          "id": "b",
+          "text": "a non-governmental international organization"
+        },
+        {
+          "id": "c",
+          "text": "an inter-governmental agency sponsored by European Union"
+        },
+        {
+          "id": "d",
+          "text": "a specialized agency of the United Nations"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q52",
+      "type": "single-choice",
+      "question": "With reference to an initiative called 'The Economics of Ecosystems and Biodiversity (TEEB)', which of the following statements is/ are correct?\n1. It is initiative hosted by UNEP, IMF and World Economic Forum\n2. It is a global initiative that focuses on drawing attention to the economic benefits of biodiversity\n3. It presents an approach that can help decision-makers recognize, demonstrate and capture the value of ecosystems and biodiversity\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 Only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q53",
+      "type": "single-choice",
+      "question": "With reference to 'Red Sanders', sometimes seen in the news, consider the following statements:\n1. It is a tree species found in a part of South India\n2. It is one of the most important trees in the tropical rain forest areas of South India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 Only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q54",
+      "type": "single-choice",
+      "question": "What is ‘Greenhouse Gas Protocol’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is an international accounting tool for government and business leaders to understand, quantify and manage greenhouse gas emissions"
+        },
+        {
+          "id": "b",
+          "text": "It is an initiative of the United Nations to offer financial incentives to developing countries to reduce greenhouse gas emissions and to adopt eco-friendly technologies"
+        },
+        {
+          "id": "c",
+          "text": "It is an inter-governmental agreement ratified by all the member countries of the United Nations to reduce greenhouse gas emissions to specified levels by the year 2022"
+        },
+        {
+          "id": "d",
+          "text": "It is one of the multilateral REDD+ initiatives hosted by the World Bank"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q55",
+      "type": "single-choice",
+      "question": "What is 'Greenhouse Gas Protocol?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is an international accounting tool for government and business leaders to understand, quantify and manage greenhouse gas emissions"
+        },
+        {
+          "id": "b",
+          "text": "It is an initiative of the United Nations to offer financial incentives to developing countries to reduce greenhouse gas emissions and to adopt eco-friendly technologies"
+        },
+        {
+          "id": "c",
+          "text": "It is an inter-governments agreement ratified by all the member countries of the United Nations to reduce greenhouse gas emissions to specified levels by the year 2022"
+        },
+        {
+          "id": "d",
+          "text": "It is one of the multilateral REDDinitiatives hosted by the World Bank"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q56",
+      "type": "single-choice",
+      "question": "With reference to 'Financial Stability and Development Council', consider the following statements:\n1. It is an organ of NITI Aayog\n2. It is headed by the Union Finance Minister\n3. It monitors macro prudential super-vision of the economy.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 Only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q57",
+      "type": "single-choice",
+      "question": "With reference to 'Agenda 21', sometimes seen in the news, consider the following statements:\n1. It is a global action plan for sustainable development\n2. It originated in the World Summit on Sustainable Development held in Johannesburg in 2002\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q58",
+      "type": "single-choice",
+      "question": "Satya Shodhak Samaj organized",
+      "options": [
+        {
+          "id": "a",
+          "text": "a movement for upliftment of tribals in Bihar"
+        },
+        {
+          "id": "b",
+          "text": "a temple-entry movement in Gujarat"
+        },
+        {
+          "id": "c",
+          "text": "an anti-caste movement in Maharashtra"
+        },
+        {
+          "id": "d",
+          "text": "A peasant movement in Punjab"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q59",
+      "type": "single-choice",
+      "question": "Which of the following statements is/are correct? Viruses can infect\n1. Bacteria\n2. Fungi\n3. Plants\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q60",
+      "type": "single-choice",
+      "question": "The term 'Base Erosion and profit shifting' is sometimes seen in the news in the context of",
+      "options": [
+        {
+          "id": "a",
+          "text": "mining operation by multinational companies in resource-rich by backward areas"
+        },
+        {
+          "id": "b",
+          "text": "curbing of the tax evasion by multinational companies"
+        },
+        {
+          "id": "c",
+          "text": "exploitation of genetic resources of a country by multinational companie"
+        },
+        {
+          "id": "d",
+          "text": "Lack of consideration of environmental costs in the planning of development projects"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q61",
+      "type": "single-choice",
+      "question": "Recently, India's first 'National Investment and Manufacturing Zone' was proposed to be set up in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Gujarat"
+        },
+        {
+          "id": "c",
+          "text": "Maharashtra"
+        },
+        {
+          "id": "d",
+          "text": "Uttar Pradesh"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q62",
+      "type": "single-choice",
+      "question": "What is/are the purpose of 'District Mineral Foundations\" in India?\n1. Promoting mineral explorative activities in mineral-rich districts\n2. Protecting the interests of the persons affected by mining operations\n3. Authorizing State Governments to issue licenses for mineral exploration\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q63",
+      "type": "single-choice",
+      "question": "'SWAYAM', an initiative of the Government of India, aims at:",
+      "options": [
+        {
+          "id": "a",
+          "text": "promoting the Self Help Groups in rural areas"
+        },
+        {
+          "id": "b",
+          "text": "providing financial and technical assistance to young start-up entrepreneurs"
+        },
+        {
+          "id": "c",
+          "text": "promoting the education and health of adolescent girls"
+        },
+        {
+          "id": "d",
+          "text": "providing affordable and quality education to the citizens for free"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q64",
+      "type": "single-choice",
+      "question": "The Montague-Chelmsford Proposals were related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "social reforms"
+        },
+        {
+          "id": "b",
+          "text": "educational reforms"
+        },
+        {
+          "id": "c",
+          "text": "reforms in police administration"
+        },
+        {
+          "id": "d",
+          "text": "constitutional reforms"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q65",
+      "type": "single-choice",
+      "question": "What is/are common to the two historical places known as Ajanta and Mahabalipuram?\n1. Both were built in the same period\n2. Both belong to the same religious denomination\n3. Both have rock-cut monuments\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "None of the statements given above is correct"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q66",
+      "type": "single-choice",
+      "question": "With reference to ‘Bitcoins’, sometimes seen in the news, which of the following statements is/are correct?\n\n1. Bitcoins are tracked by the Central Banks of the countries.\n2. Anyone with a Bitcoin address can send and receive Bitcoins from anyone else with a Bitcoin address.\n3. Online payments can be sent without either side knowing the identity of the other.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q67",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. New Development Bank has been set up by APEC\n2. The headquarters of New Development Bank is in Shanghai.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q68",
+      "type": "single-choice",
+      "question": "'Gadgil Committee Report' and 'Kasturirangan Committee Report', sometimes seen in the news, are related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constitutional reforms"
+        },
+        {
+          "id": "b",
+          "text": "Ganga Action Plan"
+        },
+        {
+          "id": "c",
+          "text": "Linking of rivers"
+        },
+        {
+          "id": "d",
+          "text": "Protection of Western Ghats"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q69",
+      "type": "single-choice",
+      "question": "Which of the following statements is/are correct?\n\nProper design and effective implementation of UN-REDD+ Programme can significantly contribute to\n\n1. protection of biodiversity\n2. resilience of forest ecosystems\n3. poverty reduction\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q70",
+      "type": "single-choice",
+      "question": "With reference to 'Astrosat', the astronomical observatory launched by India, which of the following statements is/are correct?\n\n1. Other than USA and Russia, India is the only country to have launched a similar observatory into space.\n2. Astrosat is a 2000 kg satellite, placed in an orbit at 1650 km above the surface of the Earth.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q71",
+      "type": "single-choice",
+      "question": "With reference to the Agreement at the UNFCCC Meeting in Paris in 2015, which of the following statements is/are correct?\n1. The Agreement was signed by all the member countries of the UN and it will go into effect in 2017\n2. The Agreement aims to limit the greenhouse gas emissions so that the rise in average global temperature by the end of this century does not exceed 20C or even\n1. 50C above pre-industrial levels\n3. Developed countries acknowledged their historical responsibility in global warming and committed to donate S 1000 billion a year from 2020 to help developing countries to cope with climate change\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q72",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. The Sustainable Development Goals were first proposed in 1972 by a global think tank called the 'Club of Rome'.\n2. The Sustainable Development Goals have to be achieved by 2030.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q73",
+      "type": "single-choice",
+      "question": "Pradhan Mantri MUDRA Yojana is aimed at",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bringing the small entrepreneurs into the formal financial system"
+        },
+        {
+          "id": "b",
+          "text": "Providing loans to poor farmers for cultivating particular crops"
+        },
+        {
+          "id": "c",
+          "text": "Providing pensions to old and destitute persons"
+        },
+        {
+          "id": "d",
+          "text": "Funding the voluntary organizations involved in the promotion of skill development and employment generation"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q74",
+      "type": "single-choice",
+      "question": "In which of the following regions of India are shale gas resources found?\n\n1. Cambay Basin\n2. Cauvery Basin\n3. Krishna-Godavari Basin\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q75",
+      "type": "single-choice",
+      "question": "India is an important member of the 'International Thermonuclear Experimental Reactor'. If this experiment succeeds, what is the immediate advantage for India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It can use thorium in place of uranium for power generation"
+        },
+        {
+          "id": "b",
+          "text": "It can attain a global role in satellite navigation"
+        },
+        {
+          "id": "c",
+          "text": "It can drastically improve the efficiency of its fission reactors in power generation"
+        },
+        {
+          "id": "d",
+          "text": "It can build fusion reactors for power generation"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q76",
+      "type": "single-choice",
+      "question": "Regarding 'Atal Pension Yojana', which of the following statements is/are correct?\n\n1. It is a minimum guaranteed pension scheme mainly targeted at unorganized sector workers.\n2. Only one member of a family can join the scheme.\n3. Same amount of pension is guaranteed for the spouse for life after subscriber's death.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q77",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. The International Solar Alliance was launched at the United Nations Climate Change Conference in 2015\n2. The Alliance includes all the member countries of the United Nations.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q78",
+      "type": "single-choice",
+      "question": "With reference to ‘stand up India scheme’, which of the following statement is/are correct? Its purpose is to\n1. promote entrepreneurship among SC/ST and women entrepreneurs\n2. It provides for refinance through SIDBI\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q79",
+      "type": "single-choice",
+      "question": "Which of the following best describes the aim of 'Green India Mission' of the Government of India?\n\n1. Incorporating environmental benefits and costs into the Union and State Budgets thereby implementing the 'green accounting'\n2. Launching the second green revolution by employing techniques of modern agricultural practices for enhancing agricultural productivity\n3. Restoring and enhancing forest cover and responding to climate change by a combination of adaptation and mitigation measures\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q80",
+      "type": "single-choice",
+      "question": "Regarding 'DigiLocker', sometimes seen in the news, which of the following statements is/ are correct?\n1. It is a digital locker system offered by the Government under Digital India Programme\n2. It allows you to access your e-documents irrespective of your physical location\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 Only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q81",
+      "type": "single-choice",
+      "question": "Recently, linking of which of the following rivers was undertaking?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cauvery and Tungabhadra"
+        },
+        {
+          "id": "b",
+          "text": "Godavari and Krishna"
+        },
+        {
+          "id": "c",
+          "text": "Mahanadi and Son"
+        },
+        {
+          "id": "d",
+          "text": "Narmada and Tapti"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q82",
+      "type": "single-choice",
+      "question": "With reference to the 'International Solar Alliance', consider the following statements:\n\n1. It was launched at the UN Climate Change Conference in Paris.\n2. Its membership is limited to countries lying fully or partially between the Tropic of Cancer and the Tropic of Capricorn (as originally conceived).\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q83",
+      "type": "single-choice",
+      "question": "With reference to 'Swachh Bharat Abhiyan', which of the following statements is/are correct?\n\n1. It aims to make India open defecation free by 2019.\n2. It is being implemented only in rural areas of the country.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q84",
+      "type": "single-choice",
+      "question": "With reference to the economic history of medieval India the term 'Araghatta' refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "bonded labour"
+        },
+        {
+          "id": "b",
+          "text": "Land grants made to military officers"
+        },
+        {
+          "id": "c",
+          "text": "Waterwheel used in the irrigation of land"
+        },
+        {
+          "id": "d",
+          "text": "Wasteland converted to cultivated land"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q85",
+      "type": "single-choice",
+      "question": "With reference to the cultural history of India, the memorizing of chronicles, dynastic histories and epic tales was the profession of who of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shramana"
+        },
+        {
+          "id": "b",
+          "text": "Parivraajaka"
+        },
+        {
+          "id": "c",
+          "text": "Agrahaarika"
+        },
+        {
+          "id": "d",
+          "text": "Magadha"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q86",
+      "type": "single-choice",
+      "question": "With reference to 'Air Quality Index' (AQI) in India, which of the following pollutants are taken into account for measuring AQI?\n\n1. Carbon dioxide\n2. Carbon monoxide\n3. Nitrogen dioxide\n4. Sulfur dioxide\n5. Lead\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 4 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q87",
+      "type": "single-choice",
+      "question": "What is/are the purpose/purposes of Government's 'Sovereign Gold Bond Scheme' and Gold Monetization Scheme?\n1. To bring the idle gold lying with India households into the economy\n2. To promote FDI in the gold and jewelry sector\n3. To reduce India's dependence on gold imports\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 Only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q88",
+      "type": "single-choice",
+      "question": "Recently, for the first time in our country, which of the following State has declared a particular butterfly as 'State Butterfly'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Karnataka"
+        },
+        {
+          "id": "d",
+          "text": "Maharashtra"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q89",
+      "type": "single-choice",
+      "question": "Consider the following statements: The Mangalyaan launched by ISRO\n1. is also called the Mars Orbiter Mission\n2. Made India the second country to have a spacecraft orbit the Mars after USA\n3. Made India the only country to be successful in making its spacecraft orbits the Mars in its very first attempt.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q90",
+      "type": "single-choice",
+      "question": "What was the main reason for the split in the Indian National Congress at Surat in 1907?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introduction of communalism into Indian politics by Lord Minto"
+        },
+        {
+          "id": "b",
+          "text": "Extremists' lack of faith in the capacity of the moderates to negotiate with the British Government"
+        },
+        {
+          "id": "c",
+          "text": "Foundation of Muslim League"
+        },
+        {
+          "id": "d",
+          "text": "Aurobindo Ghosh's inability to be elected as the President of the Indian national Congress"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q91",
+      "type": "single-choice",
+      "question": "The plan of Sir Stafford Cripps envisaged that after the Second World War",
+      "options": [
+        {
+          "id": "a",
+          "text": "India should be granted complete independence"
+        },
+        {
+          "id": "b",
+          "text": "India should be partitioned into two before granting independence"
+        },
+        {
+          "id": "c",
+          "text": "India should be made a Republic with the condition that she will join the Commonwealth"
+        },
+        {
+          "id": "d",
+          "text": "India should be given Dominion status"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q92",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Famous place Region\n1. Bodhgaya: Baghelkhand\n2. Khajuraho: Bundelkhand\n3. Shirdi: Vidarbha\n4. Nasik (Nashik) : Malwa\n5. Tirupati: Rayalaseema Which of the pairs given above are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, 4 and 5"
+        },
+        {
+          "id": "c",
+          "text": "2 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q93",
+      "type": "single-choice",
+      "question": "The Parliament of India acquires the power to legislate on any item in the State List in the national interest if a resolution to that effect is passed by the:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lok Sabha by a simple majority of its total membership"
+        },
+        {
+          "id": "b",
+          "text": "Lok Sabha by a majority of not less than two-thirds of its total membership"
+        },
+        {
+          "id": "c",
+          "text": "Rajya Sabha by a simple majority of its total membership"
+        },
+        {
+          "id": "d",
+          "text": "Rajya Sabha by a majority of not less than two-thirds of its members present and voting"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q94",
+      "type": "single-choice",
+      "question": "'Belt and road Initiative' is sometimes mentioned in the news in the context of the affairs of",
+      "options": [
+        {
+          "id": "a",
+          "text": "African Union"
+        },
+        {
+          "id": "b",
+          "text": "Brazil"
+        },
+        {
+          "id": "c",
+          "text": "European union"
+        },
+        {
+          "id": "d",
+          "text": "China"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q95",
+      "type": "single-choice",
+      "question": "‘Global Financial Stability Report’ is prepared by the",
+      "options": [
+        {
+          "id": "a",
+          "text": "European Central Bank"
+        },
+        {
+          "id": "b",
+          "text": "International Monetary Fund"
+        },
+        {
+          "id": "c",
+          "text": "International Bank for Reconstruction and Development"
+        },
+        {
+          "id": "d",
+          "text": "Organization for Economic Cooperation and Development"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q96",
+      "type": "single-choice",
+      "question": "Recently, which of the following States has explored the possibility of constructing an artificial port to be connected to sea by a long navigational channel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Chhattisgarh"
+        },
+        {
+          "id": "c",
+          "text": "Karnataka"
+        },
+        {
+          "id": "d",
+          "text": "Rajasthan"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q97",
+      "type": "single-choice",
+      "question": "Which of the following best describes the term 'import cover', sometimes seen in the news?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is the ratio of value of imports to the Gross Domestic Product of a country"
+        },
+        {
+          "id": "b",
+          "text": "It is the total value of imports of a country in a year"
+        },
+        {
+          "id": "c",
+          "text": "It is the ratio between the value of exports and that of imports between two countries"
+        },
+        {
+          "id": "d",
+          "text": "It is the number of months of imports that could be paid for by a country's international reserves"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q98",
+      "type": "single-choice",
+      "question": "Which of the following is/are the advantage/advantages of implementing the 'National Agriculture Market' scheme?\n\n1. It is a pan-India electronic trading portal for agricultural commodities.\n2. It provides the farmers access to nationwide market, with prices commensurate with the quality of their produce.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q99",
+      "type": "single-choice",
+      "question": "A recent movie titled The Man Who Knew Infinity is based on the biography of",
+      "options": [
+        {
+          "id": "a",
+          "text": "S. Ramanujan"
+        },
+        {
+          "id": "b",
+          "text": "S. Chandrasekhar"
+        },
+        {
+          "id": "c",
+          "text": "S. N. Bose"
+        },
+        {
+          "id": "d",
+          "text": "C. V. Raman"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2016_gs1_q100",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. The minimum age prescribed for any person to be a member of Panchayat is 25 years.\n2. A Panchayat reconstituted after premature dissolution continues only for the remainder period.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    }
+  ]
+}

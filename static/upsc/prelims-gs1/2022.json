@@ -1,0 +1,3418 @@
+{
+  "metadata": {
+    "name": "Prelims GS Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 100,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2022,
+    "stage": "Prelims",
+    "paper": "GS1",
+    "section": "prelims-gs1",
+    "sourceId": "upsc_2022_gs1",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_gs1_q1",
+      "type": "single-choice",
+      "question": "\"Rapid Financing Instrument\" and \"Rapid Credit Facility\" are related to the provisions of lending by which one of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Asian Development Bank"
+        },
+        {
+          "id": "b",
+          "text": "International Monetary Fund"
+        },
+        {
+          "id": "c",
+          "text": "United Nations Environment Programme Finance Initiative"
+        },
+        {
+          "id": "d",
+          "text": "World Bank"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q2",
+      "type": "single-choice",
+      "question": "With reference to the Indian economy, consider the following statements:\n1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee\n2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness\n3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.\n\nWhich of the above statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q3",
+      "type": "single-choice",
+      "question": "With reference to the Indian economy, consider the following statements:\n1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities\n2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market\n3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q4",
+      "type": "single-choice",
+      "question": "With reference to the \"G20 Common Framework\", consider the following statements:\n1. It is an initiative endorsed by the G20 together with the Paris Club\n2. It is an initiative to support Low Income Countries with unsustainable debt.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q5",
+      "type": "single-choice",
+      "question": "With reference to the Indian economy, what are the advantages of \"Inflation-Indexed Bonds (IIBs)\"?\n1. Government can reduce the coupon rates on its borrowing by way of IIBs\n2. IIBS provide protection to the investors from uncertainty regarding inflation\n3. The interest received as well as capital gains on IIBs are not taxable.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q6",
+      "type": "single-choice",
+      "question": "With reference to foreign-owned e-commerce firms operating in India, which of the following statements is/are correct?\n1. They can sell their own goods in addition to offering their platforms as market-places.\n2. The degree to which they can own big sellers on their platforms is limited.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q7",
+      "type": "single-choice",
+      "question": "Which of the following activities constitute real sector in the economy?\n1. Farmers harvesting their crops\n2. Textile mills converting raw cotton into fabrics\n3. A commercial bank lending money to a trading company\n4. A corporate body issuing Rupee Denominated Bonds overseas\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q8",
+      "type": "single-choice",
+      "question": "Which one of the following situations best reflects \"Indirect Transfers\" often talked about in media recently with reference to India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An Indian company investing in a foreign enterprise and paying taxes to the foreign country on the profits arising out of its investment"
+        },
+        {
+          "id": "b",
+          "text": "A foreign company investing in India and paying taxes to the country of its base on the profits arising out of its investment"
+        },
+        {
+          "id": "c",
+          "text": "An Indian company purchases tangible assets in a foreign country and sells such assets after their value increases and transfers the proceeds to India"
+        },
+        {
+          "id": "d",
+          "text": "A foreign company transfers shares and such shares derive their substantial value from assets located in India"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q9",
+      "type": "single-choice",
+      "question": "With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct?\n1. Acquiring new technology is capital expenditure\n2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q10",
+      "type": "single-choice",
+      "question": "With reference to the Indian economy, consider the following statements:\n1. A share of the household financial savings goes towards government borrowings\n2. Dated securities issued at market-related rates in auctions form a large component of internal debt.\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q11",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Pursuant to the report of H.N. Sanyal Committee, the Contempt Courts Act, 1971 was passed\n2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt themselves\n3. The Constitution of India defines Civil Contempt and Criminal Contempt\n4. In India, the Parliament is vested with the powers to make laws on Contempt Court.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q12",
+      "type": "single-choice",
+      "question": "With reference to India, consider the following statements:\n1. Government law officers and legal firms are recognised as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates\n2. Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q13",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. A bill amending the Constitution requires a prior recommendation of the President of India\n2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent\n3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q14",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. The Constitution of India classifies the ministers into four ranks viz. Cabinet Minister, Minister of State with Independent Charge, Minister of State and Deputy Minister\n2. The total number of ministers in the Union Government, including the Prime Minister, shall not exceed 15 percent of the total number of members in the Lok Sabha.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q15",
+      "type": "single-choice",
+      "question": "Which of the following is/are the exclusive power(s) of Lok Sabha?\n1. To ratify the declaration of Emergency\n2. To pass a motion of no-confidence against the Council of Ministers\n3. To impeach the President of India\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q16",
+      "type": "single-choice",
+      "question": "With reference to anti-defection law in India, consider the following statements:\n1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House\n2. The law does not provide any time-frame within which the presiding officer has to decide a defection case.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q17",
+      "type": "single-choice",
+      "question": "Consider the following statements:.\n1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India\n2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q18",
+      "type": "single-choice",
+      "question": "With reference to the writs issued by the Courts in India, consider the following statements:\n1. Mandamus will not lie against a private organisation unless it is entrusted with a public duty\n2. Mandamus will not lie against a Company even though it may be a Government Company\n3. Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q19",
+      "type": "single-choice",
+      "question": "With reference to Ayushman Bharat Digital Mission, consider the following statements:\n1. Private and public hospitals must adopt it\n2. As it aims to achieve universal health coverage, every citizen of India should be part of it ultimately\n3. It has seamless portability across the country.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q20",
+      "type": "single-choice",
+      "question": "With reference to Deputy Speaker of Lok Sabha, consider the following statements:\n1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix\n2. There is a mandatory provision that the election of a candidate, as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party\n3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings\n4. The well-established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q21",
+      "type": "single-choice",
+      "question": "Among the following crops, which one is the most important anthropogenic source of both methane and nitrous oxide?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cotton"
+        },
+        {
+          "id": "b",
+          "text": "Rice"
+        },
+        {
+          "id": "c",
+          "text": "Sugarcane"
+        },
+        {
+          "id": "d",
+          "text": "Wheat"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q22",
+      "type": "single-choice",
+      "question": "\"System of Rice Intensification\" of cultivation, in which alternate wetting and drying of rice fields is practised, results in:\n1. Reduced seed requirement\n2. Reduced methane production\n3. Reduced electricity consumption\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q23",
+      "type": "single-choice",
+      "question": "Which one of the following lakes of West Africa has become dry and turned into a desert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lake Victoria"
+        },
+        {
+          "id": "b",
+          "text": "Lake Faguibine"
+        },
+        {
+          "id": "c",
+          "text": "Lake Oguta"
+        },
+        {
+          "id": "d",
+          "text": "Lake Volta"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q24",
+      "type": "single-choice",
+      "question": "Gandikota canyon of South India was created by which one of the following rivers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cauvery"
+        },
+        {
+          "id": "b",
+          "text": "Manjira"
+        },
+        {
+          "id": "c",
+          "text": "Pennar"
+        },
+        {
+          "id": "d",
+          "text": "Tungabhadra"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q25",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Peak Mountains\n1. Namcha Barwa Garhwal Himalaya\n2. Nanda Devi Kumaon Himalaya\n3. Nokrek Sikkim Himalaya Which of the pairs given above is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q26",
+      "type": "single-choice",
+      "question": "The term \"Levant\" often heard in the news roughly corresponds to which of the following regions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Region along the eastern Mediterranean shores"
+        },
+        {
+          "id": "b",
+          "text": "Region along North African shores stretching from Egypt to Morocco"
+        },
+        {
+          "id": "c",
+          "text": "Region along Persian Gulf and Horn of Africa"
+        },
+        {
+          "id": "d",
+          "text": "The entire coastal areas of Mediterranean Sea"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q27",
+      "type": "single-choice",
+      "question": "Consider the following countries:\n1. Azerbaijan\n2. Kyrgyzstan\n3. Tajikistan\n4. Turkmenistan\n5. Uzbekstan\n\nWhich of the above have borders with Afghanistan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 5 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "3, 4 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q28",
+      "type": "single-choice",
+      "question": "With reference to India, consider the following statements:\n1. Monazite is a source of rare earths\n2. Monazite contains thorium\n3. Monazite occurs naturally in the entire Indian coastal sands in India\n4. In India, Government bodies only can process or export monazite.\"\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q29",
+      "type": "single-choice",
+      "question": "In the northern hemisphere, the longest day of the year normally occurs in the",
+      "options": [
+        {
+          "id": "a",
+          "text": "First half of the month of June"
+        },
+        {
+          "id": "b",
+          "text": "Second half of the month of June"
+        },
+        {
+          "id": "c",
+          "text": "First half of the month of July"
+        },
+        {
+          "id": "d",
+          "text": "Second half of the month of July"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q30",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Wetland/Lake Location\n1. Hokera Wetland Punjab\n2. Renuka Wetland Himachal Pradesh\n3. Rudrasagar Lake Tripura\n4. Sasthamkotta Lake Tamil Nadu How many pairs given above are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one pair"
+        },
+        {
+          "id": "b",
+          "text": "Only two pairs"
+        },
+        {
+          "id": "c",
+          "text": "Only three pairs"
+        },
+        {
+          "id": "d",
+          "text": "All four pairs"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q31",
+      "type": "single-choice",
+      "question": "Consider the following:\n1. Aarogya Setu\n2. COWIN\n3. DigiLocker\n4. DIKSHA\n\nWhich of the above are built on to open-source digital platforms?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q32",
+      "type": "single-choice",
+      "question": "With reference to Web\n3. 0, consider the following statements:\n1. Web 3-0 technology enables people to control their own data\n2. In Web\n3. 0 world, there can be blockchain based social networks\n3. Web 3-0 is operated by users collectively rather than a corporation.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q33",
+      "type": "single-choice",
+      "question": "With reference to \"Software as a Service (SaaS)\", consider the following statements:\n1. SaaS buyers can customise the user interface and can change data fields\n2. SaaS users can access their data through their mobile devices\n3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q34",
+      "type": "single-choice",
+      "question": "Which one of the following statements best reflects the idea behind the \"Fractional Orbital Bombardment System\" often talked about in media?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space"
+        },
+        {
+          "id": "b",
+          "text": "A spacecraft lands on another planet after making several orbital motions"
+        },
+        {
+          "id": "c",
+          "text": "A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth"
+        },
+        {
+          "id": "d",
+          "text": "A spacecraft moves along a comet with the same speed and places a probe on its surface"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q35",
+      "type": "single-choice",
+      "question": "Which one of the following is the context in which the term \"qubit\" is mentioned?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cloud Services"
+        },
+        {
+          "id": "b",
+          "text": "Quantum Computing"
+        },
+        {
+          "id": "c",
+          "text": "Visible Light Communication Technologies"
+        },
+        {
+          "id": "d",
+          "text": "Wireless Communication Technologies"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q36",
+      "type": "single-choice",
+      "question": "Consider the following communication technologies:\n1. Closed-circuit Television\n2. Radio Frequency Identification\n3. Wireless Local Area Network\n\nWhich of the above are considered communication Short-Range devices/technologies?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q37",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Biofilms can form on medical implants within human tissues\n2. Biofilms can form on food and food processing surfaces\n3. Biofilms can exhibit antibiotic resistance.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q38",
+      "type": "single-choice",
+      "question": "Consider the following statements in respect of probiotics:\n1. Probiotics are made of both bacteria and yeast\n2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut\n3. Probiotics help in the digestion of milk sugars.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q39",
+      "type": "single-choice",
+      "question": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\n1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform\n2. Sputnik. V vaccine is manufactured using vector-based platform\n3. COVAXIN is an inactivated pathogen-based vaccine.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q40",
+      "type": "single-choice",
+      "question": "If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?\n1. GPS and navigation systems could fail\n2. Tsunamis could occur at equatorial regions\n3. Power grids could be damaged\n4. Intense auroras could occur over much of the Earth\n5. Forest fires could take place over much of the planet\n6. Orbits of the satellites could be disturbed\n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 4 and 5 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, 5, 6 and 7 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3, 4, 6 and 7 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4, 5, 6 and 7"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q41",
+      "type": "single-choice",
+      "question": "\"Climate Action Tracker\" which monitors the emission reduction pledges of different countries is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Database created by coalition organisations of Research organisations"
+        },
+        {
+          "id": "b",
+          "text": "Wing of \"International Panel of Climate Change\""
+        },
+        {
+          "id": "c",
+          "text": "Committee under \"United Nations Framework Convention on Climate Change\""
+        },
+        {
+          "id": "d",
+          "text": "Agency promoted and financed by United Nations Environment Programme and World Bank"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q42",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. \"The Climate Group\" is an international non-profit organization that drives climate action by building large networks and runs them\n2. The International Energy Agency in partnership with the Climate Group launched a global initiative \"EP100\"\n3. EP100 brings together leading companies committed to driving innovation in energy efficiency and increasing competitiveness while delivering on emission reduction goals\n4. Some Indian companies are members of EP100\n5. The International Energy Agency is the Secretariat to the \"Under2 Coalition\".\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 4 and 5"
+        },
+        {
+          "id": "b",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q43",
+      "type": "single-choice",
+      "question": "\"If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.\"\n\nWhich one of the following functions of wetlands best reflects the above statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation"
+        },
+        {
+          "id": "b",
+          "text": "Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive"
+        },
+        {
+          "id": "c",
+          "text": "Wetlands play a vital role in maintaining sedimentation balance and soil stabilization"
+        },
+        {
+          "id": "d",
+          "text": "Aquatic plants absorb heavy metals and excess nutrients"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q44",
+      "type": "single-choice",
+      "question": "In the context of WHO Air Quality Guidelines, consider the following statements:\n1. The 24-hour mean of PM2.5 should not exceed 15 ug/m³ and annual mean of PM2.5 should not exceed 5 µg/m³\n2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather\n3. PM10 can penetrate the lung barrier and enter the bloodstream\n4. Excessive ozone in the air can trigger asthma.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "b",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 2 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q45",
+      "type": "single-choice",
+      "question": "With reference to \"Gucchi\" sometimes mentioned in the news, consider the following statements:\n1. It is a fungus\n2. It grows in some Himalayan Forest areas\n3. It is commercially cultivated in the Himalayan foothills of north-eastern India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q46",
+      "type": "single-choice",
+      "question": "With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:\n1. Its fibres can be blended with wool and cotton fibres to reinforce their properties\n2. Containers made of it can be used to store any alcoholic beverage\n3. Bottles made of it can be recycled into other products\n4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q47",
+      "type": "single-choice",
+      "question": "Which of the following is not a bird?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Golden Mahseer"
+        },
+        {
+          "id": "b",
+          "text": "Indian Nightjar"
+        },
+        {
+          "id": "c",
+          "text": "Spoonbill"
+        },
+        {
+          "id": "d",
+          "text": "White Ibis"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q48",
+      "type": "single-choice",
+      "question": "Which of the following are nitrogen-fixing plants?\n1. Alfalfa\n2. Amaranth\n3. Chickpea\n4. Clover\n5. Purslane (Kulfa)\n6. Spinach\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 3, 5 and 6 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 4, 5 and 6 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 4, 5 and 6"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q49",
+      "type": "single-choice",
+      "question": "\"Biorock technology\" is talked about in which one of the following situations?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Restoration of damaged coral reefs"
+        },
+        {
+          "id": "b",
+          "text": "Development of building materials using plant residues"
+        },
+        {
+          "id": "c",
+          "text": "Identification of areas for exploration/extraction of shale gas"
+        },
+        {
+          "id": "d",
+          "text": "Providing salt licks for wild animals in forests/protected areas"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q50",
+      "type": "single-choice",
+      "question": "The \"Miyawaki method\" is well known for the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Promotion of commercial farming in arid and semi-arid areas"
+        },
+        {
+          "id": "b",
+          "text": "Development of gardens Using genetically modified flora"
+        },
+        {
+          "id": "c",
+          "text": "Creation of mini forests in urban areas"
+        },
+        {
+          "id": "d",
+          "text": "Harvesting wind energy on coastal areas and on sea surfaces"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q51",
+      "type": "single-choice",
+      "question": "In the Government of India Act 1919, the functions of Provincial Government were divided into \"Reserved\" and \"Transferred\" subjects. Which of the following were treated as \"Reserved\" subjects?\n1. Administration of Justice\n2. Local Self-Government\n3. Land Revenue\n4. Police\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q52",
+      "type": "single-choice",
+      "question": "In medieval India, the term \"Fanam\" referred to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Clothing"
+        },
+        {
+          "id": "b",
+          "text": "Coins"
+        },
+        {
+          "id": "c",
+          "text": "Ornaments"
+        },
+        {
+          "id": "d",
+          "text": "Weapons"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q53",
+      "type": "single-choice",
+      "question": "Consider the following freedom fighters:\n1. Barindra Kumar Ghosh\n2. Jogesh Chandra Chatterjee\n3. Rash Behari Bose Who of the above was/were actively associated with the Ghadar Party?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q54",
+      "type": "single-choice",
+      "question": "With reference to the proposals of Cripps Mission, consider the following statements:\n1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States\n2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q55",
+      "type": "single-choice",
+      "question": "With reference to Indian history, consider the following texts:\n1. Nettipakarana\n2. Parishishtaparvan\n3. Avadanashataka\n4. Trishashtilakshana Mahapurana\n\nWhich of the above are Jaina texts?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q56",
+      "type": "single-choice",
+      "question": "With reference to Indian history, consider the following pairs: Historical person - Known as\n1. Aryadeva - Jaina scholar\n2. Dignaga - Buddhist scholar\n3. Nathamuni - Vaishnava scholar How many pairs given above are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "None of the pairs"
+        },
+        {
+          "id": "b",
+          "text": "Only one pair"
+        },
+        {
+          "id": "c",
+          "text": "Only two pairs"
+        },
+        {
+          "id": "d",
+          "text": "All three pairs"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q57",
+      "type": "single-choice",
+      "question": "With reference to Indian history, consider the following statements:\n1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji\n2. During the reign of Ala-ud-din Khalji, one Mongol assault marched uDelhi and besieged the city\n3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q58",
+      "type": "single-choice",
+      "question": "With reference to Indian history, who of the following were known as \"Kulah-Daran\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arab merchants"
+        },
+        {
+          "id": "b",
+          "text": "Qalandars"
+        },
+        {
+          "id": "c",
+          "text": "Persian calligraphists"
+        },
+        {
+          "id": "d",
+          "text": "Sayyids"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q59",
+      "type": "single-choice",
+      "question": "With reference to Indian history, consider the following statements:\n1. The Dutch established their factories/warehouses on the east coast on lands granted to them by Gajapati rulers\n2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate\n3. The English East India Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q60",
+      "type": "single-choice",
+      "question": "According to Kautilya's Arthashastra, which of the following are correct?\n1. A person could be a slave as a result of a judicial punishment\n2. If a female slave bore her master a son, she was legally free\n3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q61",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Tight monetary policy of US Federal Reserve could lead to capital flight.\n2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).\n3. Devaluation of domestic currency decreases the currency risk associated with ECBs.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q62",
+      "type": "single-choice",
+      "question": "Consider the following States:\n1. Andhra Pradesh\n2. Kerala\n3. Himachal Pradesh\n4. Tripura\n\nHow many of the above are generally known as tea-producing States?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one State"
+        },
+        {
+          "id": "b",
+          "text": "Only two States"
+        },
+        {
+          "id": "c",
+          "text": "Only three States"
+        },
+        {
+          "id": "d",
+          "text": "All four States"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q63",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. In India credit rating agencies are regulated by the Reserve Bank of India\n2. The rating agency popularly known as ICRA is a public limited company\n3. Brickwork Ratings is an Indian credit rating agency.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q64",
+      "type": "single-choice",
+      "question": "With reference to the ‘Banks Board Bureau (BBB) which of the following statements are correct?\n1. The Governor of the Chairman of BBB\n2. BBB recommends for the selection of head for Public Sector Banks\n3. BBB helps the Public Sector Banks in developing strategies and capital raising plans\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q65",
+      "type": "single-choice",
+      "question": "With reference to Convertible Bonds, consider the following statements:\n1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest\n2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q66",
+      "type": "single-choice",
+      "question": "Consider the following:\n1. Asian Infrastructure Investment Bank\n2. Missile Technology Control Regime\n3. Shanghai Cooperation Organisation Indian is a member of which of the above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q67",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Vietnam has been one of the fastest-growing economies in the world in recent years\n2. Vietnam is led by a multi-party political system\n3. Vietnam’s economic growth is linked to its integration with global supply chains and focus on exports\n4. For a long time, Vietnam’s low labor costs and stable exchange rates have attracted global manufacturers\n5. Vietnam has the most productive e-service sector in the Indo-Pacific region.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 and 4"
+        },
+        {
+          "id": "b",
+          "text": "3 and 5"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q68",
+      "type": "single-choice",
+      "question": "In India which one of the following is responsible for maintaining for prices stability by controlling inflation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Department of Consumer Affairs"
+        },
+        {
+          "id": "b",
+          "text": "Expenditure Management Commission"
+        },
+        {
+          "id": "c",
+          "text": "Financial Stability and Development Council"
+        },
+        {
+          "id": "d",
+          "text": "Reserve Bank of India"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q69",
+      "type": "single-choice",
+      "question": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q70",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Reservoirs States\n1. Ghataprabha Telangana\n2. Gandhi Sagar Madhya Pradesh\n3. Indira Sagar Andhra Pradesh\n4. Maithon Chhattisgarh How many pairs given above are not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one pair"
+        },
+        {
+          "id": "b",
+          "text": "Only two pairs"
+        },
+        {
+          "id": "c",
+          "text": "Only three pairs"
+        },
+        {
+          "id": "d",
+          "text": "All four pairs"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q71",
+      "type": "single-choice",
+      "question": "In India, which one of the following Compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Central Statistics Office"
+        },
+        {
+          "id": "b",
+          "text": "Department for Promotion of Industry and Internal Trade"
+        },
+        {
+          "id": "c",
+          "text": "Labour Bureau"
+        },
+        {
+          "id": "d",
+          "text": "National Technical Manpower Information System"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q72",
+      "type": "single-choice",
+      "question": "In India, what is the role of the Coal Controller’s Organization (CCO)?\n1. CCO is the major source of coal Statistics in Government of India\n2. It monitors progress of development of Captive Coal/ Lignite blocks\n3. It hears any objection to the Government’s notification relating to acquisition of coal-bearing areas\n4. It ensures that coal mining companies deliver the coal to end users in the prescribed time\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q73",
+      "type": "single-choice",
+      "question": "If a Particular area is brought unde the Fifth Schedule of the Constitution of India, which one of the following statement best reflects the consequence of it?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This would prevent the transfer of land of tribal people to non-tribal people"
+        },
+        {
+          "id": "b",
+          "text": "This would create a local self- governing body in that area"
+        },
+        {
+          "id": "c",
+          "text": "This would convert that area into a Union Territory"
+        },
+        {
+          "id": "d",
+          "text": "The State having such areas would be declare a Special Category State"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q74",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization\n2. The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q75",
+      "type": "single-choice",
+      "question": "Which one of the following has been constituted under the Environment (Protection) Act, 1986?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Central water Commission"
+        },
+        {
+          "id": "b",
+          "text": "Central Ground Water Board"
+        },
+        {
+          "id": "c",
+          "text": "Central Ground Water Authority"
+        },
+        {
+          "id": "d",
+          "text": "National Water Development Agency"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q76",
+      "type": "single-choice",
+      "question": "With Reference to the “United Nations Credentials Committee”, consider the following statements:\n1. It is a committee set up by the UN Security Council and works under its supervision\n2. It traditionally meets in March, June and September every year\n3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1 and 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q77",
+      "type": "single-choice",
+      "question": "Which one of the following statements best describes the ‘Polar Code’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is the international code of safety for ships operating in polar waters"
+        },
+        {
+          "id": "b",
+          "text": "It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region"
+        },
+        {
+          "id": "c",
+          "text": "It is a set of norms to be followed by the countries whose scientists undertake research studies In the North Pole and South Pole"
+        },
+        {
+          "id": "d",
+          "text": "It is a trade and security agreement of the member countries of the Arctic Council"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q78",
+      "type": "single-choice",
+      "question": "With reference to the United Nations General Assembly, consider the following statements:\n1. The UN General Assembly can grant observer status in the non-member States\n2. Inter-governmental organisations can seek observer status in the UN General Assembly\n3. Permanent Observes in the UN General Assembly can maintain missions at the UN headquarters.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q79",
+      "type": "single-choice",
+      "question": "With reference to the “Tea Board” in India, consider the following statements:\n1. The Tea Board is a statutory body\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare\n3. The Tea Board’s Head Office is situated in Bengaluru\n4. The Board has overseas office at Dubai and Moscow.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q80",
+      "type": "single-choice",
+      "question": "Which one of the following best describes the term “greenwashing:”?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conveying a false impression that a company’s products are eco-friendly and environmentally sound"
+        },
+        {
+          "id": "b",
+          "text": "Non-Inclusion of ecological/ environmental costs in the Annual Financial Statements of a country"
+        },
+        {
+          "id": "c",
+          "text": "Ignoring the disastrous ecological consequences while undertaking infrastructure development"
+        },
+        {
+          "id": "d",
+          "text": "Making mandatory provisions for environmental costs in a government project/programme"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q81",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. High clouds primarily reflect solar radiation and cool the surface of the Earth\n2. Low clouds have a high absorption of infrared radiation emanating from the Earth's surface and thus cause warming effect.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q82",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Bidibidi is a large refugee settlement in north-western Kenya\n2. Some people who fled from South Sudan civil war live in Bidibidi\n3. Some people who fled from civil war in Somalia live in Dadaab refugee complex in Kenya.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q83",
+      "type": "single-choice",
+      "question": "Consider the following countries\n1. Armenia\n2. Azerbaijan\n3. Croatia\n4. Romania\n5. Uzbekistan\n\nWhich of the above are members of the Organization of Turkic States?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 and 5"
+        },
+        {
+          "id": "d",
+          "text": "3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q84",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Gujarat has the largest solar park in India\n2. Kerala has a fully solar powered International Airport\n3. Goa has the largest floating solar photovoltaic project in India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q85",
+      "type": "single-choice",
+      "question": "With reference to the United Nations Convention on the Law of Sea, consider the following statements:\n1. A coastal state has the right to establish the breadth of its territorial sea ua limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention\n2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea\n3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q86",
+      "type": "single-choice",
+      "question": "Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is generally believed that they are artificial islands made by a country around South China Sea"
+        },
+        {
+          "id": "b",
+          "text": "China and Japan engage in maritime disputes over these islands in East China Sea"
+        },
+        {
+          "id": "c",
+          "text": "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities"
+        },
+        {
+          "id": "d",
+          "text": "Though International Court, of Justice declared them as no man's land, some South-East Asian countries claim them"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q87",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Country Important reason for being in the news recently\n1. Chad Setting up of permanent military base by China\n2. Guinea Suspension of Constitution and Government by military\n3. Lebanon Severe and prolonged economic depression\n4. Tunisia Suspension of Parliament by President How many pairs given above are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one pair"
+        },
+        {
+          "id": "b",
+          "text": "Only two pairs"
+        },
+        {
+          "id": "c",
+          "text": "Only three pairs"
+        },
+        {
+          "id": "d",
+          "text": "All four pairs"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q88",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Region often mentioned in the news Country\n1. Anatolia Turkey\n2. Amhara Ethiopia\n3. Cabo Delgado Spain\n4. Catalonia Italy How many pairs given above are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one pair"
+        },
+        {
+          "id": "b",
+          "text": "Only two pairs"
+        },
+        {
+          "id": "c",
+          "text": "Only three pairs"
+        },
+        {
+          "id": "d",
+          "text": "All four pairs"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q89",
+      "type": "single-choice",
+      "question": "With reference to Indian laws about wildlife protection, consider the following statements:\n1. Wild animals are the sole property of the government.\n2. When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside.\n3. Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q90",
+      "type": "single-choice",
+      "question": "Certain species of which one of the following organisms are well known as cultivators of fungi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ant"
+        },
+        {
+          "id": "b",
+          "text": "Cockroach"
+        },
+        {
+          "id": "c",
+          "text": "Crab"
+        },
+        {
+          "id": "d",
+          "text": "Spider"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q91",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Site of Ashoka’s major rock edicts Location in the State of\n1. Dhauli Odisha\n2. Erragudi Andhra Pradesh\n3. Jaugada Madhya Pradesh\n4. Kalsi Karnataka How many pairs given above are correctly matched",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one pair"
+        },
+        {
+          "id": "b",
+          "text": "Only two pairs"
+        },
+        {
+          "id": "c",
+          "text": "Only three pairs"
+        },
+        {
+          "id": "d",
+          "text": "All four pairs"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q92",
+      "type": "single-choice",
+      "question": "Consider the following pairs: King Dynasty\n1. Nanuka Chandela\n2. Jayashakti Parmara\n3. Nagabhata II Gurjara-Pratihara\n4. Bhoja Rashtrakuta How many pairs given above are correctly matched",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one pair"
+        },
+        {
+          "id": "b",
+          "text": "Only two pairs"
+        },
+        {
+          "id": "c",
+          "text": "Only three pairs"
+        },
+        {
+          "id": "d",
+          "text": "All four pairs"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q93",
+      "type": "single-choice",
+      "question": "Which one of the following statements about Sangam literature in ancient South India is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sangam poems are devoid of any reference to material culture"
+        },
+        {
+          "id": "b",
+          "text": "The social classification of Varna was known to Sangam poets"
+        },
+        {
+          "id": "c",
+          "text": "Sangam poems have no reference to warrior ethic"
+        },
+        {
+          "id": "d",
+          "text": "Sangam literature refers to magical forces as irrational"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q94",
+      "type": "single-choice",
+      "question": "“Yogavasistha” was translated into Persian by Nizamuddin Panipati during the reign of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Akbar"
+        },
+        {
+          "id": "b",
+          "text": "Humayun"
+        },
+        {
+          "id": "c",
+          "text": "Shajahan"
+        },
+        {
+          "id": "d",
+          "text": "Aurangzeb"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q95",
+      "type": "single-choice",
+      "question": "The world’s second tallest statue in sitting pose of Ramanuja was inaugurated by the Prime Minister of India at Hyderabad recently.\n\nWhich one of the following statements correctly represents the teachings of Ramanuja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The best means of salvation was devotion"
+        },
+        {
+          "id": "b",
+          "text": "Vedas are eternal, self-existent and wholly authoritative"
+        },
+        {
+          "id": "c",
+          "text": "Logical arguments were essential means for the highest bliss"
+        },
+        {
+          "id": "d",
+          "text": "Salvation was to be obtained through meditation"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q96",
+      "type": "single-choice",
+      "question": "The Prime Minister recently inaugurated the new Circuit House near Somanath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple?\n1. Somnath Temple is one of the Jyotirlinga shrines\n2. A description of Somnath Temple was given by Al-Biruni\n3. Pran Pratistha of Somnath Temple (installation of the present-day temple) was done by President S. Radhakrishnan\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q97",
+      "type": "single-choice",
+      "question": "Which one of the following statements best describes the role of B cells and T cells in the human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They protect the body from environmental allergens"
+        },
+        {
+          "id": "b",
+          "text": "They alleviate the body's pain and inflammation"
+        },
+        {
+          "id": "c",
+          "text": "They act as immunosuppressants in the body"
+        },
+        {
+          "id": "d",
+          "text": "They protect the body from the diseases caused by pathogens"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q98",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Other than those made by humans, nanoparticles do not exist in nature\n2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics\n3. Nanoparticles of some commercial products which enter the environment are unsafe for humans.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q99",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\nDNA Barcoding can be a tool to:\n\n1. Assess the age of a plant or animal.\n2. Distinguish among species that look alike.\n3. Identify undesirable animal or plant materials in processed foods.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2022_gs1_q100",
+      "type": "single-choice",
+      "question": "Consider the following:\n\n1. Carbon monoxide\n2. Nitrogen oxide\n3. Ozone\n4. Sulphur dioxide\n\nExcess of which of the above in the environment is/are cause(s) of acid rain?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    }
+  ]
+}

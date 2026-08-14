@@ -1,0 +1,3418 @@
+{
+  "metadata": {
+    "name": "Prelims GS Paper I · 2013",
+    "exam": "UPSC CSE",
+    "totalQuestions": 100,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2013,
+    "stage": "Prelims",
+    "paper": "GS1",
+    "section": "prelims-gs1",
+    "sourceId": "upsc_2013_gs1",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2013_gs1_q1",
+      "type": "single-choice",
+      "question": "What will follow if a Money Bill is substantially amended by the Rajya Sabha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Lok Sabha may still proceed with the Bill, accepting or not accepting the recommendations of the Rajya Sabha"
+        },
+        {
+          "id": "b",
+          "text": "The Lok Sabha cannot consider the Bill further"
+        },
+        {
+          "id": "c",
+          "text": "The Lok Sabha may send the Bill to the Rajya Sabha for reconsideration"
+        },
+        {
+          "id": "d",
+          "text": "The President may call a joint sitting for passing the Bill"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q2",
+      "type": "single-choice",
+      "question": "The velocity of a projectile at the initial point A is (2î + 3ĵ) m/s. Its velocity (in m/s) at point B is",
+      "options": [
+        {
+          "id": "a",
+          "text": "In India, the same person cannot be appointed as Governor for two or more States at the same time"
+        },
+        {
+          "id": "b",
+          "text": "The Judges of the High Court of the States in India are appointed by the Governor of the State just as the Judges of the Supreme Court are appointed by the President"
+        },
+        {
+          "id": "c",
+          "text": "No procedure has been laid down in the Constitution of India for the removal of a Governor from his/her post"
+        },
+        {
+          "id": "d",
+          "text": "In the case of a Union Territory having a legislative setup, the Chief Minister is appointed by the Lt. Governor on the basis of majority support"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q3",
+      "type": "single-choice",
+      "question": "Which one of the following pairs is correctly matched?\n\n1. Geographical\n2. Feature\n3. Region",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abyssinian Plateau: Arabia"
+        },
+        {
+          "id": "b",
+          "text": "Atlas Mountains: North-Western Africa"
+        },
+        {
+          "id": "c",
+          "text": "Guiana Highlands: South-Western Africa"
+        },
+        {
+          "id": "d",
+          "text": "Okavango Basin: Patagonia"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q4",
+      "type": "single-choice",
+      "question": "With reference to the history of Indian rock-cut architecture, consider the following statements:\n1. The caves at Badami are the oldest surviving rock-cut caves in India\n2. The Barabar rock-cut caves were originally made for Ajivikas by Emperor Chandragupta Maurya\n3. At Ellora, caves were made for different faiths.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q5",
+      "type": "single-choice",
+      "question": "Recombinant DNA technology (Genetic Engineering) allows genes to be transferred\n1. across different species of plants\n2. from animals to plants\n3. from microorganisms to higher organisms\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q6",
+      "type": "single-choice",
+      "question": "The Chinese traveller Yuan Chwang (Hiuen Tsang) who visited India recorded the general conditions and culture of India at that time. In this context, which of the following statements is/are correct?\n1. The roads and river-routes were completely immune from robbery\n2. As regards punishment for offences, ordeals by fire, water and poison were the instruments for determining the innocence or guilt of a person\n3. The tradesmen had to pay duties at ferries and barrier stations\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q7",
+      "type": "single-choice",
+      "question": "Consider the following\n1. Star tortoise\n2. Monitor lizard\n3. Pygmy hog\n4. Spider monkey\n\nWhich of the above found in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q8",
+      "type": "single-choice",
+      "question": "Which of the following can be found as pollutants in the drinking water in some parts of India?\n1. Arsenic\n2. Sorbitol\n3. Fluoride\n4. Formaldehyde\n5. Uranium\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 4 and 5 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q9",
+      "type": "single-choice",
+      "question": "With reference to Indian History, the Members of the Constituent Assembly from the Provinces were",
+      "options": [
+        {
+          "id": "a",
+          "text": "directly elected by the people of those Provinces"
+        },
+        {
+          "id": "b",
+          "text": "nominated by the Indian National Congress and the Muslim League"
+        },
+        {
+          "id": "c",
+          "text": "elected by the Provincial Legislative Assemblies"
+        },
+        {
+          "id": "d",
+          "text": "selected by the Government for their expertise in constitutional matters"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q10",
+      "type": "single-choice",
+      "question": "Consider the following animals:\n1. Sea cow\n2. Sea horse\n3. Sea lion\n\nWhich of the above is/are mammal/mammals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q11",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. An amendment to the Constitution of India can be initiated by an introduction of a bill in the Lok Sabha only\n2. If such an amendment seeks to make changes in the federal character of the Constitution, the amendment also requires to be ratified by the legislature of all the States of India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q12",
+      "type": "single-choice",
+      "question": "Consider the following statements: Attorney General of India can\n1. take part in the proceedings of the Lok Sabha\n2. be a member of a committee of the Lok Sabha\n3. speak in the Lok Sabha\n4. vote in the Lok Sabha\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q13",
+      "type": "single-choice",
+      "question": "With reference to the usefulness of the by-products of sugar industry, which of the following statements is / are correct?\n1. Bagasse can be used as biomass fuel for the generation of energy\n2. Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers\n3. Molasses can be used for the production of ethanol\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q14",
+      "type": "single-choice",
+      "question": "Variations in the length of daytime and nighttime from season to season are due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "the earth’s rotation on its axis"
+        },
+        {
+          "id": "b",
+          "text": "the earth’s revolution round the sun in an elliptical manner"
+        },
+        {
+          "id": "c",
+          "text": "latitudinal position of the place"
+        },
+        {
+          "id": "d",
+          "text": "revolution of the earth on a tilted axis"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q15",
+      "type": "single-choice",
+      "question": "The Narmada river flows to the west, while most other large peninsular rivers flow to the east. Why?\n1. It occupies a linear rift valley\n2. It flows between the Vindhyas and the Satpuras\n3. The land slopes to the west from Central India\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q16",
+      "type": "single-choice",
+      "question": "On the planet earth, most of the freshwater exists as ice caps and glaciers. Out of the remaining freshwater, the largest proportion",
+      "options": [
+        {
+          "id": "a",
+          "text": "is found in atmosphere as moisture and clouds"
+        },
+        {
+          "id": "b",
+          "text": "is found in freshwater lakes and rivers"
+        },
+        {
+          "id": "c",
+          "text": "exists as groundwater"
+        },
+        {
+          "id": "d",
+          "text": "exists as soil moisture"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q17",
+      "type": "single-choice",
+      "question": "Consider the following pairs:\n1. Nokrek Bio-sphere Reserve: Garo Hills\n2. Logtak (Loktak)Lake: Barail Range\n3. Namdapha National Park: Dafla Hills\n\nWhich of the above pairs is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q18",
+      "type": "single-choice",
+      "question": "Consider the following:\n1. Electromagnetic radiation\n2. Geothermal energy\n3. Gravitational force\n4. Plate movements\n5. Rotation of the earth\n6. Revolution of the earth\n\nWhich of the above are responsible for bringing dynamic changes on the surface of the earth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3 and 4 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 3, 5 and 6 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 4, 5 and 6 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4, 5 and 6"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q19",
+      "type": "single-choice",
+      "question": "Which of the following bodies does not/do not find mention in the Constitution?\n1. National Development Council\n2. Planning Commission\n3. Zonal Councils\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q20",
+      "type": "single-choice",
+      "question": "The demand for the Tebhaga Peasant Movement in Bengal was for",
+      "options": [
+        {
+          "id": "a",
+          "text": "the reduction of the share of the landlords from one-half of the croone-third"
+        },
+        {
+          "id": "b",
+          "text": "the grant of ownership of land to peasants as they were the actual cultivators of the land"
+        },
+        {
+          "id": "c",
+          "text": "the uprooting of Zamindari system and the end of serfdom"
+        },
+        {
+          "id": "d",
+          "text": "writing off all peasant debts"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q21",
+      "type": "single-choice",
+      "question": "The Parliament can make any law for whole or any part of India for implementing international treaties",
+      "options": [
+        {
+          "id": "a",
+          "text": "with the consent of all the States"
+        },
+        {
+          "id": "b",
+          "text": "with the consent of the majority of States"
+        },
+        {
+          "id": "c",
+          "text": "with the consent of the States concerned"
+        },
+        {
+          "id": "d",
+          "text": "without the consent of any State"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q22",
+      "type": "single-choice",
+      "question": "In the grasslands, trees do not replace the grasses as a part of an ecological succession because of",
+      "options": [
+        {
+          "id": "a",
+          "text": "insects and fungi"
+        },
+        {
+          "id": "b",
+          "text": "limited sunlight and paucity of nutrients"
+        },
+        {
+          "id": "c",
+          "text": "water limits and fire"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q23",
+      "type": "single-choice",
+      "question": "Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oceans, lakes, grasslands, mangroves"
+        },
+        {
+          "id": "b",
+          "text": "Mangroves, oceans, grasslands, lakes"
+        },
+        {
+          "id": "c",
+          "text": "Mangroves, grasslands, lakes, oceans"
+        },
+        {
+          "id": "d",
+          "text": "Oceans, mangroves, lakes, grasslands"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q24",
+      "type": "single-choice",
+      "question": "Contour bunding is a method of soil conservation used in",
+      "options": [
+        {
+          "id": "a",
+          "text": "desert margins, liable to strong wind action"
+        },
+        {
+          "id": "b",
+          "text": "low flat plains, close to stream courses, liable to flooding"
+        },
+        {
+          "id": "c",
+          "text": "scrublands, liable to spread of weed growth"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q25",
+      "type": "single-choice",
+      "question": "The Government enacted the Panchayat Extension to Scheduled Areas (PESA) Act in 1996.\n\nWhich one of the following is not identified as its objective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To provide self-governance"
+        },
+        {
+          "id": "b",
+          "text": "To recognize traditional rights"
+        },
+        {
+          "id": "c",
+          "text": "To create autonomous regions in tribal areas"
+        },
+        {
+          "id": "d",
+          "text": "To free tribal people from exploitation"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q26",
+      "type": "single-choice",
+      "question": "Under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, who shall be the authority to initiate the process for determining the nature and extent of individual or community forest rights or both?",
+      "options": [
+        {
+          "id": "a",
+          "text": "State Forest Department"
+        },
+        {
+          "id": "b",
+          "text": "District Collector/Deputy Commissioner"
+        },
+        {
+          "id": "c",
+          "text": "Tahsildar /Block Development Officer / Mandai Revenue Officer"
+        },
+        {
+          "id": "d",
+          "text": "Gram Sabha"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q27",
+      "type": "single-choice",
+      "question": "Improper handling and storage of cereal grains and oilseeds result in the production of toxins known as aflatoxins which are not generally destroyed by normal cooking process. Aflatoxins are produced by",
+      "options": [
+        {
+          "id": "a",
+          "text": "bacteria"
+        },
+        {
+          "id": "b",
+          "text": "protozoa"
+        },
+        {
+          "id": "c",
+          "text": "moulds"
+        },
+        {
+          "id": "d",
+          "text": "viruses"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q28",
+      "type": "single-choice",
+      "question": "'Economic Justice' as one of the objectives of the Indian Constitution has been provided in:",
+      "options": [
+        {
+          "id": "a",
+          "text": "the Preamble and the Fundamental Rights"
+        },
+        {
+          "id": "b",
+          "text": "the Preamble and the Directive Principles of State Policy"
+        },
+        {
+          "id": "c",
+          "text": "the Fundamental Rights and the Directive Principles of State Policy"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q29",
+      "type": "single-choice",
+      "question": "Due to improper / indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste?\n1. Beryllium\n2. Cadmium\n3. Chromium\n4. Heptachlor\n5. Mercury\n6. Lead\n7. Plutonium\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 3, 4, 6 and 7 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2, 3, 5 and 6 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 4, 5 and 7 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4, 5, 6 and 7"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q30",
+      "type": "single-choice",
+      "question": "Acid rain is caused by the pollution of environment by",
+      "options": [
+        {
+          "id": "a",
+          "text": "carbon dioxide and nitrogen"
+        },
+        {
+          "id": "b",
+          "text": "carbon monoxide and carbon dioxide"
+        },
+        {
+          "id": "c",
+          "text": "ozone and carbon dioxide"
+        },
+        {
+          "id": "d",
+          "text": "nitrous oxide and sulphur dioxide"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q31",
+      "type": "single-choice",
+      "question": "With reference to food chains in ecosystems, consider the following statements:\n1. A food chain illustrates the order in which a chain of organisms feed upon each other\n2. Food chains are found within the populations of a species\n3. A food chain illustrates the numbers of each organism which are eaten by others.\n\nWhich of the statements given above is / are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q32",
+      "type": "single-choice",
+      "question": "Consider the following pairs National Park River flowing through the Park\n1. Corbett National Park: Ganga\n2. Kaziranga National Park: Manas\n3. Silent Valley National Park: Kaveri\n\nWhich of the above pairs is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q33",
+      "type": "single-choice",
+      "question": "Consider the following organisms:\n\n1. Agaricus\n2. Nostoc\n3. Spirogyra\n\nWhich of the above is/are used as biofertilizer/biofertilizers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q34",
+      "type": "single-choice",
+      "question": "Which of the following adds/add nitrogen to the soil?\n\n1. Excretion of urea by animals\n2. Burning of coal by man\n3. Death of vegetation\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q35",
+      "type": "single-choice",
+      "question": "In which of the following States is lion-tailed macaque found in its natural habitat?\n1. Tamil Nadu\n2. Kerala\n3. Karnataka\n4. Andhra Pradesh\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q36",
+      "type": "single-choice",
+      "question": "Some Buddhist rock-cut caves are called Chaityas, while the others are called Viharas. What is the difference between the two?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vihara is a place of worship, while Chaitya is the dwelling place of the monks"
+        },
+        {
+          "id": "b",
+          "text": "Chaitya is a place of worship, while Vihara is the dwelling place of the monks"
+        },
+        {
+          "id": "c",
+          "text": "Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it"
+        },
+        {
+          "id": "d",
+          "text": "There is no material difference between the two"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q37",
+      "type": "single-choice",
+      "question": "Which one of the following describes best the concept Nirvana in Buddhism?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The extinction of the flame of desire"
+        },
+        {
+          "id": "b",
+          "text": "The complete annihilation of self"
+        },
+        {
+          "id": "c",
+          "text": "A state of bliss and rest"
+        },
+        {
+          "id": "d",
+          "text": "A mental stage beyond all comprehension"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q38",
+      "type": "single-choice",
+      "question": "According to the Constitution of India, which of the following are fundamental for the governance of the country?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fundamental Rights"
+        },
+        {
+          "id": "b",
+          "text": "Fundamental Duties"
+        },
+        {
+          "id": "c",
+          "text": "Directive Principles of State Policy"
+        },
+        {
+          "id": "d",
+          "text": "Fundamental Rights and Fundamental Duties"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q39",
+      "type": "single-choice",
+      "question": "The people of India agitated against the arrival of Simon Commission because",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indians never wanted the review of the working of the Act of 1919"
+        },
+        {
+          "id": "b",
+          "text": "Simon Commission recommended the abolition of Dyarchy (Diarchy) in the Provinces"
+        },
+        {
+          "id": "c",
+          "text": "there was no Indian member in the Simon Commission"
+        },
+        {
+          "id": "d",
+          "text": "the Simon Commission suggested the partition of the country"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q40",
+      "type": "single-choice",
+      "question": "Quit India Movement was launched in response to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cabinet Mission Plan"
+        },
+        {
+          "id": "b",
+          "text": "Cripps Proposals"
+        },
+        {
+          "id": "c",
+          "text": "Simon Commission Report"
+        },
+        {
+          "id": "d",
+          "text": "Wavell Plan"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q41",
+      "type": "single-choice",
+      "question": "The balance of payments of a country is a systematic record of",
+      "options": [
+        {
+          "id": "a",
+          "text": "all import and transactions of a during a given period normally a year"
+        },
+        {
+          "id": "b",
+          "text": "goods exported from a country during a year"
+        },
+        {
+          "id": "c",
+          "text": "economic transaction between the government of one country to another"
+        },
+        {
+          "id": "d",
+          "text": "capital movements from one country to another"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q42",
+      "type": "single-choice",
+      "question": "The Reserve Bank of India regulates the commercial banks in matters of\n1. liquidity of assets\n2. branch expansion\n3. merger of banks\n4. winding-up of banks\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q43",
+      "type": "single-choice",
+      "question": "An increase in the Bank Rate generally indicates that the",
+      "options": [
+        {
+          "id": "a",
+          "text": "market rate of interest is likely to fall"
+        },
+        {
+          "id": "b",
+          "text": "Central Bank is no longer making loans to commercial banks"
+        },
+        {
+          "id": "c",
+          "text": "Central Bank is following an easy money policy"
+        },
+        {
+          "id": "d",
+          "text": "Central Bank is following a tight money policy"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q44",
+      "type": "single-choice",
+      "question": "In India, deficit financing is used for raising resources for",
+      "options": [
+        {
+          "id": "a",
+          "text": "economic development"
+        },
+        {
+          "id": "b",
+          "text": "redemption of public debt"
+        },
+        {
+          "id": "c",
+          "text": "adjusting the balance of payments"
+        },
+        {
+          "id": "d",
+          "text": "reducing the foreign debt"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q45",
+      "type": "single-choice",
+      "question": "Which of the following characterizes/characterize the people of Indus Civilization?\n\n1. They possessed great palaces and temples.\n2. They worshipped both male and female deities.\n3. They employed horse-drawn chariots in warfare.\n\nSelect the correct statement/statements using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None of the statements given above is correct"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q46",
+      "type": "single-choice",
+      "question": "Which of the following diseases can be transmitted from one person to another through tattooing?\n\n1. Chikungunya\n2. Hepatitis B\n3. HIV-AIDS\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q47",
+      "type": "single-choice",
+      "question": "Which of the following statements is/are applicable to Jain doctrine?\n1. The surest way of annihilating Karma is to practice penance\n2. Every object, even the smallest particle has a soul\n3. Karma is the bane of the soul and must be ended\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q48",
+      "type": "single-choice",
+      "question": "Which one of the following terms describes not only the physical space occupied by an organism, but also its functional role in the community of organisms?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ecotone"
+        },
+        {
+          "id": "b",
+          "text": "Ecological niche"
+        },
+        {
+          "id": "c",
+          "text": "Habitat"
+        },
+        {
+          "id": "d",
+          "text": "Home range"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q49",
+      "type": "single-choice",
+      "question": "Photochemical smog is a resultant of the reaction among",
+      "options": [
+        {
+          "id": "a",
+          "text": "NO2, 03 and peroxyacetyl nitrate in the presence of sunlight"
+        },
+        {
+          "id": "b",
+          "text": "CO, 02 and peroxyacetyl nitrate in the presence of sunlight"
+        },
+        {
+          "id": "c",
+          "text": "CO, CO2 and N02 at low temperature"
+        },
+        {
+          "id": "d",
+          "text": "High concentration of N02, O3 and CO in the evening"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q50",
+      "type": "single-choice",
+      "question": "Consider the following minerals\n1. Calcium\n2. Iron\n3. Sodium Which of the minerals given above is/are required by human body for the contraction of muscles?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q51",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\nThe Parliamentary Committee on Public Accounts\n\n1. consists of not more than 25 Members of the Lok Sabha\n2. scrutinizes appropriation and finance accounts of the Government\n3. examines the report of the Comptroller and Auditor General of India\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q52",
+      "type": "single-choice",
+      "question": "Consider the following Bhakti Saints:\n1. Dadu Dayal\n2. Guru Nanak\n3. Tyagaraja Who among the above was/were preaching when the Lodi dynasty fell and Babur took over?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1 and 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q53",
+      "type": "single-choice",
+      "question": "With reference to the food chains in ecosystems, which of the following kinds of organism is / are known as decomposer organism/organisms?\n1. Virus\n2. Fungi\n3. Bacteria\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q54",
+      "type": "single-choice",
+      "question": "The most important fishing grounds of the world are found in the regions where",
+      "options": [
+        {
+          "id": "a",
+          "text": "warm and cold atmospheric currents meet"
+        },
+        {
+          "id": "b",
+          "text": "rivers drain out large amounts of fresh water into the sea"
+        },
+        {
+          "id": "c",
+          "text": "warm and cold oceanic currents meet"
+        },
+        {
+          "id": "d",
+          "text": "continental shelf is undulating"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q55",
+      "type": "single-choice",
+      "question": "Which of the following is/are unique characteristic/characteristics of equatorial forests?\n1. Presence of tall, closely set trees with crowns forming a continuous canopy\n2. Coexistence of a large number of species\n3. Presence of numerous varieties of epiphytes\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q56",
+      "type": "single-choice",
+      "question": "Which of the following constitute Capital Account?\n1. Foreign Loans\n2. Foreign Direct Investment\n3. Private Remittances\n4. Portfolio Investment\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q57",
+      "type": "single-choice",
+      "question": "Consider the following historical places:\n1. Ajanta Caves\n2. Lepakshi Temple\n3. Sanchi Stupa\n\nWhich of the above places is / are also known for mural paintings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q58",
+      "type": "single-choice",
+      "question": "With reference to the history of philosophical thought in India, consider the following statements regarding Sankhya school:\n1. Sankhya does not accept the theory of rebirth or transmigration of soul\n2. Sankhya holds that it is the self-knowledge that leads to liberation and not any exterior influence or agent.\n\nWhich of the statements given above is /are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q59",
+      "type": "single-choice",
+      "question": "In the context of India, which of the following principles is/are implied institutionally in the parliamentary government?\n1. Members of the Cabinet are Members of the Parliament\n2. Ministers hold the office till they enjoy confidence in the Parliament\n3. Cabinet is headed by the Head of the State\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q60",
+      "type": "single-choice",
+      "question": "The annual range of temperature in the interior of the continents is high as compared to coastal areas. What is / are the reason / reasons?\n1. Thermal difference between land and water\n2. Variation in altitude between continents and oceans\n3. Presence of strong winds in the interior\n4. Heavy rains in the interior as compared to coasts\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q61",
+      "type": "single-choice",
+      "question": "Which of the following is / are the characteristic/ characteristics of Indian coal?\n1. High ash content\n2. Low sulphur content\n3. Low ash fusion temperature\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q62",
+      "type": "single-choice",
+      "question": "Which of the following statements regarding laterite soils of India are correct?\n1. They are generally red in colour\n2. They are rich In nitrogen and potash\n3. Tiley are well-developed in Rajasthan and UP\n4. Tapioca and cashew nuts grow well on these soils\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q63",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Natural gas occurs in the Gondwana beds\n2. Mica occurs in abundance in Kodarma\n3. Dharwars are famous for petroleum.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q64",
+      "type": "single-choice",
+      "question": "Consider the following crops\n1. Cotton\n2. Groundnut\n3. Rice\n4. Wheat Which of these are Kharif crops?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 4"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q65",
+      "type": "single-choice",
+      "question": "“Climate is extreme, rainfall is scanty and the people used to be nomadic herders.” The above statement best describes which of the following regions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "African Savannah"
+        },
+        {
+          "id": "b",
+          "text": "Central Asian Steppe"
+        },
+        {
+          "id": "c",
+          "text": "North American Prairie"
+        },
+        {
+          "id": "d",
+          "text": "Siberian Tundra"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q66",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. Inflation benefits the debtors\n2. Inflation benefits the bond-holders.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q67",
+      "type": "single-choice",
+      "question": "Disguised unemployment generally means",
+      "options": [
+        {
+          "id": "a",
+          "text": "large number of people remain unemployed"
+        },
+        {
+          "id": "b",
+          "text": "alternative employment is not available"
+        },
+        {
+          "id": "c",
+          "text": "marginal productivity of labour is zero"
+        },
+        {
+          "id": "d",
+          "text": "productivity of workers is low"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q68",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Council of Ministers in the Centre shall be collectively responsible to the Parliament.\n2. The Union Ministers shall hold the office during the pleasure of the President of India.\n3. The Prime Minister shall communicate to the President about the proposals for legislation.\n\nWhich of the Statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q69",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. National Development Council is an organ of the Planning Commission\n2. The Economic and Social Planning is kept in the Concurrent List in the Constitution of India\n3. The Constitution of India prescribes that Panchayats should be assigned the task of preparation of plans for economic development and social justice.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q70",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. The Chairman and the Deputy Chairman of the Rajya Sabha are not the members of that House\n2. While the nominated members of the two Houses of the Parliament have no voting right in the presidential election, they have the right to vote in the election of the Vice President.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q71",
+      "type": "single-choice",
+      "question": "With reference to National Legal Services Authority, consider the following statements:\n1. Its objective is to provide free and competent legal services to the weaker sections of the society on the basis of equal opportunity.\n2. It issues guidelines for the State Legal Services Authorities to implement the legal programmes and schemes throughout the country.\n\nWhich of the statements given above is / are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q72",
+      "type": "single-choice",
+      "question": "During a thunderstorm, the thunder in the skies is produced by the\n1. meeting of cumulonimbus clouds in the sky\n2. lightning that separates the nimbus clouds\n3. violent upward movement of air and water particles\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None of the above produces the thunder"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q73",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Tribe State\n1. Limboo (Limbu) : Sikkim\n2. Karbi: Himachal Pradesh\n3. Dongaria: Odisha\n4. Bonda: Tamil Nadu\n\nWhich of the above pairs are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q74",
+      "type": "single-choice",
+      "question": "Consider the following liquid assets:\n1. Demand deposits with the banks\n2. Time deposits with the banks\n3. Savings deposits with the banks\n4. Currency The correct sequence of these decreasing order of Liquidity is",
+      "options": [
+        {
+          "id": "a",
+          "text": "1-4-3-2"
+        },
+        {
+          "id": "b",
+          "text": "4-3-2-1"
+        },
+        {
+          "id": "c",
+          "text": "2-3-1-4"
+        },
+        {
+          "id": "d",
+          "text": "4-1-3-2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q75",
+      "type": "single-choice",
+      "question": "In the context of Indian economy, Open Market Operations’ refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "borrowing by scheduled banks from the RBI"
+        },
+        {
+          "id": "b",
+          "text": "lending by commercial banks to industry and trade"
+        },
+        {
+          "id": "c",
+          "text": "purchase and sale of government securities by the RBI"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q76",
+      "type": "single-choice",
+      "question": "Priority Sector Lending by banks in India constitutes the lending to",
+      "options": [
+        {
+          "id": "a",
+          "text": "agriculture"
+        },
+        {
+          "id": "b",
+          "text": "micro and small enterprises"
+        },
+        {
+          "id": "c",
+          "text": "weaker sections"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q77",
+      "type": "single-choice",
+      "question": "Which one of the following is likely to be the most inflationary in its effect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Repayment of public debt"
+        },
+        {
+          "id": "b",
+          "text": "Borrowing from the public to finance a budget deficit"
+        },
+        {
+          "id": "c",
+          "text": "Borrowing from banks to finance a budget deficit"
+        },
+        {
+          "id": "d",
+          "text": "Creating new money to finance a budget deficit"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q78",
+      "type": "single-choice",
+      "question": "To obtain full benefits of demographic dividend, what should India do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Promoting skill development"
+        },
+        {
+          "id": "b",
+          "text": "Introducing more social security schemes"
+        },
+        {
+          "id": "c",
+          "text": "Reducing infant mortality rate"
+        },
+        {
+          "id": "d",
+          "text": "Privatization of higher education"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q79",
+      "type": "single-choice",
+      "question": "In the context of cultural history of India, a pose in dance and dramatics called ‘Tribhanga’ has been a favourite of Indian artists from ancient times till today.\n\nWhich one of the following statements best describes this pose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One leg is bent and the body is slightly but oppositely curved at waist and neck"
+        },
+        {
+          "id": "b",
+          "text": "Facial expressions, hand gestures and make-up are combined to symbolize certain epic or historic characters"
+        },
+        {
+          "id": "c",
+          "text": "Movements of body, face and hands are used to express oneself or to tell a story"
+        },
+        {
+          "id": "d",
+          "text": "A little smile, slightly curved waist and certain hand gestures are emphasized to express the feelings of love or eroticism"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q80",
+      "type": "single-choice",
+      "question": "Annie Besant was\n1. responsible for starting the Home Rule Movement\n2. the founder of the Theo-sophical Society\n3. once the President of the Indian National Congress\n\nSelect the correct statement/statements using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q81",
+      "type": "single-choice",
+      "question": "The Ilbert Bill controversy was related to the",
+      "options": [
+        {
+          "id": "a",
+          "text": "imposition restrictions the Indians of certain to carry arms by Indians"
+        },
+        {
+          "id": "b",
+          "text": "imposition of restrictions on newspapers and magazines published in Indian languages"
+        },
+        {
+          "id": "c",
+          "text": "removal of disqualifications imposed on the Indian magistrates with regard to the trial of the Europeans"
+        },
+        {
+          "id": "d",
+          "text": "removal of a duty on imported cotton cloth"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q82",
+      "type": "single-choice",
+      "question": "A rise in general level of prices may be caused by\n\n1. an increase in the money supply\n2. a decrease in the aggregate level of output\n3. an increase in the effective demand\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q83",
+      "type": "single-choice",
+      "question": "Which one of the following groups of items is included in India’s foreign-exchange reserves?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Foreign-currency assets, Special Drawing Rights (SDRs) and loans from foreign countries"
+        },
+        {
+          "id": "b",
+          "text": "Foreign-currency assets, gold holdings of the RBI and SDRs"
+        },
+        {
+          "id": "c",
+          "text": "Foreign-currency assets, loans from the World Bank and SDRs"
+        },
+        {
+          "id": "d",
+          "text": "Foreign-currency assets, gold holdings of the RBI and loans from the World Bank"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q84",
+      "type": "single-choice",
+      "question": "Which of the following grants/grant direct credit assistance to rural households?\n\n1. Regional Rural Banks\n2. National Bank for Agriculture and Rural Development\n3. Land Development Banks\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q85",
+      "type": "single-choice",
+      "question": "Supply of money remaining the same when there is an increase in demand for money, there will be:",
+      "options": [
+        {
+          "id": "a",
+          "text": "a fall in the level of prices"
+        },
+        {
+          "id": "b",
+          "text": "an increase in the rate of interest"
+        },
+        {
+          "id": "c",
+          "text": "a decrease in the rate of interest"
+        },
+        {
+          "id": "d",
+          "text": "an increase in the level of income and employment"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q86",
+      "type": "single-choice",
+      "question": "Fruits stored in a cold chamber exhibit longer storage life because",
+      "options": [
+        {
+          "id": "a",
+          "text": "exposure to sunlight is prevented"
+        },
+        {
+          "id": "b",
+          "text": "concentration dioxide in the is increased of carbon environment"
+        },
+        {
+          "id": "c",
+          "text": "rate of respiration is decreased"
+        },
+        {
+          "id": "d",
+          "text": "there is an increase in humidity"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q87",
+      "type": "single-choice",
+      "question": "Consider the following fauna of India:\n1. Gharial\n2. Leatherback turtle\n3. Swamp deer\n\nWhich of the above is/are endangered?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q88",
+      "type": "single-choice",
+      "question": "Ball bearings are used in bicycles, cars, etc., because",
+      "options": [
+        {
+          "id": "a",
+          "text": "the actual between the is increased area of contact wheel and axle"
+        },
+        {
+          "id": "b",
+          "text": "the effective between the is increased area of contact wheel and axle"
+        },
+        {
+          "id": "c",
+          "text": "the effective between the is reduced area of contact wheel and axle"
+        },
+        {
+          "id": "d",
+          "text": "None of the above statements is correct"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q89",
+      "type": "single-choice",
+      "question": "Consider the following phenomena:\n1. Size of the sun at dusk\n2. Colour of the sun at dawn\n3. Moon being visible at dawn\n4. Twinkle of stars in the sky\n5. Polestar being visible in the sky\n\nWhich of the above are optical illusions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "3, 4 and 5"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q90",
+      "type": "single-choice",
+      "question": "Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena are responsible for this?\n1. Dispersion\n2. Refraction\n3. Internal reflection\n\nSelect the correct answer using the codes given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q91",
+      "type": "single-choice",
+      "question": "Many transplanted seedlings do not grow because",
+      "options": [
+        {
+          "id": "a",
+          "text": "the new soil does not contain favourable minerals"
+        },
+        {
+          "id": "b",
+          "text": "most of the root hairs grip the new soil too hard"
+        },
+        {
+          "id": "c",
+          "text": "most of the root hairs are lost during transplantation"
+        },
+        {
+          "id": "d",
+          "text": "leaves get damaged during transplantation"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q92",
+      "type": "single-choice",
+      "question": "Economic growth in country X will necessarily have to occur if",
+      "options": [
+        {
+          "id": "a",
+          "text": "there is technical progress in the world economy"
+        },
+        {
+          "id": "b",
+          "text": "there is population growth in X"
+        },
+        {
+          "id": "c",
+          "text": "there is capital formation in X"
+        },
+        {
+          "id": "d",
+          "text": "the volume of trade grows in the world economy"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q93",
+      "type": "single-choice",
+      "question": "Which of the following statements is / are correct?\n1. Viruses lack enzymes necessary for the generation of energy\n2. Viruses can be cultured in any synthetic medium\n3. Viruses are transmitted from one organism to another by biological vectors only\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q94",
+      "type": "single-choice",
+      "question": "Which of the following leaf modifications occurs/occur in desert areas to inhibit water loss?\n1. Hard and waxy leaves\n2. Tiny leaves or no leaves\n3. Thorns instead of leaves\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q95",
+      "type": "single-choice",
+      "question": "The known forces of nature can be divided into four classes, viz, gravity electromagnetism, weak nuclear force and strong nuclear force. with reference to them, which one of the following statements is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gravity is the strongest of the four"
+        },
+        {
+          "id": "b",
+          "text": "Electromagnetism act only on particles with an electric charge"
+        },
+        {
+          "id": "c",
+          "text": "Weak nuclear force causes radioactivity"
+        },
+        {
+          "id": "d",
+          "text": "Strong nuclear force holds protons and neutrons inside the nuclear of an atom"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q96",
+      "type": "single-choice",
+      "question": "The efforts to detect the existence of Higgs boson particle have become frequent news in the recent past. What is/are the importance/importances of discovering this particle?\n\n1. It will enable us to understand as to why elementary particles have mass.\n2. It will enable us in the near future to develop the technology of transferring matter from one point to another without traversing the physical space between them.\n3. It will enable us to create better fuels for nuclear fission.\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q97",
+      "type": "single-choice",
+      "question": "Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to\n1. resist drought and increase absorptive area\n2. tolerate extremes of PH\n3. Resist disease infestation\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q98",
+      "type": "single-choice",
+      "question": "Who among the following constitute the National Development Council?\n1. The Prime Minister\n2. The Chairman, Finance Commission\n3. Ministers of the Union Cabinet\n4. Chief Ministers of the States\n\nSelect the correct answer using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q99",
+      "type": "single-choice",
+      "question": "The national income of a country for a given period is equal to the",
+      "options": [
+        {
+          "id": "a",
+          "text": "total value of goods and services produced by the nationals"
+        },
+        {
+          "id": "b",
+          "text": "sum of total consumption and investment expenditure"
+        },
+        {
+          "id": "c",
+          "text": "sum of personal income of all individuals"
+        },
+        {
+          "id": "d",
+          "text": "money value of final goods and services produced"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2013_gs1_q100",
+      "type": "single-choice",
+      "question": "Which of the following grants/ grant direct credit assistance to rural households?\n1. Regional Rural Banks\n2. National Bank for Agriculture and Rural Development\n3. Land Development Banks\n\nSelect the correct anser using the codes given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    }
+  ]
+}

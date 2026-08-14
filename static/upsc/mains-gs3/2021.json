@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper III · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "GS3",
+    "section": "mains-gs3",
+    "sourceId": "upsc_2021_mains_gs3",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_gs3_q1",
+      "type": "fill-blank",
+      "question": "Explain the difference between the computing methodology of India’s Gross Domestic Product (GDP) before the year 2015 and after the year 2015.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q2",
+      "type": "fill-blank",
+      "question": "Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q3",
+      "type": "fill-blank",
+      "question": "How did land reforms in some parts of the country help improve the socio-economic conditions of marginal and small farmers?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q4",
+      "type": "fill-blank",
+      "question": "How and to what extent would micro-irrigation help in solving India’s water crisis?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q5",
+      "type": "fill-blank",
+      "question": "How is the S-400 air defence system technically superior to any other system presently available in the world?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q6",
+      "type": "fill-blank",
+      "question": "Explain the purpose of the Green Grid Initiative launched at the World Leaders Summit of the COP26 UN Climate Change Conference in Glasgow in November\n2021. When was this idea first floated in the International Solar Alliance (ISA)?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q7",
+      "type": "fill-blank",
+      "question": "Describe the key points of the revised Global Air Quality Guidelines (AQGs) recently released by the World Health Organisation (WHO). How are these different from its last update in 2005? What changes in India’s National Clean Air Programme are required to achieve these revised standards?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q8",
+      "type": "fill-blank",
+      "question": "Discuss the vulnerability of India to earthquake-related hazards. Give examples including the salient features of major disasters caused by earthquakes in different parts of India during the last three decades.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q9",
+      "type": "fill-blank",
+      "question": "Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q10",
+      "type": "fill-blank",
+      "question": "Keeping in view India’s internal security, analyse the impact of cross-border cyber attacks. Also, discuss defensive measures against these sophisticated attacks.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q11",
+      "type": "fill-blank",
+      "question": "Do you agree that the Indian economy has recently experienced V- shapes recovery? Give reasons in support of your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q12",
+      "type": "fill-blank",
+      "question": "“ Investment in infrastructure is essential for more rapid and inclusive economic growth.” Discuss in the light of India’s experience.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q13",
+      "type": "fill-blank",
+      "question": "What are the salient features of the National Food Security Act, 2013? How has the Food Security Bill helped in eliminating hunger and malnutrition in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q14",
+      "type": "fill-blank",
+      "question": "What are the present challenges before crop diversification? How do emerging technologies provide an opportunity for crop diversification?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q15",
+      "type": "fill-blank",
+      "question": "What are the research and developmental achievements in applied biotechnology? How will these achievements help uplift the poorer sections of society?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q16",
+      "type": "fill-blank",
+      "question": "The Nobel Prize in Physics of 2014 was jointly awarded to Akasaki, Amano and Nakamura for the invention of Blue LEDs in the 1990s. How has this invention impacted the everyday life of human beings?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q17",
+      "type": "fill-blank",
+      "question": "Describe the major outcomes of the 26th session of the Conference of the Parties (COP) to the United Nations Framework Convention on Climate Change ( UNFCC C). What are the commitments made by India at this conference?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q18",
+      "type": "fill-blank",
+      "question": "Describe the various causes and the effects of landslides. Mention the important components of the National Landslide Risk Management Strategy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q19",
+      "type": "fill-blank",
+      "question": "Analyse the multidimensıonal challenges posed by external state and non-state actors, to the internal security of India. Also, discuss measures required to be taken to combat these threats.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_gs3_q20",
+      "type": "fill-blank",
+      "question": "Analyse the complexity and intensity of terrorism, its causes, linkages and obnoxious nexus. Also, suggest measures required to be taken to eradicate the menace of terrorism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    }
+  ]
+}

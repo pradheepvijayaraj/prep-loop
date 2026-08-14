@@ -1,0 +1,4 @@
+Consider the following statements: The Reserve Bank of India’s recent directives relating to ‘Storage of Payment System Data’, popularly known as data diktat, command the payment system providers that
+1. They shall ensure that entire data relating to payment systems operated by them are stored in a system only in India
+2. They shall ensure that the systems are owned and operated by pubic sectore enterprises
+3. They shall submit the consolidated system audit report to the Comptroller and Auditor General of India by the end of the calendar year Which of the statement given above is are correct

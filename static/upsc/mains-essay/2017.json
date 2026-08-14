@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2017_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Farming has lost the ability to be a source of subsistence for majority of farmers in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Impact of the new economic measures on fiscal ties between the union and states in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Destiny of a nation is shaped in its classrooms.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Has the Non-Alignment Movement (NAM) lost its relevance in a multipolar world?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Joy is the simplest form of gratitude.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "Fulfilment of 'new woman' in India is a myth.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_essay_q7",
+      "type": "fill-blank",
+      "question": "We may brave human laws but cannot resist natural laws.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_essay_q8",
+      "type": "fill-blank",
+      "question": "Social media is inherently a selfish medium.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

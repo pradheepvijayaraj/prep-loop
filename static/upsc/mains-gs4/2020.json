@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper IV · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 19,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "GS4",
+    "section": "mains-gs4",
+    "sourceId": "upsc_2020_mains_gs4",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_gs4_q1",
+      "type": "fill-blank",
+      "question": "\"Hatred is destructive of a person's wisdom and conscience that can poison a nation's spirit.\" Do you agree with this view? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q2",
+      "type": "fill-blank",
+      "question": "A positive attitude is considered to be an essential characteristic of a civil servant who is often required to function under extreme stress. What contributes a positive attitude in person.?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q3",
+      "type": "fill-blank",
+      "question": "What teachings of Buddha are most relevant today and why? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q4",
+      "type": "fill-blank",
+      "question": "\"Education is not an injunction, it is an effective and pervasive tool for all-round development of an individual and social transformation\". Examine the New Education Policy,2020 (NEP,2020) in light of the above statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q5",
+      "type": "fill-blank",
+      "question": "'The will to power exists, but it can be tamed and be guided by rationality and principles of moral duty.' Examine this statement in the context of international relations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q6",
+      "type": "fill-blank",
+      "question": "Distinguish between laws and rules. Discuss the role of ethics in formulating them.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q7",
+      "type": "fill-blank",
+      "question": "Discuss the role of ethics and values in enhancing the following three major components of Comprehensive National Power (CNP) viz. human capital, soft power (culture and policies), and social harmony.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q8",
+      "type": "fill-blank",
+      "question": "What are the main components of emotional intelligence (EI) ? Can they be learned? discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q9",
+      "type": "fill-blank",
+      "question": "“A system of morality which is based on relative emotional values is a mere illusion, a thoroughly vulgar conception which has nothing sound in it and nothing true.” – Socrates. What does this quotation convey to you in the present context?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q10",
+      "type": "fill-blank",
+      "question": "What are the main factors responsible for gender inequality in India? Discuss the contribution of Savitribai Phule in this regard.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q11",
+      "type": "fill-blank",
+      "question": "“The best way to find yourself is to lose yourself in service of others.” Mahatma Gandhi.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q12",
+      "type": "fill-blank",
+      "question": "Condemn none:\n\n1. if you can stretch out a helping hand do so.\n2. If not fold your hands, bless your brothers and let them go their own way.” – Swami Vivekananda.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q13",
+      "type": "fill-blank",
+      "question": "The current internet expansion has instilled a different set of cultural values which clash with traditional values. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q14",
+      "type": "fill-blank",
+      "question": "Rajesh Kumar is a senior public servant, with a reputation of honesty and forthrightness, currently posted in the Finance Ministry as Head of the Budget Division. His department is presently busy in organising the budgetary support to the states, four of which are due to go to the polls within the financial year.\n\nThis year’s annual budget had allotted Rs. 8300 crores for National Housing Scheme (NHS), a centrally sponsored social housing scheme for the weaker sections of society. Rs. 775 crores have been drawn for NHS till June.\n\nThe Ministry of Commerce had long been pursuing a case for setting up a Special Economic Zone (SEZ) in a southern state to boost exports. After two years of detailed discussions between the centre and state, the Union Cabinet approved the project in August. The process was initiated to acquire the necessary land.\n\nEighteen months ago a leading Public Sector Unit (PSU) had projected the need for setting up a large natural gas processing plant in a northern state for the regional gas grid. The required land is already in possession of the PSU. The gas grid is an essential component of the national energy security strategy. After three rounds of global bidding the project was allotted to an MNC, M/s XYZ Hydrocarbons. The first tranche of payment to the MNC is scheduled to be made in December.\n\nFinance Ministry was asked for a timely allocation of an additional Rs. 6000 crores for these two developmental projects. It was decided to recommend re-appropriation of this entire amount from the NHS allocation. The file was forwarded to Budget Department for their comments and further processing. On studying the case file, Rajesh Kumar realized that this re-appropriation may cause inordinate delay in the execution of NHS, a project much publicized in the rallies of senior politicians. Correspondingly, non-availability of finances would cause financial loss in the SEZ and national embarrassment due to delayed payment in an international project.\n\nRajesh Kumar discussed the matter with his seniors. He was conveyed that this politically sensitive situation needs to be processed immediately. Rajesh Kumar realized that diversion of funds from NHS could raise difficult questions for the government in the Parliament.\n\nDiscuss the following with reference to this case:\n\n1. Ethical issues involved in re-appropriation of funds from a welfare project to the developmental projects.\n2. Given the need for proper utilization of public funds, discuss the options available to Rajesh Kumar.\n3. Is resigning a worthy option?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 20.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q15",
+      "type": "fill-blank",
+      "question": "The Chairman of Bharat Missiles Ltd (BML) was watching a program on TV wherein the Prime Minister was addressing the nation on the necessity of developing a self-reliant India. He subconsciously nodded in agreement and smiled to himself as he mentally reviewed BML’s journey in the past two decades. BML had admirably progressed from producing first generation anti-tank guided missiles (ATGMs) to designing and producing state of the art ATGM weapon systems that would be the envy of any army. He sighed in reconciliation with his assumptions that the government would probably not alter the status quo of a ban on export of military weaponry.\n\nTo his surprise, the very next day he got a telephone call from the Director General, Ministry of Defence, asking him to discuss the modalities of increasing BML production of ATGMs as there is a possibility of exporting the same to a friendly foreign country. The Director General wanted the Chairman to discuss the details with his staff at Delhi next week.\n\nTwo days later, at a press conference, the Defence Minister stated that he aims to double the current weapons export levels within five years.This would give an impetus to financing the development and manufacture of indigenous weapons in the country. He also stated that all indigenous arms manufacturing nations have a very good record of international arms trade.\n\nAs Chairman of BML, what are your views on the following points?\n\nAs an arms exporter of a responsible nation like India, what are the ethical issues involved in arms trade?\n\nList five ethical factors that would influence the decision to sell arms to foreign governments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 20.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q16",
+      "type": "fill-blank",
+      "question": "Rampura, a remote district inhabited by a tribal population, is marked by extreme backwardness and abject poverty. Agriculture is the mainstay of the local population, though it is primarily subsistence due to the very small land holdings. There is insignificant industrial or mining activity. Even the targeted welfare programs have inadequately benefited the tribal population. In this restrictive scenario, the youth has begun to migrate to other states to supplement the family income. Plight of minor girls is that their parents are persuaded by labour contractors to send them to work in the Bt Cotton farms of a nearby state. The soft fingers of the minor girls are well suited for plucking the cotton. The inadequate living and working conditions in these farms have caused serious health issued for the minor girls. NGOs in the districts of domicile and the cotton farms appear to be compromised and have not effectively espoused the twin issues of child labour and development of the area.\n\nYou are appointed as the District Collector of Rampura. Identify the ethical issues involved. Which specific steps will you initiate to ameliorate the conditions of minor girls of your district and to improve the over-all economic scenario in the district?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 20.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q17",
+      "type": "fill-blank",
+      "question": "You are a municipal commissioner of a large city, having the reputation of a very honest and upright officer. A huge multipurpose mall is under construction in your city in which a large number of daily wage earners are employed. One night, during monsoons, a big chunk of the roof collapsed causing instant death of four labourers including two minors. Many more were seriously injured requiring immediate medical attention. The mishap resulted in a big hue and cry, forcing the government to institute an enquiry.\n\nYour preliminary enquiry has revealed a series of anomalies. The material used for the construction was of poor quality. Despite the approved building plans permitting only one basement, an additional basement has been constructed. This was overlooked during the periodic inspections by the building inspector of the municipal corporation. In your enquiry, you noticed that the construction of the mall was given the green signal despite encroaching on areas earmarked for a green belt and a slip road in the Zonal Master Plan of the city. The permission to construct the mall was accorded by the previous Municipal Commissioner who is not only your senior and well known to you professionally, but also a good friend.\n\nPrima facie, the case appears to be of a widespread nexus between the officials of the Municipal Corporation and the builders. Your colleagues are putting pressure on you to go slow in the enquiry. The builder, who is rich and influential, happens to be close relative of a powerful minister in the state cabinet. The builder is persuading you to hush up the matter, promising you a fortune to do so. He also hinted that if this matter is not resolved at the earliest in his favour there is somebody in his office who is waiting to file a case against you under the POSH Act.\n\nDiscuss the ethical issues involved in the case. What are the options available to you in this situation? Explain your selected course of action.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 20.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q18",
+      "type": "fill-blank",
+      "question": "Parmal is a small but underdeveloped district. It has rocky terrain that is not suitable for agriculture, though some subsistence agriculture is being done on small plots of land. The are receives adequate rainfall and has an irrigation canal flowing through it. Amria, its administrative centre, is a medium sized town. It houses a large district hospital, an Industrial Training Institute and some privately owned skill training centres. It has all the facilities of a district headquarters. A trunk railway line passes approximately 50 kilometers from Amria. Its poor connectivity is a major reason for the absence of any major industry therein. The state government offers a 10 years tax holiday as an incentive to new industry.\n\nIn 2010 Anil, an industrialist, decided to take benefits to set up Amria Plastic Works (APW) in Noora, village, about 20 km from Amria. While the factory was being built, Anil hired the required key labour and got them trained at the skill training centres at Amria. This act of his made the key personnel very loyal to APW.\n\nAPW started production in 2011 with the labour drawn fully from Noora village. The villagers were very happy to get employment near their homes and were motivated by the key personnel to meet the production targets with high quality. APW started making large profits, a sizeable portion of which was used to improve the quality of life in Noora. By 2016, Noora could boast of a greener village and a renovated village temple. Anil liaised with the local MLA to increase the frequency of the bus services to Amria. The government also opened a primary health care centre and primary school at Noora in buildings constructed by APW. APW used its CSR funds to set up women’s self-help groups, subsidize primary education to the village children and procure an ambulance for use by its employees and the needy.\n\nIn 2019, there was a minor fire in APW. It was quickly extinguished as fire safety protocols were in place in the factory. Investigations revealed that the factory had been using electricity in excess of its authorized capacity. This was soon rectified. The next year, due to a nationwide lockdown, the requirement of production fell for four months. Anil decided that all employees would be paid regularly. He employed them to plant trees and improve the village habitat.\n\nAPW had developed a reputation of high quality production and a motivated workforce.\n\nCritically analyse the story of APW and state the ethical issues involved. Do you consider APW as a role model for development of backward areas? Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 20.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_gs4_q19",
+      "type": "fill-blank",
+      "question": "Migrant workers have always remained at the socio-economic margins of our society, silently serving as the instrumental labour force of urban economics. The pandemic has brought them into national focus.\n\nOn announcement of a countrywide lockdown, a very large number of migrant workers decided to move back from their places of employment to their native villages. The non-availability of transport created its own problems. Added to this was the fear of starvation and inconvenience to their families. This caused, the migrant workers to demand wages and transport facilities for returning to their villages.Their mental agony was accentuated by multiple factors such as sudden loss of livelihood, possibility of lack of food and inability to assist in harvesting their rabi crop due to not being able to reach home in time. Reports of inadequate response of some districts in providing the essential boarding and lodging arrangements along the way multiplied their fears.\n\nYou have learnt many lessons from this situation when you were tasked to oversee the functioning of the District Disaster Relief Force in your district. In your opinion what ethical issues arose in the current migrant crisis? What do you understand by an ethical caregiving state? What assistance can the civil society render to mitigate the sufferings of migrants in similar situations?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 20.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper IV",
+        "descriptive"
+      ]
+    }
+  ]
+}

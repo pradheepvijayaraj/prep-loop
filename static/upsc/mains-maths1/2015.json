@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2015_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) The vectors $V_{1}=(1, 1,2, 4)$, $V_{2}=(2,-1,-5, 2)$, $V_{3}=(1,-1,-4, 0)$ and $V_{4}=(2, 1,1, 6)$ are linearly independent. Is it true? Justify your answer.\n(b) Reduce the following matrix to row echelon form and hence find its rank: $\\begin{pmatrix} 1 & 2 & 3 & 4 \\\\ 2 & 1 & 4 & 5 \\\\ 1 & 5 & 5 & 7 \\\\ 8 & 1 & 14 & 17 \\end{pmatrix}$.\n(c) Evaluate the following limit: $\\displaystyle\\lim_{x\\to a}\\left(2-\\frac{x}{a}\\right)^{\\tan(\\pi x/(2a))}$.\n(d) Evaluate the following integral: $\\displaystyle\\int_{\\pi/6}^{\\pi/3}\\frac{(\\sin x)^{1/3}}{(\\sin x)^{1/3}+(\\cos x)^{1/3}}\\,dx$.\n(e) For what positive value of $a$, the plane $ax-2y+z+12=0$ touches the sphere $x^{2}+y^{2}+z^{2}-2x-4y+2z-3=0$ and hence find the point of contact.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) If matrix $A=\\begin{pmatrix} 1 & 0 & 0 \\\\ 1 & 0 & 1 \\\\ 0 & 1 & 0 \\end{pmatrix}$, then find $A^{30}$.\n(b) A conical tent is of given capacity. For the least amount of canvas required for it, find the ratio of its height to the radius of its base.\n(c) Find the eigenvalues and eigenvectors of the matrix $\\begin{pmatrix} 1 & 1 & 3 \\\\ 1 & 5 & 1 \\\\ 3 & 1 & 1 \\end{pmatrix}$.\n(d) If $6x=3y=2z$ represents one of the three mutually perpendicular generators of the cone $5yz-8zx-3xy=0$, then obtain the equations of the other two generators.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $V=\\mathbb{R}^{3}$ and $T\\in A(V)$, for all $a_{i}\\in A(V)$, be defined by $T(a_{1},a_{2},a_{3})=(2a_{1}+5a_{2}+a_{3},\\,-3a_{1}+a_{2}-a_{3},\\,-a_{1}+2a_{2}+3a_{3})$. What is the matrix of $T$ relative to the basis $V_{1}=(1, 0,1)$, $V_{2}=(-1, 2,1)$, $V_{3}=(3,-1, 1)$?\n(b) Which point of the sphere $x^{2}+y^{2}+z^{2}=1$ is at the maximum distance from the point $(2, 1,3)$?\n(c) (i) Obtain the equation of the plane passing through the points $(2, 3,1)$ and $(4,-5, 3)$ parallel to the $x$-axis.\n(ii) Verify if the lines $\\dfrac{x-(a-d)}{\\alpha-\\delta}=\\dfrac{y-a}{\\alpha}=\\dfrac{z-(a+d)}{\\alpha+\\delta}$ and $\\dfrac{x-(b-c)}{\\beta-\\gamma}=\\dfrac{y-b}{\\beta}=\\dfrac{z-(b+c)}{\\beta+\\gamma}$ are coplanar. If yes, then find the equation of the plane in which they lie.\n(d) Evaluate the integral $\\iint_{R}(x-y)^{2}\\cos^{2}(x+y)\\,dx\\,dy$, where $R$ is the rhombus with successive vertices $(\\pi,0)$, $(2\\pi,\\pi)$, $(\\pi,2\\pi)$, $(0,\\pi)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Evaluate $\\iint_{R}\\sqrt{|y-x^{2}|}\\,dx\\,dy$ where $R=[-1, 1;\\,0, 2]$.\n(b) Find the dimension of the subspace of $\\mathbb{R}^{4}$ spanned by the set $\\{(1, 0,0, 0),\\,(0, 1,0, 0),\\,(1, 2,0, 1),\\,(0, 0,0, 1)\\}$. Hence find its basis.\n(c) Two perpendicular tangent planes to the paraboloid $x^{2}+y^{2}=2z$ intersect in a straight line in the plane $x=0$. Obtain the curve to which this straight line touches.\n(d) For the function $f(x,y)=\\begin{cases}\\dfrac{x^{2}-x\\sqrt{y}}{x^{2}+y}, & (x,y)\\ne(0, 0) \\\\ 0, & (x,y)=(0, 0),\\end{cases}$ examine the continuity and differentiability.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the differential equation $x\\cos x\\,\\dfrac{dy}{dx}+y(x\\sin x+\\cos x)=1$.\n(b) Solve the differential equation $(2xy^{4}e^{y}+2xy^{3}+y)\\,dx+(x^{2}y^{4}e^{y}-x^{2}y^{2}-3x)\\,dy=0$.\n(c) A body moving under SHM has an amplitude $a$ and time period $T$. If the velocity is trebled when the distance from mean position is $\\dfrac{2}{3}a$, the period being unaltered, find the new amplitude.\n(d) A rod of $8$ kg is movable in a vertical plane about a hinge at one end; at the other end is fastened a weight equal to half of the rod, and this end is fastened by a string of length $l$ to a point at a height $b$ above the hinge vertically. Obtain the tension in the string.\n(e) Find the angle between the surfaces $x^{2}+y^{2}+z^{2}-9=0$ and $z=x^{2}+y^{2}-3$ at $(2,-1, 2)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) Find the constant $a$ so that $(x+y)^{a}$ is the integrating factor of $(4x^{2}+2xy+6y)\\,dx+(2x^{2}+9y+3x)\\,dy=0$ and hence solve the differential equation.\n(b) Two equal ladders of weight $4$ kg each are placed so as to lean at $A$ against each other with their ends resting on a rough floor, given the coefficient of friction is $\\mu$. The ladders at $A$ make an angle $60^{\\circ}$ with each other. Find what weight on the top would cause them to slip.\n(c) Find the values of $\\lambda$ and $\\mu$ so that the surfaces $\\lambda x^{2}-\\mu yz=(\\lambda+2)x$ and $4x^{2}y+z^{3}=4$ may intersect orthogonally at $(1,-1, 2)$.\n(d) A mass starts from rest at a distance $a$ from the centre of force which attracts inversely as the distance. Find the time of arriving at the centre.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) (i) Obtain the Laplace inverse transform of $\\left\\{\\ln\\left(1+\\dfrac{1}{s^{2}}\\right)+\\dfrac{s}{s^{2}+25}e^{-as}\\right\\}$.\n(ii) Using Laplace transform, solve $y''+y=t$, $y(0)=1$, $y'(0)=-2$.\n(b) A particle is projected from the base of a hill whose slope is that of a right circular cone, whose axis is vertical. The projectile grazes the vertex and strikes the hill again at a point on the base. If the semivertical angle of the cone is $30^{\\circ}$ and $h$ is the height, determine the initial velocity $u$ of projection and its angle of projection.\n(c) A vector field is given by $\\vec{F}=(x^{2}+xy^{2})\\,\\hat{\\imath}+(y^{2}+x^{2}y)\\,\\hat{\\jmath}$. Verify whether the field $\\vec{F}$ is irrotational or not. Find the scalar potential.\n(d) Solve the differential equation $x=py-p^{2}$ where $p=\\dfrac{dy}{dx}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Find the length of an endless chain which will hang over a circular pulley of radius $a$ so as to be in contact with two-thirds of the circumference of the pulley.\n(b) A particle moves in a plane under a force, towards a fixed centre, proportional to the distance. If the path of the particle has two apsidal distances $a$, $b$ ($a>b$), then find the equation of the path.\n(c) Evaluate $\\int_{C}e^{-x}(\\sin y\\,dx+\\cos y\\,dy)$, where $C$ is the rectangle with vertices $(0, 0)$, $(\\pi,0)$, $\\bigl(\\pi,\\dfrac{\\pi}{2}\\bigr)$, $\\bigl(0,\\dfrac{\\pi}{2}\\bigr)$.\n(d) Solve $x^{4}\\dfrac{d^{4}y}{dx^{4}}+6x^{3}\\dfrac{d^{3}y}{dx^{3}}+4x^{2}\\dfrac{d^{2}y}{dx^{2}}-2x\\dfrac{dy}{dx}-4y=x^{2}+2\\cos(\\log_{e} x)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

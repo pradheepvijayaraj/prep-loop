@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2021,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2021_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_csat_q1",
+      "type": "single-choice",
+      "question": "Using 2, 2, 3, 3, 3 as digits, how many distinct numbers greater than 30000 can be formed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q2",
+      "type": "single-choice",
+      "question": "There are three points P, Q and R on a straight line such that $PQ:QR = 3:5$. If n is the number of possible values of $PQ:PR$, then what is n equal to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q3",
+      "type": "single-choice",
+      "question": "Seven books P, Q, R, S, T, U, and V are placed side by side. R, Q, and T have blue covers and other books have red covers. Only S and U are new books and the rest are old. P, R and S are law reports; the rest are Gazetteers. Books of old Gazetteers with blue covers are:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q and R"
+        },
+        {
+          "id": "b",
+          "text": "Q and U"
+        },
+        {
+          "id": "c",
+          "text": "Q and T"
+        },
+        {
+          "id": "d",
+          "text": "T and U"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q4",
+      "type": "single-choice",
+      "question": "There are 6 persons arranged in a row. Another person has to shake hands with 3 of them so that he should not shake hands with two consecutive persons. In how many distinct possible combinations can the handshakes take place?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q5",
+      "type": "single-choice",
+      "question": "Replace the incorrect term by the correct term in the given sequence: 3, 2, 7, 4, 13, 10, 21, 18, 31, 28, 43, 40 where odd terms and even terms follow the same pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "0"
+        },
+        {
+          "id": "b",
+          "text": "1"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q6",
+      "type": "single-choice",
+      "question": "A boy plays with a ball, and he drops it from a height of 1.5 m. Every time the ball hits the ground, it bounces back to attain a height $\\frac{4}{5}$th of the previous height. The ball does not bounce further if the previous height is less than 50 cm. What is the number of times the ball hits the ground before the ball stops bouncing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q7",
+      "type": "single-choice",
+      "question": "A cubical vessel of side 1 m is filled completely with water. How many millilitres of water is contained in it (neglect thickness of the vessel)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1000"
+        },
+        {
+          "id": "b",
+          "text": "10000"
+        },
+        {
+          "id": "c",
+          "text": "100000"
+        },
+        {
+          "id": "d",
+          "text": "1000000"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q8",
+      "type": "single-choice",
+      "question": "A student appeared in 6 papers. The maximum marks are the same for each paper. His marks in these papers are in the proportion $5 : 6 : 7 : 8 : 9 : 10$. Overall he scored 60%. In how many number of papers did he score less than 60% of the maximum marks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "5"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q9",
+      "type": "single-choice",
+      "question": "From January 1, 2021, the price of petrol (in Rupees per litre) on mth day of the year is $80 + 0.1m$, where $m = 1, 2, 3, ... 100$ and thereafter remains constant. On the other hand, the price of diesel (in Rupees per litre) on nth day of 2021 is $69 + 0.15n$ for any $n$. On which date in the year 2021 are the prices of these two fuels equal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "21st May"
+        },
+        {
+          "id": "b",
+          "text": "20th May"
+        },
+        {
+          "id": "c",
+          "text": "19th May"
+        },
+        {
+          "id": "d",
+          "text": "18th May"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q10",
+      "type": "single-choice",
+      "question": "In a class, 60% of students are from India and 50% of the students are girls. If 30% of the Indian students are girls, then what percentage of foreign students are boys?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$45\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$40\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$30\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$20\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q11",
+      "type": "single-choice",
+      "question": "Joseph visits the club on every 5th day, Harsh visits on every 24th day, while Sumit visits on every 9th day. If all three of them met at the club on a Sunday, then on which day will all three of them meet again?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monday"
+        },
+        {
+          "id": "b",
+          "text": "Wednesday"
+        },
+        {
+          "id": "c",
+          "text": "Thursday"
+        },
+        {
+          "id": "d",
+          "text": "Sunday"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q12",
+      "type": "single-choice",
+      "question": "A Statement followed by Conclusion-I and Conclusion-II is given below. You have to take the Statement to be true even if it seems to be at variance from the commonly known facts. Read all Conclusions and then decide which of the given Conclusion(s) logically follows/follow from the Statement, disregarding the commonly known facts.\n\nStatement: Some cats are almirahs. Some almirahs are chairs. All chairs are tables.\nConclusion-I: Certainly some almirahs are tables.\nConclusion-II: Some cats may not be chairs.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Conclusion-I"
+        },
+        {
+          "id": "b",
+          "text": "Only Conclusion-II"
+        },
+        {
+          "id": "c",
+          "text": "Both Conclusion-I and Conclusion-II"
+        },
+        {
+          "id": "d",
+          "text": "Neither Conclusion-I nor Conclusion-II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q13",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. The sum of 5 consecutive integers can be 100.\n2. The product of three consecutive natural numbers can be equal to their sum.\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q14",
+      "type": "single-choice",
+      "question": "Consider the following addition problem: $3P + 4P + PP + PP = RQ2$; where P, Q and R are different digits. What is the arithmetic mean of all such possible sums?",
+      "options": [
+        {
+          "id": "a",
+          "text": "102"
+        },
+        {
+          "id": "b",
+          "text": "120"
+        },
+        {
+          "id": "c",
+          "text": "202"
+        },
+        {
+          "id": "d",
+          "text": "220"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q15",
+      "type": "single-choice",
+      "question": "A Statement followed by Conclusion-I and Conclusion-II is given below. You have to take the Statement to be true even if it seems to be at variance from the commonly known facts. Read all Conclusions and then decide which of the given Conclusion(s) logically follows/follow from the Statement, disregarding the commonly known facts.\n\nStatement: Some radios are mobiles. All mobiles are computers. Some computers are watches.\n\nConclusion-I: Certainly some radios are watches.\nConclusion-II: Certainly some mobiles are watches.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Conclusion-I"
+        },
+        {
+          "id": "b",
+          "text": "Only Conclusion-II"
+        },
+        {
+          "id": "c",
+          "text": "Both Conclusion-I and Conclusion-II"
+        },
+        {
+          "id": "d",
+          "text": "Neither Conclusion-I nor Conclusion-II"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q16",
+      "type": "single-choice",
+      "question": "What is the value of ‘X’ in the sequence 2, 7, 22, 67, 202, X, 1822?",
+      "options": [
+        {
+          "id": "a",
+          "text": "603"
+        },
+        {
+          "id": "b",
+          "text": "605"
+        },
+        {
+          "id": "c",
+          "text": "607"
+        },
+        {
+          "id": "d",
+          "text": "608"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q17",
+      "type": "single-choice",
+      "question": "When a certain number is multiplied by 7, the product entirely comprises ones only (1111...). What is the smallest such number?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15713"
+        },
+        {
+          "id": "b",
+          "text": "15723"
+        },
+        {
+          "id": "c",
+          "text": "15783"
+        },
+        {
+          "id": "d",
+          "text": "15873"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q18",
+      "type": "single-choice",
+      "question": "You are given two identical sequences in two rows:\n\n| Sequence-I | 8 | 4 | 6 | 15 | 52.5 | 236.5 |\n| - | - | - | - | - | - | - |\n| Sequence-II | 5 | A | B | C | D | E |\n\nWhat is the entry in the place of C for the Sequence-II?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2.5"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "9.375"
+        },
+        {
+          "id": "d",
+          "text": "32.8125"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q19",
+      "type": "single-choice",
+      "question": "Consider two Statements and four Conclusions given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all Conclusions and then decide which of the given Conclusion(s) logically follows/follow from the Statements, disregarding the commonly known facts.\n\nStatement-1: Some greens are blues.\nStatement-2: Some blues are blacks.\n\nConclusion-1: Some greens are blacks.\nConclusion-2: No green is black.\nConclusion-3: All greens are blacks.\nConclusion-4: All blacks are greens.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conclusion-1 and Conclusion-2 only"
+        },
+        {
+          "id": "b",
+          "text": "Conclusion-2 and Conclusion-3 only"
+        },
+        {
+          "id": "c",
+          "text": "Conclusion-3 and Conclusion-4 only"
+        },
+        {
+          "id": "d",
+          "text": "Neither Conclusion 1 nor 2 nor 3 nor 4"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q20",
+      "type": "single-choice",
+      "question": "There are two Classes A and B having 25 and 30 students respectively. In Class-A the highest score is 21 and lowest score is 17. In Class-B the highest score is 30 and lowest score is 22. Four students are shifted from Class-A to Class-B.\n\nConsider the following statements:\n1. The average score of Class-B will definitely decrease.\n2. The average score of Class-A will definitely increase.\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q21",
+      "type": "single-choice",
+      "question": "Which day is 10th October, 2027?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sunday"
+        },
+        {
+          "id": "b",
+          "text": "Monday"
+        },
+        {
+          "id": "c",
+          "text": "Tuesday"
+        },
+        {
+          "id": "d",
+          "text": "Saturday"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q22",
+      "type": "single-choice",
+      "question": "A bank employee drives 10 km towards South from her house and turns to her left and drives another 20 km. She again turns left and drives 40 km, then she turns to her right and drives for another 5 km. She again turns to her right and drives another 30 km to reach her bank where she works. What is the shortest distance between her bank and her house?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 km"
+        },
+        {
+          "id": "b",
+          "text": "25 km"
+        },
+        {
+          "id": "c",
+          "text": "30 km"
+        },
+        {
+          "id": "d",
+          "text": "35 km"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q23",
+      "type": "single-choice",
+      "question": "A pie diagram shows the percentage distribution of proteins, water and other dry elements in the human body. Given that proteins correspond to $16\\%$ and water corresponds to $70\\%$. If both proteins and the other dry elements correspond to $p\\%$, then what is the central angle of the sector representing $p$ on the pie diagram?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$54^{\\circ}$"
+        },
+        {
+          "id": "b",
+          "text": "$96^{\\circ}$"
+        },
+        {
+          "id": "c",
+          "text": "$108^{\\circ}$"
+        },
+        {
+          "id": "d",
+          "text": "$120^{\\circ}$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q24",
+      "type": "single-choice",
+      "question": "In a code language 'MATHEMATICS' is written as 'LBSIDNZUHDR'. How is CHEMISTRY written in that code language?",
+      "options": [
+        {
+          "id": "a",
+          "text": "DIDLHRSSX"
+        },
+        {
+          "id": "b",
+          "text": "BIDNHTSSX"
+        },
+        {
+          "id": "c",
+          "text": "BIDLHTSSX"
+        },
+        {
+          "id": "d",
+          "text": "DGFLIRUQZ"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q25",
+      "type": "single-choice",
+      "question": "X said to Y, \"At the time of your birth I was twice as old as you are at present.\" If the present age of X is 42 years, then consider the following statements:\n\n1. 8 years ago, the age of X was five times the age of Y.\n2. After 14 years, the age of X would be two times the age of Y.\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q26",
+      "type": "single-choice",
+      "question": "Jay and Vijay spent an equal amount of money to buy some pens and special pencils of the same quality from the same store. If Jay bought 3 pens and 5 pencils, and Vijay bought 2 pens and 7 pencils, then which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A pencil costs more than a pen."
+        },
+        {
+          "id": "b",
+          "text": "The price of a pencil is equal to that of a pen"
+        },
+        {
+          "id": "c",
+          "text": "The price of a pen is two times the price of a pencil"
+        },
+        {
+          "id": "d",
+          "text": "The price of a pen is three times the price of a pencil"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q27",
+      "type": "single-choice",
+      "question": "If $3^{2019}$ is divided by 10, then what is the remainder?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q28",
+      "type": "single-choice",
+      "question": "Consider two Statements and a Question:\n\nStatement-1: Each of A and D is heavier than each of B, E and F, but none of them is the heaviest.\nStatement-2: A is heavier than D, but is lighter than C.\nQuestion: Who is the heaviest among A, B, C, D and E?\n\nWhich one of the following is correct in respect of the Statements and the Question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statement-1 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "c",
+          "text": "Both Statement-1 and Statement-2 are required to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Neither Statement-1 alone nor Statement-2 alone is sufficient to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q29",
+      "type": "single-choice",
+      "question": "P scored 40 marks more than Q in an examination. If Q scored 10% less marks than P, then how much did Q score.",
+      "options": [
+        {
+          "id": "a",
+          "text": "360"
+        },
+        {
+          "id": "b",
+          "text": "380"
+        },
+        {
+          "id": "c",
+          "text": "400"
+        },
+        {
+          "id": "d",
+          "text": "420"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q30",
+      "type": "single-choice",
+      "question": "Consider two Statements and a Question:\n\nStatement-1: Priya is 4 ranks below Seema and is 31st from the bottom.\nStatement-2: Ena is 2 ranks above Seema and is 37th from the bottom.\nQuestion: What is Seema's rank from the top in the class of 40 students?\n\nWhich one of the following is correct in respect of the Statements and the Question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statement-1 alone is not sufficient to answer the Question"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is not sufficient to answer the Question"
+        },
+        {
+          "id": "c",
+          "text": "Either Statement-1 alone or Statement-2 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Both Statement-1 and Statement-2 are required to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q31",
+      "type": "single-choice",
+      "question": "Half of the villagers of a certain village have their own houses. One-fifth of the villagers cultivate paddy. One-third of the villagers are literate. Four-fifth of the villagers are under 25 years of age.\n\nWhich one of the following statements is certainly correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All the villagers who have their own houses are literate"
+        },
+        {
+          "id": "b",
+          "text": "Some villagers under 25 years of age are literate"
+        },
+        {
+          "id": "c",
+          "text": "Only half of the villagers who cultivate paddy are literate"
+        },
+        {
+          "id": "d",
+          "text": "No villager under 25 years of age has his own house."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q32",
+      "type": "single-choice",
+      "question": "Consider the following multiplication problem:\n\n$(PQ) \\times 3 = RQQ$, where P, Q and R are different digits and $R \\ne 0$.\n\nWhat is the value of $(P+R) \\div Q$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined due to insufficient data"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q33",
+      "type": "single-choice",
+      "question": "Integers are listed from 700 to 1000. In how many integers is the sum of the digits 10?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "7"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q34",
+      "type": "single-choice",
+      "question": "If the price of an article is decreased by 20% and then the new price is increased by 25%, then what is the net change in the price?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0%"
+        },
+        {
+          "id": "b",
+          "text": "5% increase"
+        },
+        {
+          "id": "c",
+          "text": "5% decrease"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined due to insufficient data"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q35",
+      "type": "single-choice",
+      "question": "In a group of 120 persons, 80 are Indians and rest are foreigners. Further, 70 persons in the group can speak English. The number of Indians who can speak English is",
+      "options": [
+        {
+          "id": "a",
+          "text": "20"
+        },
+        {
+          "id": "b",
+          "text": "30"
+        },
+        {
+          "id": "c",
+          "text": "30 or less"
+        },
+        {
+          "id": "d",
+          "text": "30 or more"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q36",
+      "type": "single-choice",
+      "question": "In the series $_b_a_ba_b_abab_aab$; fill in the six blanks fusing one of the following given four choices such that the series follows a specific order.",
+      "options": [
+        {
+          "id": "a",
+          "text": "bababa"
+        },
+        {
+          "id": "b",
+          "text": "baabba"
+        },
+        {
+          "id": "c",
+          "text": "bbaabb"
+        },
+        {
+          "id": "d",
+          "text": "ababab"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q37",
+      "type": "single-choice",
+      "question": "Consider all 3-digit numbers (without repetition of digits) obtained using three non-zero digits which are multiples of 3. Let S be their sum.\nWhich of the following is/are correct?\n\n1. S is always divisible by 74.\n2. S is always divisible by 9.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q38",
+      "type": "single-choice",
+      "question": "The number $3798125P369$ is divisible by 7. What is the value of the digit P?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q39",
+      "type": "single-choice",
+      "question": "In an objective type test of 90 questions, 5 marks are allotted for every correct answer and 2 marks are deducted for every wrong answer. After attempting all the 90 questions, a student got a total of 387 marks. What is the number of incorrect responses?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9"
+        },
+        {
+          "id": "b",
+          "text": "13"
+        },
+        {
+          "id": "c",
+          "text": "27"
+        },
+        {
+          "id": "d",
+          "text": "43"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q40",
+      "type": "single-choice",
+      "question": "Consider the following Table:\n\n| Player | Runs scored in the first innings | Balls faced in the first innings | Runs scored in the second innings | Balls faced in the second innings |\n|--|--|--|--|--|\n| A | 61 | 99 | 14 | 76 |\n| B | 05 | 12 | 50 | 85 |\n| C | 15 | 75 | 20 | 50 |\n| D | 13 | 55 | 12 | 50 |\n\nWho is the fastest run scorer in the Test Match?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q41",
+      "type": "single-choice",
+      "question": "Consider two Statements and a Question:\n\nStatement-1: The last day of the month is a Wednesday.\nStatement-2: The third Saturday of the month was the seventeenth day.\n\nQuestion: What day is the fourteenth of the given month?\n\nWhich one of the following is correct in respect of the Statements and the Question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statement-1 alone is sufficient to the answer of the Question"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "c",
+          "text": "Both Statement-1 and Statement-2 are required to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Neither Statement-1 alone nor Statement-2 alone is sufficient to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q42",
+      "type": "single-choice",
+      "question": "A biology class at high school predicted that a local population of animals will double in size every 12 years. The population at the beginning of the year 2021 was estimated to be 50 animals. If P represents the population after n years, then which one of the following equations represents the model of the class for the population?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$P = 12 + 50n$"
+        },
+        {
+          "id": "b",
+          "text": "$P = 50 + 12n$"
+        },
+        {
+          "id": "c",
+          "text": "$P = 50 (2)^{12n}$"
+        },
+        {
+          "id": "d",
+          "text": "$P = 50 (2)^{n/12}$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q43",
+      "type": "single-choice",
+      "question": "A man completes $\\frac{7}{8}$ of a job in 21 days. How many more days will it take him to finish the job if quantum of work is further increased by 50%",
+      "options": [
+        {
+          "id": "a",
+          "text": "24"
+        },
+        {
+          "id": "b",
+          "text": "21"
+        },
+        {
+          "id": "c",
+          "text": "18"
+        },
+        {
+          "id": "d",
+          "text": "15"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q44",
+      "type": "single-choice",
+      "question": "Images of consonants of the English alphabet (Capitals) are observed in a mirror. What is the number of images of these which do not look like their original shapes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13"
+        },
+        {
+          "id": "b",
+          "text": "14"
+        },
+        {
+          "id": "c",
+          "text": "15"
+        },
+        {
+          "id": "d",
+          "text": "16"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q45",
+      "type": "single-choice",
+      "question": "The difference between a 2-digit number and the number obtained by interchanging the positions of the digits is 54.\n\nConsider the following statements:\n\n1. The sum of the two digits of the number can be determined only if the product of the two digits is known.\n2. The difference between the two digits of the number can be determined.\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q46",
+      "type": "single-choice",
+      "question": "A woman runs 12 km towards her North, then 6 km towards her South and then 8 km towards her East. In which direction is she from her starting point?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An angle less than $45^\\circ$ South of East"
+        },
+        {
+          "id": "b",
+          "text": "An angle less than $45^\\circ$ North of East"
+        },
+        {
+          "id": "c",
+          "text": "An angle more than $45^\\circ$ South of East"
+        },
+        {
+          "id": "d",
+          "text": "An angle more than $45^\\circ$ North of East"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q47",
+      "type": "single-choice",
+      "question": "An amount of money was distributed among A, B and C in the ratio $p:q:r$.\n\nConsider the following statements:\n1. A gets the maximum share if $p$ is greater than $(q+r)$.\n2. C gets the minimum share if $r$ is less than $(p+q)$.\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q48",
+      "type": "single-choice",
+      "question": "A person P asks one of his three friends X as to how much money he had. X replied, If Y gives me Rs. 40, then Y will have half of as much as Z, but if Z gives me Rs. 40, then three of us will have equal amount. What is the total amount of money that X, Y and Z have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 420"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 360"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 300"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 260"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q49",
+      "type": "single-choice",
+      "question": "On a chess board, in how many different ways can 6 consecutive squares be chosen on the diagonals along a straight path?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q50",
+      "type": "single-choice",
+      "question": "Following is a matrix of certain entries. The entries follow a certain trend row-wise. Choose the missing entry (?) accordingly:\n\n| 7B | 10A | 3C |\n| --- | --- | --- |\n| 3C | 9B | 6A |\n| 10A | 13C | ? |",
+      "options": [
+        {
+          "id": "a",
+          "text": "$9B$"
+        },
+        {
+          "id": "b",
+          "text": "$3A$"
+        },
+        {
+          "id": "c",
+          "text": "$3B$"
+        },
+        {
+          "id": "d",
+          "text": "$3C$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q51",
+      "type": "single-choice",
+      "question": "In the English alphabet, the first 4 letters are written in opposite order, and the next 4 letters are written in opposite order and so on; and at the end Y and Z are interchanged. Which will be the fourth letter to the right of the 13th letter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "N"
+        },
+        {
+          "id": "b",
+          "text": "T"
+        },
+        {
+          "id": "c",
+          "text": "H"
+        },
+        {
+          "id": "d",
+          "text": "I"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q52",
+      "type": "single-choice",
+      "question": "At which one of the following times, do the hour hand and the minute hand of the clock make an angle of $180^{\\circ}$ with each other?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At 7:00 hours"
+        },
+        {
+          "id": "b",
+          "text": "Between 7:00 hours and 7:05 hours"
+        },
+        {
+          "id": "c",
+          "text": "At 7:05 hours"
+        },
+        {
+          "id": "d",
+          "text": "Between 7:05 hours and 7:10 hours"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q53",
+      "type": "single-choice",
+      "question": "Computers increasingly deal not just with abstract data like credit card details and databases, but also with the real world of physical objects and vulnerable human bodies. A modern car is a computer on wheels; an aeroplane is a computer on wings. The arrival of the “Internet of Things” will see computers baked into everything from road signs and MRI scanners to prosthetics and insulin pumps. There is little evidence that these gadgets will be any more trustworthy than their desktop counterparts. Hackers have already proved that they can take remote control of internet connected cars and pacemakers.\n\nWhich one of the following statements best reflects the most critical inference that can be made from the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Computers are not completely safe."
+        },
+        {
+          "id": "b",
+          "text": "Companies producing the software do not take cyber security seriously."
+        },
+        {
+          "id": "c",
+          "text": "Stringent data security laws are needed."
+        },
+        {
+          "id": "d",
+          "text": "The present trend of communication technologies will affect our lives in future."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q54",
+      "type": "single-choice",
+      "question": "There are reports that some of the antibiotics sold in the market are fed to poultry and other livestock as growth promoters. Overusing these substances can create superbugs, pathogens that are resistant to multiple drugs and could be passed along to humans. Mindful of that, some farming companies have stopped using the drugs to make chickens gain weight faster. Since Denmark banned antibiotic growth promoters in the 1990s, the major pork exporters say they are producing more pigs – and the animals get fewer diseases.\n\nWhich one of the following statements best reflects the critical message conveyed by the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "People should avoid consuming the products of animal farming"
+        },
+        {
+          "id": "b",
+          "text": "Foods of animal origin should be replaced with foods of plant origin"
+        },
+        {
+          "id": "c",
+          "text": "Using antibiotics on animals should be banned"
+        },
+        {
+          "id": "d",
+          "text": "Antibiotics should only be used to treat diseases."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q55",
+      "type": "single-choice",
+      "question": "Medieval merchants risked the hazards of the Silk Road to reach the markets of China; Portuguese caravels in the 15th century sailed beyond the bounds of the known world, searching less for knowledge than for gold and spices. Historically, the driver for opening frontiers has always been the search for resources. Science and curiosity are weaker drivers. The only way to open up space, whether the space of solar system or interstellar space is to create an economic engine and that engine is resource extraction.\n\nWhich one of the following statements best sums up the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wealth generation is the primary motive for any human endeavour"
+        },
+        {
+          "id": "b",
+          "text": "Space, whether space in solar system or interstellar space, will govern our future economy"
+        },
+        {
+          "id": "c",
+          "text": "Human beings are motivated to explore new frontiers principally by economic cWealth generation is based on the risk-taking behaviour of some men.."
+        },
+        {
+          "id": "d",
+          "text": "Wealth generation is based on the risk-taking behaviour of some men."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q56",
+      "type": "single-choice",
+      "question": "Our cities are extremely vulnerable to climate change because of large concentrations of populations and poor infrastructure. Moreover, population densities are increasing in them but we have not yet developed the systems to address climate change impacts. Our cities contribute to 65 percent of the GDP, but there are not enough facilities to cater to the needs of the people. It is important to address the issues of air quality, transport, etc., that are vital to identifying sustainable solutions. We need to involve citizens in city planning and create an ecosystem that meets the needs of people.\n\nWhich among the following is the most logical and rational inference that can be made from the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Our cities need to have well-defined administrative set-up with sufficient autonomy"
+        },
+        {
+          "id": "b",
+          "text": "Ever increasing population densities is a hindrance in our efforts to achieve sustainable development"
+        },
+        {
+          "id": "c",
+          "text": "To maintain and develop our cities we need to adopt sustainability related interventions"
+        },
+        {
+          "id": "d",
+          "text": "Public-Private Partnership mode of development is the viable long-term solution for the infrastructure and sustainability problems of India."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q57",
+      "type": "single-choice",
+      "question": "Fig trees (genus Ficus) are considered sacred in India, East Asia and Africa and are common in agricultural and urban landscapes where other large trees are absent. In natural forests, fig trees provide food for wildlife when other resources are scarce and support a high density and diversity of frugivores (fruit-eating animals). If frugivorous birds and bats continue to visit to fig trees located in sites with high human disturbances, sacred fig trees may promote frugivore abundance. Under favourable microclimate, plenty of seedlings of other tree species would grow around fig trees.\n\nOn the basis of the passage given above, the following assumption have been made:\n\n1. Fig trees can often be keystone species in natural forests.\n2. Fig trees can grow where other large woody species cannot grow.\n3. Sacred trees can have a role in biodiversity conservation.\n4. Fig trees have a role in the seed dispersal of other tree species.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q58",
+      "type": "single-choice",
+      "question": "Researchers were able to use stem cells to gauge the neurotoxic effects of the environmental pollutant Bisphenol A (BPA). They used a combination of biochemical and cell-based assays to examines the gene expression profile during the differentiation of mouse embryonic stem cells upon treatment with BPA, a compound known to cause heart diseases, diabetes, and developmental abnormalities in humans. They were able to detect and measure BPA toxicity towards the proper specification of primary germ layers, such as endoderm and ectoderm, and the establishment of neural progenitor cells.\n\nOn the basis of the passage given above, the following assumptions have been made:\n\n1. BPA may alter embryonic development in vivo.\n2. Biochemical and cell-based assays are useful in finding out treatments for pollution-induced diseases.\n3. Embryonic stem cells could serve as a model to evaluate the physiological effects of environmental pollutants.\n\nWhich of the above assumptions are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q59",
+      "type": "single-choice",
+      "question": "At the heart of agroecology is the idea that agroecosystems should mimic the biodiversity levels and functioning of natural ecosystems. Such agricultural mimics, like their natural models, can be productive, pest-resistant, nutrient conserving, and resilient to shocks and stresses. In ecosystems there is no 'waste', nutrients are recycled indefinitely. Agroecology aims at closing nutrient loops, i.e., returning all nutrients that come out of the soil back to the soil such as through application of farmyard manure. It also harnesses natural processes to control pests and build soil fertility i.e., through intercropping. Agroecological practices include integrating trees with livestock and crops.\n\nConsider the following:\n\n1. Cover crops\n2. Fertigation\n3. Hydroponics\n4. Mixed farming\n5. Polyculture\n6. Vertical farming\n\nWhich of the above farming practices can be compatible with agroecology, as implied by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 4, and 5 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, 4, and 5 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2, 3 and 6 only"
+        },
+        {
+          "id": "d",
+          "text": "4 and 6 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q60",
+      "type": "single-choice",
+      "question": "Inequality violates a basic democratic norm: the equal standing of citizens. Equality is a relation that obtains between persons in respect of some fundamental characteristic that they share in common. Equality is, morally speaking, a default principle. Therefore, persons should not be discriminated on grounds such as race, caste, gender, ethnicity, disability, or class. These features of human condition are morally irrelevant. The idea that one should treat persons with respect not only because some of these persons some special features or talent, for example skilled cricketers, gifted musicians, or literary giants, but because persons are human being, is by now part of commonsense morality.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Equality is a prerequisite for people to participate in the multiple transactions of society from a position of confidence.\n2. Occurrence of inequality is detrimental to the survival of democracy.\n3. Equal standing of all citizens is an idea that cannot actually be realised even in a democracy.\n4. Right to equality should be incorporated into our values and day-to-day political vocabulary.\n\nWhich of the above assumptions are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "3 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q61",
+      "type": "single-choice",
+      "question": "The resolution of bankruptcy cases of Indian banks under the Insolvency and Bankruptcy Code should help bring non-performing assets (NPA) situation under some control. Despite the slow pace of resolution by the National Company Law Tribunal, the Code can be helpful in cleaning up bank books in future credit cycles. The recapitalization of public sector banks too can help increase the capital cushion of banks and induce them to lend more and boost economic activity. But bad debt resolution and recapitalization are only a part of the solution as they, by themselves, can do very little to rein in reckless lending that has pushed the Indian banking system to its current sorry state. Unless there are systemic reforms that address the problem of unsustainable lending, future credit cycles will continue to stress the banking system.\n\nWhich one of the following statements best reflects the most logical, rational and practical suggestion implied by the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lending by the banks should be closely monitored and regulated by the central\nGovernment"
+        },
+        {
+          "id": "b",
+          "text": "Interest rates should be kept low so as to induce banks to lend more, promote credit growth and thereby boost economic activity"
+        },
+        {
+          "id": "c",
+          "text": "Merger of many banks into a few large banks alone in the long-term solution to make them viable and prevent their bad performance"
+        },
+        {
+          "id": "d",
+          "text": "Indian banking system requires structural reforms as a long-term solution for bad loans problem."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q62",
+      "type": "single-choice",
+      "question": "Approximately 80 percent of all flowering plant species are pollinated by animals, including birds and mammals, but the main pollinators are insects. Pollination is responsible for providing us with a wide variety of food, as well as many plant-derived medicines. At least one-third of the world's agricultural crops depend upon pollination. Bees are the most dominant taxa when it comes to pollination and they are crucial to more than four hundred crops. Pollination is an essential service that is the result of intricate relationship between plants and animals, and the reduction or less of either affects the survival of both. Effective pollination requires resources, such as refuges of pristine natural vegetation.\n\nOn the basis of the passage given above, the following assumptions have been made:\n\n1. Sustainable production of India's cereal food grains is impossible without the diversity of pollinating animals.\n2. Monoculture of horticultural crops hampers the survival of insects.\n3. Pollinators become scarce in cultivated areas devoid of natural vegetation.\n4. Diversity in insects induces diversity of plants.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "3 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q63",
+      "type": "single-choice",
+      "question": "Researchers simulated street lighting on artificial grassland plots containing pea-aphids, sap-sucking insects, at night. These were exposed to two different types of light a white light similar to newer commercial LED lights and an amber light similar to sodium street lamps. The low intensity amber light was shown to inhibit, rather than induce, flowering in a wild plant of the pea family which is a source of food for the pea-aphids in grasslands. The number of aphids was also significantly suppressed under the light treatment due to the limited amount of food available.\n\nWhich one of the following statements best reflects the most critical inference that can be made from the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Low intensity light has more adverse effect on the plants as compared to high intensity light"
+        },
+        {
+          "id": "b",
+          "text": "Light pollution can have a permanent adverse impact on an ecosystem"
+        },
+        {
+          "id": "c",
+          "text": "White light is better for the flowering of plants as compared to the light of other colours"
+        },
+        {
+          "id": "d",
+          "text": "Proper intensity of light in an ecosystem is important not only for plants but for animals too."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q64",
+      "type": "single-choice",
+      "question": "In India, the objective of macroeconomics policy is to enhance the economic welfare of the people, and any one wing of such macro policy, monetary or fiscal, cannot independently work without active support of another.\n\nWhich one of the following statements **best reflects the corollary** to the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The central bank cannot work independently of the Government"
+        },
+        {
+          "id": "b",
+          "text": "Government should regulate financial markets and institutions closely"
+        },
+        {
+          "id": "c",
+          "text": "Market economy is not compatible with the socialist policies of the Government"
+        },
+        {
+          "id": "d",
+          "text": "Financial sector reforms are required for enhancing the economic welfare of the people."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q65",
+      "type": "single-choice",
+      "question": "India faces a challenging immediate future in energy and climate policy-making. The problems are multiple: sputtering fossil fuel production capability; limited access to electricity and modern cooking fuel for the poorest; rising fuel imports in an unstable global energy context; continued electricity pricing and governance challenges leading to its costly deficits or surplus supply; and not least, growing environmental contestation around land, water and air. But all is not bleak: growing energy efficiency programmes; integrated urbanisation and transport policy discussions; inroads to enhancing energy access and security; and bold renewable energy initiatives, even if not fully conceptualized, suggest the promise of transformation.\n\nWhich one of the following statements best reflects the critical message conveyed by the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India's energy decision-making process is ever more complex and interconnected"
+        },
+        {
+          "id": "b",
+          "text": "India's energy and climate policy is heavily tuned to sustainable development goals"
+        },
+        {
+          "id": "c",
+          "text": "India's energy and climate actions are not compatible with its broader social, economic and environmental goals"
+        },
+        {
+          "id": "d",
+          "text": "India's energy decision-making process is straightforward supply-oriented and ignores the demand side."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q66",
+      "type": "single-choice",
+      "question": "In the immediate future, we will see the increasing commodification of many new technologies artificial intelligence and robotics, 3D manufacturing, custom made biological and pharmaceutical products, lethal autonomous weapons and driverless cars. This will pose conundrums. The moral question of how a driverless car will decide between hitting jaywalker and swerving and damaging the car has often been debated. The answer is both simple- save the human life- and complex. At which angle should the car swerve- just enough to save the jaywalker or more than enough? If the driverless car is in Dublin, who would take the decision? The Irish Government, or the car's original code writer in California, or a software programmer in Hyderabad to whom maintenance is outsourced? If different national jurisdictions have different fine print on prioritizing a human life, how will it affect insurance and investment decisions, including transnational ones?\n\nWhich of the following statements best reflect the rational, plausible, and practical implications that can be derived from the passage given above?\n\n1. Too much globalization is not in the best interests of any country.\n2. Modern technologies are increasingly blurring the economic borders.\n3. Innovation and capital have impinged on the domain of the state.\n4. Public policy of every country should focus on developing its own supply chains.\n5. Geopolitics will have to reconcile to many ambiguities and uncertainties.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 4 and 5 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q67",
+      "type": "single-choice",
+      "question": "Aristocratic government ruins itself by limiting too narrowly the circle within which power is confined; oligarchic government ruins itself by the incautious scramble for immediate wealth. But even democracy ruins itself by excess of democracy. Its basic principle is the equal right of all to hold office and determine public policy. This is, at first glance, a delightful arrangement; it becomes disastrous because the people are not properly equipped by education to select the best rulers and the wisest courses. The people have no understanding and only repeat what their rulers are pleased to tell them. Such a democracy is tyranny or autocracy. – Plato\n\nWhich one of the following statements best reflects the crux of the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Human societies experiment with different forms of governments"
+        },
+        {
+          "id": "b",
+          "text": "Any form of government tends to deteriorate by excess of its basic principle"
+        },
+        {
+          "id": "c",
+          "text": "Education of all citizens ensures a perfect, functional and sustainable democracy"
+        },
+        {
+          "id": "d",
+          "text": "Having a government is a necessary evil because tyranny is inherent in any form of government."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q68",
+      "type": "single-choice",
+      "question": "A social and physical environment riddled with poverty, inequities, unhygienic and insanitary conditions generates the risk of infectious diseases. Hygiene has different levels: personal, domestic and community hygiene. There is no doubt that personal cleanliness brings down the rate of infectious diseases. But the entry of the market into this domain has created a false sense of security that gets conditioned and reinforced by the onslaught of advertisements. Experience in Western Europe shows that along with personal hygiene, general improvements in environmental conditions and components like clean water, sanitation and food security have brought down infant/child death/infections rates considerably. The obsession with hand hygiene also brings in the persisting influence of the market on personal health, overriding or marginalizing the negative impact on ecology and the emergence of resistant germs.\n\nOn the basis of the passage given above, the following assumptions have been made:\n\n1. People who are obsessed with personal hygiene tend to ignore the community hygiene.\n2. Emergence of multi-drug resistant germs can be prevented by personal cleanliness.\n3. Entry of the market in the domain of hygiene increases the risk of infectious diseases.\n4. Scientific and micro-level interventions are not sufficient to bring down the burden of infectious diseases.\n5. It is community hygiene implemented through public health measures that is really effective in the battle against infectious diseases.\n\nWhich of the above assumptions are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "4 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q69",
+      "type": "single-choice",
+      "question": "A person X from a place A and another person Y from a place B set out at the same time to walk towards each other. The places are separated by a distance of 15 km. X walks with a uniform speed of 1.5 km/hr and Y walks with a uniform speed of 1 km/hr in the first hour, with a uniform speed of 1.25 km/hr in the second hour and with a uniform speed of 1.5 km/hr in the third hour and so on.\n\nWhich of the following is/are correct?\n\n1. They take 5 hours to meet.\n2. They meet midway between A and B.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q70",
+      "type": "single-choice",
+      "question": "With respect to what are called denominations of religion, if everyone is left to be a judge of his own religion, there is no such things as religion that is wrong; but if they are to be a judge of each other's religion, there is no such thing as a religion that is right, and therefore all the world is right or all the world is wrong in the matter of religion.\n\nWhat is the most logical assumption that can be made from the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No man can live without adhering to some religious denomination"
+        },
+        {
+          "id": "b",
+          "text": "It is the duty of everyone to propagate one's religious denomination"
+        },
+        {
+          "id": "c",
+          "text": "Religious denominations tend to ignore the unity of man"
+        },
+        {
+          "id": "d",
+          "text": "Men do not understand their own religious denomination."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q71",
+      "type": "single-choice",
+      "question": "Can a democracy avoid being a welfare state for long? Why cannot mass welfare be left entirely to the markets? There is a built-in tension between markets and democracy. Markets do not work on a one-person-one-vote principle as democracies do. What one gets out of the market place depends on one's endowments, skills, purchasing power and the forces of demand and supply. Markets reward individual initiative and skill, and may also lift many from the bottom rungs of society, but some people never get the opportunity to develop skills that markets demand; they are simply too poor and too handicapped; or skill formation takes too long. By creating jobs, markets may be able to help even unskilled people, but capitalism has always witnessed bursts of unemployment.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Modern democracies rely on the market forces to enable them to be welfare states.\n2. Markets ensure sufficient economic growth necessary for democracies to be effective.\n3. Government programmes are needed for those left behind in economic growth.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q72",
+      "type": "single-choice",
+      "question": "It is certain, that seditions, wars, and contempt breach of the laws are not so much to be imputed to the wickedness of the subjects, as to the bad state of a dominion. For men are not born fit for citizenship but must be made so. Besides, men's natural passions are everywhere the same; and if wickedness more prevails, and more offences are committed in one commonwealth than in another, it is certain that the former has neither enough pursued the end of unity, nor framed its laws with sufficient forethought; and that, therefore, it has failed in making quite good its right as a commonwealth.\n\nWhich among the following is the most logical and rational inference that can be made from the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seditions, wars, and breach of the laws are inevitable in every dominion"
+        },
+        {
+          "id": "b",
+          "text": "It is not the people, but the sovereign who is responsible for all the problems of any dominion"
+        },
+        {
+          "id": "c",
+          "text": "That dominion is the best which pursues the aim of unity and has laws for good citizenship"
+        },
+        {
+          "id": "d",
+          "text": "It is impossible for men to establish a good dominion."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q73",
+      "type": "single-choice",
+      "question": "Nothing can exist in a natural state which can be called good or bad by common assent, since every man who is in natural state consults only his own advantage, and determines what is good or bad according to his own fancy and insofar as he has regard for his own advantage alone, and holds himself responsible to no one save himself by any law; and therefore sin cannot be conceived in a natural state, but only a civil state, which is decreed by common consent what is good or bad, and each one holds himself responsible to the state.\n\nWhich one of the following statements best reflects the central idea of the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The conceptions of what is right or wrong exist due to the formation of a state"
+        },
+        {
+          "id": "b",
+          "text": "Unless a ruling authority decides as to what is right or wrong, no man would be morally right"
+        },
+        {
+          "id": "c",
+          "text": "Man is inherently immoral and selfish in a natural state"
+        },
+        {
+          "id": "d",
+          "text": "The idea of what is right or wrong is necessary for the survival of human species."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q74",
+      "type": "single-choice",
+      "question": "A study conducted on the impacts of climate change over the Cauvery basin of Tamil Nadu using regional climate models showed an increasing trend for maximum and minimum temperatures, and a decrease in the number of rainy days. These climatic shifts will have an impact on the hydrological cycles in the region, lead to more run-off and less recharge, and affect the groundwater tables. Further, there has been an increase in the frequency of droughts in the State. This has driven farmers to increase dependency on groundwater resources to secure their crops.\n\nWhich one of the following statements best reflects the crux of the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Development of regional climate models helps in choosing climate-smart agricultural practices"
+        },
+        {
+          "id": "b",
+          "text": "Heavy dependence on groundwater resources can be reduced by adopting dry-land cropping systems"
+        },
+        {
+          "id": "c",
+          "text": "Climate changes increase the criticality of water resources while simultaneously threatening it"
+        },
+        {
+          "id": "d",
+          "text": "Climate changes cause the farmers to adopt unsustainable livelihoods and risky coping strategies."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q75",
+      "type": "single-choice",
+      "question": "A central message of modern development economics is the importance of income growth, by which is meant growth in Gross Domestic Product (GDP). In theory, rising GDP creates employment and investment opportunities. As incomes grow in a country where the level of GDP was once low, households, communities, and governments are increasingly able to set aside some funds for the production of things that make for a good life. Today GDP has assumed such a significant place in the development lexicon, that if someone mentions 'economic growth', we know they mean growth in GDP.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Rising GDP is essential for a country to be a developed country.\n2. Rising GDP guarantees a reasonable distribution of income to all households.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q76",
+      "type": "single-choice",
+      "question": "In our schools, we teach our children all that is there to know about Physics, Maths and History and what-have you. But do we teach them about the bitter caste divide that plagues the country, about the spectre of famine that stalks large part of our land, about gender sensitivity, about the possibility of atheism as a choice, etc? Equally important, do we teach them to ask question, or do we teach them only to passively receive our wisdom? From the cocooned world of school, suddenly, the adolescent finds himself/herself in the unfettered world of university. Here he/she is swept up in a turmoil of ideas and influences and ideologies. For someone who has been discouraged from asking questions and forming an opinion, this transition can be painful.\n\nWhich one of the following best reflects the central idea of the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "School curriculum is not compatible with the expectations of children and parents"
+        },
+        {
+          "id": "b",
+          "text": "Emphasis on academic achievements does give time for development of personality and skills"
+        },
+        {
+          "id": "c",
+          "text": "Preparing the children to be better citizens should be the responsibility of the education system"
+        },
+        {
+          "id": "d",
+          "text": "To be a better citizen, the present world order demands societal and life-coping skills in"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q77",
+      "type": "single-choice",
+      "question": "Policy makers and media have placed the blame for skyrocketing food prices on a variety of factors, including high fuel prices, bad weather in key food producing countries, and the diversion of land to non-food production. Increased emphasis, however, has been placed on a surge in demand for food from the most populous emerging economies. It seems highly probable that mass consumption in these countries could be well poised to create a food crisis.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Oil producing countries are one of the reasons for high food prices.\n2. If there is a food crisis in the world in the near future, it will be in the emerging economies.\n\nWhich of the above statements is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q78",
+      "type": "single-choice",
+      "question": "Most people would agree that telling deliberate lies is wrong, except perhaps in certain special situations where more harm will be done by telling the truth. Even the most truthful people probably tell a good many more lies that might be regarded as semantic lies; their use of words contains some measure of falsehood, more or less deliberate.\n\nWhich one of the following habits is found more often in good people?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mixing up the true and false"
+        },
+        {
+          "id": "b",
+          "text": "Intentional mixing up of truth with the false."
+        },
+        {
+          "id": "c",
+          "text": "Falsification of facts"
+        },
+        {
+          "id": "d",
+          "text": "Complete concealment of truth"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q79",
+      "type": "single-choice",
+      "question": "Most people would agree that telling deliberate lies is wrong, except perhaps in certain special situations where more harm will be done by telling the truth. Even the most truthful people probably tell a good many more lies that might be regarded as semantic lies; their use of words contains some measure of falsehood, more or less deliberate.\n\nThe idea which the first part of the passage mention is",
+      "options": [
+        {
+          "id": "a",
+          "text": "agreement about telling lies"
+        },
+        {
+          "id": "b",
+          "text": "disagreement about telling lies"
+        },
+        {
+          "id": "c",
+          "text": "disagreement about telling the truth"
+        },
+        {
+          "id": "d",
+          "text": "disagreement about the harm in telling the truth."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2021_csat_q80",
+      "type": "single-choice",
+      "question": "The best universities like Harvard and MIT, despite having the luxury of having some truly excellent teachers on their payroll, are increasingly embracing the flipped classroom format, where students listen to video lectures at home, and spend class time applying their knowledge, solving problems, discussing examples, etc. Professors guide that discussion and fill in wherever necessary, explaining those bits that seem to be eluding the students and throwing in advanced ideas that happen to be topical. These universities have made their video lectures available free for anyone in the world. They are also encouraging colleges and universities all over the world to integrate these online courses into their own pedagogy, picking the pieces that are appropriate for their needs and building a package around them.\n\nWhich one of the following statements best reflects the central idea of the passage given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Efficacy of universities would be better in online mode of conducting classroom tuition as compared conventional method"
+        },
+        {
+          "id": "b",
+          "text": "Availability of higher education can be made easier and cheaper without diluting the content"
+        },
+        {
+          "id": "c",
+          "text": "We need not invest much in infrastructure related to higher education and yet develop better human and social capital"
+        },
+        {
+          "id": "d",
+          "text": "Private sector institutions in higher education as well as coaching institutes can take advantage of this opportunity and thrive well."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

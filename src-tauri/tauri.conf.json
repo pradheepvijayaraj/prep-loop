@@ -1,0 +1,44 @@
+{
+  "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
+  "productName": "PrepLoop",
+  "version": "1.0.0",
+  "identifier": "com.utilin.loop",
+  "build": {
+    "frontendDist": "../build",
+    "devUrl": "http://localhost:5173",
+    "beforeDevCommand": "bun run dev",
+    "beforeBuildCommand": "bun run build"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "PrepLoop",
+        "width": 1440,
+        "height": 900,
+        "minWidth": 1280,
+        "minHeight": 800,
+        "resizable": true,
+        "fullscreen": false,
+        "center": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": "all",
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "shortDescription": "UPSC CSE prelims and mains practice",
+    "longDescription": "PREPLOOP for UPSC Civil Services: Prelims GS Paper I, Mains Essay, GS Papers I–IV, and Mathematics optional. Offline desktop practice and timed tests with bundled past papers.",
+    "category": "Education",
+    "copyright": "© 2026 Pradheep Vijayaraj — GPL-3.0-only"
+  }
+}

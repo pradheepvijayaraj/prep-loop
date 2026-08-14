@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2020_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $S_{3}$ and $\\mathbb{Z}_{3}$ be the permutation group on $3$ symbols and the group of residue classes modulo $3$ respectively. Show that there is no homomorphism of $S_{3}$ into $\\mathbb{Z}_{3}$ except the trivial homomorphism.\n(b) Let $R$ be a principal ideal domain. Show that every ideal of a quotient ring of $R$ is a principal ideal and $R/P$ is a principal ideal domain for a prime ideal $P$ of $R$.\n(c) Prove that the sequence $(a_{n})$ satisfying the condition $|a_{n+1}-a_{n}|\\le\\alpha|a_{n}-a_{n-1}|$, $0<\\alpha<1$ for all natural numbers $n\\ge 2$, is a Cauchy sequence.\n(d) Evaluate the integral $\\int_{C}(z^{2}+3z)\\,dz$ counterclockwise from $(2, 0)$ to $(0, 2)$ along the curve $C$, where $C$ is the circle $|z|=2$.\n(e) A maintenance section has purchased a sufficient number of curtain cloth pieces to meet the curtain requirement of its building. The length of each piece is $17$ feet. The requirement according to curtain length is as follows: curtain length $5$ feet requires $700$ pieces, length $9$ feet requires $400$ pieces, and length $7$ feet requires $300$ pieces. The width of all curtains is the same as that of the available pieces. Form a linear programming problem in standard form that decides the number of pieces cut in different ways so that the total trim loss is minimum. Also give a basic feasible solution to it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Let $G$ be a finite cyclic group of order $n$. Then prove that $G$ has $\\phi(n)$ generators (where $\\phi$ is Euler's $\\phi$-function).\n(b) Prove that the function $f(x)=\\sin x^{2}$ is not uniformly continuous on the interval $[0,\\infty)$.\n(c) Using contour integration, evaluate the integral $\\int_{0}^{2\\pi}\\frac{1}{3+2\\sin\\theta}\\,d\\theta$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $R$ be a finite field of characteristic $p(>0)$. Show that the mapping $f:R\\to R$ defined by $f(a)=a^{p}$, for all $a\\in R$, is an isomorphism.\n(b) Solve the linear programming problem using simplex method: minimize $z=-6x_{1}-2x_{2}-5x_{3}$ subject to $2x_{1}-3x_{2}+x_{3}\\le 14$, $-4x_{1}+4x_{2}+10x_{3}\\le 46$, $2x_{1}+2x_{2}-4x_{3}\\le 37$, $x_{1}\\ge 2$, $x_{2}\\ge 1$, $x_{3}\\ge 3$.\n(c) If $u=\\tan^{-1}\\frac{x^{3}+y^{3}}{x-y}$, $x\\ne y$, then show that $x^{2}u_{xx}+2xy\\,u_{xy}+y^{2}u_{yy}=(1-4\\sin^{2}u)\\sin 2u$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) If $v(r,\\theta)=\\left(r-\\frac{1}{r}\\right)\\sin\\theta$, $r\\ne 0$, then find an analytic function $f(z)=u(r,\\theta)+iv(r,\\theta)$.\n(b) Show that $\\int_{0}^{\\pi/2}\\frac{\\sin^{2}x}{\\sin x+\\cos x}\\,dx=\\frac{1}{2^{1/2}}\\log_{e}\\bigl(1+2^{1/2}\\bigr)$.\n(c) Find the initial basic feasible solution of the following transportation problem by Vogel's approximation method and use it to find the optimal solution and the transportation cost of the problem. The cost matrix with sources $S_{1},S_{2},S_{3}$ and destinations $D_{1},D_{2},D_{3},D_{4}$ is $\\begin{pmatrix}10&0&20&11\\\\12&8&9&20\\\\0&14&16&18\\end{pmatrix}$, with availability $15, 25,10$ and demand $5, 20,15, 10$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Form a partial differential equation by eliminating the arbitrary functions $f(x)$ and $g(y)$ from $z=yf(x)+xg(y)$ and specify its nature (elliptic, hyperbolic or parabolic) in the region $x>0$, $y>0$.\n(b) Show that the equation $f(x)=\\cos\\frac{\\pi(x+1)}{8}+0\\cdot 148x-0\\cdot 9062=0$ has one root in the interval $(-1, 0)$ and one in $(0, 1)$. Calculate the negative root correct to four decimal places using Newton–Raphson method.\n(c) Let $g(w,x,y,z)=(w+x+y)(x+\\bar{y}+z)(w+\\bar{y})$ be a Boolean function. Obtain the conjunctive normal form for $g(w,x,y,z)$. Also express $g(w,x,y,z)$ as a product of maxterms.\n(d) Solve the partial differential equation $(D^{3}-2D^{2}D'-DD'^{2}+2D'^{3})z=e^{2x+y}+\\sin(x-2y)$, where $D\\equiv\\frac{\\partial}{\\partial x}$, $D'\\equiv\\frac{\\partial}{\\partial y}$.\n(e) Prove that the moment of inertia of a triangular lamina $ABC$ about any axis through $A$ in its plane is $\\frac{M}{6}(\\beta^{2}+\\beta\\gamma+\\gamma^{2})$, where $M$ is the mass of the lamina and $\\beta,\\gamma$ are respectively the lengths of the perpendiculars from $B$ and $C$ on the axis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Find the integral surface of the partial differential equation $(x-y)y^{2}z_{x}+(y-x)x^{2}z_{y}=(x^{2}+y^{2})z$ that contains the curve $xz=a^{3}$, $y=0$ on it.\n(b) For the solution of the system of equations $4x+y+2z=4$, $3x+5y+z=7$, $x+y+3z=3$, set up the Gauss–Seidel iterative scheme and iterate three times starting with the initial vector $X^{(0)}=0$. Also find the exact solutions and compare with the iterated solutions.\n(c) By writing down the Hamiltonian, find the equations of motion of a particle of mass $m$ constrained to move on the surface of a cylinder defined by $x^{2}+y^{2}=R^{2}$, $R$ is a constant. The particle is subject to a force directed towards the origin and proportional to the distance $r$ of the particle from the origin given by $\\vec{F}=-k\\vec{r}$, $k$ is a constant.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the solution of the partial differential equation $z=\\frac{1}{2}(p^{2}+q^{2})+(p-x)(q-y)$, with $p\\equiv z_{x}$ and $q\\equiv z_{y}$, which passes through the $x$-axis.\n(b) Find a quadrature formula $\\int_{0}^{1} f(x)\\,[x(1-x)]^{-1/2}\\,dx=\\alpha_{1}f(0)+\\alpha_{2}f(1/2)+\\alpha_{3}f(1)$ which is exact for polynomials of highest possible degree. Then use the formula to evaluate $\\int_{0}^{1}(x-x^{3})^{-1/2}\\,dx$ correct up to three decimal places.\n(c) A velocity potential in a two-dimensional fluid flow is given by $\\phi(x,y)=xy+x^{2}-y^{2}$. Find the stream function for this flow.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) One end of a tightly stretched flexible thin string of length $l$ is fixed at the origin and the other at $x=l$. It is plucked at $x=\\frac{l}{3}$ so that it assumes initially the shape of a triangle of height $h$ in the $xy$-plane. Find the displacement $y$ at any distance $x$ and at any time $t$ after the string is released from rest. Take $\\frac{\\text{horizontal tension}}{\\text{mass per unit length}}=c^{2}$.\n(b) Write the three-point Lagrangian interpolating polynomial relative to the points $x_{0}$, $x_{0}+\\varepsilon$ and $x_{1}$. Then by taking the limit $\\varepsilon\\to 0$, establish the relation $f(x)=\\frac{(x_{1}-x)(x+x_{1}-2x_{0})}{(x_{1}-x_{0})^{2}}f(x_{0})+\\frac{(x-x_{0})(x_{1}-x)}{(x_{1}-x_{0})}f'(x_{0})+\\frac{(x-x_{0})^{2}}{(x_{1}-x_{0})}f(x_{1})+E(x)$, where $E(x)=\\frac{1}{6}(x-x_{0})^{2}(x-x_{1})f'''(\\xi)$ is the error function and $\\min(x_{0},x_{0}+\\varepsilon,x_{1})<\\xi<\\max(x_{0},x_{0}+\\varepsilon,x_{1})$.\n(c) Two sources of strength $\\frac{m}{2}$ are placed at the points $(\\pm a,0)$. Show that at any point on the circle $x^{2}+y^{2}=a^{2}$, the velocity is parallel to the $y$-axis and is inversely proportional to $y$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2014",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2014,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2014_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2014_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $G$ be the set of all real $2\\times 2$ matrices of the form $\\begin{pmatrix}x&y\\\\ 0&z\\end{pmatrix}$ where $xz\\neq 0$. Show that $G$ is a group under matrix multiplication. Let $N$ denote the subset $\\left\\{\\begin{pmatrix}1&a\\\\ 0&1\\end{pmatrix}:a\\in\\mathbb{R}\\right\\}$. Is $N$ a normal subgroup of $G$? Justify your answer.\n(b) Test the convergence of the improper integral $\\int_{1}^{\\infty}\\frac{dx}{x^{2}(1+e^{-x})}$.\n(c) Prove that the function $f(z)=u+iv$ defined by $f(z)=\\frac{x^{3}(1+i)-y^{3}(1-i)}{x^{2}+y^{2}}$ for $z\\neq 0$ and $f(0)=0$ satisfies the Cauchy-Riemann equations at the origin, but the derivative of $f$ at $z=0$ does not exist.\n(d) Expand in Laurent series the function $f(z)=\\frac{1}{z^{2}(z-1)}$ about the points $z=0$ and $z=1$.\n(e) Solve graphically: maximize $Z=6x_1+5x_2$ subject to $2x_1+x_2\\le 16$, $x_1+x_2\\le 11$, $x_1+2x_2\\ge 6$, $5x_1+6x_2\\le 90$ and $x_1,x_2\\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Show that $\\mathbb{Z}_7$ is a field. Then find $([5]+[6])^{-1}$ and $(- [4])^{-1}$ in $\\mathbb{Z}_7$.\n(b) Integrate $\\int_{0}^{1}f(x)\\,dx$, where $f(x)=2x\\sin\\frac{1}{x}-\\cos\\frac{1}{x}$ for $x\\in(0, 1]$ and $f(0)=0$.\n(c) Find the initial basic feasible solution to the following transportation problem by Vogel's approximation method. Also find its optimal solution and the minimum transportation cost. Origins $O_1,O_2,O_3$ with supplies $14, 16,5$ shidestinations $D_1,D_2,D_3,D_4$ with demands $6, 10,15, 4$. The cost matrix rows are $O_1:(6, 4,1, 5)$, $O_2:(8, 9,2, 7)$, $O_3:(4, 3,6, 2)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Show that the set $\\{a+b\\omega:\\omega^{3}=1\\}$, where $a$ and $b$ are real numbers, is a field with respect to the usual addition and multiplication.\n(b) Obtain $\\frac{\\partial^{2}f}{\\partial x\\partial y}(0, 0)$ and $\\frac{\\partial^{2}f}{\\partial y\\partial x}(0, 0)$ for the function $f(x,y)=\\frac{xy(3x^{2}-2y^{2})}{x^{2}+y^{2}}$ if $(x,y)\\neq(0, 0)$ and $f(0, 0)=0$. Also discuss the continuity of these mixed partial derivatives at $(0, 0)$.\n(c) Evaluate the integral $\\int_{0}^{2\\pi}\\frac{d\\theta}{(1+\\frac{1}{2}\\cos\\theta)^{2}}$ using residues.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Prove that the set of all numbers of the form $a+b\\sqrt{5}$ with rational coefficients $a,b\\in\\mathbb{Q}$ is a commutative ring with identity under the usual addition and multiplication of real numbers.\n(b) Find the minimum value of $x^{2}+y^{2}+z^{2}$ subject to the condition $xyz=a^{3}$ by the method of Lagrange multipliers.\n(c) Find all optimal solutions of the following linear programming problem by the simplex method: maximize $Z=30x_1+24x_2$ subject to $5x_1+4x_2\\le 200$, $x_1\\le 32$, $x_2\\le 40$ and $x_1,x_2\\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the partial differential equation $(2D^{2}-5DD'+2D'^{2})z=24(y-x)$.\n(b) Apply the Newton-Raphson method to determine a root of the equation $\\cos x-x e^{x}=0$ correct up to four decimal places.\n(c) Use five subintervals to integrate $\\int_{0}^{1}\\frac{dx}{1+x^{2}}$ using the trapezoidal rule.\n(d) Use only AND and OR logic gates to construct a logic circuit for the Boolean expression $z=xy+uv$.\n(e) Find the equation of motion of a compound pendulum using Hamilton's equations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Reduce the equation $\\frac{\\partial^{2}z}{\\partial x^{2}}=x^{2}\\frac{\\partial^{2}z}{\\partial y^{2}}$ to canonical form.\n(b) Solve the system of equations $2x_1-x_2=7$, $-x_1+2x_2-x_3=1$, $-x_2+2x_3=1$ using the Gauss-Seidel iteration method (perform three iterations).\n(c) Use the Runge-Kutta formula of fourth order to find the value of $y$ at $x=0.8$, where $\\frac{dy}{dx}=\\sqrt{x+y}$ and $y(0.4)=0.41$. Take the step length $h=0.2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the deflection of a vibrating string of length $\\pi$ with fixed ends and wave speed satisfying $a^{2}=1$, corresponding to zero initial velocity and initial deflection $f(x)=k(\\sin x-\\sin 2x)$.\n(b) Draw a flowchart for Simpson's one-third rule and describe the main computational steps.\n(c) Given the velocity potential $\\phi=\\frac{1}{2}\\log\\frac{(x-a)^{2}+y^{2}}{(x+a)^{2}+y^{2}}$, determine the streamlines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Solve $\\frac{\\partial^{2}u}{\\partial t^{2}}=\\frac{\\partial^{2}u}{\\partial x^{2}}$ for $0<x<1$ and $t>0$, given that $u(x,0)=0$ for $0\\le x\\le 1$, $\\frac{\\partial u}{\\partial t}(x,0)=x^{2}$ for $0\\le x\\le 1$, and $u(0,t)=u(1,t)=0$ for all $t$.\n(b) For any Boolean variables $x$ and $y$, show that $x+xy=x$.\n(c) Find the Navier-Stokes equation for a steady laminar flow of a viscous incompressible fluid between two infinite parallel plates.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

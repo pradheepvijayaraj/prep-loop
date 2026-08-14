@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2023_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $G$ be a group of order $10$ and $G'$ be a group of order $6$. Examine whether there exists a homomorphism of $G$ onto $G'$.\n(b) Express the ideal $4\\mathbb{Z} + 6\\mathbb{Z}$ as a principal ideal in the integral domain $\\mathbb{Z}$.\n(c) Examine the convergence of the series $\\sum_{n=1}^{\\infty} \\frac{1\\cdot 3\\cdot 5\\cdots(2n-1)}{2\\cdot 4\\cdot 6\\cdots(2n)}\\cdot \\frac{x^{2n+1}}{(2n+1)}$, $x > 0$.\n(d) State the sufficient conditions for a function $f(z) = f(x+iy) = u(x,y) + iv(x,y)$ to be analytic in its domain. Hence, show that $f(z) = \\log z$ is analytic in its domain and find $\\frac{df}{dz}$.\n(e) A person requires $24$, $24$ and $20$ units of chemicals $A$, $B$ and $C$ respectively for his garden. Product $P$ contains $2$, $4$ and $1$ units of chemicals $A$, $B$ and $C$ respectively per jar and product $Q$ contains $2$, $1$ and $5$ units of chemicals $A$, $B$ and $C$ respectively per jar. If a jar of $P$ costs Rs $30$ and a jar of $Q$ costs Rs $50$, then how many jars of each should be purchased in order to minimize the cost and meet the requirements?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Prove that a non-commutative group of order $2p$, where $p$ is an odd prime, must have a subgroup of order $p$.\n(b) Using the method of Lagrange's multipliers, find the minimum and maximum distances of the point $P(2, 6, 3)$ from the sphere $x^2 + y^2 + z^2 = 4$.\n(c) Evaluate $\\int_0^{2\\pi} \\frac{\\cos 2\\theta}{5 + 4\\cos\\theta}\\, d\\theta$ using contour integration.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Prove that $x^2 + 1$ is an irreducible polynomial in $\\mathbb{Z}_3[x]$. Further show that the quotient ring $\\frac{\\mathbb{Z}_3[x]}{\\langle x^2 + 1\\rangle}$ is a field of $9$ elements.\n(b) Prove that $u(x, y) = e^x(x\\cos y - y\\sin y)$ is harmonic. Find its conjugate harmonic function $v(x, y)$ and express the corresponding analytic function $f(z)$ in terms of $z$.\n(c) Solve the following linear programming problem by Big $M$ method: Minimize $Z = 2x_1 + 3x_2$ subject to $x_1 + x_2 \\ge 9$, $x_1 + 2x_2 \\ge 15$, $2x_1 - 3x_2 \\le 9$, $x_1, x_2 \\ge 0$. Is the optimal solution unique? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Prove that the oscillation of a real-valued bounded function $f$ defined on $[a, b]$ is the supremum of the set $\\{|f(x_1) - f(x_2)| : x_1, x_2 \\in [a, b]\\}$.\n(b) Classify the singular point $z = 0$ of the function $f(z) = \\frac{e^z}{z - \\sin z}$ and obtain the principal part of its Laurent series expansion.\n(c) A department head has $5$ subordinates and $5$ jobs to be performed. The time (in hours) that each subordinate will take to perform each job is given by the matrix (rows $I$--$V$, columns jobs $A$--$E$): $I=(4, 9,4, 12,4)$, $II=(15, 11,20, 5,8)$, $III=(17, 7,15, 12,18)$, $IV=(9, 13,11, 9,14)$, $V=(6, 11,12, 9,14)$. How should the jobs be assigned, one to each subordinate, so as to minimize the total time? Also, obtain the total minimum time to perform all the jobs if the subordinate $IV$ cannot be assigned job $C$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) By eliminating the arbitrary functions $f$ and $g$ from $z = f(x^2 - y) + g(x^2 + y)$, form the partial differential equation.\n(b) Given $\\frac{dy}{dx} = \\frac{y^2 - x}{y^2 + x}$ with initial condition $y = 1$ at $x = 0$. Find the value of $y$ for $x = 0.4$ by Euler's method, correct to $4$ decimal places, taking step length $h = 0.1$.\n(c) Evaluate, using binary arithmetic, the following numbers in their given system: (i) $(634\\cdot 235)_8 - (132\\cdot 223)_8$;\n(ii) $(7\\mathrm{AB}\\cdot 432)_{16} - (5\\mathrm{CA}\\cdot \\mathrm{D}61)_{16}$.\n(d) A planet of mass $m$ is revolving around the sun of mass $M$. The kinetic energy $T$ and the potential energy $V$ of the planet are given by $T = \\frac{1}{2}m(\\dot{r}^2 + r^2\\dot{\\theta}^2)$ and $V = G Mm\\left(\\frac{1}{2a} - \\frac{1}{r}\\right)$, where $(r, \\theta)$ are the polar coordinates of the planet at time $t$, $G$ is the gravitational constant and $2a$ is the major axis of the ellipse (the path of the planet). Find the Hamiltonian and the Hamilton equations of the planet's motion.\n(e) In a fluid motion, there is a source of strength $2m$ placed at $z = 2$ and two sinks of strength $m$ are placed at $z = 2 + i$ and $z = 2 - i$. Find the streamlines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Find the surface passing through the two lines $z = x = 0$ and $z - 1 = x - y = 0$, and satisfying the partial differential equation $\\frac{\\partial^2 z}{\\partial x^2} - 4\\frac{\\partial^2 z}{\\partial x\\partial y} + 4\\frac{\\partial^2 z}{\\partial y^2} = 0$.\n(b) Solve the system of linear equations $7x_1 - x_2 + 2x_3 = 11$, $2x_1 + 8x_2 - x_3 = 9$, $x_1 - 2x_2 + 9x_3 = 7$ correct up to $4$ significant figures by the Gauss-Seidel iterative method. Take initially guessed solution as $x_1 = x_2 = x_3 = 0$.\n(c) A mechanical system with $2$ degrees of freedom has the Lagrangian $L = \\frac{1}{2}m(\\dot{x}^2 + \\dot{y}^2) - \\frac{1}{2}m(w_1^2 x^2 + w_2^2 y^2) + kxy$, where $m$, $w_1$, $w_2$, $k$ are constants. Find the parameter $\\theta$ so that under the transformation $x = q_1\\cos\\theta - q_2\\sin\\theta$, $y = q_1\\sin\\theta + q_2\\cos\\theta$, the Lagrangian in terms of $q_1$, $q_2$ will not contain the product term $q_1 q_2$. Find the Lagrange's equations with respect to $q_1$ and $q_2$ independent of parameter $\\theta$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) (i) Find the conjunctive normal form (CNF) of the following Boolean function: $f(x, y, z, t) = x\\cdot y\\cdot z + \\bar{x}\\cdot y\\cdot(t + \\bar{z})$.\n(ii) Express the Boolean function $f(x, y, z) = x + \\overline{(\\bar{x}\\cdot \\bar{y} + \\bar{x}\\cdot z)} + z$ in disjunctive normal form (DNF) and construct the truth table for the function.\n(b) A perfectly rough ball is at rest within a hollow cylindrical roller. The roller is drawn along a level path with uniform velocity $V$. Let $a$ and $b$ be the radii of the ball and the roller respectively. If $V^2 > \\frac{27}{7} g(b - a)$, then show that the ball will roll completely round the inside of the roller.\n(c) Solve the partial differential equation $a^2 \\frac{\\partial^2 u}{\\partial x^2} = \\frac{\\partial^2 u}{\\partial t^2}$, $0 < x < L$, $t > 0$, subject to the conditions $u(0, t) = 0$, $u(L, t) = 0$ for $t > 0$, and $u(x, 0) = x$, $\\left(\\frac{\\partial u}{\\partial t}\\right)_{t=0} = 1$, $0 < x < L$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Reduce the partial differential equation $\\frac{\\partial^2 z}{\\partial y^2} - \\frac{\\partial^2 z}{\\partial x\\partial y} + \\frac{\\partial z}{\\partial x} - \\frac{\\partial z}{\\partial y}\\left(1 + \\frac{1}{x}\\right) + \\frac{z}{x} = 0$ to canonical form.\n(b) Compute a root of the equation $\\log_{10}(2x + 1) - x^2 + 3 = 0$, in the interval $[0, 3]$, by Regula-Falsi method, correct to $6$ decimal places.\n(c) Determine under what conditions the velocity field $u = c(x^2 - y^2)$, $v = -2cxy$, $w = 0$ is a solution to the Navier-Stokes momentum equations. Assuming that the conditions are met, determine the resulting pressure distribution, when $z$ is up and the external body forces are $B_x = 0 = B_y$, $B_z = -g$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

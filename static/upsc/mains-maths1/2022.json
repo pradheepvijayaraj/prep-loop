@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2022_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Prove that any set of $n$ linearly independent vectors in a vector space $V$ of dimension $n$ constitutes a basis for $V$.\n(b) Let $T:\\mathbb{R}^{2}\\to\\mathbb{R}^{3}$ be a linear transformation such that $T\\begin{pmatrix}1\\\\0\\end{pmatrix}=\\begin{pmatrix}1\\\\2\\\\3\\end{pmatrix}$ and $T\\begin{pmatrix}1\\\\1\\end{pmatrix}=\\begin{pmatrix}-3\\\\2\\\\8\\end{pmatrix}$. Find $T\\begin{pmatrix}2\\\\4\\end{pmatrix}$.\n(c) Evaluate $\\lim_{x\\to\\infty}(e^{x}+x)^{1/x}$.\n(d) Examine the convergence of $\\int_{0}^{2}\\frac{dx}{2x-x^{2}}$.\n(e) A variable plane passes through a fixed point $(a,b,c)$ and meets the axes at points $A$, $B$ and $C$ respectively. Find the locus of the centre of the sphere passing through the points $O$, $A$, $B$ and $C$, $O$ being the origin.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Find all solutions to the following system of equations by the row-reduced method: $x_{1}+2x_{2}-x_{3}=2$, $2x_{1}+3x_{2}+5x_{3}=5$, $-x_{1}-3x_{2}+8x_{3}=-1$.\n(b) A wire of length $l$ is cut into two parts which are bent in the form of a square and a circle respectively. Using Lagrange's method of undetermined multipliers, find the least value of the sum of the areas so formed.\n(c) If $P,Q,R;\\,P',Q',R'$ are feet of the six normals drawn from a point to the ellipsoid $\\frac{x^{2}}{a^{2}}+\\frac{y^{2}}{b^{2}}+\\frac{z^{2}}{c^{2}}=1$, and the plane $PQR$ is represented by $lx+my+nz=p$, show that the plane $P'Q'R'$ is given by $\\frac{x}{a^{2}l}+\\frac{y}{b^{2}m}+\\frac{z}{c^{2}n}+\\frac{1}{p}=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Let the set $P=\\left\\{\\begin{pmatrix}x\\\\y\\\\z\\end{pmatrix}:x-y-z=0\\text{ and }2x-y+z=0\\right\\}$ be the collection of vectors of a vector space $\\mathbb{R}^{3}$. Then (i) prove that $P$ is a subspace of $\\mathbb{R}^{3}$;\n(ii) find a basis and dimension of $P$.\n(b) Use double integration to calculate the area common to the circle $x^{2}+y^{2}=4$ and the parabola $y^{2}=3x$.\n(c) Find the equation of the sphere of smallest possible radius which touches the straight lines $\\frac{x-3}{3}=\\frac{y-8}{-1}=\\frac{z-3}{1}$ and $\\frac{x+3}{-3}=\\frac{y+7}{2}=\\frac{z-6}{4}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Find a linear map $T:\\mathbb{R}^{2}\\to\\mathbb{R}^{2}$ which rotates each vector of $\\mathbb{R}^{2}$ by an angle $\\theta$. Also prove that for $\\theta=\\frac{\\pi}{2}$, $T$ has no eigenvalue in $\\mathbb{R}$.\n(b) Trace the curve $y^{2}x^{2}=x^{2}-a^{2}$, where $a$ is a real constant.\n(c) If the plane $ux+vy+wz=0$ cuts the cone $ax^{2}+by^{2}+cz^{2}=0$ in perpendicular generators, then prove that $(b+c)u^{2}+(c+a)v^{2}+(a+b)w^{2}=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Show that the general solution of the differential equation $\\frac{dy}{dx}+Py=Q$ can be written in the form $y=\\frac{Q}{P}-e^{-\\int P\\,dx}\\left\\{C+\\int e^{\\int P\\,dx}\\,d\\!\\left(\\frac{Q}{P}\\right)\\right\\}$, where $P,Q$ are non-zero functions of $x$ and $C$ is an arbitrary constant.\n(b) Show that the orthogonal trajectories of the system of parabolas $x^{2}=4a(y+a)$ belong to the same system.\n(c) A body of weight $w$ rests on a rough inclined plane of inclination $\\theta$, the coefficient of friction $\\mu$ being greater than $\\tan\\theta$. Find the work done in slowly dragging the body a distance $b$ up the plane and then dragging it back to the starting point, the applied force being in each case parallel to the plane.\n(d) A projectile is fired from a point $O$ with velocity $\\sqrt{2gh}$ and hits a tangent at the point $P(x,y)$ in the plane, the axes $OX$ and $OY$ being horizontal and vertically downward lines through the point $O$ respectively. Show that if the two possible directions of projection be at right angles, then $x^{2}=2hy$ and then one of the possible directions of projection bisects the angle $POX$.\n(e) Show that $\\vec{A}=(6xy+z^{3})\\hat{\\imath}+(3x^{2}-z)\\hat{\\jmath}+(3xz^{2}-y)\\hat{k}$ is irrotational. Also find $\\phi$ such that $\\vec{A}=\\nabla\\phi$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) A cable of weight $w$ per unit length and length $2l$ hangs from two points $P$ and $Q$ in the same horizontal line. Show that the span of the cable is $2l\\left(1-\\frac{2h^{2}}{3l^{2}}\\right)$, where $h$ is the sag in the middle of the tightly stretched position.\n(b) Solve the following differential equation by the method of variation of parameters: $(x^{2}-1)\\frac{d^{2}y}{dx^{2}}-2x\\frac{dy}{dx}+2y=(x^{2}-1)^{2}$, given that $y=x$ is one solution of the reduced equation.\n(c) Verify Green's theorem in the plane for $\\oint_{C}(3x^{2}-8y^{2})\\,dx+(4y-6xy)\\,dy$, where $C$ is the boundary curve of the region defined by $x=0$, $y=0$, $x+y=1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) Verify Stokes' theorem for $\\vec{F}=x\\hat{\\imath}+z^{2}\\hat{\\jmath}+y^{2}\\hat{k}$ over the plane surface $x+y+z=1$ lying in the first octant.\n(b) Solve the following initial value problem by using Laplace's transformation: $\\frac{d^{2}y}{dt^{2}}-3\\frac{dy}{dt}+2y=h(t)$, where $h(t)=2$ for $0<t<4$ and $h(t)=0$ for $t>4$, with $y(0)=0$, $y'(0)=0$.\n(c) Suppose a cylinder of any cross-section is balanced on another fixed cylinder, the contact of curved surfaces being rough and the common tangent line horizontal. Let $\\rho$ and $\\rho'$ be the radii of curvature of the two cylinders at the point of contact and $h$ be the height of centre of gravity of the upper cylinder above the point of contact. Show that the upper cylinder is balanced in stable equilibrium if $h<\\frac{\\rho\\rho'}{\\rho+\\rho'}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Find the general and singular solutions of the differential equation $(x^{2}-a^{2})p^{2}-2xyp+y^{2}+a^{2}=0$, where $p=\\frac{dy}{dx}$. Also give the geometric relation between the general and singular solutions.\n(ii) Solve the following differential equation: $(3x+2)^{2}\\frac{d^{2}y}{dx^{2}}+5(3x+2)\\frac{dy}{dx}-3y=x^{2}+x+1$.\n(b) A chain of $n$ equal uniform rods is smoothly jointed together and suspended from its one end $A_{1}$. A horizontal force $\\vec{P}$ is applied to the other end $A_{n+1}$ of the chain. Find the inclinations of the rods to the downward vertical line in the equilibrium configuration.\n(c) Using Gauss' divergence theorem, evaluate $\\iint_{S}\\vec{F}\\cdot\\hat{n}\\,dS$, where $\\vec{F}=x\\hat{\\imath}-y\\hat{\\jmath}+(z^{2}-1)\\hat{k}$ and $S$ is the cylinder formed by the surfaces $z=0$, $z=1$, $x^{2}+y^{2}=4$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "GS1",
+    "section": "mains-gs1",
+    "sourceId": "upsc_2017_mains_gs1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_gs1_q1",
+      "type": "fill-blank",
+      "question": "How do you justify the view that the level of excellence of the Gupta numismatic art is not at all noticeable in later times?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q2",
+      "type": "fill-blank",
+      "question": "Clarify how mid-eighteenth century India was beset with the spectre of a fragmented polity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q3",
+      "type": "fill-blank",
+      "question": "Why did the 'Moderates' fail to carry conviction with the nation about their proclaimed ideology and political goals by the end of the nineteenth century?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q4",
+      "type": "fill-blank",
+      "question": "What problems were germane to the decolonization process in the Malay Peninsula?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q5",
+      "type": "fill-blank",
+      "question": "How does the Juno Mission of NASA help to understand the origin and evolution of the Earth?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q6",
+      "type": "fill-blank",
+      "question": "How does the cryosphere affect global climate?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q7",
+      "type": "fill-blank",
+      "question": "How do the melting of the Arctic ice and glaciers of the Antarctic differently affect the weather patterns and human activities?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q8",
+      "type": "fill-blank",
+      "question": "Account for variations in oceanic salinity and discuss its multi-dimensional effects.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q9",
+      "type": "fill-blank",
+      "question": "Petroleum refineries are not necessarily located nearer to crude oil producing areas, particularly in many of the developing countries. Explain its implications.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q10",
+      "type": "fill-blank",
+      "question": "In the context of the diversity of India, can it be said that the regions form cultural units rather than the States? Give reasons with examples for your view point.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q11",
+      "type": "fill-blank",
+      "question": "What are the two major legal initiatives by the State since Independence addressing discrimination against Scheduled Tribes (STs)?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q12",
+      "type": "fill-blank",
+      "question": "The spirit of tolerance and love is not only an interesting feature of Indian society from very early times, but it is also playing an important part at the present. Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q13",
+      "type": "fill-blank",
+      "question": "Examine how the decline of traditional artisanal industry in colonial India crippled the rural economy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q14",
+      "type": "fill-blank",
+      "question": "Highlight the importance of the new objectives that got added to the vision of Indian Independence since the twenties of the last century.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q15",
+      "type": "fill-blank",
+      "question": "Distinguish between religiousness/religiosity and communalism giving one example of how the former has got transformed into the latter in independent India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q16",
+      "type": "fill-blank",
+      "question": "\"The growth of cities as I.T. hubs has opened up new avenues of employment, but has also created new problems.\" Substantiate this statement with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q17",
+      "type": "fill-blank",
+      "question": "The women's questions arose in modern India as a part of the 19th century social reform movement. What are the major issues and debates concerning women in that period?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q18",
+      "type": "fill-blank",
+      "question": "\"In spite of adverse environmental impact, coal mining is still inevitable for development.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q19",
+      "type": "fill-blank",
+      "question": "In what way can floods be converted into a sustainable source of irrigation and all-weather inland navigation in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs1_q20",
+      "type": "fill-blank",
+      "question": "What characteristics can be assigned to monsoon climate that succeeds in feeding more than 50 percent of the world population residing in Monsoon Asia?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper I",
+        "descriptive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2024_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $H$ be a subspace of $\\mathbb{R}^{4}$ spanned by the vectors $v_{1}=(1,-2, 5,-3)$, $v_{2}=(2, 3,1,-4)$, $v_{3}=(3, 8,-3,-5)$. Then find a basis and dimension of $H$, and extend the basis of $H$ to a basis of $\\mathbb{R}^{4}$.\n(b) Let $T:\\mathbb{R}^{3}\\to\\mathbb{R}^{3}$ be a linear operator and $B=\\{v_{1},v_{2},v_{3}\\}$ be a basis of $\\mathbb{R}^{3}$ over $\\mathbb{R}$. Suppose that $Tv_{1}=(1, 1,0)$, $Tv_{2}=(1, 0,-1)$, $Tv_{3}=(2, 1,-1)$. Find a basis for the range space and null space of $T$.\n(c) Discuss the continuity of the function $f(x)=\\begin{cases}\\dfrac{1}{1-e^{-1/x}}, & x\\neq 0\\\\ 0, & x=0\\end{cases}$ for all values of $x$.\n(d) Expand $\\ln(x)$ in powers of $(x-1)$ by Taylor's theorem and hence find the value of $\\ln(1.1)$ correct up to four decimal places.\n(e) Find the equation of the right circular cylinder which passes through the circle $x^{2}+y^{2}+z^{2}=9$, $x-y+z=3$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Consider a linear operator $T$ on $\\mathbb{R}^{3}$ over $\\mathbb{R}$ defined by $T(x,y,z)=(2x,\\,4x-y,\\,2x+3y-z)$. Is $T$ invertible? If yes, justify your answer and find $T^{-1}$.\n(b) If $u=\\frac{x+y}{1-xy}$ and $v=\\tan^{-1}x+\\tan^{-1}y$, then find $\\frac{\\partial(u,v)}{\\partial(x,y)}$. Are $u$ and $v$ functionally related? If yes, find the relationship.\n(c) Find the image of the line $x=3-6t$, $y=2t$, $z=3+2t$ in the plane $3x+4y-5z+26=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $V=M_{2\\times 2}(\\mathbb{R})$ denote a vector space over the field of real numbers. Find the matrix of the linear mapping $\\phi:V\\to V$ given by $\\phi(v)=\\begin{pmatrix}1&2\\\\3&-1\\end{pmatrix}v$ with respect to the standard basis of $M_{2\\times 2}(\\mathbb{R})$, and hence find the rank of $\\phi$. Is $\\phi$ invertible? Justify your answer.\n(b) Find the volume of the greatest cylinder which can be inscribed in a cone of height $h$ and semi-vertical angle $\\alpha$.\n(c) Find the vertex of the cone $4x^{2}-y^{2}+2z^{2}+2xy-3yz+12x-11y+6z+4=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Let $A=\\begin{pmatrix}3&2&4\\\\2&0&2\\\\4&2&3\\end{pmatrix}$ be a $3\\times 3$ matrix. Find the eigenvalues and the corresponding eigenvectors of $A$. Hence find the eigenvalues and the corresponding eigenvectors of $A^{-15}$, where $A^{-15}=(A^{-1})^{15}$.\n(b) Using double integration, find the area lying inside the cardioid $r=a(1+\\cos\\theta)$ and outside the circle $r=a$.\n(c) Find the equation of the sphere which touches the plane $3x+2y-z+2=0$ at the point $(1,-2, 1)$ and cuts orthogonally the sphere $x^{2}+y^{2}+z^{2}-4x+6y+4=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Find the orthogonal trajectories of the family of curves $r=c(\\sec\\theta+\\tan\\theta)$, where $c$ is a parameter.\n(b) Solve the integral equation $y(t)=\\cos t+\\int_{0}^{t}y(x)\\cos(t-x)\\,dx$ using Laplace transform.\n(c) At any time $t$ (in seconds), the coterminous edges of a variable parallelepiped are represented by the vectors $\\vec{\\alpha}=t\\hat{\\imath}+(t+1)\\hat{\\jmath}+(2t+1)\\hat{k}$, $\\vec{\\beta}=2t\\hat{\\imath}+(3t-1)\\hat{\\jmath}+t\\hat{k}$, $\\vec{\\gamma}=\\hat{\\imath}+3t\\hat{\\jmath}+\\hat{k}$. What is the rate of change of the vectorial area of the parallelogram whose coterminous edges are $\\vec{\\alpha}$ and $\\vec{\\gamma}$? Also find the rate of change of the volume of the parallelepiped at $t=1$ second.\n(d) A solid hemisphere rests in equilibrium on a solid sphere of equal radius. Determine the stability of the equilibrium in the two situations—(i) when the curved surface\n(ii) when the flat surface of the hemisphere rests on the sphere.\n(e) (i) Let $C$ be a plane curve $\\vec{r}(t)=f(t)\\hat{\\imath}+g(t)\\hat{\\jmath}$, where $f$ and $g$ have second-order derivatives. Show that the curvature at a point is given by $\\kappa=\\dfrac{|f'(t)g''(t)-g'(t)f''(t)|}{\\bigl([f'(t)]^{2}+[g'(t)]^{2}\\bigr)^{3/2}}$. What is the value of torsion $\\tau$ at any point of this curve?\n(ii) Show that the principal normals at two consecutive points of a curve do not intersect unless torsion $\\tau$ is zero.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) A regular tetrahedron, formed of six light rods, each of length $l$, rests on a smooth horizontal plane. A ring of weight $W$ and radius $r$ is supported by the slant sides. Using the principle of virtual work, find the stress in any of the horizontal sides.\n(b) A particle executes simple harmonic motion such that in two of its positions, velocities are $u$ and $v$, and the two corresponding accelerations are $f_{1}$ and $f_{2}$. For what value(s) of $k$, the distance between the two positions is $k(v^{2}-u^{2})$? Show also that the amplitude of the motion is $\\dfrac{1}{f_{2}^{2}-f_{1}^{2}}\\bigl[(u^{2}-v^{2})(u^{2}f_{2}^{2}-v^{2}f_{1}^{2})\\bigr]^{1/2}$.\n(c) (i) Find the second solution of the differential equation $xy''+(x-1)y'-y=0$ using $u(x)=-e^{-x}$ as one of the solutions.\n(ii) Find the general solution of the differential equation $x^{2}y''-2xy'+2y=x^{3}\\sin x$ by the method of variation of parameters.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) State uniqueness theorem for the existence of unique solution of the initial value problem $\\frac{dy}{dx}=f(x,y)$, $y(x_{0})=y_{0}$ in the rectangular region $R:|x-x_{0}|\\le a$, $|y-y_{0}|\\le b$. Test the existence and uniqueness of the solution of the initial value problem $\\frac{dy}{dx}=2y^{1/2}$, $y(1)=0$, in a suitable rectangle $R$. If more than one solution exist, then find all the solutions.\n(b) A heavy particle hanging vertically from a fixed point by a light inextensible string of length $l$ starts to move with initial velocity $u$ in a circle so as to make a complete revolution in a vertical plane. Show that the sum of tensions at the ends of any diameter is constant.\n(c) State Stokes' theorem and verify it for the vector field $\\vec{F}=xy\\,\\hat{\\imath}+yz\\,\\hat{\\jmath}+zx\\,\\hat{k}$ over the surface $S$, which is the upwardly oriented part of the cylinder $z=1-x^{2}$, for $0\\le x\\le 1$, $-2\\le y\\le 2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Using Laplace transform, solve the initial value problem $y''+2y'+5y=\\delta(t-2)$, $y(0)=0$, $y'(0)=0$, where $\\delta(t-2)$ denotes the Dirac delta function.\n(b) Using Gauss divergence theorem, evaluate the integral $\\iint_{S}\\bigl(y^{2}\\,\\hat{\\imath}+xz^{3}\\,\\hat{\\jmath}+(z-1)^{2}\\,\\hat{k}\\bigr)\\cdot\\hat{n}\\,dS$ over the region bounded by the cylinder $x^{2}+y^{2}=16$ and the planes $z=1$ and $z=5$.\n(c) A particle moves with a central acceleration $\\mu\\left(\\frac{3}{r^{3}}+\\frac{d^{2}}{r^{5}}\\right)$ being projected from a distance $d$ at an angle $45^{\\circ}$ with a velocity equal to that in a circle at the same distance. Prove that the time it takes to reach the centre of force is $\\frac{d^{2}}{(2\\mu)^{1/2}}\\left(2-\\frac{\\pi}{2}\\right)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

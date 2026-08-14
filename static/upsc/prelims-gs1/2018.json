@@ -1,0 +1,3418 @@
+{
+  "metadata": {
+    "name": "Prelims GS Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 100,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2018,
+    "stage": "Prelims",
+    "paper": "GS1",
+    "section": "prelims-gs1",
+    "sourceId": "upsc_2018_gs1",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_gs1_q1",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party.\n2. In the Lok Sabha, a \"Leader of the Opposition\" was recognised for the first time in 1969.\n3. In the Lok Sabha, if a party does not have a minimum of 75 members, its leader cannot be recognised as the Leader of the Opposition.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q2",
+      "type": "single-choice",
+      "question": "Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss?\n\n1. Hard and waxy leaves.\n2. Tiny leaves.\n3. Thorns instead of leaves.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q3",
+      "type": "single-choice",
+      "question": "As per the NSSO 70th Round “Situation Assessment Survey of Agricultural Households”, consider the following statements\n1. Rajasthan has the highest percentage share of agricultural households among its rural households\n2. Out of the total agricultural households in the country, a little over 60 percent belong to OBCs\n3. In Kerala, a little over 60 percent of agricultural households reported to have received maximum income from sources other than agricultural activities.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q4",
+      "type": "single-choice",
+      "question": "How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)?\n\n1. The NGT has been established by an Act whereas the CPCB has been created by an executive order of the Government.\n2. The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q5",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India.\n2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q6",
+      "type": "single-choice",
+      "question": "Which one of the following best describes the term \"Merchant Discount Rate\" sometimes seen in news?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The incentive given by a bank to a merchant for accepting payments through debit cards pertaining to that bank. ("
+        },
+        {
+          "id": "b",
+          "text": "The amount paid back by banks to their customers when they use debit cards for financial transactions for purchasing goods or services"
+        },
+        {
+          "id": "c",
+          "text": "The charge to a merchant by a bank for accepting payments from his customers through the bank's debit cards"
+        },
+        {
+          "id": "d",
+          "text": "The incentive given by the Government, to merchants for promoting digital payments by their customers through Point of Sale (PoS) machines and debit cards"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q7",
+      "type": "single-choice",
+      "question": "What is/are the consequence/consequences of a country becoming the member of the `Nuclear Suppliers Group?\n1. It will have access to the latest and most efficient nuclear technologies.\n2. It automatically becomes a member of \"The Treaty on the Non-Proliferation of Nuclear Weapons (NPT)\".\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q8",
+      "type": "single-choice",
+      "question": "With reference to India's decision to levy an equalization tax of 6% on online advertisement services offered by non-resident entities, which of the following statements is/are correct?\n1. It is introduced as a part of the Income Tax Act.\n2. Non-resident entities that offer advertisement services in India can claim a tax credit in their home country under the \"Double Taxation Avoidance Agreements\".\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q9",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. The Fiscal Responsibility and Budget Management (FRBM) Review Committee Report has recommended a debt to GDP ratio of 60% for the general (combined) government by 2023, comprising 40% for the Central Government and 20% for the State Governments.\n2. The Central Government has domestic liabilities of 21% of GDP as compared to that of 49% of GDP of the State Governments.\n3. As per the Constitution of India, it is mandatory for a State to take the Central Government's consent for raising any loan if the former owes any outstanding liabilities to the latter.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q10",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The quantity of imported edible oils is more than the domestic production of edible oils in the last five years\n2. The Government does not impose any customs duty on all the imported edible oils a special case. Which of two statements given above is/are correct",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q11",
+      "type": "single-choice",
+      "question": "He wrote biographies of Mazzini, Garibaldi, Shivaji and Shrikrishna; stayed in America for some time; and was also elected to the Central Assembly. He was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aurobindo Ghosh"
+        },
+        {
+          "id": "b",
+          "text": "Bipin Chandra Pal"
+        },
+        {
+          "id": "c",
+          "text": "Lala Lajpat Rai"
+        },
+        {
+          "id": "d",
+          "text": "Motilal Nehru"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q12",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. Aadhaar card can be used as a proof of citizenship or domicile.\n2. Once issued, Aadhaar number cannot be deactivated or omitted by the Issuing Authority.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q13",
+      "type": "single-choice",
+      "question": "Which of the following has/have shrunk immensely/dried up in the recent past due to human activities?\n\n1. Aral Sea\n2. Black Sea\n3. Lake Baikal\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 only"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q14",
+      "type": "single-choice",
+      "question": "\"Rule of Law Index\" is released by which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amnesty International"
+        },
+        {
+          "id": "b",
+          "text": "International Court of Justice"
+        },
+        {
+          "id": "c",
+          "text": "The Office of UN Commissioner for Human Rights"
+        },
+        {
+          "id": "d",
+          "text": "World Justice Project"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q15",
+      "type": "single-choice",
+      "question": "Which one of the following links all the ATMs in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indian banks' Association"
+        },
+        {
+          "id": "b",
+          "text": "National Securities Depository Limited"
+        },
+        {
+          "id": "c",
+          "text": "National Payments Corporation of India"
+        },
+        {
+          "id": "d",
+          "text": "Reserve Bank of India"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q16",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the account-holders fail to repay dues.\n2. CAR is decided by each individual bank.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q17",
+      "type": "single-choice",
+      "question": "The identity platform 'Aadhaar' provides open \"Application Programming Interfaces (APIs)\". What does it imply?\n1. It can be integrated into any electronic device.\n2. Online authentication using iris is possible.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q18",
+      "type": "single-choice",
+      "question": "Very recently, in which of the following countries have lakhs of people either suffered from severe famine/acute malnutrition or died due to starvation caused by war/ethnic conflicts?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Angola and Zambia"
+        },
+        {
+          "id": "b",
+          "text": "Morocco and Tunisia"
+        },
+        {
+          "id": "c",
+          "text": "Venezuela and Colombia"
+        },
+        {
+          "id": "d",
+          "text": "Yemen and South Sudan"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q19",
+      "type": "single-choice",
+      "question": "Regarding Wood's Dispatch, which of the following statements are true?\n1. Grants-in-Aid system was introduced.\n2. Establishment of universities was recommended.\n3. English as a medium of instruction at all levels of education was recommended.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q20",
+      "type": "single-choice",
+      "question": "With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws, etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Committee on Government Assurances"
+        },
+        {
+          "id": "b",
+          "text": "Committee on Subordinate Legislation"
+        },
+        {
+          "id": "c",
+          "text": "Rules Committee"
+        },
+        {
+          "id": "d",
+          "text": "Business Advisory Committee"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q21",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. As per the Right to Education (RTE) Act, to be eligible for appointment as a teacher in a State, a person would be required to possess the minimum qualification laid down by the concerned State Council of Teacher Education.\n2. As per the RTE Act, for teaching primary classes, a candidate is required to pass a Teacher Eligibility Test conducted in accordance with the National Council of Teacher Education guidelines.\n3. In India, more than 90% of teacher -5 education institutions are directly under the State Governments.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q22",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Tradition State\n1. Chapchar Kut festival — Mizoram\n2. Khongjom Parba ballad — Manipur\n3. Thong-To dance — Sikkim Which of the pairs given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q23",
+      "type": "single-choice",
+      "question": "Consider the following statements The Food Safety and Standards Act, 2006 replaced the Prevention of Food Adulteration Act,\n1954. The Food Safety and Standards Authority of India (FSSAI) is under the charge of Director General of Health Services in the Union Ministry of Health and Family Welfare. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q24",
+      "type": "single-choice",
+      "question": "The term \"two-state solution\" is sometimes mentioned in the news in the context of the affairs of",
+      "options": [
+        {
+          "id": "a",
+          "text": "China"
+        },
+        {
+          "id": "b",
+          "text": "Israel"
+        },
+        {
+          "id": "c",
+          "text": "Iraq"
+        },
+        {
+          "id": "d",
+          "text": "Yemen"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q25",
+      "type": "single-choice",
+      "question": "With reference to the provisions made under the National Food Security Act, 2013 consider the following statements\n1. The families coming under the category of ‘below poverty line (BPL)' only are eligible to receive subsidised grains.\n2. The eldest woman in a household, of age 18 years or above, shall be the head of the household for the purpose of issuance of a ration card.\n3. Pregnant women and lactating mothers are entitled to a take-home ration of 1600 calories per day during pregnancy and for six months thereafter.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q26",
+      "type": "single-choice",
+      "question": "India enacted The Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to",
+      "options": [
+        {
+          "id": "a",
+          "text": "ILO"
+        },
+        {
+          "id": "b",
+          "text": "IMF"
+        },
+        {
+          "id": "c",
+          "text": "UNCTAD"
+        },
+        {
+          "id": "d",
+          "text": "WTO"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q27",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. In India, State Governments do not have the power to auction non-coal mines.\n2. Andhra Pradesh and Jharkhand do not have gold mines.\n3. Rajasthan has iron ore mines.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q28",
+      "type": "single-choice",
+      "question": "With reference to digital payments, consider the following statements\n1. BHIM app allows the user to transfer money to anyone with a UPI-enabled bank account.\n2. While a chip-pin debit card has four factors of authentication, BHIM app has only two factors of authentication.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q29",
+      "type": "single-choice",
+      "question": "Among the following cities, which one lies on a longitude closest to that of Delhi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bengaluru"
+        },
+        {
+          "id": "b",
+          "text": "Hyderabad"
+        },
+        {
+          "id": "c",
+          "text": "Nagpur"
+        },
+        {
+          "id": "d",
+          "text": "Pune"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q30",
+      "type": "single-choice",
+      "question": "International Labour Organization's Conventions 138 and 182 are related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Child labour"
+        },
+        {
+          "id": "b",
+          "text": "Adaptation of agricultural practices to global climate change"
+        },
+        {
+          "id": "c",
+          "text": "Regulation of food prices and food security"
+        },
+        {
+          "id": "d",
+          "text": "Gender parity at the workplace"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q31",
+      "type": "single-choice",
+      "question": "What is \"Terminal High Altitude Area Defense (THAAD)\", sometimes seen in the news?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An Israeli radar system"
+        },
+        {
+          "id": "b",
+          "text": "India's indigenous anti-missile programme"
+        },
+        {
+          "id": "c",
+          "text": "An American anti missile system"
+        },
+        {
+          "id": "d",
+          "text": "A defence collaboration between Japan and South Korea"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q32",
+      "type": "single-choice",
+      "question": "With reference to the election of the President of India, consider the following statements:\n\n1. The value of the vote of each MLA varies from State to State.\n2. The value of the vote of MPs of the Lok Sabha is more than the value of the vote of MPs of the Rajya Sabha.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q33",
+      "type": "single-choice",
+      "question": "In the Indian context, what is the implication of ratifying the ‘Additional Protocol' with the `International Atomic Energy Agency (IAEA)' ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The civilian nuclear reactors come under IAEA safeguards"
+        },
+        {
+          "id": "b",
+          "text": "The military nuclear installations come under the inspection of IAEA"
+        },
+        {
+          "id": "c",
+          "text": "The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG)"
+        },
+        {
+          "id": "d",
+          "text": "The country automatically becomes a member of the NSG"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q34",
+      "type": "single-choice",
+      "question": "Consider the following countries:\n1. Australia\n2. Canada\n3. China\n4. India\n5. Japan\n6. USA\n\nWhich of the above are among the ‘free-trade partners' of ASEAN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 4 and 5"
+        },
+        {
+          "id": "b",
+          "text": "3, 4, 5 and 6"
+        },
+        {
+          "id": "c",
+          "text": "1, 3, 4 and 5"
+        },
+        {
+          "id": "d",
+          "text": "2, 3, 4 and 6"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q35",
+      "type": "single-choice",
+      "question": "With reference to the 'Global Alliance for Climate-Smart Agriculture (GACSA)', which of the following statements is/are correct?\n\n1. GACSA is an outcome of the Climate Summit held in Paris in 2015.\n2. Membership of GACSA does not create any binding obligations.\n3. GACSA promotes transformation of agriculture in an integrated manner.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q36",
+      "type": "single-choice",
+      "question": "Why is there a great concern about the 'microbeads' that are released into environment?\n\n1. They are considered harmful to marine ecosystems.\n2. They are considered to cause skin cancer in children.\n3. They are small enough to be absorbed by crop plants in irrigated fields.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q37",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Town sometime mentioned in news Country\n1. Aleppo –Syria\n2. Kirkuk -Yemen\n3. Mosul - Palestine\n4. Mazar-i-Sharif - Afghanistan Which of the pairs given above are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "1 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q38",
+      "type": "single-choice",
+      "question": "In the federation established by The Government on India Act of\n1935. Residuary Power were given to the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Federal Legislature"
+        },
+        {
+          "id": "b",
+          "text": "Governor General"
+        },
+        {
+          "id": "c",
+          "text": "Provincial Legislature"
+        },
+        {
+          "id": "d",
+          "text": "Provincial Governors"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q39",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Speaker of the Legislative Assembly Shall vacate his/her office if he/she ceases to be a member of the Assembly.\n2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her immediately.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q40",
+      "type": "single-choice",
+      "question": "Which one of the following reflects the nicest, appropriate relationship between law and liberty?",
+      "options": [
+        {
+          "id": "a",
+          "text": "if there are more laws, there is less liberty"
+        },
+        {
+          "id": "b",
+          "text": "If there are no laws, there is no liberty"
+        },
+        {
+          "id": "c",
+          "text": "If there is liberty, laws have to be made by the people"
+        },
+        {
+          "id": "d",
+          "text": "If laws are changed too often, liberty is in danger"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q41",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. No criminal proceedings shall be instituted against the Governor of a State in any court during his term of office.\n2. The emoluments and allowances of the Governor of a State shall not be diminished during his term of office.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q42",
+      "type": "single-choice",
+      "question": "The well-known painting \"Bani Thani\" belongs to the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bundi school"
+        },
+        {
+          "id": "b",
+          "text": "Jaipur school"
+        },
+        {
+          "id": "c",
+          "text": "Kangra school"
+        },
+        {
+          "id": "d",
+          "text": "Kishangarh school"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q43",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. Aadhaar metadata cannot be stored for more than three months.\n2. State cannot enter into any contract with private corporations for sharing of Aadhaar data.\n3. Aadhaar is mandatory for obtaining insurance products.\n4. Aadhaar is mandatory for getting benefits funded out of the Consolidated Fund of India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q44",
+      "type": "single-choice",
+      "question": "With reference to the cultural history of India, consider the following statements:\n\n1. Most of the Tyagaraja Kritis are devotional songs in praise of Lord Krishna.\n2. Tyagaraja created several new ragas.\n3. Annamacharya and Tyagaraja are contemporaries.\n4. Annamacharya kirtanas are devotional songs in praise of Lord Venkateswara.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q45",
+      "type": "single-choice",
+      "question": "Which of the following are regarded as the main features of the “Rule of Law”?\n\n1. Limitation of powers\n2. Equality before law\n3. People’s responsibility to the Government\n4. Liberty and civil rights\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q46",
+      "type": "single-choice",
+      "question": "Which one of the following statements correctly describes the meaning of legal tender money?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The money which is tendered in courts of law to defray the fee of legal cases"
+        },
+        {
+          "id": "b",
+          "text": "The money which a creditor is under compulsion to accept in settlement of his claims"
+        },
+        {
+          "id": "c",
+          "text": "The bank money in the form of cheques, drafts, bills of exchange, etc"
+        },
+        {
+          "id": "d",
+          "text": "The metallic money in circulation in a country"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q47",
+      "type": "single-choice",
+      "question": "If a commodity is provided free to the public by the Government, then",
+      "options": [
+        {
+          "id": "a",
+          "text": "the opportunity cost is zero"
+        },
+        {
+          "id": "b",
+          "text": "the opportunity cost is ignored"
+        },
+        {
+          "id": "c",
+          "text": "the opportunity cost is transferred from the consumers of the product to the tax-paying public"
+        },
+        {
+          "id": "d",
+          "text": "the opportunity cost is transferred from the consumers of the product to the Government"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q48",
+      "type": "single-choice",
+      "question": "Increase in absolute and per capita real GNP do not connote a higher level of economic development, if",
+      "options": [
+        {
+          "id": "a",
+          "text": "industrial output fails to keep pace with agricultural output"
+        },
+        {
+          "id": "b",
+          "text": "agricultural output fails to keep pace with industrial output"
+        },
+        {
+          "id": "c",
+          "text": "poverty and unemployment increase"
+        },
+        {
+          "id": "d",
+          "text": "imports grow faster than exports"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q49",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\nHuman capital formation as a concept is better explained in terms of a process which enables\n\n1. individuals of a country to accumulate more capital\n2. increasing the knowledge, skill levels and capacities of the people of the country\n3. accumulation of tangible wealth\n4. accumulation of intangible wealth\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q50",
+      "type": "single-choice",
+      "question": "Despite being a high saving economy, capital formation may not result in significant increase in output due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "weak administrative machinery"
+        },
+        {
+          "id": "b",
+          "text": "illiteracy"
+        },
+        {
+          "id": "c",
+          "text": "high population density"
+        },
+        {
+          "id": "d",
+          "text": "high capital-output ratio"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q51",
+      "type": "single-choice",
+      "question": "After the Santhal Uprising subsided, what was/were the measure/measures taken by the colonial government?\n1. The territories called `Santhal Paraganas' were created.\n2. It became illegal for a Santhal to transfer land to a non-Santhal.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q52",
+      "type": "single-choice",
+      "question": "Economically, one of the results of the British rule in India in the 19th century was the",
+      "options": [
+        {
+          "id": "a",
+          "text": "increase in the export of Indian handicrafts"
+        },
+        {
+          "id": "b",
+          "text": "growth in the number of Indian owned factories"
+        },
+        {
+          "id": "c",
+          "text": "commercialization of Indian agriculture"
+        },
+        {
+          "id": "d",
+          "text": "rapid increase in the urban population"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q53",
+      "type": "single-choice",
+      "question": "If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then",
+      "options": [
+        {
+          "id": "a",
+          "text": "the Assembly of the State is automatically dissolved"
+        },
+        {
+          "id": "b",
+          "text": "the powers of the Legislature of that State shall be exercisable by or under the authority of the Parliament"
+        },
+        {
+          "id": "c",
+          "text": "Article 19 is suspended in that State"
+        },
+        {
+          "id": "d",
+          "text": "the President can make laws relating to that State"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q54",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Craft Heritage of\n1. Puthukkuli shawls — Tamil Nadu\n2. Sujni embroidery — Maharashtra\n3. Uppada Jamdani saris — Karnataka Which of the pairs given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q55",
+      "type": "single-choice",
+      "question": "In which of the following areas can GPS technology be used?\n\n1. Mobile phone operations\n2. Banking operations\n3. Controlling the power grids\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q56",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Reserve Bank of India manages and services Government of India Securities but not any State Government Securities.\n2. Treasury bills are issued by the Government of India and there are no treasury bills issued by the State Governments.\n3. Treasury bills offer are issued at a discount from the par value.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 Only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q57",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Earth's magnetic field has reversed every few hundred thousand years.\n2. When the Earth was created more than 4000 million years ago, there was 54% oxygen and no carbon dioxide.\n3. When living organisms originated, they modified the early atmosphere of the Earth.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q58",
+      "type": "single-choice",
+      "question": "The terms ‘Wanna Cry, Petya and Eternal Blue' sometimes mentioned in the news recently are related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exo-planets"
+        },
+        {
+          "id": "b",
+          "text": "Cry-currency"
+        },
+        {
+          "id": "c",
+          "text": "Cyber attacks"
+        },
+        {
+          "id": "d",
+          "text": "Mini satellites"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q59",
+      "type": "single-choice",
+      "question": "With reference to the circumstances in Indian agriculture, the concept “Conservation Agriculture” assumes significance. Which of the following fall under the Conservation Agriculture?\n1. Avoiding the monoculture practices\n2. Adopting minimum tillage\n3. Avoiding the cultivation of plantation crops\n4. Using crop residues to cover soil surface\n5. Adopting spatial and temporal crop sequencing/crop rotations\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, 4 and 5"
+        },
+        {
+          "id": "c",
+          "text": "2, 4 and 5"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q60",
+      "type": "single-choice",
+      "question": "The term \"sixth mass extinction/sixth extinction\" is often mentioned in the news in the context of the discussion of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Widespread monoculture practices in agriculture and large-scale commercial farming with indiscriminate use of chemicals in many parts of the world that may result in the loss of good native ecosystems"
+        },
+        {
+          "id": "b",
+          "text": "Fears of a possible collision of a meteorite with the Earth in the near future in the manner it happened 65 million years ago that caused the mass extinction of many species including those of dinosaurs"
+        },
+        {
+          "id": "c",
+          "text": "Large scale cultivation of genetically modified crops in many parts of the world and promoting their cultivation in other parts of the world which may cause the disappearance of good native crop plants and the loss of food biodiversity"
+        },
+        {
+          "id": "d",
+          "text": "Mankind's over-exploitation/misuse of natural resources, fragmentation/loss of natural habitats, destruction of ecosystems, pollution and global climate change"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q61",
+      "type": "single-choice",
+      "question": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements\n1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.\n2. IRNSS covers entire India and about 5500 sq. km beyond its borders.\n3. India will have its own satellite navigation system with full global coverage by the middle of\n2019. 4. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q62",
+      "type": "single-choice",
+      "question": "Consider the following phenomena:\n1. Light\n2. The Universe\n3. Matter\n\nWhich of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q63",
+      "type": "single-choice",
+      "question": "With reference to the 'Global Climate Change Alliance', which of the following statements is/are correct?\n\n1. It is an initiative of the European Union.\n2. It provides technical and financial support to targeted developing countries to integrate climate change into their development policies and budgets.\n3. It is coordinated by World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD).\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q64",
+      "type": "single-choice",
+      "question": "Consider the following pairs:\n\nTerms sometimes seen in news | Context/Topic\n1. Belle II experiment: Artificial Intelligence\n2. Blockchain technology: Digital/Cryptocurrency\n3. CRISPR-Cas9: Particle Physics\n\nWhich of the pairs given above is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q65",
+      "type": "single-choice",
+      "question": "Which of the following statements best describes \"carbon fertilization\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increased plant growth due to increased concentration of carbon dioxide in the atmosphere"
+        },
+        {
+          "id": "b",
+          "text": "Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere"
+        },
+        {
+          "id": "c",
+          "text": "Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere"
+        },
+        {
+          "id": "d",
+          "text": "Adaptation of all living beings on Earth to the climate change brought about hr the increased concentration of carbon dioxide in the atmosphere"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q66",
+      "type": "single-choice",
+      "question": "When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognises the shortage of stock in it and places an order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a- message to your office accordingly. In the context of emerging communication technologies, which one of the following term\" best applies to the above scenario?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Border Gateway Protocol"
+        },
+        {
+          "id": "b",
+          "text": "Internet of Things"
+        },
+        {
+          "id": "c",
+          "text": "Internet Protocol"
+        },
+        {
+          "id": "d",
+          "text": "Virtual Private Network"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q67",
+      "type": "single-choice",
+      "question": "With reference to solar power production in India, consider the following statements\n1. India is the third largest in the world in the manufacture of silicon wafers used in photovoltaic units.\n2. The solar power tariffs are determined by the Solar Energy Corporation of India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q68",
+      "type": "single-choice",
+      "question": "The staple commodities of export by the English East India Company from Bengal in the middle of the 18th century were",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raw cotton, oil-seeds and opium"
+        },
+        {
+          "id": "b",
+          "text": "Sugar, salt, zinc and lead"
+        },
+        {
+          "id": "c",
+          "text": "Copper, silver, gold, spices and tea"
+        },
+        {
+          "id": "d",
+          "text": "Cotton, silk, saltpetre and opium"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q69",
+      "type": "single-choice",
+      "question": "Which one of the following is a very significant aspect of the Champaran Satyagraha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Active all-India participation of lawyers, students and women in the National Movement"
+        },
+        {
+          "id": "b",
+          "text": "Active involvement of Dalit and Tribal communities of India in the National Movement"
+        },
+        {
+          "id": "c",
+          "text": "Joining of peasant unrest to India's National Movement"
+        },
+        {
+          "id": "d",
+          "text": "Drastic decrease in the cultivation of plantation crops and commercial crops"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q70",
+      "type": "single-choice",
+      "question": "Who among the following were the founders of the 'Hind Mazdoor Sabha' established in 1948?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B. Krishna Pillai, E.M.S. Namboodiripad and K.C. George"
+        },
+        {
+          "id": "b",
+          "text": "Jayaprakash Narayan, Deen Dayal Upadhyay and M.N. Roy"
+        },
+        {
+          "id": "c",
+          "text": "C.P. Ramaswamy Iyer, K. Kamaraj and Veeresalingam Pantulu"
+        },
+        {
+          "id": "d",
+          "text": "Ashok Mehta, T.S. Ramanujam and G.G. Mehta"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q71",
+      "type": "single-choice",
+      "question": "With reference to the religious practices in India, the \"Sthanakvasi\" sect belongs to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Buddhism"
+        },
+        {
+          "id": "b",
+          "text": "Jainism"
+        },
+        {
+          "id": "c",
+          "text": "Vaishnavism"
+        },
+        {
+          "id": "d",
+          "text": "Shaivism"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q72",
+      "type": "single-choice",
+      "question": "With reference to the cultural history of India, consider the following statements\n1. White marble was used in making Buland Darwaza and Khankah at Fatehpur Sikri.\n2. Red sandstone and marble were used in making Bara Imambara and Rumi Darwaza at Lucknow.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q73",
+      "type": "single-choice",
+      "question": "Which one of the following foreign travellers elaborately discussed about diamonds and diamond mines of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Francois Bernier"
+        },
+        {
+          "id": "b",
+          "text": "Jean-Baptiste Tavernier"
+        },
+        {
+          "id": "c",
+          "text": "Jean de Thevenot"
+        },
+        {
+          "id": "d",
+          "text": "Abbe Barthelemy Carre"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q74",
+      "type": "single-choice",
+      "question": "With reference to Indian history, who among the following is a future Buddha, yet to come to save the world?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avalokiteshvara"
+        },
+        {
+          "id": "b",
+          "text": "Lokesvara"
+        },
+        {
+          "id": "c",
+          "text": "Maitreya"
+        },
+        {
+          "id": "d",
+          "text": "Padmapani"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q75",
+      "type": "single-choice",
+      "question": "Which one of the following statements does not apply to the system of Subsidiary Alliance introduced by Lord Wellesley?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To maintain a large standing army at other's expense"
+        },
+        {
+          "id": "b",
+          "text": "To keep India safe from Napoleonic danger"
+        },
+        {
+          "id": "c",
+          "text": "To secure a fixed income for the Company"
+        },
+        {
+          "id": "d",
+          "text": "To establish British paramountcy over the Indian States"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q76",
+      "type": "single-choice",
+      "question": "Which of the following led to the introduction of English Education in India?\n\n1. Charter Act of 1813\n2. General Committee of Public Instruction, 1823\n3. Orientalist and Anglicist controversy\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q77",
+      "type": "single-choice",
+      "question": "Which one of the following is an artificial lake?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kodaikanal (Tamil Nadu)"
+        },
+        {
+          "id": "b",
+          "text": "Kolleru (Andhra Pradesh)"
+        },
+        {
+          "id": "c",
+          "text": "N ainital (Uttarakhand)"
+        },
+        {
+          "id": "d",
+          "text": "Renuka (Himachal Pradesh)"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q78",
+      "type": "single-choice",
+      "question": "With reference to Pradhan Mantri Kaushal Vikas Yojana, consider the following statements It is the flagship scheme of the:\n\n1. Ministry of Labour and Employment\n2. It, among other things, will also impart training in soft skills, entrepreneurship, financial and digital literacy\n3. It aims to align the competencies of the unregulated workforce of the country to the National Skill Qualification Framework.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q79",
+      "type": "single-choice",
+      "question": "In 1920, which of the following changed its name to “Swarajya Sabha”?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All India Home Rule League"
+        },
+        {
+          "id": "b",
+          "text": "Hindu Mahasabha"
+        },
+        {
+          "id": "c",
+          "text": "South Indian Liberal Federation"
+        },
+        {
+          "id": "d",
+          "text": "The Servants of India Society"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q80",
+      "type": "single-choice",
+      "question": "Which among the following events happened earliest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swami Dayanand established AryaSamaj"
+        },
+        {
+          "id": "b",
+          "text": "Dinabandhu Mitra wrote Neeldarpan"
+        },
+        {
+          "id": "c",
+          "text": "Bankim Chandra Chattopadhyay wrote Anandmath"
+        },
+        {
+          "id": "d",
+          "text": "Satyendranath Tagore became the first Indian to succeed in the Indian Civil Services Examination"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q81",
+      "type": "single-choice",
+      "question": "Which of the following is/are the possible consequence/s of heavy sand mining in riverbeds?\n\n1. Decreased salinity in the river.\n2. Pollution of groundwater.\n3. Lowering of the water-table.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q82",
+      "type": "single-choice",
+      "question": "With reference to agricultural soils, consider the following statements\n1. A high content of organic matter in soil drastically reduces its water holding capacity.\n2. Soil does not play any role in the sulphur cycle.\n3. Irrigation over a period of time can contribute to the salinization of some agricultural lands.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q83",
+      "type": "single-choice",
+      "question": "The Partnership for Action on Green Economy (PAGE), a UN mechanism to assist countries transition towards greener and more inclusive economies, emerged at",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Earth Summit on Sustainable Development 2002, Johannesburg"
+        },
+        {
+          "id": "b",
+          "text": "The United Nations Conference on Sustainable Development 2012, Rio de Janeiro"
+        },
+        {
+          "id": "c",
+          "text": "The United Nations Framework Convention on Climate Change 2015, Paris"
+        },
+        {
+          "id": "d",
+          "text": "The World Sustainable Development Summit 2016, New Delhi"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q84",
+      "type": "single-choice",
+      "question": "“3D printing” has applications in which of the following?\n\n1. Preparation of confectionery items\n2. Manufacture of bionic ears\n3. Automotive industry\n4. Reconstructive surgeries\n5. Data processing technologies\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 5 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q85",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Barren Island volcano is an active volcano located in the Indian territory.\n2. Barren Island lies about 140 km east of Great Nicobar.\n3. The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q86",
+      "type": "single-choice",
+      "question": "Why is a plant called Prosopis juliflora often mentioned in news?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Its extract is widely used in cosmetics"
+        },
+        {
+          "id": "b",
+          "text": "It tends to reduce the biodiversity in the area in which it grows"
+        },
+        {
+          "id": "c",
+          "text": "Its extract is used in the synthesis of pesticides"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q87",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. Most of the world's coral reefs are in tropical waters\n2. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines\n3. Coral reefs host far more number of animal phyla than those hosted by tropical rainforests.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q88",
+      "type": "single-choice",
+      "question": "\"Momentum for Change:\n\n1. Climate Neutral Now\" is an initiative launched by.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Intergovernmental Panel on Climate Change"
+        },
+        {
+          "id": "b",
+          "text": "The UNEP Secretariat"
+        },
+        {
+          "id": "c",
+          "text": "The UNFCCC Secretariat"
+        },
+        {
+          "id": "d",
+          "text": "The World Meteorological Organisation"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q89",
+      "type": "single-choice",
+      "question": "With reference to educational institutes during colonial rule in India, consider the following pairs: Institution Founder\n1. Sanskrit College at Benaras - William Jones\n2. Calcutta Madarsa - Warren Hastings\n3. Fort William College - Arthur Wellesley Which of the pairs given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q90",
+      "type": "single-choice",
+      "question": "Consider the following pairs:\n1. Regions\n2. Country",
+      "options": [
+        {
+          "id": "a",
+          "text": "Catalonia - Spain"
+        },
+        {
+          "id": "b",
+          "text": "Crimea - Hungary"
+        },
+        {
+          "id": "c",
+          "text": "Mindanao - Philippines"
+        },
+        {
+          "id": "d",
+          "text": "Oromia - Nigeria"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q91",
+      "type": "single-choice",
+      "question": "Consider the following events:\n\n1. The first democratically elected communist party government formed in a State in India. India's then largest bank, ‘\n2. Imperial Bank of India', was renamed 'State Bank of India'. Air India was nationalised and became the national carrier. Goa became a part of independent India.\n\nWhich of the following is the correct chronological sequence of the above events?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 - 1 - 2 - 3"
+        },
+        {
+          "id": "b",
+          "text": "3 - 2 - 1 - 4"
+        },
+        {
+          "id": "c",
+          "text": "4 - 2 - 1 - 3"
+        },
+        {
+          "id": "d",
+          "text": "3 - 1 -2 -4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q92",
+      "type": "single-choice",
+      "question": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty.\n\nWhich of the following in the Constitution of India correctly and appropriately imply the above statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Article 14 and the provisions under the 42nd Amendment to the Constitution"
+        },
+        {
+          "id": "b",
+          "text": "Article 17 and the Directive Principles of State Policy in Part IV"
+        },
+        {
+          "id": "c",
+          "text": "Article 21 and the freedoms guaranteed in Part. III"
+        },
+        {
+          "id": "d",
+          "text": "Article 24 and the provisions under the 44th Amendment to the Constitution"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q93",
+      "type": "single-choice",
+      "question": "Consider the following:\n1. Areca nut Barley Coffee Finger millet Groundnut Sesamum Turmeric The Cabinet Committee on Economic Affair\n2. has announced the Minimum Support Price for which of the above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3 and 7 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 4, 5 and 6 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3, 4, 5 and 6 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4, 5, 6 and 7"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q94",
+      "type": "single-choice",
+      "question": "In which one of the following States is Pakhui Wildlife Sanctuary located?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Manipur"
+        },
+        {
+          "id": "c",
+          "text": "Meghalaya"
+        },
+        {
+          "id": "d",
+          "text": "Nagaland"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q95",
+      "type": "single-choice",
+      "question": "With reference to India’s satellite launch vehicles, consider the following statements\n1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.\n2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.\n3. GSLV Mk III is a four-staged launch l vehicle with the first and third stages l using solid rocket motors; and the second and fourth stages using liquid rocket engines.\n\nWhich of the statements given above is/are correct.?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q96",
+      "type": "single-choice",
+      "question": "With reference to the governance of public sector banking in India, consider the following statements Capital infusion into public sector banks by the Government of India has steadily increased in the last decade To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q97",
+      "type": "single-choice",
+      "question": "Consider the following items:\n1. Cereal\n2. Chicken\n3. Fish\n4. Newspapers\n\nWhich of the above items is/are exempted under GST (Goods and Services Tax)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q98",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. The definition of \"Critical Wildlife Habitat\" is incorporated in the Forest Rights Act, 2006.\n2. For the first time in India, Baigas have been given Habitat Rights.\n3. Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Primitive and Vulnerable Tribal Groups in any part of India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q99",
+      "type": "single-choice",
+      "question": "Consider the following:\n\n1. Birds\n2. Dust blowing\n3. Rain\n4. Wind blowing\n\nWhich of the above spread plant diseases?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2018_gs1_q100",
+      "type": "single-choice",
+      "question": "With reference to organic farming in India, consider the following statements:\n\n1. The National Programme for Organic Production (NPOP) is operated under the guidelines and directions of the Union Ministry of Rural Development.\n2. The Agricultural and Processed Food Products Export Development Authority (APEDA) functions as the Secretariat for the implementation of NPOP.\n3. Sikkim has become India's first fully organic State.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    }
+  ]
+}

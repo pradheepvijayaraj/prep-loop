@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2012",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2012,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2012_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2012_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Define a function $f$ of two real variables in the $xy$-plane by $f(x,y)=\\begin{cases}\\dfrac{x^{3}\\cos\\frac{1}{y}+y^{3}\\cos\\frac{1}{x}}{x^{2}+y^{2}}, & x,y\\neq 0 \\\\ 0, & \\text{otherwise.}\\end{cases}$ Check the continuity and differentiability of $f$ at $(0, 0)$.\n(b) Let $p$ and $q$ be positive real numbers such that $\\dfrac{1}{p}+\\dfrac{1}{q}=1$. Show that for real numbers $a,b\\ge 0$, $ab\\le\\dfrac{a^{p}}{p}+\\dfrac{b^{q}}{q}$.\n(c) Prove or disprove the following statement: If $B=\\{b_{1},b_{2},b_{3},b_{4},b_{5}\\}$ is a basis for $\\mathbb{R}^{5}$ and $V$ is a two-dimensional subspace of $\\mathbb{R}^{5}$, then $V$ has a basis made of just two members of $B$.\n(d) Let $T:\\mathbb{R}^{3}\\to\\mathbb{R}^{3}$ be the linear transformation defined by $T(\\alpha,\\beta,\\gamma)=(\\alpha+2\\beta-3\\gamma,\\,2\\alpha+5\\beta-4\\gamma,\\,\\alpha+4\\beta+\\gamma)$. Find a basis and the dimension of the image of $T$ and the kernel of $T$.\n(e) Prove that two of the straight lines represented by the equation $x^{3}+bx^{2}y+cxy^{2}+y^{3}=0$ will be at right angles if $b+c=-2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) (i) Let $V$ be the vector space of all $2\\times 2$ matrices over the field of real numbers. Let $W$ be the set consisting of all matrices with zero determinant. Is $W$ a subspace of $V$? Justify your answer.\n(ii) Find the dimension and a basis for the space $W$ of all solutions of the following homogeneous system using matrix notation: $x_{1}+2x_{2}+3x_{3}-2x_{4}+4x_{5}=0$, $2x_{1}+4x_{2}+8x_{3}+x_{4}+9x_{5}=0$, $3x_{1}+6x_{2}+13x_{3}+4x_{4}+14x_{5}=0$.\n(b) (i) Consider the linear mapping $f:\\mathbb{R}^{2}\\to\\mathbb{R}^{2}$ given by $f(x,y)=(3x+4y,\\,2x-5y)$. Find the matrix $A$ relative to the basis $\\{(1, 0),(0, 1)\\}$ and the matrix $B$ relative to the basis $\\{(1, 2),(2, 3)\\}$.\n(ii) If $\\lambda$ is a characteristic root of a non-singular matrix $A$, then prove that $\\dfrac{|A|}{\\lambda}$ is a characteristic root of $\\operatorname{Adj} A$.\n(c) Let $H=\\begin{pmatrix} 1 & i & 2+i \\\\ -i & 2 & 1-i \\\\ 2-i & 1+i & 2 \\end{pmatrix}$ be a Hermitian matrix. Find a non-singular matrix $P$ such that $D=P^{T}HP$ is diagonal.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Find the points of local extrema and saddle points of the function $f$ of two variables defined by $f(x,y)=x^{3}+y^{3}-63(x+y)+12xy$.\n(b) Define a sequence $s_{n}$ of real numbers by $s_{n}=\\sum_{i=1}^{n}\\dfrac{(\\log(n+i)-\\log n)^{2}}{n+i}$. Does $\\lim_{n\\to\\infty}s_{n}$ exist? If so, compute the value of this limit and justify your answer.\n(c) Find all the real values of $p$ and $q$ so that the integral $\\displaystyle\\int_{0}^{1}x^{p}\\left(\\log\\frac{1}{x}\\right)^{q}\\,dx$ converges.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Compute the volume of the solid enclosed between the surfaces $x^{2}+y^{2}=9$ and $x^{2}+z^{2}=9$.\n(b) A variable plane is parallel to the plane $\\dfrac{x}{a}+\\dfrac{y}{b}+\\dfrac{z}{c}=0$ and meets the axes in $A$, $B$, $C$ respectively. Prove that the circle $ABC$ lies on the cone $yz\\left(\\dfrac{b}{c}+\\dfrac{c}{b}\\right)+zx\\left(\\dfrac{c}{a}+\\dfrac{a}{c}\\right)+xy\\left(\\dfrac{a}{b}+\\dfrac{b}{a}\\right)=0$.\n(c) Show that the locus of a point from which the three mutually perpendicular tangent lines can be drawn to the paraboloid $x^{2}+y^{2}+2z=0$ is $x^{2}+y^{2}+4z=1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve $\\dfrac{dy}{dx}=\\dfrac{2xy\\,e^{(x/y)^{2}}}{y^{2}\\bigl(1+e^{(x/y)^{2}}\\bigr)+2x^{2}e^{(x/y)^{2}}}$.\n(b) Find the orthogonal trajectories of the family of curves $x^{2}+y^{2}=ax$.\n(c) Using Laplace transforms, solve the initial value problem $y''+2y'+y=e^{-t}$, $y(0)=-1$, $y'(0)=1$.\n(d) A particle moves with an acceleration $\\mu\\left(x+\\dfrac{a^{4}}{x^{3}}\\right)$ towards the origin. If it starts from rest at a distance $a$ from the origin, find its velocity when its distance from the origin is $\\dfrac{a}{2}$.\n(e) If $\\vec{A}=x^{2}yz\\,\\hat{\\imath}-2xz^{3}\\,\\hat{\\jmath}+xz^{2}\\,\\hat{k}$ and $\\vec{B}=2z\\,\\hat{\\imath}+y\\,\\hat{\\jmath}-x^{2}\\,\\hat{k}$, find the value of $\\dfrac{\\partial^{2}}{\\partial x\\,\\partial y}(\\vec{A}\\times\\vec{B})$ at $(1, 0,-2)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) Show that the differential equation $(2xy\\log y)\\,dx+\\bigl(x^{2}+y^{2}\\sqrt{y^{2}+1}\\bigr)\\,dy=0$ is not exact. Find an integrating factor and hence the solution of the equation.\n(b) Find the general solution of the equation $y'''-y''=12x^{2}+6x$.\n(c) Solve the ordinary differential equation $x(x-1)y''-(2x-1)y'+2y=x^{2}(2x-3)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) A heavy ring of mass $m$ slides on a smooth vertical rod and is attached to a light string which passes over a small pulley distant $a$ from the rod and has a mass $M$ ($>m$) fastened to its other end. Show that if the ring be dropped from a point on the rod in the same horizontal plane as the pulley, it will descend a distance $\\dfrac{2Mma}{M^{2}-m^{2}}$ before coming to rest.\n(b) A heavy hemispherical shell of radius $a$ has a particle attached to a point on the rim, and rests with the curved surface in contact with a rough sphere of radius $b$ at the highest point. Prove that if $\\dfrac{b}{a}>\\sqrt{5}-1$, the equilibrium is stable, whatever be the weight of the particle.\n(c) The end links of a uniform chain slide along a fixed rough horizontal rod. Prove that the ratio of the maximum span to the length of the chain is $\\mu\\log\\left[\\dfrac{1+\\sqrt{1+\\mu^{2}}}{\\mu}\\right]$, where $\\mu$ is the coefficient of friction.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Derive the Frenet–Serret formulae. Define the curvature and torsion for a space curve. Compute them for the space curve $x=t$, $y=t^{2}$, $z=\\dfrac{2}{3}t^{3}$. Show that the curvature and torsion are equal for this curve.\n(b) Verify Green's theorem in the plane for $\\oint_{C}\\bigl[(xy+y^{2})\\,dx+x^{2}\\,dy\\bigr]$, where $C$ is the closed curve of the region bounded by $y=x$ and $y=x^{2}$.\n(c) If $\\vec{F}=y\\,\\hat{\\imath}+(x-2xz)\\,\\hat{\\jmath}-xy\\,\\hat{k}$, evaluate $\\iint_{S}(\\nabla\\times\\vec{F})\\cdot\\hat{n}\\,dS$, where $S$ is the surface of the sphere $x^{2}+y^{2}+z^{2}=a^{2}$ above the $xy$-plane.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

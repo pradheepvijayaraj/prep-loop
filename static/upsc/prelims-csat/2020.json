@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2020,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2020_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_csat_q1",
+      "type": "single-choice",
+      "question": "Two Statements are given followed by two Conclusions:\n\nStatements:\nAll cats are dogs.\nAll cats are black.\n\nConclusion-I:\nAll dogs are black.\nConclusion-II:\nSome dogs are not black.\n\nWhich of the above Conclusions logically follows/follow from the two given Statements, disregarding commonly known facts?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Conclusion-I"
+        },
+        {
+          "id": "b",
+          "text": "Only Conclusion-II"
+        },
+        {
+          "id": "c",
+          "text": "Neither Conclusion-I nor Conclusion-II"
+        },
+        {
+          "id": "d",
+          "text": "Both Conclusion-I and Conclusion-II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q2",
+      "type": "single-choice",
+      "question": "A man takes half time in rowing a certain distance downstream than upstream. What is the ratio of the speed in still water to the speed of current?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$1:2$"
+        },
+        {
+          "id": "b",
+          "text": "$2:1$"
+        },
+        {
+          "id": "c",
+          "text": "$1:3$"
+        },
+        {
+          "id": "d",
+          "text": "$3:1$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q3",
+      "type": "single-choice",
+      "question": "A frog tries to come out of a dried well 4.5 m deep with slippery walls. Every time the frog jumps 30 cm, slides down 15 cm. What is the number of jumps required for the frog to come out of the well?",
+      "options": [
+        {
+          "id": "a",
+          "text": "28"
+        },
+        {
+          "id": "b",
+          "text": "29"
+        },
+        {
+          "id": "c",
+          "text": "30"
+        },
+        {
+          "id": "d",
+          "text": "31"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q4",
+      "type": "single-choice",
+      "question": "In the sum $ \\otimes + 1\\otimes + 5\\otimes + \\otimes\\otimes + \\otimes1 = 1\\otimes\\otimes $ for which digit does the symbol $\\otimes$ stand?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "5"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q5",
+      "type": "single-choice",
+      "question": "What is the remainder when $51 \\times 27 \\times 35 \\times 62 \\times 75$ is divided by 100?",
+      "options": [
+        {
+          "id": "a",
+          "text": "50"
+        },
+        {
+          "id": "b",
+          "text": "25"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "1"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q6",
+      "type": "single-choice",
+      "question": "How many five-digit prime numbers can be obtained by using all the digits 1, 2, 3, 4 and 5 without repetition of digits?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zero"
+        },
+        {
+          "id": "b",
+          "text": "One"
+        },
+        {
+          "id": "c",
+          "text": "Nine"
+        },
+        {
+          "id": "d",
+          "text": "Ten"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q7",
+      "type": "single-choice",
+      "question": "How many different sums can be formed with the denomination Rs. 50, Rs. 100, Rs. 200, Rs. 500, and Rs. 2,000 taking at least three denominations at a time?",
+      "options": [
+        {
+          "id": "a",
+          "text": "16"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "14"
+        },
+        {
+          "id": "d",
+          "text": "10"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q8",
+      "type": "single-choice",
+      "question": "Two statements are given followed by two Conclusions:\n\nStatements:\nAll numbers are divisible by 2.\nAll numbers are divisible by 3.\n\nConclusion-I:\nAll numbers are divisible by 6.\nConclusion-II:\nAll numbers are divisible by 4.\n\nWhich of the above Conclusions logically follows/follow from the two given Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Conclusion-I"
+        },
+        {
+          "id": "b",
+          "text": "Only Conclusion-II"
+        },
+        {
+          "id": "c",
+          "text": "Neither Conclusion-I nor Conclusion-II"
+        },
+        {
+          "id": "d",
+          "text": "Both Conclusion-I and Conclusion-II"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q9",
+      "type": "single-choice",
+      "question": "A sum of Rs. 2,500 is distributed among X, Y and Z in two ratio $1/2 \\colon 3/4 \\colon 5/6$. What is the difference between the maximum share and the minimum share?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 300"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 350"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 400"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 450"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q10",
+      "type": "single-choice",
+      "question": "Consider the following arrangement that has some missing letters:\nabab_b_bcb_dcdcded_d\n\nThe missing letters which complete the arrangement are",
+      "options": [
+        {
+          "id": "a",
+          "text": "$a$, $b$, $c$, $d$"
+        },
+        {
+          "id": "b",
+          "text": "$a$, $b$, $d$, $e$"
+        },
+        {
+          "id": "c",
+          "text": "$a$, $c$, $c$, $e$"
+        },
+        {
+          "id": "d",
+          "text": "$b$, $c$, $d$, $e$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q11",
+      "type": "single-choice",
+      "question": "If 1 litre of water weighs 1 kg, then how many cubic millimetres of water will weigh 0.1 gm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "100"
+        },
+        {
+          "id": "d",
+          "text": "1000"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q12",
+      "type": "single-choice",
+      "question": "For what value of n, the sum of digits in the number $(10^n+ 1)$ is 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "For $n = 0$ only"
+        },
+        {
+          "id": "b",
+          "text": "For any whole number $n$"
+        },
+        {
+          "id": "c",
+          "text": "For any positive integer $n$ only"
+        },
+        {
+          "id": "d",
+          "text": "For any real number $n$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q13",
+      "type": "single-choice",
+      "question": "Which one of the following will have minimum change in its value if 5 is added to both numerator and the denominator of the fractions $\\frac{2}{3}$, $\\frac{3}{4}$, $\\frac{4}{5}$ and $\\frac{5}{6}$ ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$\\frac{2}{3}$"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{3}{4}$"
+        },
+        {
+          "id": "c",
+          "text": "$\\frac{4}{5}$"
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{5}{6}$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q14",
+      "type": "single-choice",
+      "question": "The average age of a teacher and three students in 20 years. If all the three students are of same age and the difference between the age of the teachers and each student is 20 years, then what is the age of the teacher?",
+      "options": [
+        {
+          "id": "a",
+          "text": "25 years"
+        },
+        {
+          "id": "b",
+          "text": "30 years"
+        },
+        {
+          "id": "c",
+          "text": "35 years"
+        },
+        {
+          "id": "d",
+          "text": "45 years"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q15",
+      "type": "single-choice",
+      "question": "What is the missing term @ in the following?\nACPQ: BESU: MNGI: $NOLF$",
+      "options": [
+        {
+          "id": "a",
+          "text": "NPJL"
+        },
+        {
+          "id": "b",
+          "text": "NOJM"
+        },
+        {
+          "id": "c",
+          "text": "NPIL"
+        },
+        {
+          "id": "d",
+          "text": "NPJM"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q16",
+      "type": "single-choice",
+      "question": "How many pairs of natural numbers are there such that the difference of whose squares is 63?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q17",
+      "type": "single-choice",
+      "question": "The average score of a batsman after his 50th innings was 46.4. After 60th innings, his average score increases by 2.6. What was his average score in the last ten innings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "122"
+        },
+        {
+          "id": "b",
+          "text": "91"
+        },
+        {
+          "id": "c",
+          "text": "62"
+        },
+        {
+          "id": "d",
+          "text": "49"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q18",
+      "type": "single-choice",
+      "question": "A is 16th from the left end in a row of boys and V is 18th from the right end. G is 11th from A towards the right and 3rd from V towards the right end. How many boys are there in the row?",
+      "options": [
+        {
+          "id": "a",
+          "text": "40"
+        },
+        {
+          "id": "b",
+          "text": "41"
+        },
+        {
+          "id": "c",
+          "text": "42"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined due to insufficient data"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q19",
+      "type": "single-choice",
+      "question": "Two Statements S1 and S2 are given below with regard to two numbers followed by a Question:\n\nS1: Their product is 21.\nS2: Their sum is 10.\n\nQuestion: What are the two numbers?\n\nWhich one of the following is correct in respect of the above Statements and the Question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S1 alone is sufficient to aS1 and S2 together are not sufficient to answer the Question."
+        },
+        {
+          "id": "b",
+          "text": "S2 alone is sufficient to aS1 and S2 together are not sufficient to answer the Question."
+        },
+        {
+          "id": "c",
+          "text": "S1 and S2 together are sufficient to answer the Question, but neither S1 alone nor S2 alone is sufficient to aS1 and S2 together are not sufficient to answer the Question."
+        },
+        {
+          "id": "d",
+          "text": "S1 and S2 together are not sufficient to answer the Question."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q20",
+      "type": "single-choice",
+      "question": "A digit $n > 3$ is divisible by 3 but not divisible by 6. Which one of the following is divisible by 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$2n$"
+        },
+        {
+          "id": "b",
+          "text": "$3n$"
+        },
+        {
+          "id": "c",
+          "text": "$2n + 4$"
+        },
+        {
+          "id": "d",
+          "text": "$3n + 1$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q21",
+      "type": "single-choice",
+      "question": "Two Statements S1 and S2 are given below followed by a Question:\n\nS1: $n$ is a prime number.\nS2: $n$ leaves a remainder of 1 when divided by 4.\n\nQuestion:\nIf $n$ is a unique natural number between 10 and 20, then what is $n$?\n\nWhich one of the following is correct in respect of above Statements and the Question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S1 alone is sufficient to aS1 and S2 together are not sufficient to answer the Question."
+        },
+        {
+          "id": "b",
+          "text": "S2 alone is sufficient to aS1 and S2 together are not sufficient to answer the Question."
+        },
+        {
+          "id": "c",
+          "text": "S1 and S2 together are sufficient to answer the Question, but neither S1 alone nor S2 alone is sufficient to aS1 and S2 together are not sufficient to answer the Question."
+        },
+        {
+          "id": "d",
+          "text": "S1 and S2 together are not sufficient to answer the Question."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q22",
+      "type": "single-choice",
+      "question": "How many different 5-letter words (with or without meaning) can be constructed using all the letters of the word ‘DELHI’ so that each word has to start with D and end with I?",
+      "options": [
+        {
+          "id": "a",
+          "text": "24"
+        },
+        {
+          "id": "b",
+          "text": "18"
+        },
+        {
+          "id": "c",
+          "text": "12"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q23",
+      "type": "single-choice",
+      "question": "A car travels from a place X to place Y at an average speed of $V$ km/hr, from Y to X at an average speed of $2v$ km/hr, again from X to Y at an average speed of $3v$ km/hr and again from Y to X at an average speed of $4v$ km/hr. Then the average speed of the car for the entire journey",
+      "options": [
+        {
+          "id": "a",
+          "text": "is less than $v$ km/hr"
+        },
+        {
+          "id": "b",
+          "text": "lies between $v$ and $2v$ km/hr"
+        },
+        {
+          "id": "c",
+          "text": "lies between $2v$ and $3v$ km/hr"
+        },
+        {
+          "id": "d",
+          "text": "lies between $3v$ and $4v$ km/hr"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q24",
+      "type": "single-choice",
+      "question": "Let p, q, r and s be natural numbers such that\n$P – 2016 = q + 2017 = r – 2018 = s + 2019$\nWhich one of the following is the largest natural number?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$P$"
+        },
+        {
+          "id": "b",
+          "text": "$q$"
+        },
+        {
+          "id": "c",
+          "text": "$r$"
+        },
+        {
+          "id": "d",
+          "text": "$s$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q25",
+      "type": "single-choice",
+      "question": "What is the largest number among the following?\n$2/3$, $.6$, $\\sqrt{.6}$, $(.6)^2$",
+      "options": [
+        {
+          "id": "a",
+          "text": "$ (\\frac{1}{2})^{-6} $"
+        },
+        {
+          "id": "b",
+          "text": "$ (\\frac{1}{4})^{-3} $"
+        },
+        {
+          "id": "c",
+          "text": "$ (\\frac{1}{3})^{-4} $"
+        },
+        {
+          "id": "d",
+          "text": "$ (\\frac{1}{6})^{-2} $"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q26",
+      "type": "single-choice",
+      "question": "A bottle contains 20 litres of liquid A. 4 litres of liquid A is taken out of it and replace by same quantity of liquid B. Again 4 litres of the mixture is taken out and replaced by same quantity of liquid B. What is the ratio of quantity of liquid A to that of liquid B in the final mixture?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$4: 1$"
+        },
+        {
+          "id": "b",
+          "text": "$5: 1$"
+        },
+        {
+          "id": "c",
+          "text": "$16: 9$"
+        },
+        {
+          "id": "d",
+          "text": "$17: 8$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q27",
+      "type": "single-choice",
+      "question": "In adult population of a city, $40\\%$ men and $30\\%$ women are married. What $ \\%$ of the total adult population is married, if no man marries more than one woman and no woman marries more than one man; and there are no widows and widowers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$33 \\frac{1}{7}\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$34\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$34 \\frac{2}{7}\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$35\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q28",
+      "type": "single-choice",
+      "question": "Consider the following data:\n\n| Year | Birth Rate | Death Rate |\n|-------------|------------|------------|\n| 1911-1921 | 48.1 | 35.5 |\n| 1921-1931 | 46.4 | 36.3 |\n| 1931-1941 | 45.2 | 31.2 |\n| 1941-1951 | 39.9 | 27.4 |\n| 1951-1961 | 41.7 | 22.8 |\n| 1961-1971 | 41.1 | 18.9 |\n| 1971-1981 | 37.1 | 14.8 |\n\nFor which period was the natural growth rate maximum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1911-1921"
+        },
+        {
+          "id": "b",
+          "text": "1941-1951"
+        },
+        {
+          "id": "c",
+          "text": "1961-1971"
+        },
+        {
+          "id": "d",
+          "text": "1971-1981"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q29",
+      "type": "single-choice",
+      "question": "A vessel full of water weighs 40 kg. If its is one-third filled, its weight becomes 20 kg. What is the weight of the empty vessel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 kg"
+        },
+        {
+          "id": "b",
+          "text": "15 kg"
+        },
+        {
+          "id": "c",
+          "text": "20 kg"
+        },
+        {
+          "id": "d",
+          "text": "25 kg"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q30",
+      "type": "single-choice",
+      "question": "Let $A3BC$ and $DE2F$ be four-digit numbers where each letter represents a different digit greater than 3. If the sum of the numbers is 15902, then what is the difference between the values of $A$ and $D$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q31",
+      "type": "single-choice",
+      "question": "Three Statements S1, S2 and S3 are given below followed by a Question:\n\nS1: C is younger than D, but older than A and B.\nS2: D is the oldest.\nS3: A is the older than B.\n\nQuestions: Who among A, B, C and D is the youngest?\n\nWhich one of the following is correct in respect of the above Statements and the Question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S1 alone is sufficient to answer the Question."
+        },
+        {
+          "id": "b",
+          "text": "S1 and S2 together are sufficient to answer the Question."
+        },
+        {
+          "id": "c",
+          "text": "S2 and S3 together are sufficient to answer the Question."
+        },
+        {
+          "id": "d",
+          "text": "S1 and S3 together are sufficient to answer the Question."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q32",
+      "type": "single-choice",
+      "question": "Two Statements S1 and S2 are given below with regard to four members P, Q, R and S followed by a Questions:\n\nS1: R is greater than P as well as Q.\nS2: S is not the largest one.\n\nQuestion:\nAmong four numbers P, Q, R and S, which one is the largest?\n\nWhich one of the following is correct in respect of the above Statements and the Question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S1 alone is sufficient to answer the Question."
+        },
+        {
+          "id": "b",
+          "text": "S2 alone is sufficient to answer the Question."
+        },
+        {
+          "id": "c",
+          "text": "S1 and S2 together are sufficient to answer the Question, but neither S1 alone nor S2 alone is sufficient to answer the Question."
+        },
+        {
+          "id": "d",
+          "text": "S1 and S2 together are not sufficient to answer the Question."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q33",
+      "type": "single-choice",
+      "question": "One page is torn from a booklet whose pages are numbered in the usual manner starting from the first page as 1. The sum of the numbers on the remaining pages is 195. The torn page contains which of the following numbers.",
+      "options": [
+        {
+          "id": "a",
+          "text": "5, 6"
+        },
+        {
+          "id": "b",
+          "text": "7, 8"
+        },
+        {
+          "id": "c",
+          "text": "9, 10"
+        },
+        {
+          "id": "d",
+          "text": "11, 12"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q34",
+      "type": "single-choice",
+      "question": "A person bought a car and sold it for Rs. $3, 00,000$. If he incurred a loss of $20\\%$, then how much did he spend to buy the car?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. $3, 60,000$"
+        },
+        {
+          "id": "b",
+          "text": "Rs. $3, 65000$"
+        },
+        {
+          "id": "c",
+          "text": "Rs. $3, 70,000$"
+        },
+        {
+          "id": "d",
+          "text": "Rs. $3, 75,000$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q35",
+      "type": "single-choice",
+      "question": "A man walks down the backside of his house straight 25 metres, then turns to the right and walks 50 metres again; then he turns towards left and again walks 25 metres. If his house faces to the East, what is his direction from the starting point?",
+      "options": [
+        {
+          "id": "a",
+          "text": "South-East"
+        },
+        {
+          "id": "b",
+          "text": "South-West"
+        },
+        {
+          "id": "c",
+          "text": "North-East"
+        },
+        {
+          "id": "d",
+          "text": "North-West"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q36",
+      "type": "single-choice",
+      "question": "Let XYZ be a three-digit number, where $(X + Y + Z)$ is not a multiple of 3. Then $(XYZ + YZX + ZXY)$ is not divisible by",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "9"
+        },
+        {
+          "id": "c",
+          "text": "37"
+        },
+        {
+          "id": "d",
+          "text": "$(X + Y + Z)$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q37",
+      "type": "single-choice",
+      "question": "Let x, y be the volumes; m, n be the masses of two metallic cubes P and Q respectively. Each side of Q is two times that of P and mass of Q is two times that of P. Let $u = \\frac{m}{x}$ and $v = \\frac{n}{y}$. Which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$u = 4v$"
+        },
+        {
+          "id": "b",
+          "text": "$u = 2v$"
+        },
+        {
+          "id": "c",
+          "text": "$v = u$"
+        },
+        {
+          "id": "d",
+          "text": "$v = 4u$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q38",
+      "type": "single-choice",
+      "question": "A family of two generations consisting of six members P, Q, R, S, T and U has three males and three females. There are two married couples and two unmarried siblings. U is P’s daughter and Q is R’s mother-in-law. T is an unmarried male and S is a male. Which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "R is U’s husband."
+        },
+        {
+          "id": "b",
+          "text": "R is S’s wife."
+        },
+        {
+          "id": "c",
+          "text": "S is unmarried"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q39",
+      "type": "single-choice",
+      "question": "Two statements S1 and S2 are given below followed by a Question:\n\nS1: There are not more than two figures on any page of a 51-page book.\nS2: There is at least one figure on every page.\n\nQuestion: Are there more than 100 figures in that book?\n\nWhich one of the following is correct in respect of the above Statements and the Question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both S1 and S2 are sufficient to answer the Question, but neither S1 alone nor S2 alone is sufficient to aS1 alone is sufficient to answer the Question."
+        },
+        {
+          "id": "b",
+          "text": "S1 alone is sufficient to answer the Question."
+        },
+        {
+          "id": "c",
+          "text": "S1 alone is sufficient to aS1 alone is sufficient to answer the Question."
+        },
+        {
+          "id": "d",
+          "text": "S1 and S2 together are not sufficient to aS1 alone is sufficient to answer the Question."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q40",
+      "type": "single-choice",
+      "question": "As a result of 25% hike in the price of rice per kg, a person is able to purchase 6 kg less rice for Rs. 1,200. What was the original price of rice per kg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 30"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 40"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 50"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 60"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q41",
+      "type": "single-choice",
+      "question": "The recurring decimal representation 1.272727 … is equivalent to",
+      "options": [
+        {
+          "id": "a",
+          "text": "$\\frac{13}{11}$"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{14}{11}$"
+        },
+        {
+          "id": "c",
+          "text": "$\\frac{127}{99}$"
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{137}{99}$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q42",
+      "type": "single-choice",
+      "question": "Consider the following sequence of numbers:\n5 1 4 7 3 9 8 5 7 2 6 3 1 5\n 8 6 3 8 5 2 2 4 3 4 9 6\nHow many odd numbers are followed by the odd number in the above sequence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q43",
+      "type": "single-choice",
+      "question": "A simple mathematical operation in each number of sequence 14, 18, 20, 24, 30, 32, … results in a sequence with respect to prime numbers. Which one of the following is the next number in the sequence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "34"
+        },
+        {
+          "id": "b",
+          "text": "36"
+        },
+        {
+          "id": "c",
+          "text": "38"
+        },
+        {
+          "id": "d",
+          "text": "40"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q44",
+      "type": "single-choice",
+      "question": "A person x can complete 20% of work in 8 days and another person Y can complete 25% of the same work in 6 days. If they work together, in how many days will 40% of the work by completed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q45",
+      "type": "single-choice",
+      "question": "A shop owner offers the following discount options on an article to a customer:\n\n1. Successive discounts of $10\\%$ and $20\\%$, and then pay a service tax of $10\\%$.\n2. Successive discounts of $20\\%$ and $10\\%$, and then pay a service tax of $10\\%$.\n3. Pay a service tax of $10\\%$ first, then successive discounts of $20\\%$ and $10\\%$.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only is the best option for the customer."
+        },
+        {
+          "id": "b",
+          "text": "2 only is the best option for the customer."
+        },
+        {
+          "id": "c",
+          "text": "3 only is the best option for the customer."
+        },
+        {
+          "id": "d",
+          "text": "All the options are equally good for the customer."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q46",
+      "type": "single-choice",
+      "question": "What is the least four-digit number when divided by 3, 4, 5 and 6 leaves a remainder 2 in each case?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1012"
+        },
+        {
+          "id": "b",
+          "text": "1022"
+        },
+        {
+          "id": "c",
+          "text": "1122"
+        },
+        {
+          "id": "d",
+          "text": "1222"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q47",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. The minimum number of points of intersection of a square and a circle is 2.\n2. The maximum number of points of intersection of a square and circle is 8.\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q48",
+      "type": "single-choice",
+      "question": "The letters from A to Z are numbered from 1 to 26 respectively. If GHI = 1578 and DEF = 912, then what is ABC equal to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "492"
+        },
+        {
+          "id": "b",
+          "text": "468"
+        },
+        {
+          "id": "c",
+          "text": "262"
+        },
+        {
+          "id": "d",
+          "text": "246"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q49",
+      "type": "single-choice",
+      "question": "In a class, there are three groups A, B and C. If one student from group A and two students from group B are shifted to group C, then what happens to the average weight of the students of the class?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It increases."
+        },
+        {
+          "id": "b",
+          "text": "In decreases."
+        },
+        {
+          "id": "c",
+          "text": "It remains the same."
+        },
+        {
+          "id": "d",
+          "text": "No conclusion can be drawn due to insufficient data."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q50",
+      "type": "single-choice",
+      "question": "What is the greatest length $x$ such that $3 \\frac{1}{2}$ m and $8 \\frac{3}{4}$ m are integral multiples of $x$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$1 \\frac{1}{2}$ m"
+        },
+        {
+          "id": "b",
+          "text": "$1 \\frac{1}{3}$ m"
+        },
+        {
+          "id": "c",
+          "text": "$1 \\frac{1}{4}$ m"
+        },
+        {
+          "id": "d",
+          "text": "$1 \\frac{3}{4}$ m"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q51",
+      "type": "single-choice",
+      "question": "Consider the following date:\n\n| | **English** | **Hindi** |\n|----------|-------------|-----------|\n| **Girls** | 9 | 8 |\n| **Boys** | 8 | 7 |\n\nWhat is the value of $x$ in the above table?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7.8"
+        },
+        {
+          "id": "b",
+          "text": "7.6"
+        },
+        {
+          "id": "c",
+          "text": "7.4"
+        },
+        {
+          "id": "d",
+          "text": "7.2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q52",
+      "type": "single-choice",
+      "question": "How many integers are there between 1 and 100 which have 4 as a digit but are not divisible by 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "11"
+        },
+        {
+          "id": "c",
+          "text": "12"
+        },
+        {
+          "id": "d",
+          "text": "13"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q53",
+      "type": "single-choice",
+      "question": "In the particular year 12th January is a Sunday, then which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15th July is a Sunday if the year is a leap year."
+        },
+        {
+          "id": "b",
+          "text": "15th July is a Sunday if the year is not a leap year."
+        },
+        {
+          "id": "c",
+          "text": "12th July is Sunday if the year is a leap year."
+        },
+        {
+          "id": "d",
+          "text": "12th July is a not Sunday if the year is a leap year."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q54",
+      "type": "single-choice",
+      "question": "How many zeroes are there at the end of the following product?\n\n$1 \\times 5 \\times 10 \\times 15 \\times 20 \\times 25 \\times 30 \\times 35 \\times 40 \\times 45 \\times 50 \\times 55 \\times 60$",
+      "options": [
+        {
+          "id": "a",
+          "text": "10"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "14"
+        },
+        {
+          "id": "d",
+          "text": "15"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q55",
+      "type": "single-choice",
+      "question": "If you have two straight sticks of length 7.5 feet and 3.25 feet, what is the minimum length can your measure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0.05 foot"
+        },
+        {
+          "id": "b",
+          "text": "0.25 foot"
+        },
+        {
+          "id": "c",
+          "text": "1 foot"
+        },
+        {
+          "id": "d",
+          "text": "3.25 feet"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q56",
+      "type": "single-choice",
+      "question": "Bank credit to the industrial sector has started shrinking. Its decline has been a serious concern as credit growth is essential to revive investment. The problem’s origins lie in the incomplete reforms of the last 25 years. An institutional change that should have followed the 1991 reforms should have been setting up of a resolution corporation for banks. In a market economy with booms and busts, banks should be allowed to be set up and to fail. Today, we cannot shut down banks because there is not proper system to shut them down. Weak loss-making banks continue to need more capital.\n\nWhich one of the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indian banking system is not able to help the country in its economic growth."
+        },
+        {
+          "id": "b",
+          "text": "Economic reforms that started in 1991 have not helped in improving the economy to expected levels."
+        },
+        {
+          "id": "c",
+          "text": "India lacks the institutional mechanisms to deal with the failure of banks."
+        },
+        {
+          "id": "d",
+          "text": "Encouraging the foreign investments in our industrial sector is a good alternative to this sector’s dependence on banks for credit"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q57",
+      "type": "single-choice",
+      "question": "Spanish ships in the late 16th century first brought the potato tuber from South America to Europe whereby in the early 19th century, it had become a reliable backucereal crops, particularly in the cold, rain-soaked soils of Ireland. The Irish were soon almost wholly dependent on the potato as their staple food. And they were planting primarily one prodigious variety, the ‘Lumper’ potato, whose genetic frailty would be cruelly exposed by the fungus ‘Phytophthora infestans’. In 1845, spores of the deadly fungus began spreading across the country, destroying nearly all the Lumpers in its path. The resulting famine killed or displaced millions.\n\nWhich one of the following statements best reflects the critical message of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "For introducing any foreign plant into a country, the soil and climate conditions of that country should be suitable."
+        },
+        {
+          "id": "b",
+          "text": "As a staple food of a country, tuber crops like potato cannot replace cereal crops."
+        },
+        {
+          "id": "c",
+          "text": "Some of the fungal infections of plants cannot be prevented or stopped from spreading across large areas."
+        },
+        {
+          "id": "d",
+          "text": "Relying on a homogeneous food source is not desirable."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q58",
+      "type": "single-choice",
+      "question": "One of the biggest ironies around water is that a comes from rivers and other wetlands. Yet it is seen as divorced from them. While water is used as a resource, public policy does not always grasp that it is a part of the natural ecosystem. Efforts at engineering water systems are thus effort at augmenting water supply rather than strengthening the capacities of ecological systems.\n\nWhich one of the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rivers and other wetlands should be protected under Ramsar Convention."
+        },
+        {
+          "id": "b",
+          "text": "Engineering water systems should be modernized and further augmented."
+        },
+        {
+          "id": "c",
+          "text": "Wetlands need to be reinforced as more than just open sources of water."
+        },
+        {
+          "id": "d",
+          "text": "Water supply should not be free of cost so as to prevent its misuse or overuse."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q59",
+      "type": "single-choice",
+      "question": "The pulse variety ‘Pusa Arhar 16’ has the potential to be grown in the paddy-growing regions of Punjab, Haryana and Uttar Pradesh and eventually in all of India. It’s yield (about 2000 kg/hectare) will be significantly greater than those of the existing varieties and because its size will be uniform, it will be amenable to mechanical harvesting, an attractive feature for farmers in northern India who currently use this technology for paddy. Most important, Arhar straw, unlike paddy straw, is green and can be ploughed back into the soil. In paddy straw, the problem is the high silica content, which does not allow for easy decomposition. In the case or Arhar, the farmer, even after combine harvesting, just needs to run a rotovator to cut the leftover straw into pieces, which can be ploughed back and will decompose very fast. All this is difficult with leftover paddy stalks that cannot be easily salvaged or ploughed back. Farmers, therefore, choose the easiest option of simply burning it.\n\nWhich of the following are the most rational inferences that can be made from the passage?\n\n1. Farmers’ income will be higher with pulse cultivation than with paddy cultivation.\n2. Pulse cultivation causes less pollution as compared to paddy cultivation.\n3. Pulse straw can be used to improved soil quality.\n4. In the context of northern Indian agriculture, paddy straw has no usefulness.\n5. Mechanized agriculture is the main cause for stubble burning.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "2, 3 and 5"
+        },
+        {
+          "id": "b",
+          "text": "1, 4 and 5"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q60",
+      "type": "single-choice",
+      "question": "People will invest in education whenever they are granted the economic freedom to fully enjoy its benefits. Again, this is for the obvious reason that the return on education increases as the level of economic freedom rises. When people, thanks to lower tax rates, are allowed to retain most of the higher income that they gain from each incremental level of education, it makes eminent sense to invest in education. On the other hand, when the government decides to tax the higher income of educated individuals at even higher rates, it makes very little sense to invest in educating oneself further. The same incentives apply to parents who decide on whether to invest in their children’s education.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Lower tax rates in a country invariably translate into greater investments in higher education.\n2. Investment in the education of children ensures their economic freedom.\n3. Economic freedom has a positive impact on building up human capital.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q61",
+      "type": "single-choice",
+      "question": "In India, over the last decade or so, labour has been departing agriculture, but is only going to construction and unregistered manufacturing which are not markedly better jobs. Services, where labour tends to be most productive, are not generating the additional jobs the country needs. India will need 24 million or so jobs over the next decade. The new sector, e-commerce, can at best close only half the jobs gap. Only those sectors that drive domestic demand such as health and education can comfortably fill the other half.\n\nWhich one of the following is best implied in the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strong measures need to be taken to reduce the rural to urban migration of labour."
+        },
+        {
+          "id": "b",
+          "text": "The working condition in construction and unregistered manufacturing needs to be improved."
+        },
+        {
+          "id": "c",
+          "text": "Service sector has been reducing the problem of unemployment."
+        },
+        {
+          "id": "d",
+          "text": "Increased social sector spending is imperative for large-scale job creation."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q62",
+      "type": "single-choice",
+      "question": "Many opportunities to harness the highly skewed, seasonal and spatial distribution of monsoon floes, which occur in a four-month period from June to September annually, have been lost. Since these few months account for most of the rainfall and consequent freshwater availability, the need for holding rainwater in reservoirs, for subsequently releasing it for use over the year, is a necessity nobody can afford to overlook. Climate change will continue to affect weather conditions and create water shortages and excesses. While millions suffer from droughts and floods, waters in the country’s many rivers flow unutilized, and are discharged into the sea every year.\n\nWith reference to the above passage, which of the following could be the most rational and practical implications for India?\n\n1. Inter-linking of rivers should be undertaken.\n2. A network of dams and canals should be built across the country for proper distribution of water.\n3. Farmers should be provided easy loans for digging borewells.\n4. Usage of water for agriculture should be regulated by law.\n5. Distribution of river water among regions should be regulated by the Union Government.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2, 4 and 5"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q63",
+      "type": "single-choice",
+      "question": "Economic liberalization in India was shaped largely by the economic problems of the government than by the economic priorities of the people or by the long-term development objectives. Thus, there were limitations in conception and design which have been subsequently validated by experience. Jobless growth, persistent poverty and rising inequality have mounted as problems since economic liberalization began. And all these years later, four quite crises confront the economy; agriculture, infrastructure, industrialization and education as constraints on the country’s future prospects. These problems must be resolved in economic growth has to be sustained and transformed into meaningful development.\n\nWhich of the following is/are the most rational and logical inference/inferences that can be made from the passage?\n\n1. It is essential to rethink and redefine the economic role of the State in the quest for development.\n2. India has not made effective implementation of its policies in social sectors nor made sufficient investments in them.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q64",
+      "type": "single-choice",
+      "question": "Economic liberalization in India was shaped largely by the economic problems of the government than by the economic priorities of the people or by the long-term development objectives. Thus, there were limitations in conception and design which have been subsequently validated by experience. Jobless growth, persistent poverty and rising inequality have mounted as problems since economic liberalization began. And all these years later, four quite crises confront the economy; agriculture, infrastructure, industrialization and education as constraints on the country’s future prospects. These problems must be resolved in economic growth has to be sustained and transformed into meaningful development.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. India’s economy needs to be greatly integrated with global economy so as to create large number of jobs and to sustain its growth momentum.\n2. Economic liberalization would cause large economic growth which would reduce poverty and create sufficient employment in the long run.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q65",
+      "type": "single-choice",
+      "question": "India has tremendous potential for solar energy. We all realize that we have to stop burning fossil fuels to meet our energy needs. But certain renewable resources are still going through their cost curves and learning curves to get the required amount of output. The Indian Government has strongly committed to its targets of reducing emissions by 33 per cent by 2030, and towards this it has initiated a strong push towards a gas-based economy-and has also invested heavily in renewable energy. However, business houses are wary of investing too heavily in renewable energy at a time when the technology is not yet ready.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Governments often provide inefficient and costly subsidies for technologies that may not be ready in the near future.\n2. India’s commitment of reducing emissions by 33% by 2030 shall be on the basis of gas-based economy.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q66",
+      "type": "single-choice",
+      "question": "India has tremendous potential for solar energy. We all realize that we have to stop burning fossil fuels to meet our energy needs. But certain renewable resources are still going through their cost curves and learning curves to get the required amount of output. The Indian Government has strongly committed to its targets of reducing emissions by 33 per cent by 2030, and towards this it has initiated a strong push towards a gas-based economy-and has also invested heavily in renewable energy. However, business houses are wary of investing too heavily in renewable energy at a time when the technology is not yet ready.\n\nWhich one of the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India’s commitment to reduce emissions by 33% is unlikely to be achieved."
+        },
+        {
+          "id": "b",
+          "text": "India should import gas rather than invest in renewable resources."
+        },
+        {
+          "id": "c",
+          "text": "Getting renewable resources to market too soon may be costly."
+        },
+        {
+          "id": "d",
+          "text": "India should put in more efforts in the exploration of natural gas."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q67",
+      "type": "single-choice",
+      "question": "Although most of the Genetically Modified (GM) crops cultivated now are genetically engineered for a single trait, in future, crops genetically engineered for more than one trait will be the norm. Thus, biotechnology’s role in agriculture and the regulation of the same cannot be generation of GM crops. Instead, there is a need to take a comprehensive look, taking into account various aspects, including socio-economic impacts, so that the potential of the technology can be harnessed while minimizing negative impacts. Given the importance of biotechnology in developing varieties that can help in climate change mitigation and adaptation, not using biotechnology as a part of the climate change action plan cannot be an option. Domestic regulation of biotechnology cannot be viewed in isolation of trade policy and obligations under various international treaties and conventions.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Biotechnology regulation is an evolving process.\n2. Participation of people is needed in policy decisions regarding biotechnology regulation.\n3. Biotechnology regulation should take into account socio-economic aspects in decision-making.\n4. Wider involvement of political executive in biotechnology regulation improved its effectiveness in dealing with the country’s trade policies and international obligations.\n\nWhich of the above assumptions are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 4 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q68",
+      "type": "single-choice",
+      "question": "Although most of the Genetically Modified (GM) crops cultivated now are genetically engineered for a single trait, in future, crops genetically engineered for more than one trait will be the norm. Thus, biotechnology’s role in agriculture and the regulation of the same cannot be generation of GM crops. Instead, there is a need to take a comprehensive look, taking into account various aspects, including socio-economic impacts, so that the potential of the technology can be harnessed while minimizing negative impacts. Given the importance of biotechnology in developing varieties that can help in climate change mitigation and adaptation, not using biotechnology as a part of the climate change action plan cannot be an option. Domestic regulation of biotechnology cannot be viewed in isolation of trade policy and obligations under various international treaties and conventions.\n\nWhich one of the following statements best implies the crux of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Precautionary principle is not given importance in current debate on developing GM crops."
+        },
+        {
+          "id": "b",
+          "text": "Biotechnology is not currently used in climate change mitigation and adaptation mechanisms."
+        },
+        {
+          "id": "c",
+          "text": "Biotechnology’s role is not confined to the current priorities of developing GM crops."
+        },
+        {
+          "id": "d",
+          "text": "The negative impacts of biotechnology are not properly understood."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q69",
+      "type": "single-choice",
+      "question": "Asset allocation is the most important investment decision we will ever make, and sadly, most of us do not give that decision the importance it deserves. We are adamant about seeking predictability with our future. We tend to think of investing in risky assets as extremely volatile and value eroding. We also dislike fluctuating returns and the loss of control of investment. We think our money is best left idle, unproductive but safe. There is no asset that is risk free. We could lose our jobs, our homes can lose value, our banks can go bankrupt, our bonds can default, the government can collapse and companies we chose fondly may cease to exist. But we cannot live life assuming that all these extreme events are waiting to happen, and all at the same time. All these extreme forms of risks we know will not manifest at the same time.\n\nWhich one of the following statements best implies the suggestion given by the author of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Distribute your wealth across different kinds of assets so that your risks would be minimized."
+        },
+        {
+          "id": "b",
+          "text": "Risk-taking behaviour should be a necessary component of your personality if you want to generate wealth."
+        },
+        {
+          "id": "c",
+          "text": "While making investments, find a trustworthy asset management organization which would manage your wealth for you."
+        },
+        {
+          "id": "d",
+          "text": "You should know that investing your money is a risky business"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q70",
+      "type": "single-choice",
+      "question": "In India, the current focus on the right to privacy is based on some new realities of the digital age. A right is a substantive right only if it works in all situations, and for everyone. A right to free expression for an individual about her exploitation, for instance, is meaningless without actual availability of security that guarantees that private force cannot be used to thwart this right. The role of the State, therefore, is not just to abstain from preventing rightful free expression, but also to actively ensure that private parties are not able to block it.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. State should have some institutions to ensure its appropriate role in a digital society.\n2. State should ensure that private parties do not violate the citizens’ right to privacy.\n3. Digital economy is not compatible with the idea of not violating the citizens’ privacy.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q71",
+      "type": "single-choice",
+      "question": "India is at once among the fastest growing global economies and home to the largest number of malnourished children in world. There are regions where malnutrition is not the exception but the norm. And across the country, malnutrition is the cause of death for roughly half the 1.3 million children who die before their fifth birthday each year. Even those children who survive suffer permanently from the damage that has already been done to their bodies and minds from not getting enough of the right foods and nutrients. Around 44 million children under 5 are stunted. That makes it harder for them to learn in school and subsequently earn a living as adults. Their lifetime earnings potential is almost a quarter less than of their healthy peers.\n\nWith reference to the above passage, which of the following is/are the most rational and practical implication/implications?\n\n1. India’s Public Distribution System should be monitored by the Union Government.\n2. Girls should be encouraged to delay marriage and first pregnancy.\n3. Mothers should be encouraged to breastfeed their children immediately after birth.\n4. The supply of safe drinking water and proper sanitation facilities to all should be ensured.\n5. Authorities should ensure the vaccination as prescribed.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3 and 4"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, 4 and 5"
+        },
+        {
+          "id": "c",
+          "text": "1 only"
+        },
+        {
+          "id": "d",
+          "text": "3 and 5 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q72",
+      "type": "single-choice",
+      "question": "Genome editing is different from genome modification. Genome editing typically involves finding the part of a plant genome that could be changed to render it less vulnerable to disease, or resistant to certain herbicides, or to increase yields. Researchers use ‘molecular scissors’ to dissects the genome and repair it, which is a process that occurs naturally when plants are under attack from diseases and can throw up new mutations that enable the plant to survive future attacks. This evolutionary process can effectively be speeded up now that it is possible to examine plant genome in detail in laboratories, and create mechanisms through which the relevant genes can be altered very precisely.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Genome editing does not require the transfer of genes from one plant to another.\n2. Through genome editing, the chosen genes can be altered precisely in a manner akin to the natural process that helps plants to adapt to the environmental factors.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q73",
+      "type": "single-choice",
+      "question": "In India, authorities always look to store the maximum amount of water in reservoirs during the monsoon season, which is then used for irrigation and generation of electricity during the summer months. It is an internationally accepted practice that the water level of a reservoir should be kept below a certain level before the onset of monsoon season. This is so that when monsoon rains come, there is space to store the excess rainwater and also so that water can be released in a regulated manner. But the authorities store the maximum amount of water in reservoirs even before the close of the monsoon, only to ensure greater electricity generation and irrigation.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. High risks involved in holding maximum water in reservoirs are due to our over-dependence on hydropower projects.\n2. Storage capacity of dams should not be fully used before or during monsoon season.\n3. Role of dams in flood control is underestimated in India.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q74",
+      "type": "single-choice",
+      "question": "Our urban bodies cannot possibly ensure sustainable delivery of water in our cities unless financing mechanisms are put in place. Water delivery requires heavy investment in collecting it from a natural source, treating it to make it potable, and laying a distribution network of pipes for delivery to the users. It also requires investments in sewerage infrastructure and sewage treatment plants so that the sewers can carry the wastewater to these plants to ensure that no untreated sewage is discharged back into natural water bodies. If our cities were rich enough to meet the entire cost, water could be delivered free. They are not.\n\nWhat is the most logical and crucial message conveyed by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urban local bodies must recover costs through user charges."
+        },
+        {
+          "id": "b",
+          "text": "Urban local bodies are not efficient enough to meet the water requirements of our cities."
+        },
+        {
+          "id": "c",
+          "text": "Water shortage in our cities is a perennial problem that cannot be solved."
+        },
+        {
+          "id": "d",
+          "text": "In view of the water crisis in our cities, there is an urgent need to limit the population of cities by adopting an upper limit of population size."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q75",
+      "type": "single-choice",
+      "question": "Our urban bodies cannot possibly ensure sustainable delivery of water in our cities unless financing mechanisms are put in place. Water delivery requires heavy investment in collecting it from a natural source, treating it to make it potable, and laying a distribution network of pipes for delivery to the users. It also requires investments in sewerage infrastructure and sewage treatment plants so that the sewers can carry the wastewater to these plants to ensure that no untreated sewage is discharged back into natural water bodies. If our cities were rich enough to meet the entire cost, water could be delivered free. They are not.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Rich cities only can ensure sustainable delivery of water.\n2. Sustainable delivery of water in cities means much more than supplying water to households.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q76",
+      "type": "single-choice",
+      "question": "In Part III of the Constitution, which assures people certain fundamental rights, Article 25 proclaims that “all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion”. What people fail to notice is that this proclamation is prefixed with the words “subject to public order, morality, health and to the other provisions of this Part”, which set conditions precedent for the legal protection of religious practices of any community. The closing words of this prefatory rider in Article 25 virtually constitute a subordination clause placing other fundamental rights mentioned in Part III over and above the right to religious freedom. Among those other fundamental rights is the right to equality before law and equal protection of laws–assured at the outset and elaborated in later articles to mean, inter alia, that the State shall not deny equal protection of laws to any person or group of persons on the basis of religion alone.\n\nWhat is the most logical inference from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "State shall not interfere with the religious affairs of the citizens."
+        },
+        {
+          "id": "b",
+          "text": "Religious freedom under the Constitution is open to State intervention."
+        },
+        {
+          "id": "c",
+          "text": "Religious freedom of the citizens is not covered under fundamental rights."
+        },
+        {
+          "id": "d",
+          "text": "Religious practices of any community are immune to State laws."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q77",
+      "type": "single-choice",
+      "question": "Private investment in general is volatile. Foreign-private investment is more volatile because the available investment avenues are significantly greater (i.e., the entire world). Therefore, the responsibility of providing employment cannot be left to Foreign District Investment (FDI). The current FDI inflows are volatile over time and across sectors and regions, which is a necessary consequence of their search for the highest returns. The adverse consequences are unstable employment and an accentuation of income and regional inequalities. A probable positive consequence of foreign investment is the inflow of new technology and its subsequent diffusion. However, the technology diffusion is not at all certain because the existing state of physical and human capital in India may prove inadequate for the diffusion.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Relying on foreign investment in the long run is not an economically sound policy.\n2. Policies must be undertaken to reduce volatility in foreign private investment.\n3. Policies must be undertaken to strengthen domestic private investment.\n4. Public investment should be given priority over private investment.\n5. Substantial public investment in education and health should be undertaken.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "b",
+          "text": "1, 3 and 5"
+        },
+        {
+          "id": "c",
+          "text": "2, 4 and 5"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q78",
+      "type": "single-choice",
+      "question": "Many people understand the connection between solid waste management and health in terms of the consequences of unattended heaps of dry garbage which become home for flies and other vermin. However, there is another aspect that is not well-understood, that is, what happens when unscientific solid waste management combines with poor drainage and dumping of untreated sewage into drains which are meant to carry storm water during rains. The result is choked drains which are full of stagnant water breeding mosquitoes, resulting in the spread of water-borne diseases.\n\nIn the context of India, which one of the following statements best reflects the critical message of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In India, the drainage networks are not separate for sewerage and storm water."
+        },
+        {
+          "id": "b",
+          "text": "Urban local bodies do not have enough resources and legislative authority to deal with the problems of waste management."
+        },
+        {
+          "id": "c",
+          "text": "Solid waste management should be integrated with the maintenance of drainage and sewerage networks."
+        },
+        {
+          "id": "d",
+          "text": "Bad management of solid waste and sewerage systems by our municipalities is the reason for drinking water shortages in our cities."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q79",
+      "type": "single-choice",
+      "question": "In India, agriculture still engages about half of its workforce, and about 85 per cent of its farms are small and marginal. Compared to China and Vietnam, which have experienced fast structural and rural transformation, India’s story is of slow transformation. As a result, poverty reduction in India was at much slower pace during 1988-2014, compared to China and Vietnam. India’s poverty reduction was slow during 1988-2005, but during 2005-2012, it accelerated dramatically–almost three times faster than during the earlier period. What did India do during this period? Research reveals that the relative price scenario changed significantly (by more than 50%) in favour of agriculture in the wake of rising global prices. This boosted private investments in agriculture by more than 50%. As a result, agri-GDP growth touched 4.1% during 2007-2012 as against 2.4% during 2002-2007. The net surplus of agri-trade touched $25 billion in 2013-2014; real farm wages rose by 7% per annum. All this led to unprecedented fall in poverty.\n\nWhich one of the following statements best reflects the critical message of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India should create large-scale off-farm rural employment to reduce poverty in the near future."
+        },
+        {
+          "id": "b",
+          "text": "India should create a large number of farmer producer companies."
+        },
+        {
+          "id": "c",
+          "text": "Private investment in agriculture should be given priority over public investment."
+        },
+        {
+          "id": "d",
+          "text": "Inclusive agricultural growth is key to reduce poverty in the near future."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2020_csat_q80",
+      "type": "single-choice",
+      "question": "In India, agriculture still engages about half of its workforce, and about 85 per cent of its farms are small and marginal. Compared to China and Vietnam, which have experienced fast structural and rural transformation, India’s story is of slow transformation. As a result, poverty reduction in India was at much slower pace during 1988-2014, compared to China and Vietnam. India’s poverty reduction was slow during 1988-2005, but during 2005-2012, it accelerated dramatically–almost three times faster than during the earlier period. What did India do during this period? Research reveals that the relative price scenario changed significantly (by more than 50%) in favour of agriculture in the wake of rising global prices. This boosted private investments in agriculture by more than 50%. As a result, agri-GDP growth touched 4.1% during 2007-2012 as against 2.4% during 2002-2007. The net surplus of agri-trade touched $25 billion in 2013-2014; real farm wages rose by 7% per annum. All this led to unprecedented fall in poverty.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Structural and rural transformation is impossible when farms are mainly small and marginal.\n2. A good price incentive can trigger investments in agriculture.\n3. India needs to build value chains for high-value agri-products like livestock and horticulture.\n4. Higher global prices of agricultural commodities are essential for India’s poverty reduction.\n\nWhich of the above assumptions are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

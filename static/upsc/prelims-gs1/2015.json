@@ -1,0 +1,3418 @@
+{
+  "metadata": {
+    "name": "Prelims GS Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 100,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2015,
+    "stage": "Prelims",
+    "paper": "GS1",
+    "section": "prelims-gs1",
+    "sourceId": "upsc_2015_gs1",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_gs1_q1",
+      "type": "single-choice",
+      "question": "“Pradhan Mantri Jan-Dhan Yojna’ has been launched for",
+      "options": [
+        {
+          "id": "a",
+          "text": "providing housing loan to poor people at cheaper interest rates"
+        },
+        {
+          "id": "b",
+          "text": "promoting women’s Self-Help Groups in backward areas"
+        },
+        {
+          "id": "c",
+          "text": "promoting financial inclusion in the country"
+        },
+        {
+          "id": "d",
+          "text": "providing financial help to the marginalized communities"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q2",
+      "type": "single-choice",
+      "question": "With reference to the Fourteenth Finance Commission, which of the following statements is/are correct?\n1. It has increased the share of States in the central divisible pool from 32 percent to 42 percent.\n2. It has made recommendations concerning sector-specific grants.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q3",
+      "type": "single-choice",
+      "question": "The 'Fortaleza Declaration', recently in the news, is related to the affairs of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "ASEAN"
+        },
+        {
+          "id": "b",
+          "text": "BRICS"
+        },
+        {
+          "id": "c",
+          "text": "OECD"
+        },
+        {
+          "id": "d",
+          "text": "WTO"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q4",
+      "type": "single-choice",
+      "question": "A decrease in tax to GDP ratio of a country indicates which of the following?\n\n1. Slowing economic growth rate.\n2. Less equitable distribution of national income.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q5",
+      "type": "single-choice",
+      "question": "In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclone does not originate. What is the reason?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sea surface temperatures are low"
+        },
+        {
+          "id": "b",
+          "text": "Inter-Tropical Convergence Zone seldom occurs"
+        },
+        {
+          "id": "c",
+          "text": "Coriolis force is too weak"
+        },
+        {
+          "id": "d",
+          "text": "Absence of land in those regions"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q6",
+      "type": "single-choice",
+      "question": "Which one of the following pairs of States of India indicates the easternmost and westernmost State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assam and Rajasthan"
+        },
+        {
+          "id": "b",
+          "text": "Arunachal Pradesh and Rajasthan"
+        },
+        {
+          "id": "c",
+          "text": "Assam and Gujarat"
+        },
+        {
+          "id": "d",
+          "text": "Arunachal Pradesh and Gujarat"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q7",
+      "type": "single-choice",
+      "question": "Consider the following statements regarding the Directive Principles of State Policy:\n\n1. The Principles spell out the socio-economic democracy in the country.\n2. The provisions contained in these Principles are not enforceable by any court.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q8",
+      "type": "single-choice",
+      "question": "In the ‘Index of Eight Core Industries’, which one of the following is given the highest weight?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coal production"
+        },
+        {
+          "id": "b",
+          "text": "Electricity generation"
+        },
+        {
+          "id": "c",
+          "text": "Fertilizer production"
+        },
+        {
+          "id": "d",
+          "text": "Steel production"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q9",
+      "type": "single-choice",
+      "question": "Which of the following National Parks is unique in being a swamp with floating vegetation that supports a rich biodiversity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhitarkanika National Park"
+        },
+        {
+          "id": "b",
+          "text": "Keibul Lamjao National Park"
+        },
+        {
+          "id": "c",
+          "text": "Keoladeo Ghana National Park"
+        },
+        {
+          "id": "d",
+          "text": "Sultanpur National Park"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q10",
+      "type": "single-choice",
+      "question": "Which of the following statements is/are correct regarding National Innovation Foundation-India (NIF)?\n1. NIF is an autonomous body of the Department of Science and Technology under the Central Government.\n2. NIF is an initiative to strengthen the highly advanced scientific research in India’s premier scientific institutions in collaboration with highly advanced foreign scientific institutions.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q11",
+      "type": "single-choice",
+      "question": "What can be the impact of excessive/inappropriate use of nitrogenous fertilizers in agriculture?\n1. Proliferation of nitrogen-fixing microorganisms in soil can occur.\n2. Increase in the acidity of soil can take place.\n3. Leaching of nitrate to the ground-water can occur.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q12",
+      "type": "single-choice",
+      "question": "With reference to the International Union for Conservation of Nature and Natural Resources (IUCN) and the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), which of the following statements is/are correct?\n\n1. IUCN is an organ of the United Nations and CITES is an international agreement between governments.\n2. IUCN runs thousands of field projects around the world to better manage natural environments.\n3. CITES is legally binding on the States that have joined it, but this Convention does not take the place of national laws.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q13",
+      "type": "single-choice",
+      "question": "The Fair and Remunerative Price (FRP) of sugarcane is approved by the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cabinet Committee on Economic Affairs"
+        },
+        {
+          "id": "b",
+          "text": "Commission for Agricultural Costs and Prices"
+        },
+        {
+          "id": "c",
+          "text": "Directorate of Marketing and Inspection, Ministry of Agriculture"
+        },
+        {
+          "id": "d",
+          "text": "Agricultural Produce Market Committee"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q14",
+      "type": "single-choice",
+      "question": "What explains the eastward flow of the equatorial counter-current?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Earth’s rotation on its axis"
+        },
+        {
+          "id": "b",
+          "text": "Convergence of the two equatorial currents"
+        },
+        {
+          "id": "c",
+          "text": "Difference in salinity of water"
+        },
+        {
+          "id": "d",
+          "text": "Occurrence of the belt of calm near the equator"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q15",
+      "type": "single-choice",
+      "question": "Consider the following pairs:\n\nPlace of Pilgrimage: Location\n\n1. Srisailam: Nallamala Hills\n2. Omkareshwar: Satmala Hills\n3. Pushkar: Mahadeo Hills\n\nWhich of the above pairs is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q16",
+      "type": "single-choice",
+      "question": "With reference to Rowlatt Satyagraha, which of the following statements is/are correct?\n\n1. The Rowlatt Act was based on the recommendations of the 'Sedition Committee'.\n2. In Rowlatt Satyagraha, Gandhiji tried to utilize the Home Rule League.\n3. Demonstrations against the arrival of Simon Commission coincided with Rowlatt Satyagraha.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q17",
+      "type": "single-choice",
+      "question": "Among the following, which were frequently mentioned in the news for the outbreak of Ebola virus recently?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Syria and Jordan"
+        },
+        {
+          "id": "b",
+          "text": "Guinea, Sierra Leone and Liberia"
+        },
+        {
+          "id": "c",
+          "text": "Philippines and Papua New Guinea"
+        },
+        {
+          "id": "d",
+          "text": "Jamaica, Haiti and Surinam"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q18",
+      "type": "single-choice",
+      "question": "With reference to 'fly ash' produced by the power plants using coal as fuel, which of the following statements is/are correct?\n\n1. Fly ash can be used in the production of bricks for building construction.\n2. Fly ash can be used as a replacement for some of the Portland cement contents of concrete.\n3. Fly ash is made up of silicon dioxide and calcium oxide only, and does not contain any toxic elements.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q19",
+      "type": "single-choice",
+      "question": "With reference to 'dugong', a mammal found in India, which of the following statements is/are correct?\n\n1. It is a herbivorous marine animal.\n2. It is found along the entire coast of India.\n3. It is given legal protection under Schedule I of the Wildlife (Protection) Act, 1972.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q20",
+      "type": "single-choice",
+      "question": "Who of the following was/were economic critic/critics of colonialism in India?\n1. Dadabhai Naoroji\n2. G. Subramania Iyer\n3. R. C. Dutt\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q21",
+      "type": "single-choice",
+      "question": "Which one of the following issues the ‘Global Economic Prospects’ report periodically?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Asian Development Bank"
+        },
+        {
+          "id": "b",
+          "text": "The European Bank for Reconstruction and Development"
+        },
+        {
+          "id": "c",
+          "text": "The US Federal Reserve Bank"
+        },
+        {
+          "id": "d",
+          "text": "The World Bank"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q22",
+      "type": "single-choice",
+      "question": "When the Reserve Bank of India reduces the Statutory Liquidity Ratio by 50 basis points, which of the following is likely to happen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India’s GDP growth rate increases drastically"
+        },
+        {
+          "id": "b",
+          "text": "Foreign Institutional Investors may bring more capital into our country"
+        },
+        {
+          "id": "c",
+          "text": "Scheduled Commercial Banks may cut their lending rates"
+        },
+        {
+          "id": "d",
+          "text": "It may drastically reduce the liquidity to the banking, system"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q23",
+      "type": "single-choice",
+      "question": "With reference to the use of nano-technology in health sector, which of the following statements is/are correct?\n1. Targeted drug delivery is made possible by nanotechnology.\n2. Nanotechnology can largely contribute to gene therapy.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q24",
+      "type": "single-choice",
+      "question": "In, India, markets in agricultural products are regulated under the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Essential Commodities Act, 1955"
+        },
+        {
+          "id": "b",
+          "text": "Agricultural Produce Market Committee Act enacted by States"
+        },
+        {
+          "id": "c",
+          "text": "Agricultural Produce (Grading and Marking) Act, 1937"
+        },
+        {
+          "id": "d",
+          "text": "Food Products Order, 1956 and Meat and Food Products Order, 1973"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q25",
+      "type": "single-choice",
+      "question": "Which one of the following is the national aquatic animal of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Saltwater crocodile"
+        },
+        {
+          "id": "b",
+          "text": "Olive ridley turtle"
+        },
+        {
+          "id": "c",
+          "text": "Gangetic dolphin"
+        },
+        {
+          "id": "d",
+          "text": "Gharial"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q26",
+      "type": "single-choice",
+      "question": "With reference to Congress Socialist Party, consider the following statements\n1. It advocated the boycott of British goods and evasion of taxes.\n2. It wanted to establish the dictatorship of proletariat.\n3. It advocated separate electorate for minorities and oppressed classes.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q27",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Rajya Sabha has no power either to reject or to amend a Money Bill.\n2. The Rajya Sabha cannot vote on the Demands for Grants.\n3. The Rajya Sabha cannot discuss the Annual Financial Statement.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q28",
+      "type": "single-choice",
+      "question": "The Government of India Act of 1919 clearly defined",
+      "options": [
+        {
+          "id": "a",
+          "text": "The separation of power between the judiciary and the legislature"
+        },
+        {
+          "id": "b",
+          "text": "The jurisdiction of the central and provincial governments"
+        },
+        {
+          "id": "c",
+          "text": "The powers of the Secretary of State for India and Viceroy"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q29",
+      "type": "single-choice",
+      "question": "Which of the following brings out the ‘Consumer Price Index Number for Industrial Workers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Reserve Bank of India"
+        },
+        {
+          "id": "b",
+          "text": "The Department of Economic Affairs"
+        },
+        {
+          "id": "c",
+          "text": "The Labour Bureau"
+        },
+        {
+          "id": "d",
+          "text": "The Department of Personnel and Training"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q30",
+      "type": "single-choice",
+      "question": "In the context of modem scientific research, consider the following statements about:\n\n1. ‘IceCube’, a particle detector located at South Pole, which was recently in the news: It is the world’s largest neutrino detector, encompassing a cubic kilometre of ice\n2. It is a powerful telescope to search for dark matter\n3. It is buried deep in the ice.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q31",
+      "type": "single-choice",
+      "question": "The terms ‘Agreement on Agriculture’, ‘Agreement on the Application of Sanitary and Phytosanitary Measures’ and ‘Peace Clause’ appear in the news frequently in the context of the affairs of the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Food and Agriculture Organization"
+        },
+        {
+          "id": "b",
+          "text": "United Nations Framework Conference on Climate Change"
+        },
+        {
+          "id": "c",
+          "text": "World Trade Organization"
+        },
+        {
+          "id": "d",
+          "text": "United Nations Environment Programme"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q32",
+      "type": "single-choice",
+      "question": "With reference to ‘Near Field Communication (NFC) Technology’, which of the following statements is/are correct?\n1. It is a contactless communication technology that uses electromagnetic radio fields.\n2. NFC is designed for use by devices which can be at a distance of even a metre from each other.\n3. NFC can use encryption when sending sensitive information.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q33",
+      "type": "single-choice",
+      "question": "The area known as ‘Golan Heights’ sometimes appears in the news in the context of the events related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Central Asia"
+        },
+        {
+          "id": "b",
+          "text": "Middle East"
+        },
+        {
+          "id": "c",
+          "text": "South-East Asia"
+        },
+        {
+          "id": "d",
+          "text": "Central Africa"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q34",
+      "type": "single-choice",
+      "question": "Convertibility of rupee implies",
+      "options": [
+        {
+          "id": "a",
+          "text": "being able to convert rupee notes into gold"
+        },
+        {
+          "id": "b",
+          "text": "allowing the value of rupee to be fixed by market forces"
+        },
+        {
+          "id": "c",
+          "text": "freely permitting the conversion of rupee to other currencies and vice versa"
+        },
+        {
+          "id": "d",
+          "text": "developing an international market for currencies in India"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q35",
+      "type": "single-choice",
+      "question": "Consider the following pairs: Medieval Indian State Present Region\n1. Champaka: Central India\n2. Durgara: Jammu\n3. Kuluta: Malabar\n\nWhich of the above pairs is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q36",
+      "type": "single-choice",
+      "question": "Consider the following rivers:\n1. Vamsadhara\n2. Indravati\n3. Pranahita\n4. Pennar\n\nWhich of the above are tributaries of Godavari?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q37",
+      "type": "single-choice",
+      "question": "When a bill is referred to a joint sitting of both the Houses of the Parliament, it has to be passed by",
+      "options": [
+        {
+          "id": "a",
+          "text": "a simple majority of members present and voting"
+        },
+        {
+          "id": "b",
+          "text": "three-fourths majority of members present and voting"
+        },
+        {
+          "id": "c",
+          "text": "two-thirds majority of the Houses"
+        },
+        {
+          "id": "d",
+          "text": "absolute majority of the Houses"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q38",
+      "type": "single-choice",
+      "question": "Which one of the following regions of Indian has a combination of mangrove forest, evergreen forest and deciduous forest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "North Coastal Andhra Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "South-West Bengal"
+        },
+        {
+          "id": "c",
+          "text": "Southern Saurashtra"
+        },
+        {
+          "id": "d",
+          "text": "Andaman and Nicober Islands"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q39",
+      "type": "single-choice",
+      "question": "Which of the following kingdoms were associated with the life of the Buddha?\n1. Avanti\n2. Gandhara\n3. Kosala\n4. Magadha\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "3 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q40",
+      "type": "single-choice",
+      "question": "Which one the following is associated with the issue of control and phasing out of the use of ozone-depleting substances?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bretton Woods Conference"
+        },
+        {
+          "id": "b",
+          "text": "Montreal Protocol"
+        },
+        {
+          "id": "c",
+          "text": "Kyoto Protocol"
+        },
+        {
+          "id": "d",
+          "text": "Nagoya Protocol"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q41",
+      "type": "single-choice",
+      "question": "Consider the following:\n\nThe arrival of Babur into India led to the\n\n1. introduction of gunpowder in the subcontinent\n2. introduction of the arch and dome in the region's architecture\n3. establishment of Timurid dynasty in the region\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q42",
+      "type": "single-choice",
+      "question": "The Government of India has established NITI Aayog to replace the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Human Rights Commission"
+        },
+        {
+          "id": "b",
+          "text": "Finance Commission"
+        },
+        {
+          "id": "c",
+          "text": "Law Commission"
+        },
+        {
+          "id": "d",
+          "text": "Planning Commission"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q43",
+      "type": "single-choice",
+      "question": "What is Rio+20 Conference, often mentioned in the news?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is the United Nations Conference on Sustainable Development"
+        },
+        {
+          "id": "b",
+          "text": "It is a Ministerial Meeting of the World Trade Organization"
+        },
+        {
+          "id": "c",
+          "text": "It is a Conference of the Inter-governmental Panel on Climate Change"
+        },
+        {
+          "id": "d",
+          "text": "It is a Conference of the Member Countries of the Convention on Biological Diversity"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q44",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Executive Power of the Union of India is vested in the Prime Minister.\n2. The Prime Minister is the ex officio Chairman of the Civil Services Board.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q45",
+      "type": "single-choice",
+      "question": "The term ‘Goldilocks Zone’ is often seen in the news in the context of",
+      "options": [
+        {
+          "id": "a",
+          "text": "the limits of habitable zone above the surface of the Earth"
+        },
+        {
+          "id": "b",
+          "text": "region inside the Earth where shale gas is available"
+        },
+        {
+          "id": "c",
+          "text": "search for the Earth-like planets in outer space"
+        },
+        {
+          "id": "d",
+          "text": "search for meteorites containing precious metals"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q46",
+      "type": "single-choice",
+      "question": "Who of the following organized a March on the Tanjore coast to break the Salt Law in April 1930?",
+      "options": [
+        {
+          "id": "a",
+          "text": "V. O. Chidambaram Pillai"
+        },
+        {
+          "id": "b",
+          "text": "Rajagopalachari"
+        },
+        {
+          "id": "c",
+          "text": "K. Kamarajar"
+        },
+        {
+          "id": "d",
+          "text": "Annie Besant"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q47",
+      "type": "single-choice",
+      "question": "Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amoghavarsha I"
+        },
+        {
+          "id": "b",
+          "text": "Ballala II"
+        },
+        {
+          "id": "c",
+          "text": "Harihara I"
+        },
+        {
+          "id": "d",
+          "text": "Prataparudra II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q48",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The first woman President of the Indian National Congress was Sarojini Naidu.\n2. The first Muslim President of the Indian National Congress was Badruddin Tyabji.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q49",
+      "type": "single-choice",
+      "question": "Which of the statements regarding ‘Green Climate Fund’ is/are correct?\n1. It is intended to assist the developing countries in adaption and mitigation practices to counter climate change. It is founded under the aegis of UNEP\n2. OECD\n3. Asian Development Bank and World Bank\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q50",
+      "type": "single-choice",
+      "question": "Indira Gandhi Prize for Peace, Disarmament and Development for 2014 was given to which one of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhabha Atomic Research Centre"
+        },
+        {
+          "id": "b",
+          "text": "Indian Institute of Science"
+        },
+        {
+          "id": "c",
+          "text": "Indian Space Research Organization"
+        },
+        {
+          "id": "d",
+          "text": "Tata Institute of Fundamental Research"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q51",
+      "type": "single-choice",
+      "question": "With reference to the Cabinet Mission, which of the following statements is/are correct?\n1. It recommended a federal government.\n2. It enlarged the powers of the Indian courts.\n3. It provided for more Indians in the ICS.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q52",
+      "type": "single-choice",
+      "question": "Which one of the following National Parks has a climate that varies from tropical to subtropical, temperate and arctic?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Khangchendzonga National Park"
+        },
+        {
+          "id": "b",
+          "text": "Nandadevi National Park"
+        },
+        {
+          "id": "c",
+          "text": "Neora Valley National Park"
+        },
+        {
+          "id": "d",
+          "text": "Namdapha National Park"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q53",
+      "type": "single-choice",
+      "question": "Amnesty International is",
+      "options": [
+        {
+          "id": "a",
+          "text": "an agency of the United Nations to help refugees of civil wars"
+        },
+        {
+          "id": "b",
+          "text": "a global Human Rights Movement"
+        },
+        {
+          "id": "c",
+          "text": "a non-governmental voluntary organization to help very poor people"
+        },
+        {
+          "id": "d",
+          "text": "an inter-governmental agency to cater to medical emergencies in war-ravaged regions"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q54",
+      "type": "single-choice",
+      "question": "With reference to the art and archaeological history of India, which one among the following was made earliest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lingaraja Temple at Bhubaneswar"
+        },
+        {
+          "id": "b",
+          "text": "Rock-cut Elephant at Dhauli"
+        },
+        {
+          "id": "c",
+          "text": "Rock-cut Monuments at Mahabalipuram"
+        },
+        {
+          "id": "d",
+          "text": "Varaha Image at Udayagiri"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q55",
+      "type": "single-choice",
+      "question": "With reference to Indian history, which of the following is/are the essential element/elements of the feudal system?\n\n1. A very strong centralized political authority and a very weak provincial or local political authority.\n2. Emergence of administrative structure based on control and possession of land.\n3. Creation of lord-vassal relationship between the feudal lord and his overlord.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q56",
+      "type": "single-choice",
+      "question": "‘BioCarbon Fund Initiative for Sustainable Forest Landscapes’ is managed by the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Asian Development Bank"
+        },
+        {
+          "id": "b",
+          "text": "International Monetary Fund"
+        },
+        {
+          "id": "c",
+          "text": "United Nations Environment Programme"
+        },
+        {
+          "id": "d",
+          "text": "World Bank"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q57",
+      "type": "single-choice",
+      "question": "India is a member of which among the following?\n\n1. Asia-Pacific Economic Cooperation\n2. Association of South-East Asian Nations\n3. East Asia Summit\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "India is a member of none of them"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q58",
+      "type": "single-choice",
+      "question": "In India, the steel production industry requires the import of",
+      "options": [
+        {
+          "id": "a",
+          "text": "saltpetre"
+        },
+        {
+          "id": "b",
+          "text": "rock phosphate"
+        },
+        {
+          "id": "c",
+          "text": "coking coal"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q59",
+      "type": "single-choice",
+      "question": "The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to",
+      "options": [
+        {
+          "id": "a",
+          "text": "protect the interests of Scheduled Tribes"
+        },
+        {
+          "id": "b",
+          "text": "determine the boundaries between States"
+        },
+        {
+          "id": "c",
+          "text": "determine the powers, authority and responsibilities of Panchayats"
+        },
+        {
+          "id": "d",
+          "text": "protect the interests of all the border States"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q60",
+      "type": "single-choice",
+      "question": "With reference to the Union Government, consider the following statements\n1. The Department of Revenue is responsible for the preparation of Union Budget that is presented to the Parliament.\n2. No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India.\n3. All the disbursements made from Public Account also need the authorization from the Parliament of India.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q61",
+      "type": "single-choice",
+      "question": "Who/Which of the following is the custodian of the Constitution of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The President of India"
+        },
+        {
+          "id": "b",
+          "text": "The Prime Minister of India"
+        },
+        {
+          "id": "c",
+          "text": "The Lok Sabha Secretariat"
+        },
+        {
+          "id": "d",
+          "text": "The Supreme Court of India"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q62",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Accelerated Irrigation Benefits Programme was launched during 1996-97 to provide loan assistance to poor farmers.\n2. The Command Area Development Programme was launched in 1974-75 for the development of water-use efficiency.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q63",
+      "type": "single-choice",
+      "question": "The Genetic Engineering Appraisal Committee is constituted under the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Food Safety and Standards Act, 2006"
+        },
+        {
+          "id": "b",
+          "text": "Geographical Indications of Goods (Registration and Protection) Act, 1999"
+        },
+        {
+          "id": "c",
+          "text": "Environment (Protection) Act, 1986"
+        },
+        {
+          "id": "d",
+          "text": "Wildlife (Protection) Act, 1972"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q64",
+      "type": "single-choice",
+      "question": "In the Mekong-Ganga Cooperation, an initiative of six countries, which of the following is/are not a participant/participants?\n\n1. Bangladesh\n2. Cambodia\n3. China\n4. Myanmar\n5. Thailand\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q65",
+      "type": "single-choice",
+      "question": "‘Basel III Accord’ or simply ‘Basel III’, often seen in the news, seeks to",
+      "options": [
+        {
+          "id": "a",
+          "text": "develop national strategies for the conservation and sustainable use of biological diversity"
+        },
+        {
+          "id": "b",
+          "text": "improve banking sector’s ability to deal with financial and economic stress and improve risk management"
+        },
+        {
+          "id": "c",
+          "text": "reduce the greenhouse gas emissions but places a heavier burden on developed countries"
+        },
+        {
+          "id": "d",
+          "text": "transfer technology from developed countries to poor countries to enable them to replace the use of chlorofluorocarbons in refrigeration with harmless chemicals"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q66",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. The winds which blow between 30° N and 60° S latitudes through-out the year are known as westerlies\n2. The moist air masses that cause winter rains in North-Western region of India are part of westerlies.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q67",
+      "type": "single-choice",
+      "question": "With reference to ‘Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)’, consider the following statements:\n1. It was established very recently in response to incidents of piracy and accidents of oil spills\n2. It is an alliance meant for maritime security only.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q68",
+      "type": "single-choice",
+      "question": "Which one of the following movements has contributed to a split in the Indian National Congress resulting in the emergence of ‘moderates’ and ‘extremists’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swadeshi Movement"
+        },
+        {
+          "id": "b",
+          "text": "Quit India Movement"
+        },
+        {
+          "id": "c",
+          "text": "Non-Cooperation Movement"
+        },
+        {
+          "id": "d",
+          "text": "Civil Disobedience Movement"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q69",
+      "type": "single-choice",
+      "question": "In a particular region in India, the local people train the roots of living trees into robust bridges across the streams. As the time passes, these bridges become stronger. These unique ‘living root bridges’ are found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meghalaya"
+        },
+        {
+          "id": "b",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Jharkhand"
+        },
+        {
+          "id": "d",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q70",
+      "type": "single-choice",
+      "question": "Tides occur in the oceans and seas due to which among the following?\n1. Gravitational force of the Sun\n2. Gravitational force of the Moon\n3. Centrifugal force of the Earth\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q71",
+      "type": "single-choice",
+      "question": "In which of the following activities are Indian Remote Sensing (IRS) satellites used?\n\n1. Assessment of crop productivity\n2. Locating groundwater resources\n3. Mineral exploration\n4. Telecommunications\n5. Traffic studies\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "4 and 5 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q72",
+      "type": "single-choice",
+      "question": "Consider the following States:\n\n1. Arunachal Pradesh\n2. Himachal Pradesh\n3. Mizoram\n\nIn which of the above States do ‘Tropical Wet Evergreen Forests’ occur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q73",
+      "type": "single-choice",
+      "question": "The term ‘IndARC’, sometimes seen in the news, is the name of",
+      "options": [
+        {
+          "id": "a",
+          "text": "an indigenously developed radar system inducted into Indian Defence"
+        },
+        {
+          "id": "b",
+          "text": "India’s satellite to provide services to the countries of Indian Ocean Rim"
+        },
+        {
+          "id": "c",
+          "text": "a scientific establishment set up by India in Antarctic region"
+        },
+        {
+          "id": "d",
+          "text": "India’s underwater observatory to scientifically study the Arctic region"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q74",
+      "type": "single-choice",
+      "question": "With reference to ‘Forest Carbon Partnership Facility’, which of the following statements is/are correct?\n1. It is a global partnership of governments\n2. businesses\n3. civil society and indigenous peoples. It provides financial aid to universities\n4. individual scientists and institutions involved in scientific forestry research to develop eco-friendly and climate adaptation technologies for sustainable forest management. It assists the countries in their ‘REDD+ (Reducing Emissions from Deforestation and Forest Degradation+)’ efforts by providing them with financial and technical assistance\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q75",
+      "type": "single-choice",
+      "question": "Which one of the following was given classical language status recently?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Odia"
+        },
+        {
+          "id": "b",
+          "text": "Konkani"
+        },
+        {
+          "id": "c",
+          "text": "Bhojpuri"
+        },
+        {
+          "id": "d",
+          "text": "Assamese"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q76",
+      "type": "single-choice",
+      "question": "With reference to an organization known as ‘BirdLife International’, which of the following statements is/are correct?\n1. It is a Global Partnership of Conservation Organizations\n2. The concept ‘biodiversity hotspots’ originated from this organization\n3. It identifies the sites known/referred to as ‘Important Bird and Biodiversity Areas’\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q77",
+      "type": "single-choice",
+      "question": "Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Syria"
+        },
+        {
+          "id": "b",
+          "text": "Jordan"
+        },
+        {
+          "id": "c",
+          "text": "Lebanon"
+        },
+        {
+          "id": "d",
+          "text": "Israel"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q78",
+      "type": "single-choice",
+      "question": "In India, in which one of the following types of forests is teak a dominant tree species?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tropical moist deciduous forest"
+        },
+        {
+          "id": "b",
+          "text": "Tropical rain forest"
+        },
+        {
+          "id": "c",
+          "text": "Tropical thorn scrub forest"
+        },
+        {
+          "id": "d",
+          "text": "Temperate forest with grasslands"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q79",
+      "type": "single-choice",
+      "question": "‘Beijing Declaration and Platform for Action’, often seen in the news, is",
+      "options": [
+        {
+          "id": "a",
+          "text": "a strategy to tackle, the regional terrorism, an outcome of a meeting of the Shanghai Cooperation Organization"
+        },
+        {
+          "id": "b",
+          "text": "a plan of action for sustainable economic growth in the Asia-Pacific Region, an outcome of the deliberations of the Asia-Pacific Economic Forum"
+        },
+        {
+          "id": "c",
+          "text": "an agenda for women’s empowerment, an outcome of a World Conference convened by the United Nations"
+        },
+        {
+          "id": "d",
+          "text": "a strategy to combat wildlife trafficking, a declaration of the East Asia Summit"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q80",
+      "type": "single-choice",
+      "question": "“Each day is more or less the same, the morning is clear and bright with a sea breeze; as the Sun climbs high in the sky, heat mounts up, dark clouds form, then rain comes with thunder and lightning. But rain is soon over.”\n\nWhich of the following regions is described in the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Savannah"
+        },
+        {
+          "id": "b",
+          "text": "Equatorial"
+        },
+        {
+          "id": "c",
+          "text": "Monsoon"
+        },
+        {
+          "id": "d",
+          "text": "Mediterranean"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q81",
+      "type": "single-choice",
+      "question": "With reference to Indian economy, consider the following statements\n1. The rate of growth of Real Gross Domestic Product has steadily increased in the last decade.\n2. The Gross Domestic Product at market prices (in rupees) has steadily increased in the last decade.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q82",
+      "type": "single-choice",
+      "question": "Consider the following statements\n1. The Legislative Council of a State in India can be larger in size than half of the Legislative Assembly of that particular State.\n2. The Governor of a State nominates the Chairman of Legislative Council of that particular State.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q83",
+      "type": "single-choice",
+      "question": "“To uphold and protect the Sovereignty, Unity and Integrity of India” is a provision made in the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Preamble of the Constitution"
+        },
+        {
+          "id": "b",
+          "text": "Directive Principles of State Policy"
+        },
+        {
+          "id": "c",
+          "text": "Fundamental Rights"
+        },
+        {
+          "id": "d",
+          "text": "Fundamental Duties"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q84",
+      "type": "single-choice",
+      "question": "Which one of the following is the best description of the term ‘ecosystem’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A community of organisms interacting with one another"
+        },
+        {
+          "id": "b",
+          "text": "That part of the Earth which is inhabited by living organisms"
+        },
+        {
+          "id": "c",
+          "text": "A community of organisms together with the environment in which they live"
+        },
+        {
+          "id": "d",
+          "text": "The flora and fauna of a geographical area"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q85",
+      "type": "single-choice",
+      "question": "The fundamental object of Panchayati Raj system is to ensure which among the following?\n\n1. People’s participation in development\n2. Political accountability\n3. Democratic decentralization\n4. Financial mobilization\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q86",
+      "type": "single-choice",
+      "question": "With reference to Indian economy, consider the following:\n\n1. Bank rate\n2. Open market operations\n3. Public debt\n4. Public revenue\n\nWhich of the above is/are component/components of Monetary Policy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q87",
+      "type": "single-choice",
+      "question": "With reference to inflation in India, which of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Controlling the inflation in India is the responsibility of the Government of India only"
+        },
+        {
+          "id": "b",
+          "text": "The Reserve Bank of India has no role in controlling the inflation"
+        },
+        {
+          "id": "c",
+          "text": "Decreased money circulation helps in controlling the inflation"
+        },
+        {
+          "id": "d",
+          "text": "Increased money circulation helps in controlling the inflation"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q88",
+      "type": "single-choice",
+      "question": "Consider the following countries:\n\n1. China\n2. France\n3. India\n4. Israel\n5. Pakistan\n\nWhich among the above are Nuclear Weapons States as recognized by the Treaty on the Non-Proliferation of Nuclear Weapons, commonly known as Nuclear Non-Proliferation Treaty (NPT)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 3, 4 and 5 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 4 and 5 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q89",
+      "type": "single-choice",
+      "question": "The ideal of ‘Welfare State’ in the Indian Constitution is enshrined in its",
+      "options": [
+        {
+          "id": "a",
+          "text": "Preamble"
+        },
+        {
+          "id": "b",
+          "text": "Directive Principles of State Policy"
+        },
+        {
+          "id": "c",
+          "text": "Fundamental Rights"
+        },
+        {
+          "id": "d",
+          "text": "Seventh Schedule"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q90",
+      "type": "single-choice",
+      "question": "The Substitution of steel for wooden ploughs in agricultural production is an example of",
+      "options": [
+        {
+          "id": "a",
+          "text": "labour-augmenting technological progress"
+        },
+        {
+          "id": "b",
+          "text": "capital-augmenting technological progress"
+        },
+        {
+          "id": "c",
+          "text": "capital-reducing technological progress"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q91",
+      "type": "single-choice",
+      "question": "There is a Parliamentary System of Government in India because the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lok Sabha is elected directly by the people"
+        },
+        {
+          "id": "b",
+          "text": "Parliament can amend the Constitution"
+        },
+        {
+          "id": "c",
+          "text": "Rajya Sabha cannot be dissolved"
+        },
+        {
+          "id": "d",
+          "text": "Council of Ministers is responsible to the Lok Sabha"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q92",
+      "type": "single-choice",
+      "question": "HINI virus is sometimes mentioned in the news with reference to which one of the following diseases?",
+      "options": [
+        {
+          "id": "a",
+          "text": "AIDS"
+        },
+        {
+          "id": "b",
+          "text": "Bird flu"
+        },
+        {
+          "id": "c",
+          "text": "Dengue"
+        },
+        {
+          "id": "d",
+          "text": "Swine flu"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q93",
+      "type": "single-choice",
+      "question": "With reference to bio-toilets used by the Indian Railways, consider the following statements\n1. The decomposition of human waste in the bio-toilets is initiated by a fungal inoculums.\n2. Ammonia and water vapour are the only end products in this decomposition which are released into the atmosphere.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q94",
+      "type": "single-choice",
+      "question": "The problem of international liquidity is related to the non-availability of",
+      "options": [
+        {
+          "id": "a",
+          "text": "goods and services"
+        },
+        {
+          "id": "b",
+          "text": "gold and silver"
+        },
+        {
+          "id": "c",
+          "text": "dollars and other hard currencies"
+        },
+        {
+          "id": "d",
+          "text": "exportable surplus"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q95",
+      "type": "single-choice",
+      "question": "With reference to 'fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity, consider the following statements:\n\n1. If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by-products.\n2. Fuel cells can be used for powering buildings and not for small devices like lap computers.\n3. Fuel cells produce electricity in the form of Alternating Current (AC).\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q96",
+      "type": "single-choice",
+      "question": "Kalamkari painting refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "a hand-painted cotton textile in South India"
+        },
+        {
+          "id": "b",
+          "text": "a handmade drawing on bamboo handicrafts in North-East India"
+        },
+        {
+          "id": "c",
+          "text": "a block-painted woollen cloth in Western Himalayan region of India"
+        },
+        {
+          "id": "d",
+          "text": "a hand-painted decorative silk cloth in North-Western India"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q97",
+      "type": "single-choice",
+      "question": "Which one of the following best describes the main objective of ‘Seed Village Concept’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Encouraging the farmers to use their own farm seeds and discouraging them to buy the seeds from others"
+        },
+        {
+          "id": "b",
+          "text": "Involving the farmers for training in quality seed production and thereby to make available quality seeds to others at appropriate time and affordable cost"
+        },
+        {
+          "id": "c",
+          "text": "Earmarking some villages exclusively for the production of certified seeds"
+        },
+        {
+          "id": "d",
+          "text": "Identifying the entrepreneurs in villages and providing them technology and finance to set up seed companies"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q98",
+      "type": "single-choice",
+      "question": "There has been a persistent deficit budget year after year. Which of the following actions can be taken by the government to reduce the deficit?\n\n1. Reducing revenue expenditure\n2. Introducing new welfare schemes\n3. Rationalizing subsidies\n4. Reducing import duty\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q99",
+      "type": "single-choice",
+      "question": "Which of the following has/have been accorded ‘Geographical Indication’ status?\n\n1. Banaras Brocades and Sarees\n2. Rajasthani Daal-Bati-Churma\n3. Tirupathi Laddu\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    },
+    {
+      "id": "upsc_2015_gs1_q100",
+      "type": "single-choice",
+      "question": "With reference to the Indian Renewable Energy Development Agency Limited (IREDA), which of the following statements is/are correct?\n1. It is a Public Limited Government Company.\n2. It is a Non-Banking Financial Company.\n\nSelect the correct answer using the code given below",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims GS Paper I"
+      ]
+    }
+  ]
+}

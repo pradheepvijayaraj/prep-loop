@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2017,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2017_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_csat_q1",
+      "type": "single-choice",
+      "question": "What is the total number of digits printed, if a book containing 150 pages is to be numbered from 1 to 150?",
+      "options": [
+        {
+          "id": "a",
+          "text": "262"
+        },
+        {
+          "id": "b",
+          "text": "342"
+        },
+        {
+          "id": "c",
+          "text": "360"
+        },
+        {
+          "id": "d",
+          "text": "450"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q2",
+      "type": "single-choice",
+      "question": "How many numbers are there between 99 and 1000 such that the digit 8 occupies the unit's place?",
+      "options": [
+        {
+          "id": "a",
+          "text": "64"
+        },
+        {
+          "id": "b",
+          "text": "80"
+        },
+        {
+          "id": "c",
+          "text": "90"
+        },
+        {
+          "id": "d",
+          "text": "104"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q3",
+      "type": "single-choice",
+      "question": "“Rights are certain advantageous conditions of social well-being indispensable to the true development of the citizen.”\n\nIn the light of this statement, which one of the following is the correct understanding of rights?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rights aim at individual good only."
+        },
+        {
+          "id": "b",
+          "text": "Rights aim at social good only."
+        },
+        {
+          "id": "c",
+          "text": "Rights aim at both individual and social good."
+        },
+        {
+          "id": "d",
+          "text": "Rights aim at individual good devoid of social well-being."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q4",
+      "type": "single-choice",
+      "question": "In a city, 12% of households earn less than Rs. 30,000 per year, 6% households earn more than Rs. 2, 00,000 per year, 22% households earn more than Rs. 1, 00,000 per year, and 990 households earn between Rs. 30,000 and Rs. 1, 00,000 per year. How many households earn between Rs. 1, 00,000 and Rs. 2, 00,000 per year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "250"
+        },
+        {
+          "id": "b",
+          "text": "240"
+        },
+        {
+          "id": "c",
+          "text": "230"
+        },
+        {
+          "id": "d",
+          "text": "225"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q5",
+      "type": "single-choice",
+      "question": "Consider the following:\n\n1. A + B means A is the son of B.\n2. A – B means A is the wife of B.\n\nWhat does the expression $P + R – Q$ mean?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q is the son of P."
+        },
+        {
+          "id": "b",
+          "text": "Q is the wife of P."
+        },
+        {
+          "id": "c",
+          "text": "Q is the father of P."
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q6",
+      "type": "single-choice",
+      "question": "A, B, C, D, E, F, G, and H are standing in a row facing North.\n\n1. B is not the neighbor of G.\n2. F is to the immediate right of G and the neighbor of E.\n3. G is not at the extreme end.\n4. A is sixth to the left of E.\n5. H is sixth to the right of C.\n\nWhich one of the following is correct in respect of the above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C is to the immediate left of A."
+        },
+        {
+          "id": "b",
+          "text": "D is the immediate neighbor of B and F."
+        },
+        {
+          "id": "c",
+          "text": "G is to the immediate right of D."
+        },
+        {
+          "id": "d",
+          "text": "A and E are at the extreme ends."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q7",
+      "type": "single-choice",
+      "question": "A freight train left Delhi for Mumbai at an average speed of 40 km/hr. Two hours later, an express train left Delhi for Mumbai, following the freight train on a parallel track at an average speed of 60 km/hr. How far from Delhi would the express train meet the freight train?",
+      "options": [
+        {
+          "id": "a",
+          "text": "480 km"
+        },
+        {
+          "id": "b",
+          "text": "260 km"
+        },
+        {
+          "id": "c",
+          "text": "240 km"
+        },
+        {
+          "id": "d",
+          "text": "120 km"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q8",
+      "type": "single-choice",
+      "question": "A bag contains 20 balls: 8 balls are green, 7 are white, and 5 are red. What is the minimum number of balls that must be picked up from the bag blindfolded (without replacing any of them) to be assured of picking at least one ball of each color?",
+      "options": [
+        {
+          "id": "a",
+          "text": "17"
+        },
+        {
+          "id": "b",
+          "text": "16"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "11"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q9",
+      "type": "single-choice",
+      "question": "Mean $ < $ Median $ < $ Mode, then the distribution is",
+      "options": [
+        {
+          "id": "a",
+          "text": "symmetric"
+        },
+        {
+          "id": "b",
+          "text": "skewed to the right"
+        },
+        {
+          "id": "c",
+          "text": "neither symmetric nor skewed"
+        },
+        {
+          "id": "d",
+          "text": "skewed to the left"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q10",
+      "type": "single-choice",
+      "question": "Gopal bought a cell phone and sold it to Ram at $10\\%$ profit. Then Ram wanted to sell it back to Gopal at $10\\%$ loss. What will be Gopal’s position if he agreed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neither loss nor gain"
+        },
+        {
+          "id": "b",
+          "text": "Loss $1\\%$"
+        },
+        {
+          "id": "c",
+          "text": "Gain $1\\%$"
+        },
+        {
+          "id": "d",
+          "text": "Gain $0.5\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q11",
+      "type": "single-choice",
+      "question": "The sum of income of A and B is more than that of C and D taken together. The sum of income of A and C is the same as that of B and D taken together. Moreover, A earns half as much as the sum of the income of B and D. Whose income is the highest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q12",
+      "type": "single-choice",
+      "question": "If second and fourth Saturdays and all the Sundays are taken as only holidays for an office, what would be the minimum number of possible working days of any month of any year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "23"
+        },
+        {
+          "id": "b",
+          "text": "22"
+        },
+        {
+          "id": "c",
+          "text": "21"
+        },
+        {
+          "id": "d",
+          "text": "20"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q13",
+      "type": "single-choice",
+      "question": "In a group of six women, there are four tennis players, four postgraduates in Sociology, one postgraduate in Commerce, and three bank employees. Vimala and Kamla are the bank employees while Amala and Komala are unemployed. Komala and Nirmala are among the tennis players. Amala, Kamla, Komala, and Nirmala are postgraduates in Sociology, of whom two are bank employees. If Shyamala is a postgraduate in Commerce, who among the following is both a tennis player and a bank employee?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amala"
+        },
+        {
+          "id": "b",
+          "text": "Komala"
+        },
+        {
+          "id": "c",
+          "text": "Nirmala"
+        },
+        {
+          "id": "d",
+          "text": "Shyamala"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q14",
+      "type": "single-choice",
+      "question": "In a school, there are five teachers A, B, C, D and E, A and B teach Hindi and English. C and B teach English and Geography. D and A teach Mathematics and Hindi. E and B teach History and French. Who teaches the maximum number of subjects?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "D"
+        },
+        {
+          "id": "d",
+          "text": "E"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q15",
+      "type": "single-choice",
+      "question": "If there is a policy that $1/3$rd of a population of a community has migrated every year from one place to some other place, what is the leftover population of that community after the sixth year, if there is no further growth in the population during this period?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$\\frac{16}{243}$rd part of the population."
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{32}{243}$rd part of the population."
+        },
+        {
+          "id": "c",
+          "text": "$\\frac{32}{729}$th part of the population."
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{64}{729}$th part of the population."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q16",
+      "type": "single-choice",
+      "question": "There are thirteen 2-digit consecutive odd numbers. If 39 is the mean of the first five such numbers, then what is the mean of all the thirteen numbers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "47"
+        },
+        {
+          "id": "b",
+          "text": "49"
+        },
+        {
+          "id": "c",
+          "text": "51"
+        },
+        {
+          "id": "d",
+          "text": "45"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q17",
+      "type": "single-choice",
+      "question": "Four tests — Physics, Chemistry, Mathematics and Biology are to be conducted on four consecutive days, not necessarily in the same order. The Physics test is held before the test which is conducted after Biology. Chemistry is conducted exactly after two tests are held. Which is the last test held?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Physics"
+        },
+        {
+          "id": "b",
+          "text": "Biology"
+        },
+        {
+          "id": "c",
+          "text": "Mathematics"
+        },
+        {
+          "id": "d",
+          "text": "Chemistry"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q18",
+      "type": "single-choice",
+      "question": "Examine the following statements:\n\n1. All colors are pleasant.\n2. Some colors are pleasant.\n3. No color is pleasant.\n4. Some colors are not pleasant.\n\nGiven that statement 4 is true, what can be definitely concluded?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 are true"
+        },
+        {
+          "id": "b",
+          "text": "3 is true"
+        },
+        {
+          "id": "c",
+          "text": "2 is false"
+        },
+        {
+          "id": "d",
+          "text": "1 is false"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q19",
+      "type": "single-choice",
+      "question": "There are certain 2-digit numbers. The difference between the number and the one obtained on reversing it is always 27. How many such maximum 2-digit numbers are there?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q20",
+      "type": "single-choice",
+      "question": "In a certain code, ‘256’ means ‘red colour chalk’, ‘589’ means ‘green colour flower’ and ‘254’ means ‘white colour chalk’. The digit in the code that indicates ‘white’ is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q21",
+      "type": "single-choice",
+      "question": "There is a milk sample with 50% water in it. If $\\frac{1}{3}$rd of this milk is added to an equal amount of pure milk, then water in the new mixture will fall down to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "$25\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$30\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$35\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$40\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q22",
+      "type": "single-choice",
+      "question": "Six boys A, B, C, D, E and F play a game of cards. Each has a pack of 10 cards. F borrows 2 cards from A and gives away 5 to C, who in turn gives 3 to B while B gives 6 to D who passes on 1 to E. Then the number of cards possessed by D and E is equal to the number of cards possessed by:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A, B and C"
+        },
+        {
+          "id": "b",
+          "text": "B, C and F"
+        },
+        {
+          "id": "c",
+          "text": "A, B and F"
+        },
+        {
+          "id": "d",
+          "text": "A, C and F"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q23",
+      "type": "single-choice",
+      "question": "There are three pillars X, Y, and Z of different heights. Three spiders A, B, and C start to climb on these pillars simultaneously. In one chance, A climbs on X by 6 cm but slips down 1 cm. B climbs on Y by 7 cm but slips down 3 cm. C climbs on Z by 6.5 cm but slips down 2 cm. If each of them requires 40 chances to reach the top of the pillars, what is the height of the shortest pillar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "161 cm"
+        },
+        {
+          "id": "b",
+          "text": "163 cm"
+        },
+        {
+          "id": "c",
+          "text": "182 cm"
+        },
+        {
+          "id": "d",
+          "text": "210 cm"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q24",
+      "type": "single-choice",
+      "question": "There are 4 horizontal and 4 vertical lines, parallel and equidistant to one another on a board. What is the maximum number of rectangles and squares that can be formed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "16"
+        },
+        {
+          "id": "b",
+          "text": "24"
+        },
+        {
+          "id": "c",
+          "text": "36"
+        },
+        {
+          "id": "d",
+          "text": "42"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q25",
+      "type": "single-choice",
+      "question": "Consider the following relationships among members of a family of six persons A, B, C, D, E, and F:\n\n1. The number of males equals that of females.\n2. A and E are sons of F.\n3. D is the mother of two, one boy and one girl.\n4. B is the son of A.\n5. There is only one married couple in the family at present.\n\nWhich one of the following inferences can be drawn from the above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A, B, and C are all females."
+        },
+        {
+          "id": "b",
+          "text": "A is the husband of D."
+        },
+        {
+          "id": "c",
+          "text": "E and F are children of D."
+        },
+        {
+          "id": "d",
+          "text": "$ $ is the daughter of F."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q26",
+      "type": "single-choice",
+      "question": "If 2 boys and 2 girls are to be arranged in a row so that the girls are not next to each other, how many possible arrangements are there?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "12"
+        },
+        {
+          "id": "d",
+          "text": "24"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q27",
+      "type": "single-choice",
+      "question": "The age of Mr. X last year was the square of a number and it would be the cube of a number next year. What is the least number of years he must wait for his age to become the cube of a number again?",
+      "options": [
+        {
+          "id": "a",
+          "text": "42"
+        },
+        {
+          "id": "b",
+          "text": "38"
+        },
+        {
+          "id": "c",
+          "text": "25"
+        },
+        {
+          "id": "d",
+          "text": "16"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q28",
+      "type": "single-choice",
+      "question": "Suppose the average weight of 9 persons is 50 kg. The average weight of the first 5 persons is 45 kg, whereas the average weight of the last 5 persons is 55 kg. Then the weight of the 5th person will be",
+      "options": [
+        {
+          "id": "a",
+          "text": "45 kg"
+        },
+        {
+          "id": "b",
+          "text": "47.5 kg"
+        },
+        {
+          "id": "c",
+          "text": "50 kg"
+        },
+        {
+          "id": "d",
+          "text": "52.5 kg"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q29",
+      "type": "single-choice",
+      "question": "15 students failed in a class of 52. After removing the names of failed students, a merit order list has been prepared in which the position of Ramesh is 22nd from the top. What is his position from the bottom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "18th"
+        },
+        {
+          "id": "b",
+          "text": "17th"
+        },
+        {
+          "id": "c",
+          "text": "16th"
+        },
+        {
+          "id": "d",
+          "text": "15th"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q30",
+      "type": "single-choice",
+      "question": "Two walls and a ceiling of a room meet at right angles at a point P. A fly is in the air 1 m from one wall, 8 m from the other wall, and 9 m from the point P. How many meters is the fly from the ceiling?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "12"
+        },
+        {
+          "id": "d",
+          "text": "15"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q31",
+      "type": "single-choice",
+      "question": "A 2-digit number is reversed. The larger of the two numbers is divided by the smaller one. What is the largest possible remainder?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9"
+        },
+        {
+          "id": "b",
+          "text": "27"
+        },
+        {
+          "id": "c",
+          "text": "36"
+        },
+        {
+          "id": "d",
+          "text": "45"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q32",
+      "type": "single-choice",
+      "question": "Consider the given statement and the two conclusions that follow:\n\nStatement: Morning walk is good for health.\n\nConclusions:\n1. All healthy people go for morning walk.\n2. Morning walk is essential for maintaining good health.\n\nWhat is/are the valid conclusion/conclusions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q33",
+      "type": "single-choice",
+      "question": "The outer surface of a 4 cm × 4 cm × 4 cm cube is painted completely in red. It is sliced parallel to the faces to yield sixty-four 1 cm × 1 cm × 1 cm small cubes. How many small cubes do not have painted faces?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8"
+        },
+        {
+          "id": "b",
+          "text": "16"
+        },
+        {
+          "id": "c",
+          "text": "24"
+        },
+        {
+          "id": "d",
+          "text": "36"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q34",
+      "type": "single-choice",
+      "question": "P = $(40\\%$ of A) + (65\\%$ of B)$ and Q = $(50\\%$ of A) + (50\\%$ of B)$, where A is greater than B.\n\nIn this context, which of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P is greater than Q."
+        },
+        {
+          "id": "b",
+          "text": "Q is greater than P."
+        },
+        {
+          "id": "c",
+          "text": "P is equal to Q."
+        },
+        {
+          "id": "d",
+          "text": "None of the above can be concluded with certainty."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q35",
+      "type": "single-choice",
+      "question": "A watch loses 2 minutes in every 24 hours while another watch gains 2 minutes in every 24 hours. At a particular instant, the two watches showed an identical time. Which of the following statements is correct if a 24-hour clock is followed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The two watches show the identical time again on completion of 30 days."
+        },
+        {
+          "id": "b",
+          "text": "The two watches show the identical time again on completion of 90 days."
+        },
+        {
+          "id": "c",
+          "text": "The two watches show the identical time again on completion of 120 days."
+        },
+        {
+          "id": "d",
+          "text": "None of the above statements is correct."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q36",
+      "type": "single-choice",
+      "question": "A clock strikes once at 1 o’clock, twice at 2 o’clock, and thrice at 3 o’clock, and so on. If it takes 12 seconds to strike at 5 o’clock, what is the time taken by it to strike at 10 o’clock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 seconds"
+        },
+        {
+          "id": "b",
+          "text": "24 seconds"
+        },
+        {
+          "id": "c",
+          "text": "28 seconds"
+        },
+        {
+          "id": "d",
+          "text": "30 seconds"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q37",
+      "type": "single-choice",
+      "question": "In a test, Randhir obtained more marks than the total marks obtained by Kunal and Debu. The total marks obtained by Kunal and Shankar are more than those of Randhir. Sonal obtained more marks than Shankar. Neha obtained more marks than Randhir. Who amongst them obtained the highest marks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Randhir"
+        },
+        {
+          "id": "b",
+          "text": "Neha"
+        },
+        {
+          "id": "c",
+          "text": "Sonal"
+        },
+        {
+          "id": "d",
+          "text": "Data are inadequate"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q38",
+      "type": "single-choice",
+      "question": "The monthly incomes of X and Y are in the ratio of $4 : 3$, and their monthly expenses are in the ratio of $3 : 2$. However, each saves Rs. 6,000 per month. What is their total monthly income?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 28,000"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 42,000"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 56,000"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 84,000"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q39",
+      "type": "single-choice",
+      "question": "Statement: Good voice is a natural gift but one has to keep practising to improve and excel well in the field of music.\n\nConclusions:\nI. Natural gifts need nurturing and care.\nII. Even though one’s voice is not good, one can keep practising.\n\nWhich one of the following is correct in respect of the above statement and conclusions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only conclusion I follows from the statement."
+        },
+        {
+          "id": "b",
+          "text": "Only conclusion II follows from the statement."
+        },
+        {
+          "id": "c",
+          "text": "Either conclusion I or conclusion II follows from the statement."
+        },
+        {
+          "id": "d",
+          "text": "Neither conclusion I nor conclusion II follows from the statement."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q40",
+      "type": "single-choice",
+      "question": "The average rainfall in a city for the first four days was recorded to be 0.40 inch. The rainfall on the last two days was in the ratio of $4 : 3$. The average of six days was 0.50 inch. What was the rainfall on the fifth day?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0.60 inch"
+        },
+        {
+          "id": "b",
+          "text": "0.70 inch"
+        },
+        {
+          "id": "c",
+          "text": "0.80 inch"
+        },
+        {
+          "id": "d",
+          "text": "0.90 inch"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q41",
+      "type": "single-choice",
+      "question": "Certain 3-digit numbers have the following characteristics:\n\n1. All the three digits are different.\n2. The number is divisible by 7.\n3. The number on reversing the digits is also divisible by 7.\n\nHow many such 3-digit numbers are there?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q42",
+      "type": "single-choice",
+      "question": "P works thrice as fast as Q, whereas P and Q together can work four times as fast as R. If P, Q, and R together work on a job, in what ratio should they share the earnings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$3 : 1 : 1$"
+        },
+        {
+          "id": "b",
+          "text": "$3 : 2 : 4$"
+        },
+        {
+          "id": "c",
+          "text": "$4 : 3 : 4$"
+        },
+        {
+          "id": "d",
+          "text": "$3 : 1 : 4$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q43",
+      "type": "single-choice",
+      "question": "The IMF has pointed out that the fast-growing economies of Asia face the risk of falling into the `middle-income trap’. It means that average incomes in these countries, which till now have been growing rapidly, will stop growing beyond a point—a point that is well short of incomes in the developed West. The IMF identifies a number of causes of the middle-income trap—none of which is surprising—from infrastructure to weak institutions, to less macroeconomic conditions. The overall cause, says the IMF, is the growth of productivity.\n\nWhich among the following is the most logical, rational and critical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Once a country reaches the middle-income stage, it runs the risk of falling productivity, which leads to stagnant incomes."
+        },
+        {
+          "id": "b",
+          "text": "Falling into the middle-income trap is a general characteristic of fast-growing economies."
+        },
+        {
+          "id": "c",
+          "text": "There is no hope at all for emerging Asian economies to sustain the growth momentum."
+        },
+        {
+          "id": "d",
+          "text": "As regards growth of productivity, the performance of Asian economies is not satisfactory."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q44",
+      "type": "single-choice",
+      "question": "There has been a significant trend worldwide towards regionalism in government, resulting in a widespread transfer of powers downwards towards regions and communities since the 1990s. This process, which involves the creation of new political entities and bodies at a sub-national level and an increase in their content and powers, is known as devolution. Devolution has been characterized as being made up of three factors—political legitimacy, decentralization of authority, and decentralization of resources. Political legitimacy here means a mass demand from below for the decentralization process, which is able to create a political force for it to take place. In many cases, decentralization is initiated by the upper tier of government without sufficient political mobilization for it at the grassroots level, and in such cases, the decentralization process often does not fulfill its objectives.\n\nWhich among the following is the most logical, rational, and critical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Emergence of powerful mass leaders is essential to create sub-national political entities and thus successful devolution decentralization."
+        },
+        {
+          "id": "b",
+          "text": "The upper tier of government should impose devolution and decentralization on the regional communities by law or otherwise."
+        },
+        {
+          "id": "c",
+          "text": "Devolution, to be successful, requires a democracy in which there is free expression of the will of the people at the lower level and their active participation at the grassroots level."
+        },
+        {
+          "id": "d",
+          "text": "For devolution to take place, a strong feeling of regionalism in the masses is essential."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q45",
+      "type": "single-choice",
+      "question": "Why do people prefer open defecation and not want toilets or, if they have them, only use them sometimes? Recent research has shown two critical elements: ideas of purity and pollution, and not wanting pits or septic tanks to fill because they have to be emptied. These are the issues that nobody wants to talk about, but if we want to eradicate the practice of open defecation, they have to be confronted and dealt with properly.\n\nWhich among the following is the most crucial message conveyed by the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The ideas of purity and pollution are so deep-rooted that they cannot be removed from the minds of the people."
+        },
+        {
+          "id": "b",
+          "text": "People have to perceive toilet use and pit-emptying as clean and not polluting."
+        },
+        {
+          "id": "c",
+          "text": "People cannot change their old habits."
+        },
+        {
+          "id": "d",
+          "text": "People have neither civic sense nor sense of privacy."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q46",
+      "type": "single-choice",
+      "question": "The greatest blessing that technological progress has in store for mankind is not, of course, an accumulation of material possessions. The amount of these that can be effectively enjoyed by one individual in one lifetime is not great. But there is not the same narrow limit to the possibilities of the enjoyment of leisure. The gift of leisure may be abused by people who have had no experience of making use of it. Yet the creative use of leisure by a minority in societies has been the mainspring of all human progress beyond the primitive level.\"\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. People always see the leisure time as a gift and use it for acquiring more material possessions.\n2. Use of leisure by some people to produce new and original things has been the chief source of human progress.\n\nWhich of these assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q47",
+      "type": "single-choice",
+      "question": "Climate change is likely to expose a large number of people to increasing environmental risks forcing them to migrate. The international community is yet to recognize this new category of migrants. There is no consensus on the definition and status of climate refugees owing to the distinct meaning the term refugees carry under international laws. There are still gaps in understanding how climate change will work as the root cause of migration. Even if there is recognition of climate refugees, who is going to provide protection? More emphasis has been given to international migration due to climate change. But there is a need to recognize the migration of such people within the countries also so that their problems can be addressed properly.\n\nWhich of the following is the most rational inference from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The world will not be able to cope with large-scale migration of climate refugees."
+        },
+        {
+          "id": "b",
+          "text": "We must find the ways and means to stop further climate change."
+        },
+        {
+          "id": "c",
+          "text": "Climate change will be the most important reason for the migration of people in the future."
+        },
+        {
+          "id": "d",
+          "text": "Relation between climate change and migration is not yet properly understood."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q48",
+      "type": "single-choice",
+      "question": "There is no harm in cultivating habits so long as they are not injurious. Indeed, most of us are little more than a bundle of habits. Take away our habits, and the residuum could not get on without them. They simplify the mechanism of life. They enable us to do a multitude of things automatically, which, if we had to give fresh and original thought to them each time, would make existence an impossible confusion.\n\nThe author suggests that habits:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tend to make our lives difficult."
+        },
+        {
+          "id": "b",
+          "text": "Add precision to our lives."
+        },
+        {
+          "id": "c",
+          "text": "Make it easier for us to live."
+        },
+        {
+          "id": "d",
+          "text": "Tend to mechanize our lives."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q49",
+      "type": "single-choice",
+      "question": "There is more than a modicum of truth in the assertion that “a working knowledge of ancient history is necessary to the intelligent interpretation of current events”. But the sage who uttered these words of wisdom might well have added something on the benefits of studying particularly the famous battles of history for the lessons they contain for those of us who lead or aspire to leadership. Such a study will reveal certain qualities and attributes which enabled the winners to win—and certain deficiencies which caused the losers to lose. And the student will see that the same pattern recurs consistently, again and again, throughout the centuries.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. A study of the famous battles of history would help us understand modern warfare.\n2. Studying history is essential for anyone who aspires to be a leader.\n\nWhich of these assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q50",
+      "type": "single-choice",
+      "question": "Many farmers use synthetic pesticides to kill infesting insects. The consumption of pesticides in some of the developed countries is touching 3000 grams/hectare. Unfortunately, there are reports that these compounds possess inherent toxicities that endanger the health of the farm operators, consumers, and the environment. Synthetic pesticides are generally persistent in the environment. Entering the food chain, they destroy microbial diversity and cause ecological imbalance. Their indiscriminate use has resulted in the development of resistance among insects to insecticides, upsetting the balance in nature and resurgence of treated populations. Natural pest control using botanical pesticides is safer to the user and the environment because they break down into harmless compounds within hours or days in the presence of sunlight. Plants with pesticidal properties have been in nature for millions of years without any ill or adverse effects on the ecosystem. They are easily decomposed by many microbes common in most soils. They help in the maintenance of biological diversity of predators and the reduction of environmental contamination and human health hazards. Botanical pesticides formulated from plants are biodegradable and their use in crop protection is a practical sustainable alternative.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. Synthetic pesticides should never be used in modern agriculture.\n2. One of the aims of sustainable agriculture is to ensure minimal ecological imbalance.\n3. Botanical pesticides are more effective as compared to synthetic pesticides.\n\nWhich of the assumptions given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q51",
+      "type": "single-choice",
+      "question": "Many farmers use synthetic pesticides to kill infesting insects. The consumption of pesticides in some of the developed countries is touching 3000 grams/hectare. Unfortunately, there are reports that these compounds possess inherent toxicities that endanger the health of the farm operators, consumers, and the environment. Synthetic pesticides are generally persistent in the environment. Entering the food chain, they destroy microbial diversity and cause ecological imbalance. Their indiscriminate use has resulted in the development of resistance among insects to insecticides, upsetting the balance in nature and resurgence of treated populations. Natural pest control using botanical pesticides is safer to the user and the environment because they break down into harmless compounds within hours or days in the presence of sunlight. Plants with pesticidal properties have been in nature for millions of years without any ill or adverse effects on the ecosystem. They are easily decomposed by many microbes common in most soils. They help in the maintenance of biological diversity of predators and the reduction of environmental contamination and human health hazards. Botanical pesticides formulated from plants are biodegradable and their use in crop protection is a practical sustainable alternative.\n\nWhich of the following statements is/are correct regarding biopesticides?\n\n1. They are not hazardous to human health.\n2. They are persistent in the environment.\n3. They are essential to maintain the biodiversity of any ecosystem.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q52",
+      "type": "single-choice",
+      "question": "Really I think that the poorest he that is in England has a life to live, as the greatest he, and therefore truly, I think it is clear that every man that is to live under a government ought first by his own consent to put himself under the government, and I do think that the poorest man in England is not at all bound in a strict sense to that government that he has not had a voice to put himself under.\n\nThe above statement argues for",
+      "options": [
+        {
+          "id": "a",
+          "text": "distribution of wealth equally to all."
+        },
+        {
+          "id": "b",
+          "text": "rule according to the consent of the governed."
+        },
+        {
+          "id": "c",
+          "text": "rule of the poor."
+        },
+        {
+          "id": "d",
+          "text": "expropriation of the rich."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q53",
+      "type": "single-choice",
+      "question": "The very first lesson that should be taught to us when we are old enough to understand it, is that complete freedom from the obligation to work is unnatural, and ought to be illegal, as we can escape our share of the burden of work only by throwing it on someone else’s shoulders. Nature ordains that the human race shall perish of famine if it stops working. We cannot escape from this tyranny. The question we have to settle is how much leisure we can afford to allow ourselves.\n\nThe main idea of the passage is that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is essential for human beings to work."
+        },
+        {
+          "id": "b",
+          "text": "There should be a balance between work and leisure."
+        },
+        {
+          "id": "c",
+          "text": "Working is a tyranny which we have to face."
+        },
+        {
+          "id": "d",
+          "text": "Human’s understanding of the nature of work is essential."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q54",
+      "type": "single-choice",
+      "question": "In the last two decades, the world’s gross domestic product (GDP) has increased by 50 percent, whereas inclusive wealth has increased by a mere 6 percent. In recent decades, GDP-driven economic performance has only harmed inclusive wealth like human capital; and natural capital like forests, land and water. While the world’s human capital, which stands at 57 percent of total inclusive wealth, grew by only 8 percent, the natural capital, which is 23 percent of total inclusive wealth, declined by 30 percent worldwide in the last two decades.\n\nWhich of the following is the most crucial inference from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "More emphasis should be laid on the development of natural capital."
+        },
+        {
+          "id": "b",
+          "text": "The growth driven by GDP only is neither desirable nor sustainable."
+        },
+        {
+          "id": "c",
+          "text": "The economic performance of the countries of the world is not satisfactory."
+        },
+        {
+          "id": "d",
+          "text": "The world needs more human capital under the present circumstances."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q55",
+      "type": "single-choice",
+      "question": "Eight railway stations A, B, C, D, E, F, G, and H are connected either by two-way passages or one-way passages. One-way passages are from C to A, E to G, B to F, D to H, G to C, E to C, and H to G. Two-way passages are between A and E, G and B, F and D, and E and D.\n\nIn how many different ways can a train travel from F to A without passing through any station more than once?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q56",
+      "type": "single-choice",
+      "question": "Eight railway stations A, B, C, D, E, F, G, and H are connected either by two-way passages or one-way passages. One-way passages are from C to A, E to G, B to F, D to H, G to C, E to C, and H to G. Two-way passages are between A and E, G and B, F and D, and E and D.\n\nIf the route between G and C is closed, which one of the following stations need not be passed through while travelling from H to C?",
+      "options": [
+        {
+          "id": "a",
+          "text": "E"
+        },
+        {
+          "id": "b",
+          "text": "D"
+        },
+        {
+          "id": "c",
+          "text": "A"
+        },
+        {
+          "id": "d",
+          "text": "B"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q57",
+      "type": "single-choice",
+      "question": "Eight railway stations A, B, C, D, E, F, G, and H are connected either by two-way passages or one-way passages. One-way passages are from C to A, E to G, B to F, D to H, G to C, E to C, and H to G. Two-way passages are between A and E, G and B, F and D, and E and D.\n\nWhile travelling from C to H, which one of the following stations must be passed through?",
+      "options": [
+        {
+          "id": "a",
+          "text": "G"
+        },
+        {
+          "id": "b",
+          "text": "E"
+        },
+        {
+          "id": "c",
+          "text": "B"
+        },
+        {
+          "id": "d",
+          "text": "F"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q58",
+      "type": "single-choice",
+      "question": "In a free country, the man who reaches the position of leader is usually one of outstanding character and ability. Moreover, it is usually possible to foresee that he will reach such a position, since early in life one can see his qualities of character. But this is not always true in the case of a dictator; often he reaches his position of power through chance, very often through the unhappy state of his country.\n\nThe passage seems to suggest that",
+      "options": [
+        {
+          "id": "a",
+          "text": "a leader foresees his future position."
+        },
+        {
+          "id": "b",
+          "text": "a leader is chosen only by a free country."
+        },
+        {
+          "id": "c",
+          "text": "a leader must see that his country is free from despair."
+        },
+        {
+          "id": "d",
+          "text": "despair in a country sometimes leads to dictatorship."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q59",
+      "type": "single-choice",
+      "question": "Productive jobs are vital for growth, and a good job is the best form of inclusion. More than half of our population depends on agriculture, but the experience of other countries suggests that the number of people dependent on agriculture will have to shrink if per capita incomes in agriculture are to go up substantially. While industry is creating jobs, too many such jobs are low-productivity non-contractual jobs in the unorganized sector, offering low incomes, little protection, and no benefits. Service jobs are relatively of high productivity, but employment growth in services has been slow in recent years.\n\nWhich among the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We must create conditions for the faster growth of highly productive service jobs to ensure employment growth and inclusion."
+        },
+        {
+          "id": "b",
+          "text": "We must shift the farm workers to the highly productive manufacturing and service sectors to ensure the economic growth and inclusion."
+        },
+        {
+          "id": "c",
+          "text": "We must create conditions for the faster growth of productive jobs outside of agriculture even while improving the productivity of agriculture."
+        },
+        {
+          "id": "d",
+          "text": "We must emphasize the cultivation of high-yielding hybrid varieties and genetically modified crops to increase the per capita income in agriculture."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q60",
+      "type": "single-choice",
+      "question": "No supporters of ‘party X’, who knew Z and supported his campaign strategy, agreed for the alliance with ‘party Y’; but some of them had friends in ‘party Y’.\n\nWith reference to the above information, consider the following statements:\n\n1. Some supporters of ‘party X’ knew Z.\n2. Some supporters of ‘party X’, who opposed Z’s campaign strategy, knew Z.\n3. No supporters of ‘party X’ supported Z’s campaign strategy.\n\nWhich of the statements given above is/are **not** correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q61",
+      "type": "single-choice",
+      "question": "No supporters of ‘party X’, who knew Z and supported his campaign strategy, agreed for the alliance with ‘party Y’; but some of them had friends in ‘party Y’.\n\nWith reference to the above information, which one among the following statements must be true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Some supporters of ‘party Y’ did not agree for the alliance with ‘party X’."
+        },
+        {
+          "id": "b",
+          "text": "There is at least one supporter of ‘party Y’ who knew some supporters of ‘party X’ as a friend."
+        },
+        {
+          "id": "c",
+          "text": "No supporters of ‘party X’ supported Z’s campaign strategy."
+        },
+        {
+          "id": "d",
+          "text": "No supporters of ‘party X’ knew Z."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q62",
+      "type": "single-choice",
+      "question": "The States are like pearls and the Centre is the thread which turns them into a necklace; if the thread snaps. the pearls are scattered.\n\nWhich one of the following views corroborates the above statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A strong Centre and strong States make the federation strong."
+        },
+        {
+          "id": "b",
+          "text": "A strong Centre is a binding force for national integrity."
+        },
+        {
+          "id": "c",
+          "text": "A strong Centre is a hindrance to State autonomy."
+        },
+        {
+          "id": "d",
+          "text": "State autonomy is a prerequisite for a federation."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q63",
+      "type": "single-choice",
+      "question": "A successful democracy depends upon widespread interest and participation in politics, in which voting is an essential part. To deliberately refrain from taking such an interest, and from voting, is a kind of implied anarchy; it is to refuse one’s political responsibility while enjoying the benefits of a free political society.\n\nThis passage relates to",
+      "options": [
+        {
+          "id": "a",
+          "text": "duty to vote."
+        },
+        {
+          "id": "b",
+          "text": "right to vote."
+        },
+        {
+          "id": "c",
+          "text": "freedom to vote."
+        },
+        {
+          "id": "d",
+          "text": "right to participate in politics."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q64",
+      "type": "single-choice",
+      "question": "We live in digital times. The digital is not just something we use strategically and specifically to do a few tasks. Our very perception of who we are, how we connect to the world around us, and the ways in which we define our domains of life, labour, and language are hugely structured by the digital technologies. The digital is everywhere and, like air, invisible. We live within digital systems, we live with intimate gadgets, we interact through digital media, and the very presence and imagination of the digital have dramatically restructured our lives. The digital, far from being a tool, is a condition and context that defines the shapes and boundaries of our understanding of the self, the society, and the structure of governance.\n\nWhich among the following is the most logical and essential message conveyed by the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All problems of governance can be solved by using digital technologies."
+        },
+        {
+          "id": "b",
+          "text": "Speaking of digital technologies is speaking of our life and living."
+        },
+        {
+          "id": "c",
+          "text": "Our creativity and imagination cannot be expressed without digital media."
+        },
+        {
+          "id": "d",
+          "text": "Use of digital systems is imperative for the existence of mankind in the future."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q65",
+      "type": "single-choice",
+      "question": "By 2020, when the global economy is expected to run short of 56 million young people, India, with its youth surplus of 47 million, could fill the gap. It is in this context that labour reforms are often cited as the way to unlock double-digit growth in India. In 2014, India’s labour force was estimated to be about 40 percent of the population, but 93 percent of this force was in the unorganized sector. Over the last decade, the compound annual growth rate (CAGR) of employment has slowed to 0.5 percent, with about 14 million jobs created during the last year when the labour force increased by about 15 million.\n\nWhich of the following is the most rational inference from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India must control its population growth so as to reduce its unemployment rate."
+        },
+        {
+          "id": "b",
+          "text": "Labour reforms are required in India to make optimum use of its vast labour force productively."
+        },
+        {
+          "id": "c",
+          "text": "India is poised to achieve the double-digit growth very soon."
+        },
+        {
+          "id": "d",
+          "text": "India is capable of supplying the skilled young people to other countries."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q66",
+      "type": "single-choice",
+      "question": "What climate change will undeniably do is cause or amplify events that hasten the reduction of resources. Competition over these diminishing resources would ensue in the form of political or even violent conflict. Resource-based conflicts have rarely been overt and are thus difficult to isolate. Instead, they take on veneers that appear more politically palatable. Conflicts over resources like water are often cloaked in the guise of identity or ideology.\n\nWhat does the above passage imply?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Resource-based conflicts are always politically motivated."
+        },
+        {
+          "id": "b",
+          "text": "There are no political solutions to resolve environmental and resource-based conflicts."
+        },
+        {
+          "id": "c",
+          "text": "Environmental issues contribute to resource stresses and political conflict."
+        },
+        {
+          "id": "d",
+          "text": "Political conflict based on identity or ideology cannot be resolved."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q67",
+      "type": "single-choice",
+      "question": "We have hard work ahead. There is no resting for any of us till we redeem our pledge in full, till we make all the people of India what destiny intends them to be. We are citizens of a great country, on the verge of bold advance, and we have to live up to that high standard. All of us, to whatever religion we may belong, are equally the children of India with equal rights, privileges and obligations. We cannot encourage communalism or narrow-mindedness, for no nation can be great whose people are narrow in thought or action.\n\nThe challenge the author of the above passage throws to the public is to achieve",
+      "options": [
+        {
+          "id": "a",
+          "text": "a high standard of living, progress, and privileges."
+        },
+        {
+          "id": "b",
+          "text": "equal privileges, fulfilment of destiny, and political tolerance."
+        },
+        {
+          "id": "c",
+          "text": "spirit of adventure and economic parity."
+        },
+        {
+          "id": "d",
+          "text": "hard work, brotherhood, and national unity."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q68",
+      "type": "single-choice",
+      "question": "An air quality index (AQI) is a way to combine measurements of multiple air pollutants into a single number or rating. This index is ideally kept constantly updated and available in different places. The AQI is most useful when lots of pollution data are being gathered and when pollution levels are normally, but not always, low. In such cases, if pollution levels spike for a few days, the public can quickly take preventive action (like staying indoors) in response to an air quality warning. Unfortunately, that is not urban India. Pollution levels in many large Indian cities are so high that they remain well above any health or regulatory standard for a large part of the year. If our index stays in the Red/‘Dangerous’ region day after day, there is not much anyone can do, other than getting used to ignoring it.\n\nWhich among the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Our governments are not responsible enough to keep our cities pollution free."
+        },
+        {
+          "id": "b",
+          "text": "There is absolutely no need for air quality indices in our country."
+        },
+        {
+          "id": "c",
+          "text": "Air quality index is not helpful to the residents of many of our large cities."
+        },
+        {
+          "id": "d",
+          "text": "In every city, public awareness about pollution problems should increase."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q69",
+      "type": "single-choice",
+      "question": "The medium-term challenge for Indian manufacturing is to move from lower to higher tech sectors, from lower to higher value-added sectors, and from lower to higher productivity sectors. medium-tech industries are primarily capital-intensive and resource-processing; and high-tech industries are mainly capital and technology-intensive. In order to push the share of manufacturing in overall GDP to the projected 25 per cent, Indian manufacturing needs to capture the global market in sectors showing a rising trend in demand. These sectors are largely high-technology and capital-intensive.\n\nWhich among the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India’s GDP displays high value-added and high productivity levels in medium tech and resource processing industries."
+        },
+        {
+          "id": "b",
+          "text": "Promotion of capital and technology-intensive manufacturing is not possible in India."
+        },
+        {
+          "id": "c",
+          "text": "India should push up the public investments and encourage the private investments in research and development, technology upgradation, and skill development."
+        },
+        {
+          "id": "d",
+          "text": "India has already gained a great share in global markets in sectors showing a rising trend in demand."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q70",
+      "type": "single-choice",
+      "question": "Over the last decade, Indian agriculture has become more robust with record production of food grains and oilseeds. Increased procurement, consequently, has added huge stacks of food grains in the granaries. India is one of the world’s top producers of rice, wheat, milk, fruits and vegetables. India is still home to a quarter of all undernourished people in the world. On an average, almost half of the total expenditure of nearly half of the households is on food.\n\nWhich among the following is the most logical corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increasing the efficiency of the farm-to-fork value chain is necessary to reduce poverty and malnutrition."
+        },
+        {
+          "id": "b",
+          "text": "Increasing the agricultural productivity will automatically eliminate poverty and malnutrition in India."
+        },
+        {
+          "id": "c",
+          "text": "India’s agricultural productivity is already great, and it is not necessary to increase it further."
+        },
+        {
+          "id": "d",
+          "text": "Allocation of more funds for social welfare and poverty alleviation programs will ultimately eliminate poverty and malnutrition in India."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q71",
+      "type": "single-choice",
+      "question": "A landscape-scale approach to land use can encourage greater biodiversity outside protected areas. During hurricane ‘Mitch’ in 1998, farms using ecoagricultural practices suffered 58 percent, 70 percent and 99 percent less damage in Honduras, Nicaragua and Guatemala, respectively, than farms using conventional techniques. In Costa Rica, vegetative windbreaks and fencerows boosted farmers’ income from pasture and coffee while also increasing bird diversity. Bee pollination is more effective when agricultural fields are closer to natural or seminatural habitat, a finding that matters because 87 percent of the world’s 107 leading crops depend on animal pollinators. In Costa Rica, Nicaragua and Colombia silvopastoral systems that integrate trees with pastureland are improving the sustainability of cattle production, and diversifying and increasing farmers’ income.\n\nWhich among the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agricultural practices that enhance biodiversity can often increase farm output and reduce the vulnerability to disasters."
+        },
+        {
+          "id": "b",
+          "text": "All the countries of the world should be encouraged to replace ecoagriculture with conventional agriculture."
+        },
+        {
+          "id": "c",
+          "text": "Ecoagriculture should be permitted in protected areas without destroying the biodiversity there."
+        },
+        {
+          "id": "d",
+          "text": "The yield of food crops will be very high if ecoagricultural practices are adopted to cultivate them."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q72",
+      "type": "single-choice",
+      "question": "In a democratic State, where a high degree of political maturity of the people obtains, the conflict between the will of the sovereign law-making body and the organized will of the people seldom occurs.\n\nWhat does the above passage imply?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In a democracy, force is the main phenomenon in the actual exercise of sovereignty."
+        },
+        {
+          "id": "b",
+          "text": "In a mature democracy, force to a great extent is the main phenomenon in the actual exercise of sovereignty."
+        },
+        {
+          "id": "c",
+          "text": "In a mature democracy, use of force is irrelevant in the actual exercise of sovereignty."
+        },
+        {
+          "id": "d",
+          "text": "In a mature democracy, force is narrowed down to a marginal phenomenon in the actual exercise of sovereignty."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q73",
+      "type": "single-choice",
+      "question": "Disruption of traditional institutions, identifications, and loyalties is likely to lead to ambivalent situations. It is possible that some people may renew their identification with traditional groups whereas others align themselves with new groups and symbols emergent from processes of political development. In addition, political development tends to foster group awareness of a variety of class, tribe, region, clan, language, religion, occupation, and others.\n\nWhich one of the following is the best explanation of the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Political development is not a unilinear process for it involves both growth and decay."
+        },
+        {
+          "id": "b",
+          "text": "Traditional societies succeed in resisting positive aspects of political development."
+        },
+        {
+          "id": "c",
+          "text": "It is impossible for traditional societies to break away from lingering loyalties."
+        },
+        {
+          "id": "d",
+          "text": "Sustenance of traditional loyalties is conducive to political development."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q74",
+      "type": "single-choice",
+      "question": "A, B, C, D, E, F, and G are Lecturers from different cities — Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai, and Srinagar (not necessarily in the same order) who participated in a conference. Each one of them is specialized in a different subject, viz., Economics, Commerce, History, Sociology, Geography, Mathematics, and Statistics (not necessarily in the same order). Further:\n\n1. Lecturer from Kanpur is specialized in Geography.\n2. Lecturer D is from Shillong.\n3. Lecturer C from Delhi is specialized in Sociology.\n4. Lecturer B is specialized in neither History nor Mathematics.\n5. Lecturer A who is specialized in Economics does not belong to Hyderabad.\n6. Lecturer F who is specialized in Commerce belongs to Srinagar.\n7. Lecturer G who is specialized in Statistics belongs to Chennai.\n\nWho is specialized in Geography?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "D"
+        },
+        {
+          "id": "c",
+          "text": "E"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined as data are inadequate"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q75",
+      "type": "single-choice",
+      "question": "A, B, C, D, E, F, and G are Lecturers from different cities — Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai, and Srinagar (not necessarily in the same order) who participated in a conference. Each one of them is specialized in a different subject, viz., Economics, Commerce, History, Sociology, Geography, Mathematics, and Statistics (not necessarily in the same order). Further:\n\n1. Lecturer from Kanpur is specialized in Geography.\n2. Lecturer D is from Shillong.\n3. Lecturer C from Delhi is specialized in Sociology.\n4. Lecturer B is specialized in neither History nor Mathematics.\n5. Lecturer A who is specialized in Economics does not belong to Hyderabad.\n6. Lecturer F who is specialized in Commerce belongs to Srinagar.\n7. Lecturer G who is specialized in Statistics belongs to Chennai.\n\nWho of the following belongs to Hyderabad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "E"
+        },
+        {
+          "id": "c",
+          "text": "Neither B nor E"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined as data are inadequate"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q76",
+      "type": "single-choice",
+      "question": "A, B, C, D, E, F, and G are Lecturers from different cities — Hyderabad, Delhi, Shillong, Kanpur, Chennai, Mumbai, and Srinagar (not necessarily in the same order) who participated in a conference. Each one of them is specialized in a different subject, viz., Economics, Commerce, History, Sociology, Geography, Mathematics, and Statistics (not necessarily in the same order). Further:\n\n1. Lecturer from Kanpur is specialized in Geography.\n2. Lecturer D is from Shillong.\n3. Lecturer C from Delhi is specialized in Sociology.\n4. Lecturer B is specialized in neither History nor Mathematics.\n5. Lecturer A who is specialized in Economics does not belong to Hyderabad.\n6. Lecturer F who is specialized in Commerce belongs to Srinagar.\n7. Lecturer G who is specialized in Statistics belongs to Chennai.\n\nTo which city does the Lecturer specialized in Economics belong?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyderabad"
+        },
+        {
+          "id": "b",
+          "text": "Mumbai"
+        },
+        {
+          "id": "c",
+          "text": "Neither Hyderabad nor Mumbai"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined as data are inadequate"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q77",
+      "type": "single-choice",
+      "question": "“The individual, according to Rousseau, puts his person and all his power in common under the supreme direction of the General Will and in our corporate capacity we receive each member as an indivisible part of the whole.”\n\nIn the light of the above passage, the nature of General Will is best described as",
+      "options": [
+        {
+          "id": "a",
+          "text": "the sum total of the private wills of the individuals."
+        },
+        {
+          "id": "b",
+          "text": "What is articulated by the elected representatives of the individuals."
+        },
+        {
+          "id": "c",
+          "text": "the collective good as distinct from private wills of the individuals."
+        },
+        {
+          "id": "d",
+          "text": "the material interests of the community."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q78",
+      "type": "single-choice",
+      "question": "An innovative India will be inclusive as well as technologically advanced, improving the lives of all Indians. Innovation and R&D can mitigate increases in social inequality and relieve the pressures created by rapid urbanization. The growing divergence in productivity between agriculture and knowledge-intensive manufacturing and services threatens to increase income inequality. By encouraging India’s R&D labs and universities to focus on the needs of poor people and by improving the ability of informal firms to absorb knowledge, an innovation and research agenda can counter this effect. Inclusive innovation can lower the costs of goods and services and create income-earning opportunities for the poor people.\n\nWhich among the following is the most logical and rational assumption that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Innovation and R&D is the only way to reduce rural to urban migration."
+        },
+        {
+          "id": "b",
+          "text": "Every rapidly growing country needs to minimize the divergence between productivity in agriculture and other sectors."
+        },
+        {
+          "id": "c",
+          "text": "Inclusive innovation and R&D can help create an egalitarian society."
+        },
+        {
+          "id": "d",
+          "text": "Rapid urbanization takes place only when a country’s economic growth is rapid."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q79",
+      "type": "single-choice",
+      "question": "The man who is perpetually hesitating which of the two things he will do first, will do neither. The man who resolves, but suffers his resolution to be changed by the first counter-suggestion of a friend—who fluctuates from opinion to opinion and veers from plan to plan—can never accomplish anything. He will at best be stationary and probably retrograde in all. It is only the man who first consults wisely, then resolves firmly and then executes his purpose with inflexible perseverance, undismayed by those petty difficulties which daunt a weaker spirit—that can advance to eminence in any line.\n\nThe keynote that seems to be emerging from the passage is that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "We should first consult wisely and then resolve firmly."
+        },
+        {
+          "id": "b",
+          "text": "We should reject suggestions of friends and remain unchanged."
+        },
+        {
+          "id": "c",
+          "text": "We should always remain broad-minded."
+        },
+        {
+          "id": "d",
+          "text": "We should be resolute and achievement-oriented."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2017_csat_q80",
+      "type": "single-choice",
+      "question": "During the summer in the Arctic Ocean, sea ice has been melting earlier and faster, and the winter freeze has been coming later. In the last three decades, the extent of summer ice has declined by about 30 percent. The lengthening period of summer melt threatens to undermine the whole Arctic food web, atop which stand polar bears.\n\nWhich among the following is the most crucial message conveyed by the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Climate change has caused Arctic summer to be short but temperature to be high."
+        },
+        {
+          "id": "b",
+          "text": "Polar bears can be shifted to South Pole to ensure their survival."
+        },
+        {
+          "id": "c",
+          "text": "Without the presence of polar bears, the food chains in the Arctic region will disappear."
+        },
+        {
+          "id": "d",
+          "text": "Climate change poses a threat to the survival of polar bears."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

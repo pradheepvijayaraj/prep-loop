@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2013",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2013,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2013_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2013_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Find the inverse of the matrix $A=\\begin{pmatrix} 1 & 3 & 1 \\\\ 2 & -1 & 7 \\\\ 3 & 2 & -1 \\end{pmatrix}$ by using elementary row operations. Hence solve the system of linear equations $x+3y+z=10$, $2x-y+7z=21$, $3x+2y-z=4$.\n(b) Let $A$ be a square matrix and $A^{*}$ be its adjoint. Show that the eigenvalues of matrices $AA^{*}$ and $A^{*}A$ are real. Further show that $\\operatorname{trace}(AA^{*})=\\operatorname{trace}(A^{*}A)$.\n(c) Evaluate $\\displaystyle\\int_{0}^{1}\\left(2x\\sin\\frac{1}{x}-\\cos\\frac{1}{x}\\right)\\,dx$.\n(d) Find the equation of the plane which passes through the points $(0, 1,1)$ and $(2, 0,-1)$, and is parallel to the line joining the points $(-1, 1,-2)$ and $(3,-2, 4)$. Find also the distance between the line and the plane.\n(e) A sphere $S$ has points $(0, 1,0)$ and $(3,-5, 2)$ at opposite ends of a diameter. Find the equation of the sphere having the intersection of the sphere $S$ with the plane $5x-2y+4z+7=0$ as a great circle.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) (i) Let $P_{n}$ denote the vector space of all real polynomials of degree at most $n$ and $T:P_{2}\\to P_{3}$ be a linear transformation given by $T(p(x))=\\int_{0}^{x}p(t)\\,dt$, $p(x)\\in P_{2}$. Find the matrix of $T$ with respect to the bases $\\{1,x,x^{2}\\}$ and $\\{1,x,1+x^{2},1+x^{3}\\}$ of $P_{2}$ and $P_{3}$ respectively. Also, find the null space of $T$.\n(ii) Let $V$ be an $n$-dimensional vector space and $T:V\\to V$ be an invertible linear operator. If $\\beta=\\{X_{1},X_{2},\\ldots,X_{n}\\}$ is a basis of $V$, show that $\\beta'=\\{TX_{1},TX_{2},\\ldots,TX_{n}\\}$ is also a basis of $V$.\n(b) (i) Let $A=\\begin{pmatrix} 1 & 1 & 1 \\\\ 1 & \\omega^{2} & \\omega \\\\ 1 & \\omega & \\omega^{2} \\end{pmatrix}$ where $\\omega\\,(\\ne 1)$ is a cube root of unity. If $\\lambda_{1},\\lambda_{2},\\lambda_{3}$ denote the eigenvalues of $A^{2}$, show that $|\\lambda_{1}|+|\\lambda_{2}|+|\\lambda_{3}|\\le 9$.\n(ii) Find the rank of the matrix $A=\\begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\\\ 2 & 3 & 5 & 8 & 12 \\\\ 3 & 5 & 8 & 12 & 17 \\\\ 5 & 8 & 12 & 17 & 23 \\\\ 8 & 12 & 17 & 23 & 30 \\end{pmatrix}$.\n(c) (i) Let $A$ be a Hermitian matrix having all distinct eigenvalues $\\lambda_{1},\\lambda_{2},\\ldots,\\lambda_{n}$. If $X_{1},X_{2},\\ldots,X_{n}$ are corresponding eigenvectors then show that the $n\\times n$ matrix $C$ whose $k^{\\mathrm{th}}$ column consists of the vector $X_{k}$ is non-singular.\n(ii) Show that the vectors $X_{1}=(1, 1+i,i)$, $X_{2}=(i,-i,1-i)$ and $X_{3}=(0, 1-2i,2-i)$ in $\\mathbb{C}^{3}$ are linearly independent over the field of real numbers but are linearly dependent over the field of complex numbers.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Using Lagrange's multiplier method, find the shortest distance between the line $y=10-2x$ and the ellipse $\\dfrac{x^{2}}{4}+\\dfrac{y^{2}}{9}=1$.\n(b) Compute $f_{xy}(0, 0)$ and $f_{yx}(0, 0)$ for the function $f(x,y)=\\begin{cases}\\dfrac{xy^{3}}{x+y^{2}}, & (x,y)\\ne(0, 0) \\\\ 0, & (x,y)=(0, 0).\\end{cases}$ Also, discuss the continuity of $f_{xy}$ and $f_{yx}$ at $(0, 0)$.\n(c) Evaluate $\\iint_{D}xy\\,dA$, where $D$ is the region bounded by the line $y=x-1$ and the parabola $y^{2}=2x+6$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Show that three mutually perpendicular tangent lines can be drawn to the sphere $x^{2}+y^{2}+z^{2}=r^{2}$ from any point on the sphere $2(x^{2}+y^{2}+z^{2})=3r^{2}$.\n(b) A cone has for its guiding curve the circle $x^{2}+y^{2}+2ax+2by=0$, $z=0$ and passes through a fixed point $(0, 0,c)$. If the section of the cone by the plane $y=0$ is a rectangular hyperbola, prove that the vertex lies on the fixed circle $x^{2}+y^{2}+z^{2}+2ax+2by=0$, $2ax+2by+cz=0$.\n(c) A variable generator meets two generators of the system through the extremities $B$ and $B'$ of the minor axis of the principal elliptic section of the hyperboloid $\\dfrac{x^{2}}{a^{2}}+\\dfrac{y^{2}}{b^{2}}-\\dfrac{z^{2}}{c^{2}}=1$ in $P$ and $P'$. Prove that $BP\\cdot B'P'=a^{2}+c^{2}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) $y$ is a function of $x$, such that the differential coefficient $\\dfrac{dy}{dx}$ is equal to $\\cos(x+y)+\\sin(x+y)$. Find out a relation between $x$ and $y$, which is free from any derivative/differential.\n(b) Obtain the equation of the orthogonal trajectory of the family of curves represented by $r^{n}=a\\sin n\\theta$, $(r,\\theta)$ being the plane polar coordinates.\n(c) A body is performing S.H.M. in a straight line $OPQ$. Its velocity is zero at points $P$ and $Q$ whose distances from $O$ are $x$ and $y$ respectively and its velocity is $v$ at the mid-point between $P$ and $Q$. Find the time of one complete oscillation.\n(d) The base of an inclined plane is $4$ metres in length and the height is $3$ metres. A force of $8$ kg acting parallel to the plane will just prevent a weight of $20$ kg from sliding down. Find the coefficient of friction between the plane and the weight.\n(e) Show that the curve $\\vec{x}(t)=t\\,\\hat{\\imath}+\\left(\\dfrac{1+t}{t}\\right)\\hat{\\jmath}+\\left(\\dfrac{1-t^{2}}{t}\\right)\\hat{k}$ lies in a plane.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve the differential equation $(5x^{3}+12x^{2}+6y^{2})\\,dx+6xy\\,dy=0$.\n(b) Using the method of variation of parameters, solve the differential equation $\\dfrac{d^{2}y}{dx^{2}}+a^{2}y=\\sec ax$.\n(c) Find the general solution of the equation $x^{2}\\dfrac{d^{2}y}{dx^{2}}+x\\dfrac{dy}{dx}+y=\\ln x\\sin(\\ln x)$.\n(d) By using Laplace transform method, solve the differential equation $\\bigl(D^{2}+n^{2}\\bigr)x=a\\sin(nt+\\alpha)$, $D^{2}\\equiv\\dfrac{d^{2}}{dt^{2}}$, subject to the initial conditions $x=0$ and $\\dfrac{dx}{dt}=0$ at $t=0$, in which $a$, $n$ and $\\alpha$ are constants.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) A particle of mass $2.5$ kg hangs at the end of a string $0.9$ m long, the other end of which is attached to a fixed point. The particle is projected horizontally with a velocity $8$ m/sec. Find the velocity of the particle and tension in the string when the string is (i) horizontal\n(ii) vertically upward.\n(b) A uniform ladder rests at an angle of $45^{\\circ}$ with the horizontal with its upper extremity against a rough vertical wall and its lower extremity on the ground. If $\\mu$ and $\\mu'$ are the coefficients of limiting friction between the ladder and the ground and wall respectively, then find the minimum horizontal force required to move the lower end of the ladder towards the wall.\n(c) Six equal rods $AB$, $BC$, $CD$, $DE$, $EF$ and $FA$ are each of weight $W$ and are freely jointed at their extremities so as to form a hexagon; the rod $AB$ is fixed in a horizontal position and the middle points of $AB$ and $DE$ are joined by a string. Find the tension in the string.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Calculate $\\nabla^{2}(r^{n})$ and find its expression in terms of $r$ and $n$, $r$ being the distance of any point $(x,y,z)$ from the origin, $n$ being a constant and $\\nabla^{2}$ being the Laplace operator.\n(b) A curve in space is defined by the vector equation $\\vec{r}=t^{2}\\hat{\\imath}+2t\\hat{\\jmath}-t^{3}\\hat{k}$. Determine the angle between the tangents to this curve at the points $t=+1$ and $t=-1$.\n(c) By using Divergence Theorem of Gauss, evaluate the surface integral $\\iint_{S}\\bigl(a^{2}x^{2}+b^{2}y^{2}+c^{2}z^{2}\\bigr)^{-1/2}\\,dS$, where $S$ is the surface of the ellipsoid $ax^{2}+by^{2}+cz^{2}=1$, $a$, $b$ and $c$ being all positive constants.\n(d) Use Stokes' theorem to evaluate the line integral $\\int_{C}(-y^{3}\\,dx+x^{3}\\,dy-z^{3}\\,dz)$, where $C$ is the intersection of the cylinder $x^{2}+y^{2}=1$ and the plane $x+y+z=1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

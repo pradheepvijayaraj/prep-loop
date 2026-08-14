@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2015_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) (i) How many generators are there of the cyclic group $G$ of order $8$? Explain.\n(ii) Taking a group $\\{e,a,b,c\\}$ of order $4$, where $e$ is the identity, construct composition tables showing that one such group is cyclic while the other is not.\n(b) Give an example of a ring that has an identity element, but such that one of its subrings has a different identity element.\n(c) Test the convergence and absolute convergence of the series $\\sum_{n=1}^{\\infty}(-1)^{n+1}\\frac{n}{n^{2}+1}$.\n(d) Show that the function $v(x,y)=\\ln(x^{2}+y^{2})+x+y$ is harmonic. Find its conjugate harmonic function $u(x,y)$. Also find the corresponding analytic function $f(z)=u+iv$ in terms of $z$.\n(e) Solve the following assignment problem to maximize the sales. Salesmen $A,B,C,D,E$ and territories $I$ to $V$ have payoff matrix with rows $A:(3, 4,5, 6,7)$, $B:(4, 15,13, 7,6)$, $C:(6, 13,12, 5,11)$, $D:(7, 12,15, 8,5)$, $E:(8, 13,10, 6,9)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) If $R$ is a ring with unit element $1$ and $\\phi$ is a homomorphism of $R$ onto $R'$, prove that $\\phi(1)$ is the unit element of $R'$.\n(b) Is the function $f(x)=\\frac{1}{n}$ for $\\frac{1}{n+1}<x\\le\\frac{1}{n}$ and $f(0)=0$ Riemann integrable on $[0, 1]$? If yes, obtain the value of $\\int_{0}^{1}f(x)\\,dx$.\n(c) Find all possible Taylor and Laurent series expansions of the function $f(z)=\\frac{2z-3}{z^{2}-3z+2}$ about the point $z=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) State Cauchy's residue theorem. Using it, evaluate the integral $\\int_{C}\\frac{e^{z}+1}{z(z+1)(z-i)^{2}}\\,dz$ where $C$ is the circle $|z|=2$.\n(b) Test the series of functions $\\sum_{n=1}^{\\infty}\\frac{nx}{1+n^{2}x^{2}}$ for uniform convergence.\n(c) Consider the linear programming problem: maximize $Z=x_1+2x_2-3x_3+4x_4$ subject to $x_1+x_2+2x_3+3x_4=12$, $x_2+2x_3+x_4=8$ and $x_1,x_2,x_3,x_4\\ge 0$. Using the definition, find all its basic solutions. Which of these are degenerate basic feasible solutions and which are non-degenerate basic feasible solutions? Without solving further, show that the problem has an optimal solution. Which of the basic feasible solutions is optimal?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Do the following sets form integral domains with respect to ordinary addition and multiplication? If so, state whether they are fields: (i) the set of numbers of the form $b\\sqrt{2}$ with $b$ rational;\n(ii) the set of even integers;\n(iii) the set of positive integers.\n(b) Find the absolute maximum and minimum values of the function $f(x,y)=x^{2}+3y^{2}-y$ over the region $x^{2}+2y^{2}\\le 1$.\n(c) Solve the following linear programming problem by the simplex method. Write its dual. Also write the optimal solution of the dual from the optimal table of the given problem: maximize $Z=2x_1-4x_2+5x_3$ subject to $x_1+4x_2-2x_3\\le 2$, $-x_1+2x_2+3x_3\\le 1$ and $x_1,x_2,x_3\\ge 0$.\n\nSECTION B",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the partial differential equation $(y^{2}+z^{2}-x^{2})p-2xyq+2xz=0$, where $p=\\frac{\\partial z}{\\partial x}$ and $q=\\frac{\\partial z}{\\partial y}$.\n(b) Solve $(D^{2}+DD-2D'^{2})u=e^{x+y}$, where $D=\\frac{\\partial}{\\partial x}$ and $D'=\\frac{\\partial}{\\partial y}$.\n(c) Find the principal (or canonical) disjunctive normal form in three variables $p,q,r$ for the Boolean expression $((p\\wedge q)\\to r)\\vee((p\\wedge q)\\to\\neg r)$. Is the given Boolean expression a contradiction or a tautology?\n(d) Consider a uniform flow $U_0$ in the positive $x$-direction. A cylinder of radius $a$ is located at the origin. Find the stream function and the velocity potential. Find also the stagnation points.\n(e) Calculate the moment of inertia of a solid uniform hemisphere $x^{2}+y^{2}+z^{2}=a^{2}$, $z\\ge 0$ with mass $m$ about the $OZ$-axis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve for the general solution $p\\cos(x+y)+q\\sin(x+y)=z$, where $p=\\frac{\\partial z}{\\partial x}$ and $q=\\frac{\\partial z}{\\partial y}$.\n(b) Solve the plane pendulum problem using the Hamiltonian approach and show that $H$ is a constant of motion.\n(c) Find the Lagrange interpolating polynomial that fits the data $x=-1, 2,3, 4$ with $f(x)=-1, 11,31, 69$. Also find $f(1.5)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the solution of the initial-boundary value problem $u_t-u_{xx}+u=0$ for $0<x<\\ell$ and $t>0$, with $u(0,t)=u(\\ell,t)=0$ for $t\\ge 0$ and $u(x,0)=x(\\ell-x)$ for $0<x<\\ell$.\n(b) Solve the initial value problem $\\frac{dy}{dx}=x(y-x)$, $y(2)=3$ on the interval $[2, 2.4]$ using the Runge-Kutta fourth-order method with step size $h=0.2$.\n(c) A Hamiltonian of a system with one degree of freedom has the form $H=\\frac{p^{2}}{2a}-bqp e^{-at}+\\frac{1}{2}q^{2}e^{-at}(a+be^{-at})+\\frac{k}{2}q^{2}$, where $a,b,k$ are constants, $q$ is the generalized coordinate and $p$ is the corresponding generalized momentum. Find a Lagrangian corresponding to this Hamiltonian. Find an equivalent Lagrangian that is not explicitly dependent on time.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Reduce the second-order partial differential equation $x^{2}\\frac{\\partial^{2}u}{\\partial x^{2}}-2xy\\frac{\\partial^{2}u}{\\partial x\\partial y}+y^{2}\\frac{\\partial^{2}u}{\\partial y^{2}}+x\\frac{\\partial u}{\\partial x}+y\\frac{\\partial u}{\\partial y}=0$ into canonical form. Hence find its general solution.\n(b) Find the solution of the system $10x_1-2x_2-x_3-x_4=3$, $-2x_1+10x_2-x_3-x_4=15$, $-x_1-x_2+10x_3-2x_4=27$, $-x_1-x_2-2x_3+10x_4=-9$ using the Gauss-Seidel method (make four iterations).\n(c) In an axisymmetric motion, show that a stream function exists due to the equation of continuity. Express the velocity components in terms of the stream function. Find the equation satisfied by the stream function if the flow is irrotational.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

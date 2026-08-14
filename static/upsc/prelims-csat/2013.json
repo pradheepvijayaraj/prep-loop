@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2013",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2013,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2013_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2013_csat_q1",
+      "type": "single-choice",
+      "question": "A person lives in a far-off village which is almost two hours by bus. The villager’s neighbor is a very powerful landlord who is trying to occupy the poor villager’s land by force. You are the District Magistrate and busy in a meeting called by a local Minister. The villager has come all the way, by bus and on foot, to see you and given an application seeking protection from the powerful landlord. The villager keeps on waiting outside the meeting hall for an hour. You come out of the meeting and are rushing to another meeting. The villager follows you to submit his application. What would you do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tell him to wait for another two hours till you come back from your next meeting."
+        },
+        {
+          "id": "b",
+          "text": "Tell him that the matter is actually to be dealt with by a junior officer and that he should give the application to him."
+        },
+        {
+          "id": "c",
+          "text": "Call one of your senior subordinate officers and ask him to solve the villager’s problem."
+        },
+        {
+          "id": "d",
+          "text": "Quickly take the application from him, ask him a few relevant questions regarding his problem, and then proceed to the meeting."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q2",
+      "type": "single-choice",
+      "question": "Examine the following three figures, in which the numbers follow a specific pattern:\n\n![50](/upsc/assets/csat/CSAT_2013_Q50_721c8d5597.png)\n\nWhat is the missing number (?) in Figure 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7"
+        },
+        {
+          "id": "b",
+          "text": "16"
+        },
+        {
+          "id": "c",
+          "text": "21"
+        },
+        {
+          "id": "d",
+          "text": "28"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q3",
+      "type": "single-choice",
+      "question": "Geeta is older than her cousin Meena. Meena’s brother Bipin is older than Geeta. When Meena and Bipin visit Geeta, they like to play chess. Meena wins the game more often than Geeta.\n\nBased on the above information, four conclusions have been made. Which one of these logically follows from the information given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "While playing chess with Geeta and Meena, Bipin often loses."
+        },
+        {
+          "id": "b",
+          "text": "Geeta is the oldest among the three."
+        },
+        {
+          "id": "c",
+          "text": "Geeta hates to lose the game."
+        },
+        {
+          "id": "d",
+          "text": "Meena is the youngest of the three."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q4",
+      "type": "single-choice",
+      "question": "Seven men A, B, C, D, E, F, and G are standing in a queue in that order. Each one is wearing a cap of a different color: Violet, Indigo, Blue, Green, Yellow, Orange, and Red.\n\n1. D is able to see in front of him Green and Blue, but not Violet.\n2. E can see Violet and Yellow, but not Red.\n3. G can see caps of all colors other than Orange.\n\nIf E is wearing an Indigo-colored cap, then the color of the cap worn by F is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue"
+        },
+        {
+          "id": "b",
+          "text": "Violet"
+        },
+        {
+          "id": "c",
+          "text": "Red"
+        },
+        {
+          "id": "d",
+          "text": "Orange"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q5",
+      "type": "single-choice",
+      "question": "Four cars are hired at the rate of Rs. 6 per km plus the cost of diesel at Rs. 40 per litre. In this context, consider the details given in the following table:\n\n| Car | Distance (km) | Fuel Consumption (litres) | Time Taken (hours) |\n|-----|--------------|--------------------------|--------------------|\n| A | 240 | 8 | 4 |\n| B | 180 | 6 | 3 |\n| C | 200 | 10 | 5 |\n| D | 160 | 8 | 4 |\n\nWhich car maintained the maximum average speed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Car A"
+        },
+        {
+          "id": "b",
+          "text": "Car B"
+        },
+        {
+          "id": "c",
+          "text": "Car C"
+        },
+        {
+          "id": "d",
+          "text": "Car D"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q6",
+      "type": "single-choice",
+      "question": "You are in charge of implementing the Family Planning programme in an area where there is strong opposition to the present policy. You want to convince the residents of the need for keeping small families. What would be the best way of communicating this message?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By logically explaining to the residents the need for family planning to improve the health and living standards."
+        },
+        {
+          "id": "b",
+          "text": "By encouraging late marriages and proper spacing of children."
+        },
+        {
+          "id": "c",
+          "text": "By offering incentives for adopting family planning devices."
+        },
+        {
+          "id": "d",
+          "text": "By asking people who have been sterilized or are using contraceptives to directly talk to the residents."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q7",
+      "type": "single-choice",
+      "question": "There are five hobby clubs in the college: Photography, Yachting, Chess, Electronics, and Gardening.\n\n1. The Gardening group meets every second day.\n2. The Electronics group meets every third day.\n3. The Chess group meets every fourth day.\n4. The Yachting group meets every fifth day.\n5. The Photography group meets every sixth day.\n\nHow many times do all five groups meet on the same day within 180 days?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "18"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q8",
+      "type": "single-choice",
+      "question": "The music director of a film wants to select four persons to work on different aspects of a musical composition. Seven persons are available: Rohit, Tanya, Shobha, Kaushal, Kunal, Mukesh, and Jaswant. However:\n\n1. Rohit and Tanya will not work together.\n2. Kunal and Shobha will not work together.\n3. Mukesh and Kunal want to work together.\n\nWhich of the following is the most acceptable group?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rohit, Shobha, Kunal, and Kaushal"
+        },
+        {
+          "id": "b",
+          "text": "Tanya, Kaushal, Shobha, and Rohit"
+        },
+        {
+          "id": "c",
+          "text": "Tanya, Mukesh, Kunal, and Jaswant"
+        },
+        {
+          "id": "d",
+          "text": "Shobha, Tanya, Rohit, and Mukesh"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q9",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. A primary group is relatively smaller in size.\n2. Intimacy is an essential characteristic of a primary group.\n3. A family may be an example of a primary group.\n\nIn light of the above statements, which one of the following is true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All families are primary groups."
+        },
+        {
+          "id": "b",
+          "text": "All primary groups are families."
+        },
+        {
+          "id": "c",
+          "text": "A group of smaller size is always a primary group."
+        },
+        {
+          "id": "d",
+          "text": "Members of a primary group know each other intimately."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q10",
+      "type": "single-choice",
+      "question": "While traveling in a Delhi-registered commercial taxi from Delhi to an adjacent city (another State), your taxi driver informs you that as he has no permit for running the taxi in that city, he will stop at its Transport Office and pay the prescribed fee of Rs. 40 for a day. While paying the fee at the counter, you find that the transport clerk is taking an extra Rs. 50 for which no receipt is being given. You are in a hurry for your meeting. In such circumstances, what would you do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Go up to the counter and ask the clerk to give back the money which he has illegally taken."
+        },
+        {
+          "id": "b",
+          "text": "Do not interfere at all as this is a matter between the taxi driver and the tax authorities."
+        },
+        {
+          "id": "c",
+          "text": "Take note of the incident and subsequently report the matter to the concerned authorities."
+        },
+        {
+          "id": "d",
+          "text": "Treat it as a normal affair and simply forget about it."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q11",
+      "type": "single-choice",
+      "question": "You are the head of your office. There are certain houses reserved for allotment to the office staff, and you have been given the discretion to do so. A set of rules for the allotment of the houses has been laid down by you and has been made public. Your personal secretary, who is very close to you, comes to you and pleads that as his father is seriously ill, he should be given priority in the allotment of a house. The office secretariat that examined the request as per the rules turns down the request and recommends the procedure to be followed according to the rules. You do not want to annoy your personal secretary. In such circumstances, what would you do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Call him over to your room and personally explain why the allotment cannot be done."
+        },
+        {
+          "id": "b",
+          "text": "Allot the house to him to win his loyalty."
+        },
+        {
+          "id": "c",
+          "text": "Agree with the office note to show that you are not biased and that you do not indulge in favoritism."
+        },
+        {
+          "id": "d",
+          "text": "Keep the file with you and not pass any orders."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q12",
+      "type": "single-choice",
+      "question": "Consider the following matrix:\n\n| 3 | 370 | 7 |\n|---|-----|---|\n| 2 | 224 | 6 |\n| 1 | 730 | X |\n\nWhat is the number at ‘X’ in the above matrix?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "11"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q13",
+      "type": "single-choice",
+      "question": "A, B, C, D, and E belong to five different cities P, Q, R, S, and T (not necessarily in that order). Each one of them comes from a different city. Further, it is given that:\n\n1. B and C do not belong to Q.\n2. B and E do not belong to P and R.\n3. A and C do not belong to R, S, and T.\n4. D and E do not belong to Q and T.\n\nWhich one of the following statements is NOT correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$C$ belongs to $P$"
+        },
+        {
+          "id": "b",
+          "text": "$D$ belongs to $R$"
+        },
+        {
+          "id": "c",
+          "text": "$A$ belongs to $Q$"
+        },
+        {
+          "id": "d",
+          "text": "$B$ belongs to $S$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q14",
+      "type": "single-choice",
+      "question": "A person can walk a certain distance and drive back in six hours. He can also walk both ways in 10 hours. How much time will he take to drive both ways?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two hours"
+        },
+        {
+          "id": "b",
+          "text": "Two and a half hours"
+        },
+        {
+          "id": "c",
+          "text": "Five and a half hours"
+        },
+        {
+          "id": "d",
+          "text": "Four hours"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q15",
+      "type": "single-choice",
+      "question": "In a rare coin collection, there is one gold coin for every three non-gold coins. 10 more gold coins are added to the collection, and the ratio of gold coins to non-gold coins becomes 1:2.\n\nBased on this information, the total number of coins in the collection now becomes:",
+      "options": [
+        {
+          "id": "a",
+          "text": "90"
+        },
+        {
+          "id": "b",
+          "text": "80"
+        },
+        {
+          "id": "c",
+          "text": "60"
+        },
+        {
+          "id": "d",
+          "text": "50"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q16",
+      "type": "single-choice",
+      "question": "A sum of Rs. 700 has to be used to give seven cash prizes to students in a school for their overall academic performance. Each prize is Rs. 20 less than its preceding prize.\n\nWhat is the least value of the prize?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 30"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 40"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 60"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 80"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q17",
+      "type": "single-choice",
+      "question": "Consider the following figures 1, 2, 3, and 4:\n\n![44](/upsc/assets/csat/CSAT_2013_Q44_275744416d.png)\n\nIn the figure from 1 to 4 above, two symbols are shown to change their position in a regular direction. Following the same sequence, which one of the following will appear at the fifth stage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "![44A](/upsc/assets/csat/CSAT_2013_Q44_Option_A_f2599b8066.png)"
+        },
+        {
+          "id": "b",
+          "text": "![44B](/upsc/assets/csat/CSAT_2013_Q44_Option_B_5bae021359.png)"
+        },
+        {
+          "id": "c",
+          "text": "![44C](/upsc/assets/csat/CSAT_2013_Q44_Option_C_2b3795f39c.png)"
+        },
+        {
+          "id": "d",
+          "text": "![44D](/upsc/assets/csat/CSAT_2013_Q44_Option_D_8e7ce0f606.png)"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q18",
+      "type": "single-choice",
+      "question": "Five people A, B, C, D, and E are seated around a round table. Every chair is spaced equidistant from adjacent chairs.\n\n1. C is seated next to A.\n2. A is seated two seats from D.\n3. B is not seated next to A.\n\nWhich of the following must be true?\n\n1. D is seated next to B.\n2. E is seated next to A.\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q19",
+      "type": "single-choice",
+      "question": "A train travels at a certain average speed for a distance of 63 km and then travels a distance of 72 km at an average speed of 6 km/hr more than its original speed. If it takes 3 hours to complete the total journey, what is the original speed of the train in km/hr?",
+      "options": [
+        {
+          "id": "a",
+          "text": "24"
+        },
+        {
+          "id": "b",
+          "text": "33"
+        },
+        {
+          "id": "c",
+          "text": "42"
+        },
+        {
+          "id": "d",
+          "text": "66"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q20",
+      "type": "single-choice",
+      "question": "There are some balls of red, green, and yellow color lying on a table.\n\n1. There are as many red balls as there are yellow balls.\n2. There are twice as many yellow balls as there are green ones.\n\nThe number of red balls:",
+      "options": [
+        {
+          "id": "a",
+          "text": "is equal to the sum of yellow and green balls."
+        },
+        {
+          "id": "b",
+          "text": "is double the number of green balls."
+        },
+        {
+          "id": "c",
+          "text": "is equal to yellow balls minus green balls."
+        },
+        {
+          "id": "d",
+          "text": "cannot be ascertained."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q21",
+      "type": "single-choice",
+      "question": "In a garrison, there was food for 1000 soldiers for one month. After 10 days, 1000 more soldiers joined the garrison.\n\nHow long would the soldiers be able to carry on with the remaining food?",
+      "options": [
+        {
+          "id": "a",
+          "text": "25 days"
+        },
+        {
+          "id": "b",
+          "text": "20 days"
+        },
+        {
+          "id": "c",
+          "text": "15 days"
+        },
+        {
+          "id": "d",
+          "text": "10 days"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q22",
+      "type": "single-choice",
+      "question": "A thief running at 8 km/hr is chased by a policeman whose speed is 10 km/hr. If the thief is 100 meters ahead of the policeman, then the time required for the policeman to catch the thief will be:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 minutes"
+        },
+        {
+          "id": "b",
+          "text": "3 minutes"
+        },
+        {
+          "id": "c",
+          "text": "4 minutes"
+        },
+        {
+          "id": "d",
+          "text": "6 minutes"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q23",
+      "type": "single-choice",
+      "question": "You are a teacher in a University and are setting a question paper on a particular subject. One of your colleagues, whose son is preparing for the examination on that subject, comes to you and informs you that it is his son’s last chance to pass that examination and whether you could help him by indicating what questions are going to be in the examination. In the past, your colleague had helped you in another matter. Your colleague informs you that his son will suffer from depression if he fails in this examination. In such circumstances, what would you do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In view of the help he had given you, extend your help to him."
+        },
+        {
+          "id": "b",
+          "text": "Regret that you cannot be of any help to him."
+        },
+        {
+          "id": "c",
+          "text": "Explain to your colleague that this would be violating the trust of the University authorities and you are not in a position to help him."
+        },
+        {
+          "id": "d",
+          "text": "Report the conduct of your colleague to the higher authorities."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q24",
+      "type": "single-choice",
+      "question": "A cube has six numbers marked 1, 2, 3, 4, 5, and 6 on its faces. Three views of the cube are shown below:\n\n![51i](/upsc/assets/csat/CSAT_2013_Q51_part1_2aa86e4bb1.png)\n\nWhat possible number can exist on the two faces marked A and B, respectively, on the cube?\n\n![51ii](/upsc/assets/csat/CSAT_2013_Q51_part2_8d19db3b24.png)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "6 and 1"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4"
+        },
+        {
+          "id": "d",
+          "text": "3 and 1"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q25",
+      "type": "single-choice",
+      "question": "There is a shortage of sugar in your District. The Government has ordered that only a maximum amount of 30 kg sugar is to be released for wedding celebrations. A son of your close friend is getting married, and your friend requests you to release at least 50 kg sugar for his son’s wedding. He expresses annoyance when you tell him about the Government’s restrictions on this matter. He feels that since you are the District Magistrate, you can release any amount. You do not want to spoil your friendship with him. In such circumstances, how would you deal with the situation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Release the extra amount of sugar which your friend has requested for."
+        },
+        {
+          "id": "b",
+          "text": "Refuse your friend the extra amount and strictly follow the rules."
+        },
+        {
+          "id": "c",
+          "text": "Show your friend the copy of the Government instructions and then persuade him to accept the lower amount as prescribed in the rules."
+        },
+        {
+          "id": "d",
+          "text": "Advise him to directly apply to the allotting authority and inform him that you do not interfere in this matter."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q26",
+      "type": "single-choice",
+      "question": "In a class of 45 students, a boy is ranked 20th. When two boys joined, his rank was dropped by one. What is his new rank from the end?",
+      "options": [
+        {
+          "id": "a",
+          "text": "25th"
+        },
+        {
+          "id": "b",
+          "text": "26th"
+        },
+        {
+          "id": "c",
+          "text": "27th"
+        },
+        {
+          "id": "d",
+          "text": "28th"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q27",
+      "type": "single-choice",
+      "question": "A gardener has 1000 plants. He wants to plant them in such a way that the number of rows and the number of columns remains the same.\n\nWhat is the minimum number of extra plants he needs for this purpose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "14"
+        },
+        {
+          "id": "b",
+          "text": "24"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "34"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q28",
+      "type": "single-choice",
+      "question": "Four friends, A, B, C, and D, distribute some money among themselves in such a manner that A gets one less than B, C gets 5 more than D, and D gets 3 more than B. Who gets the smallest amount?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q29",
+      "type": "single-choice",
+      "question": "Consider the following figures:\n\n![57](/upsc/assets/csat/CSAT_2013_Q57_e07015721f.png)\n\nWhich one of the following figures would logically come in the 7th position indicated above by a question mark?",
+      "options": [
+        {
+          "id": "a",
+          "text": "![57A](/upsc/assets/csat/CSAT_2013_Q57_Option_A_0a9773398a.png)"
+        },
+        {
+          "id": "b",
+          "text": "![57B](/upsc/assets/csat/CSAT_2013_Q57_Option_B_77cd6e3141.png)"
+        },
+        {
+          "id": "c",
+          "text": "![57C](/upsc/assets/csat/CSAT_2013_Q57_Option_C_4dd105ec51.png)"
+        },
+        {
+          "id": "d",
+          "text": "![57D](/upsc/assets/csat/CSAT_2013_Q57_Option_D_7a07e8829e.png)"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q30",
+      "type": "single-choice",
+      "question": "Out of 120 applications for a post, 70 are male, and 80 have a driver’s license.\n\nWhat is the ratio between the minimum to maximum number of males having a driver’s license?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 to 2"
+        },
+        {
+          "id": "b",
+          "text": "2 to 3"
+        },
+        {
+          "id": "c",
+          "text": "3 to 7"
+        },
+        {
+          "id": "d",
+          "text": "5 to 7"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q31",
+      "type": "single-choice",
+      "question": "The tank-full petrol in Arun’s motorcycle lasts for 10 days. If he starts using $25\\%$ more every day, how many days will the tank-full petrol last?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q32",
+      "type": "single-choice",
+      "question": "Consider the following diagrams:\n\n![47](/upsc/assets/csat/CSAT_2013_Q47_5b6aeb34f3.png)\n\n$x$ men, working at a constant speed, do a certain job in $y$ days.\n\nWhich one of these diagrams shows the relation between $x$ and $y$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "diagram I"
+        },
+        {
+          "id": "b",
+          "text": "diagram II"
+        },
+        {
+          "id": "c",
+          "text": "diagram III"
+        },
+        {
+          "id": "d",
+          "text": "diagram IV"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q33",
+      "type": "single-choice",
+      "question": "A number of empirical studies find that farmers are risk-averse, though only moderately in many cases. There is also evidence to show that farmers’ risk aversion results in cropping patterns and input use designed to reduce risk rather than to maximize income. Farmers adopt a number of strategies to manage and cope with agricultural risks. These include practices like crop and field diversification, non-farm employment, storage of stocks, and strategic migration of family members. There are also institutions ranging from share tenancy to kinship, extended family, and informal credit agencies.\nOne major obstacle to risk-sharing by farmers is that the same type of risks can affect a large number of farmers in the region. Empirical studies show that traditional methods are not adequate. Hence, there is a need for policy interventions, especially measures that cut across geographical regions.\nPolicies may aim at tackling agricultural risks directly or indirectly. Examples of risk-specific policies are crop insurance, price stabilization, and the development of varieties resistant to pests and diseases. Policies that affect risk indirectly are irrigation, subsidized credit, and access to information. No single risk-specific policy is sufficient to reduce risk without side effects, whereas policies not specific to risk influence the general situation and affect risks only indirectly.\nCrop insurance, as a policy measure to tackle agricultural risk directly, deserves careful consideration in the Indian context and in many other developing countries — because the majority of farmers depend on rain-fed agriculture, and in many areas, yield variability is the predominant cause of their income instability.\n\nThe need for policy intervention to mitigate risks in agriculture is because",
+      "options": [
+        {
+          "id": "a",
+          "text": "farmers are extremely risk-averse."
+        },
+        {
+          "id": "b",
+          "text": "farmers do not know how to mitigate risks."
+        },
+        {
+          "id": "c",
+          "text": "the methods adopted by farmers and existing risk-sharing institutions are not adequate."
+        },
+        {
+          "id": "d",
+          "text": "the majority of farmers depends on rain-fed agriculture."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q34",
+      "type": "single-choice",
+      "question": "A number of empirical studies find that farmers are risk-averse, though only moderately in many cases. There is also evidence to show that farmers’ risk aversion results in cropping patterns and input use designed to reduce risk rather than to maximize income. Farmers adopt a number of strategies to manage and cope with agricultural risks. These include practices like crop and field diversification, non-farm employment, storage of stocks, and strategic migration of family members. There are also institutions ranging from share tenancy to kinship, extended family, and informal credit agencies.\nOne major obstacle to risk-sharing by farmers is that the same type of risks can affect a large number of farmers in the region. Empirical studies show that traditional methods are not adequate. Hence, there is a need for policy interventions, especially measures that cut across geographical regions.\nPolicies may aim at tackling agricultural risks directly or indirectly. Examples of risk-specific policies are crop insurance, price stabilization, and the development of varieties resistant to pests and diseases. Policies that affect risk indirectly are irrigation, subsidized credit, and access to information. No single risk-specific policy is sufficient to reduce risk without side effects, whereas policies not specific to risk influence the general situation and affect risks only indirectly.\nCrop insurance, as a policy measure to tackle agricultural risk directly, deserves careful consideration in the Indian context and in many other developing countries — because the majority of farmers depend on rain-fed agriculture, and in many areas, yield variability is the predominant cause of their income instability.\n\nWhich of the following observations emerges from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One can identify a single policy that can reduce risk without any side effects."
+        },
+        {
+          "id": "b",
+          "text": "No single risk-specific policy is sufficient to reduce agricultural risk."
+        },
+        {
+          "id": "c",
+          "text": "Policies that affect risk indirectly can eliminate it."
+        },
+        {
+          "id": "d",
+          "text": "Government’s policy intervention can mitigate agricultural risk completely."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q35",
+      "type": "single-choice",
+      "question": "Five cities P, Q, R, S, and T are connected by different modes of transport as follows:\n\n1. P and Q are connected by boat as well as rail.\n2. S and R are connected by bus and boat.\n3. Q and T are connected by air only.\n4. P and R are connected by boat only.\n5. T and R are connected by rail and bus.\n\nIf a person visits each of the places starting from P and gets back to P, which of the following places must he visit twice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q"
+        },
+        {
+          "id": "b",
+          "text": "R"
+        },
+        {
+          "id": "c",
+          "text": "S"
+        },
+        {
+          "id": "d",
+          "text": "T"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q36",
+      "type": "single-choice",
+      "question": "Five cities P, Q, R, S, and T are connected by different modes of transport as follows:\n\n1. P and Q are connected by boat as well as rail.\n2. S and R are connected by bus and boat.\n3. Q and T are connected by air only.\n4. P and R are connected by boat only.\n5. T and R are connected by rail and bus.\n\nWhich one of the following pairs of cities is connected by any of the routes directly without going to any other city?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P and T"
+        },
+        {
+          "id": "b",
+          "text": "T and S"
+        },
+        {
+          "id": "c",
+          "text": "Q and R"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q37",
+      "type": "single-choice",
+      "question": "Five cities P, Q, R, S, and T are connected by different modes of transport as follows:\n\n1. P and Q are connected by boat as well as rail.\n2. S and R are connected by bus and boat.\n3. Q and T are connected by air only.\n4. P and R are connected by boat only.\n5. T and R are connected by rail and bus.\n\nBetween which two cities among the pairs of cities given below are there maximum travel options available?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q and S"
+        },
+        {
+          "id": "b",
+          "text": "P and R"
+        },
+        {
+          "id": "c",
+          "text": "P and T"
+        },
+        {
+          "id": "d",
+          "text": "Q and R"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q38",
+      "type": "single-choice",
+      "question": "Five cities P, Q, R, S, and T are connected by different modes of transport as follows:\n\n1. P and Q are connected by boat as well as rail.\n2. S and R are connected by bus and boat.\n3. Q and T are connected by air only.\n4. P and R are connected by boat only.\n5. T and R are connected by rail and bus.\n\nWhich mode of transport would help one to reach R starting from Q, but without changing the mode of transport?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boat"
+        },
+        {
+          "id": "b",
+          "text": "Rail"
+        },
+        {
+          "id": "c",
+          "text": "Bus"
+        },
+        {
+          "id": "d",
+          "text": "Air"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q39",
+      "type": "single-choice",
+      "question": "Read the following passage and answer the three items that follow:\n\nOut of four friends A, B, C, and D,\n\n1. A and B play football and cricket.\n2. B and C play cricket and hockey.\n3. A and D play basketball and football.\n4. C and D play hockey and basketball.\n\nWhich game do B, C, and D play together?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Basketball"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Football"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q40",
+      "type": "single-choice",
+      "question": "Read the following passage and answer the three items that follow:\n\nOut of four friends A, B, C, and D,\n\n1. A and B play football and cricket.\n2. B and C play cricket and hockey.\n3. A and D play basketball and football.\n4. C and D play hockey and basketball.\n\nWho does not play hockey?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "B"
+        },
+        {
+          "id": "d",
+          "text": "A"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q41",
+      "type": "single-choice",
+      "question": "Read the following passage and answer the three items that follow:\n\nOut of four friends A, B, C, and D,\n\n1. A and B play football and cricket.\n2. B and C play cricket and hockey.\n3. A and D play basketball and football.\n4. C and D play hockey and basketball.\n\nWho plays football, basketball, and hockey?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "B"
+        },
+        {
+          "id": "d",
+          "text": "A"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q42",
+      "type": "single-choice",
+      "question": "A tennis coach is trying to put together a team of four players for the forthcoming tournament. For this, 7 players are available: males A, B, and C; and females W, X, Y, and Z. All players have equal capability and at least 2 males will be in the team. For a team of four, all players must be able to play with each other.\nHowever:\nB cannot play with W,\nC cannot play with Z, and\nW cannot play with Y.\n\nIf B is selected and Y is rejected, the team will consist of which one of the following groups?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A, B, C, and W"
+        },
+        {
+          "id": "b",
+          "text": "A, B, C, and Z"
+        },
+        {
+          "id": "c",
+          "text": "A, B, C, and X"
+        },
+        {
+          "id": "d",
+          "text": "A, W, Y, and Z"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q43",
+      "type": "single-choice",
+      "question": "A tennis coach is trying to put together a team of four players for the forthcoming tournament. For this, 7 players are available: males A, B, and C; and females W, X, Y, and Z. All players have equal capability and at least 2 males will be in the team. For a team of four, all players must be able to play with each other.\nHowever:\nB cannot play with W,\nC cannot play with Z, and\nW cannot play with Y.\n\nIf Y is selected and B is rejected, the team will consist of which one of the following groups?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A, C, W, and Y"
+        },
+        {
+          "id": "b",
+          "text": "A, C, X, and Y"
+        },
+        {
+          "id": "c",
+          "text": "A, C, Y, and Z"
+        },
+        {
+          "id": "d",
+          "text": "A, W, Y, and Z"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q44",
+      "type": "single-choice",
+      "question": "A tennis coach is trying to put together a team of four players for the forthcoming tournament. For this, 7 players are available: males A, B, and C; and females W, X, Y, and Z. All players have equal capability and at least 2 males will be in the team. For a team of four, all players must be able to play with each other.\nHowever:\nB cannot play with W,\nC cannot play with Z, and\nW cannot play with Y.\n\nIf all three males are selected, then how many combinations of four-member teams are possible?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q45",
+      "type": "single-choice",
+      "question": "Direction for the following 5 (five) items:\nStudy the two figures given below and answer the five items that follow:\n\n![52I](/upsc/assets/csat/CSAT_2013_Q52_Figure1_ea86a1202c.png)\nFigure 1: Number of Professors in selected description in a University by sex.\n\n![52II](/upsc/assets/csat/CSAT_2013_Q52_Figure2_0e893a8fbd.png)\nFigure 2: Age of Physics Professors.\n\nWhat percentage of all Psychology professors are females?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$40\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$50\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$60\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$70\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q46",
+      "type": "single-choice",
+      "question": "Direction for the following 5 (five) items:\nStudy the two figures given below and answer the five items that follow:\n\n![52I](/upsc/assets/csat/CSAT_2013_Q52_Figure1_ea86a1202c.png)\nFigure 1: Number of Professors in selected description in a University by sex.\n\n![52II](/upsc/assets/csat/CSAT_2013_Q52_Figure2_0e893a8fbd.png)\nFigure 2: Age of Physics Professors.\n\nWhich one of the following disciplines has the highest ratio of males to females?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Physics"
+        },
+        {
+          "id": "b",
+          "text": "Mathematics"
+        },
+        {
+          "id": "c",
+          "text": "Chemistry"
+        },
+        {
+          "id": "d",
+          "text": "Economics"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q47",
+      "type": "single-choice",
+      "question": "Direction for the following 5 (five) items:\nStudy the two figures given below and answer the five items that follow:\n\n![52I](/upsc/assets/csat/CSAT_2013_Q52_Figure1_ea86a1202c.png)\nFigure 1: Number of Professors in selected description in a University by sex.\n\n![52II](/upsc/assets/csat/CSAT_2013_Q52_Figure2_0e893a8fbd.png)\nFigure 2: Age of Physics Professors.\n\nIf the number of female Physics professors in the age group 25 – 34 equals $25\\%$ of all the Physics professors in that age group, then what is the number of male Physics professors in the age group 25 – 34?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q48",
+      "type": "single-choice",
+      "question": "Direction for the following 5 (five) items:\nStudy the two figures given below and answer the five items that follow:\n\n![52I](/upsc/assets/csat/CSAT_2013_Q52_Figure1_ea86a1202c.png)\nFigure 1: Number of Professors in selected description in a University by sex.\n\n![52II](/upsc/assets/csat/CSAT_2013_Q52_Figure2_0e893a8fbd.png)\nFigure 2: Age of Physics Professors.\n\nHow many Physics professors belong to the age group 35 – 44?",
+      "options": [
+        {
+          "id": "a",
+          "text": "18"
+        },
+        {
+          "id": "b",
+          "text": "16"
+        },
+        {
+          "id": "c",
+          "text": "14"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q49",
+      "type": "single-choice",
+      "question": "Direction for the following 5 (five) items:\nStudy the two figures given below and answer the five items that follow:\n\n![52I](/upsc/assets/csat/CSAT_2013_Q52_Figure1_ea86a1202c.png)\nFigure 1: Number of Professors in selected description in a University by sex.\n\n![52II](/upsc/assets/csat/CSAT_2013_Q52_Figure2_0e893a8fbd.png)\nFigure 2: Age of Physics Professors.\n\nIf the Psychology professors in the University constitute $2\\%$ of all the professors in the University, then what is the number of professors in the University?",
+      "options": [
+        {
+          "id": "a",
+          "text": "400"
+        },
+        {
+          "id": "b",
+          "text": "500"
+        },
+        {
+          "id": "c",
+          "text": "600"
+        },
+        {
+          "id": "d",
+          "text": "700"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q50",
+      "type": "single-choice",
+      "question": "It was already late when we set out for the next town, which according to the map was about fifteen kilometers away on the other side of the hills. There we felt that we would find a bed for the night. Darkness fell soon after we left the villages, but luckily we met no one as we drove swiftly along the narrow winding road that led to the hills. As we climbed higher, it became colder and rain began to fall, making it difficult at times to see the road. I asked John, my companion, to drive more slowly. After we had traveled for about twenty kilometers, there was still no sign of the town which was marked on the map. We were beginning to get worried. Then, without warning, the car stopped and we found we had run out of petrol.\n\nThe travelers were worried after twenty kilometers because",
+      "options": [
+        {
+          "id": "a",
+          "text": "it was a lonely countryside."
+        },
+        {
+          "id": "b",
+          "text": "they probably feared having lost their way."
+        },
+        {
+          "id": "c",
+          "text": "the rain began to fall."
+        },
+        {
+          "id": "d",
+          "text": "it was getting colder as they drove."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q51",
+      "type": "single-choice",
+      "question": "It was already late when we set out for the next town, which according to the map was about fifteen kilometers away on the other side of the hills. There we felt that we would find a bed for the night. Darkness fell soon after we left the villages, but luckily we met no one as we drove swiftly along the narrow winding road that led to the hills. As we climbed higher, it became colder and rain began to fall, making it difficult at times to see the road. I asked John, my companion, to drive more slowly. After we had traveled for about twenty kilometers, there was still no sign of the town which was marked on the map. We were beginning to get worried. Then, without warning, the car stopped and we found we had run out of petrol.\n\nThe author asked John to drive more slowly because",
+      "options": [
+        {
+          "id": "a",
+          "text": "the road led to the hills."
+        },
+        {
+          "id": "b",
+          "text": "John was an inexperienced driver."
+        },
+        {
+          "id": "c",
+          "text": "the road was not clearly visible."
+        },
+        {
+          "id": "d",
+          "text": "they were in the wilderness."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q52",
+      "type": "single-choice",
+      "question": "It was already late when we set out for the next town, which according to the map was about fifteen kilometers away on the other side of the hills. There we felt that we would find a bed for the night. Darkness fell soon after we left the villages, but luckily we met no one as we drove swiftly along the narrow winding road that led to the hills. As we climbed higher, it became colder and rain began to fall, making it difficult at times to see the road. I asked John, my companion, to drive more slowly. After we had traveled for about twenty kilometers, there was still no sign of the town which was marked on the map. We were beginning to get worried. Then, without warning, the car stopped and we found we had run out of petrol.\n\nThe travelers set out for the town although it was getting dark because",
+      "options": [
+        {
+          "id": "a",
+          "text": "they were in a hurry."
+        },
+        {
+          "id": "b",
+          "text": "the next town was a short distance away and was a hill-resort."
+        },
+        {
+          "id": "c",
+          "text": "they were in the wilderness."
+        },
+        {
+          "id": "d",
+          "text": "the next town was a short distance away and promised a good rest for the night."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q53",
+      "type": "single-choice",
+      "question": "Seven-year-old Jim came home from the park without his new bicycle. “An old man and a little boy borrowed it,” he explained. “They are going to bring it back at four o'clock.” His parents were upset that he had given his expensive new bicycle, but were secretly proud of his kindness and faith. At four o'clock, no bicycle arrived. The parents grew anxious. But at 4:30, the doorbell rang, and there stood a happy man and a boy, with the bicycle and a box of chocolates. Jim suddenly disappeared into his bedroom and then came running out. “All right,” he said, after examining the bicycle. “You can have your watch back!”\n\nWhen Jim came home without his bicycle, his parents",
+      "options": [
+        {
+          "id": "a",
+          "text": "were angry with him."
+        },
+        {
+          "id": "b",
+          "text": "were worried."
+        },
+        {
+          "id": "c",
+          "text": "did not feel concerned."
+        },
+        {
+          "id": "d",
+          "text": "were eager to meet the old man and the little boy."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q54",
+      "type": "single-choice",
+      "question": "Seven-year-old Jim came home from the park without his new bicycle. “An old man and a little boy borrowed it,” he explained. “They are going to bring it back at four o'clock.” His parents were upset that he had given his expensive new bicycle, but were secretly proud of his kindness and faith. At four o'clock, no bicycle arrived. The parents grew anxious. But at 4:30, the doorbell rang, and there stood a happy man and a boy, with the bicycle and a box of chocolates. Jim suddenly disappeared into his bedroom and then came running out. “All right,” he said, after examining the bicycle. “You can have your watch back!”\n\nJim returned the watch to the old man and the little boy because",
+      "options": [
+        {
+          "id": "a",
+          "text": "they gave him chocolates."
+        },
+        {
+          "id": "b",
+          "text": "his father was proud of him."
+        },
+        {
+          "id": "c",
+          "text": "he was satisfied with the condition of his bicycle."
+        },
+        {
+          "id": "d",
+          "text": "they were late only by 30 minutes."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q55",
+      "type": "single-choice",
+      "question": "Corporate governance is based on principles such as conducting business with integrity and fairness, being transparent regarding all transactions, making necessary disclosures and decisions, complying with all laws of the land, and accountability and responsibility towards stakeholders. Another highlighted point is the need for those in control to distinguish between personal and corporate funds while managing a company. Fundamentally, a company with good corporate governance inspires confidence in the market. The presence of an active group of independent directors on the board contributes greatly to this confidence. Corporate governance influences share prices positively and attracts foreign institutional investors. Unfortunately, it often gains attention only after large scams are exposed.\n\nAccording to the passage given above, which of the following is/are the major benefit(s) of good corporate governance?\n\n1. Good corporate governance leads to an increase in the share price of the company.\n2. A company with good corporate governance always increases its business turnover rapidly.\n3. Good corporate governance is the main criterion for foreign institutional investors when they decide to buy a company.\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q56",
+      "type": "single-choice",
+      "question": "Corporate governance is based on principles such as conducting business with integrity and fairness, being transparent regarding all transactions, making necessary disclosures and decisions, complying with all laws of the land, and accountability and responsibility towards stakeholders. Another highlighted point is the need for those in control to distinguish between personal and corporate funds while managing a company. Fundamentally, a company with good corporate governance inspires confidence in the market. The presence of an active group of independent directors on the board contributes greatly to this confidence. Corporate governance influences share prices positively and attracts foreign institutional investors. Unfortunately, it often gains attention only after large scams are exposed.\n\nAccording to the passage, which of the following should be the practice/practices in good corporate governance?\n\n1. Companies should always comply with labor and tax laws of the land.\n2. Every company should have a government representative as one of the independent directors on the board to ensure transparency.\n3. The manager of a company should never mix personal funds with company funds.\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q57",
+      "type": "single-choice",
+      "question": "Direction for following 2 questions:\n\nIn each item, there are two sets of figures: Problem Figures and Answer Figures. The Problem Figures follow a particular sequence. In accordance with the same, which one of the four Answer Figures should appear as the fifth figure?\n\n\"Problem figures:\n\n![45](/upsc/assets/csat/CSAT_2013_Q45_8832be2a24.png)\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "![45A](/upsc/assets/csat/CSAT_2013_Q45_Option_A_5520989541.png)"
+        },
+        {
+          "id": "b",
+          "text": "![45B](/upsc/assets/csat/CSAT_2013_Q45_Option_B_2c9cda1bd1.png)"
+        },
+        {
+          "id": "c",
+          "text": "![45C](/upsc/assets/csat/CSAT_2013_Q45_Option_C_cda83e4cbd.png)"
+        },
+        {
+          "id": "d",
+          "text": "![45D](/upsc/assets/csat/CSAT_2013_Q45_Option_D_84323b64eb.png)"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q58",
+      "type": "single-choice",
+      "question": "Direction for following 2 questions:\n\nIn each item, there are two sets of figures: Problem Figures and Answer Figures. The Problem Figures follow a particular sequence. In accordance with the same, which one of the four Answer Figures should appear as the fifth figure?\n\nProblem figures:\n\n![46](/upsc/assets/csat/CSAT_2013_Q46_9daa638aa7.png)",
+      "options": [
+        {
+          "id": "a",
+          "text": "![46A](/upsc/assets/csat/CSAT_2013_Q46_Option_A_3829e7f521.png)"
+        },
+        {
+          "id": "b",
+          "text": "![46B](/upsc/assets/csat/CSAT_2013_Q46_Option_B_6060d88207.png)"
+        },
+        {
+          "id": "c",
+          "text": "![46C](/upsc/assets/csat/CSAT_2013_Q46_Option_C_7fa4447c00.png)"
+        },
+        {
+          "id": "d",
+          "text": "![46D](/upsc/assets/csat/CSAT_2013_Q46_Option_D_bd6042f56b.png)"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q59",
+      "type": "single-choice",
+      "question": "The miseries of the world cannot be cured by physical help only. Until man’s nature changes, his physical needs will always arise, and miseries will always be felt, and no amount of physical help will remove them completely. The only solution to the problem is to make mankind pure. Ignorance is the mother of evil and of all the misery we see. Let men have light, let them be pure and spiritually strong and educated; then alone will misery cease in the world.\nWe may convert every house in the country into a charitable asylum, we may fill the land with hospitals, but human misery will continue until man’s character changes.\n\nAccording to the passage, which of the following statements is most likely to be true as the reason for man’s miseries?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The poor economic and social conditions prevailing in society."
+        },
+        {
+          "id": "b",
+          "text": "The refusal on the part of man to change his character."
+        },
+        {
+          "id": "c",
+          "text": "The absence of physical and material help from his society."
+        },
+        {
+          "id": "d",
+          "text": "Ever-increasing physical needs due to the changing social structure."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q60",
+      "type": "single-choice",
+      "question": "The miseries of the world cannot be cured by physical help only. Until man’s nature changes, his physical needs will always arise, and miseries will always be felt, and no amount of physical help will remove them completely. The only solution to the problem is to make mankind pure. Ignorance is the mother of evil and of all the misery we see. Let men have light, let them be pure and spiritually strong and educated; then alone will misery cease in the world.\nWe may convert every house in the country into a charitable asylum, we may fill the land with hospitals, but human misery will continue until man’s character changes.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. The author gives primary importance to physical and material help in eradicating human misery.\n2. Charitable homes, hospitals, etc., can remove human misery to a great extent.\n\nWhich of the assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q61",
+      "type": "single-choice",
+      "question": "\"The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what might have occurred in a more primitive and sustainable type of agriculture and converts pollutants into fertilizer. Soil microorganisms decompose the organic components of sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.\nThe excess input of nutrients, both nitrogen and phosphorus-based, from agricultural runoff (and human sewage) has caused many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear water) to change to eutrophic condition where high nutrient inputs lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to anoxia and fish kills; so-called cultural eutrophication. Thus, important ecosystem services are lost, including the provisioning services of wild-caught fish and the cultural services associated with recreation.\nThe process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists notice huge ‘dead zones’ in the oceans near river outlets, particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers, and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas u70,000 km² in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of the decomposition of algal blooms, fueled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increase productivity and use more fertilizer.\"\n\nWhat is the central theme of this passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Appropriate legislation is essential to protect the environment."
+        },
+        {
+          "id": "b",
+          "text": "Modern agriculture is responsible for the destruction of the environment."
+        },
+        {
+          "id": "c",
+          "text": "Improper waste disposal from agriculture can destroy aquatic ecosystems."
+        },
+        {
+          "id": "d",
+          "text": "Use of chemical fertilizers is undesirable in agriculture."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q62",
+      "type": "single-choice",
+      "question": "\"The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what might have occurred in a more primitive and sustainable type of agriculture and converts pollutants into fertilizer. Soil microorganisms decompose the organic components of sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.\nThe excess input of nutrients, both nitrogen and phosphorus-based, from agricultural runoff (and human sewage) has caused many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear water) to change to eutrophic condition where high nutrient inputs lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to anoxia and fish kills; so-called cultural eutrophication. Thus, important ecosystem services are lost, including the provisioning services of wild-caught fish and the cultural services associated with recreation.\nThe process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists notice huge ‘dead zones’ in the oceans near river outlets, particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers, and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas u70,000 km² in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of the decomposition of algal blooms, fueled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increase productivity and use more fertilizer.\"\n\nAs per the above passage, what is/are the characteristics of a water body with cultural eutrophication?\n\n1. Loss of ecosystem services.\n2. Loss of flora and fauna.\n3. Loss of mineral nutrients.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q63",
+      "type": "single-choice",
+      "question": "\"The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what might have occurred in a more primitive and sustainable type of agriculture and converts pollutants into fertilizer. Soil microorganisms decompose the organic components of sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.\nThe excess input of nutrients, both nitrogen and phosphorus-based, from agricultural runoff (and human sewage) has caused many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear water) to change to eutrophic condition where high nutrient inputs lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to anoxia and fish kills; so-called cultural eutrophication. Thus, important ecosystem services are lost, including the provisioning services of wild-caught fish and the cultural services associated with recreation.\nThe process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists notice huge ‘dead zones’ in the oceans near river outlets, particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers, and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas u70,000 km² in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of the decomposition of algal blooms, fueled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increase productivity and use more fertilizer.\"\n\nAccording to the passage, why should the discharge of agricultural slurry into watercourses be restricted?\n\n1. Losing nutrients in this way is not a good practice economically.\n2. Watercourses do not contain the microorganisms that can decompose organic components of agricultural slurry.\n3. The discharge may lead to the eutrophication of water bodies.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q64",
+      "type": "single-choice",
+      "question": "\"The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what might have occurred in a more primitive and sustainable type of agriculture and converts pollutants into fertilizer. Soil microorganisms decompose the organic components of sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.\nThe excess input of nutrients, both nitrogen and phosphorus-based, from agricultural runoff (and human sewage) has caused many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear water) to change to eutrophic condition where high nutrient inputs lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to anoxia and fish kills; so-called cultural eutrophication. Thus, important ecosystem services are lost, including the provisioning services of wild-caught fish and the cultural services associated with recreation.\nThe process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists notice huge ‘dead zones’ in the oceans near river outlets, particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers, and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas u70,000 km² in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of the decomposition of algal blooms, fueled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increase productivity and use more fertilizer.\"\n\nThe passage given above refers to the conversion of \"pollutant to fertilizer.\" What is the pollutant and what is the fertilizer in this context?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The decomposed organic component of slurry is a pollutant and microorganisms in soil constitute fertilizer."
+        },
+        {
+          "id": "b",
+          "text": "Discharged agricultural slurry is a pollutant and decomposed slurry in soil is fertilizer."
+        },
+        {
+          "id": "c",
+          "text": "Sprayed slurry is a pollutant, and watercourse is fertilizer."
+        },
+        {
+          "id": "d",
+          "text": "None of the above expressions is correct in this context."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q65",
+      "type": "single-choice",
+      "question": "\"The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what might have occurred in a more primitive and sustainable type of agriculture and converts pollutants into fertilizer. Soil microorganisms decompose the organic components of sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.\nThe excess input of nutrients, both nitrogen and phosphorus-based, from agricultural runoff (and human sewage) has caused many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear water) to change to eutrophic condition where high nutrient inputs lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to anoxia and fish kills; so-called cultural eutrophication. Thus, important ecosystem services are lost, including the provisioning services of wild-caught fish and the cultural services associated with recreation.\nThe process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists notice huge ‘dead zones’ in the oceans near river outlets, particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers, and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas u70,000 km² in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of the decomposition of algal blooms, fueled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increase productivity and use more fertilizer.\"\n\nAccording to the passage given above, what are the effects of indiscriminate use of fertilizers?\n\n1. Addition of pollutants to the soil and water.\n2. Destruction of decomposer microorganisms in the soil.\n3. Nutrient enrichment of water bodies.\n4. Creation of algal blooms.\n\nSelect the correct answer from the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 3, and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q66",
+      "type": "single-choice",
+      "question": "A stout old lady was walking with her basket down the middle of a street in Petrograd to the great confusion of the traffic and no small peril to herself. It was pointed out to her that the pavement was the place for foot-passengers, but she replied, “I’m going to walk where I like. We’ve got liberty now.” It did not occur to the dear lady that if liberty entitled the foot-passenger to walk down the middle of the road, it also entitled the taxi-driver to drive on the pavement, and that the end of such liberty would be universal chaos. Everything would be getting in everybody else’s way and nobody would get anywhere. Individual liberty would have become social anarchy.\n\nIt was pointed out to the lady that she should walk on the pavement because she was",
+      "options": [
+        {
+          "id": "a",
+          "text": "a pedestrian."
+        },
+        {
+          "id": "b",
+          "text": "carrying a basket."
+        },
+        {
+          "id": "c",
+          "text": "stout."
+        },
+        {
+          "id": "d",
+          "text": "an old lady."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q67",
+      "type": "single-choice",
+      "question": "A stout old lady was walking with her basket down the middle of a street in Petrograd to the great confusion of the traffic and no small peril to herself. It was pointed out to her that the pavement was the place for foot-passengers, but she replied, “I’m going to walk where I like. We’ve got liberty now.” It did not occur to the dear lady that if liberty entitled the foot-passenger to walk down the middle of the road, it also entitled the taxi-driver to drive on the pavement, and that the end of such liberty would be universal chaos. Everything would be getting in everybody else’s way and nobody would get anywhere. Individual liberty would have become social anarchy.\n\nThe lady refused to move from the middle of the street because",
+      "options": [
+        {
+          "id": "a",
+          "text": "she was not afraid of being killed."
+        },
+        {
+          "id": "b",
+          "text": "she felt that she was entitled to do whatever she liked."
+        },
+        {
+          "id": "c",
+          "text": "she did not like walking on the pavement."
+        },
+        {
+          "id": "d",
+          "text": "she was confused."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q68",
+      "type": "single-choice",
+      "question": "A stout old lady was walking with her basket down the middle of a street in Petrograd to the great confusion of the traffic and no small peril to herself. It was pointed out to her that the pavement was the place for foot-passengers, but she replied, “I’m going to walk where I like. We’ve got liberty now.” It did not occur to the dear lady that if liberty entitled the foot-passenger to walk down the middle of the road, it also entitled the taxi-driver to drive on the pavement, and that the end of such liberty would be universal chaos. Everything would be getting in everybody else’s way and nobody would get anywhere. Individual liberty would have become social anarchy.\n\nThe old lady failed to realize that",
+      "options": [
+        {
+          "id": "a",
+          "text": "she was not really free."
+        },
+        {
+          "id": "b",
+          "text": "her liberty was not unlimited."
+        },
+        {
+          "id": "c",
+          "text": "she was an old person."
+        },
+        {
+          "id": "d",
+          "text": "roads are made for motor vehicles only."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q69",
+      "type": "single-choice",
+      "question": "Malnutrition most commonly occurs between the ages of six months and two years. This happens despite a child’s food requirements being less than that of an older child. Malnutrition is often attributed to poverty, but it has been found that even in households where adults eat adequate quantities of food, more than 50 percent of children under five do not consume enough food. The child’s dependence on someone else to feed him/her is primarily responsible for the malnutrition. Very often the mother is working and the responsibility of feeding the young child is left to an older sibling. It is therefore crucial to increase awareness regarding the child’s food needs and how to satisfy them.\n\nAccording to the passage, malnutrition in children can be reduced",
+      "options": [
+        {
+          "id": "a",
+          "text": "if the children have a regular intake of food."
+        },
+        {
+          "id": "b",
+          "text": "after they cross the age of five."
+        },
+        {
+          "id": "c",
+          "text": "if the food needs of younger children are known."
+        },
+        {
+          "id": "d",
+          "text": "if the responsibility of feeding younger children is given to adults."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q70",
+      "type": "single-choice",
+      "question": "Malnutrition most commonly occurs between the ages of six months and two years. This happens despite a child’s food requirements being less than that of an older child. Malnutrition is often attributed to poverty, but it has been found that even in households where adults eat adequate quantities of food, more than 50 percent of children under five do not consume enough food. The child’s dependence on someone else to feed him/her is primarily responsible for the malnutrition. Very often the mother is working and the responsibility of feeding the young child is left to an older sibling. It is therefore crucial to increase awareness regarding the child’s food needs and how to satisfy them.\n\nAccording to the author, poverty is not the main cause of malnutrition, but the fact that\n\n1. taking care of younger ones is not a priority for working mothers.\n2. awareness of nutritional needs is not propagated by Public Health authorities.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q71",
+      "type": "single-choice",
+      "question": "The subject of democracy has become severely muddled because of the way the rhetoric surrounding it has been used in recent years. There is, increasingly, an oddly confused dichotomy between those who want to ‘impose’ democracy on countries in the non-Western world (in these countries ‘own interest’, of course) and those who are opposed to such imposition’ (because of respect for the countries’ ‘own ways’). But the entire language of ‘imposition’, used by both sides, is extraordinarily inappropriate since it makes the implicit assumption that democracy belongs exclusively to the West, taking it to be a quintessentially ‘Western’ idea that has originated and flourished only in the West.\nBut the thesis and the pessimism it generates about the possibility of democratic practice in the world is extremely hard to justify. There were several experiments in local democracy in ancient India. Indeed, in understanding the roots of democracy in the world, we have to take an interest in the history of people’s participation and public reasoning in different parts of the world. We have to look beyond thinking of democracy only in terms of European and American evolution. We would fail to understand the pervasive demands for participatory living, on which Aristotle spoke with far-reaching insight if we take democracy to be a kind of specialised cultural product of the West.\nIt cannot, of course, be doubted that the institutional structure of the contemporary practice of democracy is largely the product of European and American experience over the last few centuries. This is extremely important to recognize since these developments in institutional formats were immensely innovative and ultimately effective. There can be little doubt that there is a major ‘Western’ achievement here.\n\nWhich of the following is closest to the view of democracy as mentioned in the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The subject of democracy is a muddle due to a desire to portray it as a Western concept, ‘alien’ to non-Western countries."
+        },
+        {
+          "id": "b",
+          "text": "The language of imposition of democracy is inappropriate. There is, however, a need to consider this concept in the backdrop of the culture of ‘own ways’ of non-Western society."
+        },
+        {
+          "id": "c",
+          "text": "While democracy is not essentially a Western idea belonging exclusively to the West, the institutional structure of current democratic practices has been their contribution."
+        },
+        {
+          "id": "d",
+          "text": "None of the statements A, B, and C given is correct."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q72",
+      "type": "single-choice",
+      "question": "The subject of democracy has become severely muddled because of the way the rhetoric surrounding it has been used in recent years. There is, increasingly, an oddly confused dichotomy between those who want to ‘impose’ democracy on countries in the non-Western world (in these countries ‘own interest’, of course) and those who are opposed to such imposition’ (because of respect for the countries’ ‘own ways’). But the entire language of ‘imposition’, used by both sides, is extraordinarily inappropriate since it makes the implicit assumption that democracy belongs exclusively to the West, taking it to be a quintessentially ‘Western’ idea that has originated and flourished only in the West.\nBut the thesis and the pessimism it generates about the possibility of democratic practice in the world is extremely hard to justify. There were several experiments in local democracy in ancient India. Indeed, in understanding the roots of democracy in the world, we have to take an interest in the history of people’s participation and public reasoning in different parts of the world. We have to look beyond thinking of democracy only in terms of European and American evolution. We would fail to understand the pervasive demands for participatory living, on which Aristotle spoke with far-reaching insight if we take democracy to be a kind of specialised cultural product of the West.\nIt cannot, of course, be doubted that the institutional structure of the contemporary practice of democracy is largely the product of European and American experience over the last few centuries. This is extremely important to recognize since these developments in institutional formats were immensely innovative and ultimately effective. There can be little doubt that there is a major ‘Western’ achievement here.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Many of the non-Western countries are unable to have democracy because they take democracy to be a specialized cultural product of the West.\n\n2. Western countries are always trying to impose democracy on non-Western countries.\n\nWhich of the above is/are valid assumption/assumptions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q73",
+      "type": "single-choice",
+      "question": "Crude mineral oil comes out of the earth as a thick brown or black liquid with a strong smell. It is a complex mixture of many different substances, each with its own individual qualities. Most of them are combinations of hydrogen and carbon in varying proportions. Such hydrocarbons are also found in other forms such as bitumen, asphalt, and natural gas.\nMineral oil originates from the carcasses of tiny animals and plants that lived in the sea. Over millions of years, these dead creatures formed large deposits under the sea-bed; and ocean currents covered them with a blanket of sand and silt. As this material hardened, it became sedimentary rock and effectively shut out the oxygen, preventing the complete decomposition of the marine deposits underneath. The layers of sedimentary rock became thicker and heavier. Their pressure produced heat, which transformed the tiny carcasses into crude oil in a process that is still going on today.\n\nMineral oil deposits under the sea do not get completely decomposed because they:",
+      "options": [
+        {
+          "id": "a",
+          "text": "are constantly washed by the ocean currents."
+        },
+        {
+          "id": "b",
+          "text": "become rock and prevent oxygen from entering them."
+        },
+        {
+          "id": "c",
+          "text": "contain a mixture of hydrogen and carbon."
+        },
+        {
+          "id": "d",
+          "text": "are carcasses of organisms lying in saline conditions."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q74",
+      "type": "single-choice",
+      "question": "Crude mineral oil comes out of the earth as a thick brown or black liquid with a strong smell. It is a complex mixture of many different substances, each with its own individual qualities. Most of them are combinations of hydrogen and carbon in varying proportions. Such hydrocarbons are also found in other forms such as bitumen, asphalt, and natural gas.\nMineral oil originates from the carcasses of tiny animals and plants that lived in the sea. Over millions of years, these dead creatures formed large deposits under the sea-bed; and ocean currents covered them with a blanket of sand and silt. As this material hardened, it became sedimentary rock and effectively shut out the oxygen, preventing the complete decomposition of the marine deposits underneath. The layers of sedimentary rock became thicker and heavier. Their pressure produced heat, which transformed the tiny carcasses into crude oil in a process that is still going on today.\n\nFrom the above passage, sedimentary rock leads to the formation of oil deposits because:",
+      "options": [
+        {
+          "id": "a",
+          "text": "there are no saline conditions below it."
+        },
+        {
+          "id": "b",
+          "text": "it allows some dissolved oxygen to enter the dead organic matter below it."
+        },
+        {
+          "id": "c",
+          "text": "the weight of overlying sediment layers causes the production of heat."
+        },
+        {
+          "id": "d",
+          "text": "it contains the substances that catalyze the chemical reactions to change dead organisms into oil."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q75",
+      "type": "single-choice",
+      "question": "Ecological research over the last quarter of the century has established the deleterious effects of habitat fragmentation due to mining, highways, and such other intrusions on forests. When a large block of forests gets fragmented into smaller bits, the edges of all these bits come into contact with human activities resulting in the degradation of the entire forest. Continuity of forested landscapes and corridors gets disrupted, posing a serious threat to biodiversity conservation. Ad hoc grants of forest lands to mining companies, coupled with rampant illegal mining, is aggravating this threat.\n\nWhat is the central focus of this passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Illegal mining in forests."
+        },
+        {
+          "id": "b",
+          "text": "Extinction of wildlife."
+        },
+        {
+          "id": "c",
+          "text": "Conservation of nature."
+        },
+        {
+          "id": "d",
+          "text": "Disruption of habitat."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q76",
+      "type": "single-choice",
+      "question": "Ecological research over the last quarter of the century has established the deleterious effects of habitat fragmentation due to mining, highways, and such other intrusions on forests. When a large block of forests gets fragmented into smaller bits, the edges of all these bits come into contact with human activities resulting in the degradation of the entire forest. Continuity of forested landscapes and corridors gets disrupted, posing a serious threat to biodiversity conservation. Ad hoc grants of forest lands to mining companies, coupled with rampant illegal mining, is aggravating this threat.\n\nWhat is the purpose of maintaining the continuity of forested landscapes and corridors?\n\n1. Preservation of biodiversity.\n2. Management of mineral resources.\n3. Grant of forest lands for human activities.\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q77",
+      "type": "single-choice",
+      "question": "Financial markets in India have acquired greater depth and liquidity over the years. Steady reforms since 1991 have led to growing linkages and integration of the Indian economy and its financial systems with the global economy. Weak global economic prospects and continuing uncertainties in the international financial markets have had an impact on the emerging market economies. Sovereign risk concerns, particularly in the Euro area, affected financial markets for the greater part of the year, with the contagion of Greece’s sovereign debt problem spreading to India and other economies by way of higher-than-normal levels of volatility.\n\nThe funding constraints in international financial markets could impact both the availability and cost of foreign funding for banks and corporates. Since the Indian financial system is bank-dominated, banks’ ability to withstand stress is critical to overall financial stability. Indian banks, however, remain robust, notwithstanding a decline in capital to risk-weighted assets ratio and a rise in non-performing asset levels in the recent past. Capital adequacy levels remain above the regulatory requirements. The financial market infrastructure continues to function without any major disruption. With further globalization, consolidation, deregulation, and diversification of the financial system, the banking business may become more complex and riskier. Issues like risk and liquidity management and enhancing skills, therefore, assume greater significance.\n\nAccording to the passage, the financial markets in emerging market economies, including India, had an adverse impact in recent years due to:\nWeak global economic prospects.\n1. Uncertainties in the international financial markets.\n2. Sovereign risk concerns in the Euro area.\n3. Bad monsoons and the resultant crop loss.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2, and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "2, 3, and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q78",
+      "type": "single-choice",
+      "question": "Financial markets in India have acquired greater depth and liquidity over the years. Steady reforms since 1991 have led to growing linkages and integration of the Indian economy and its financial systems with the global economy. Weak global economic prospects and continuing uncertainties in the international financial markets have had an impact on the emerging market economies. Sovereign risk concerns, particularly in the Euro area, affected financial markets for the greater part of the year, with the contagion of Greece’s sovereign debt problem spreading to India and other economies by way of higher-than-normal levels of volatility.\n\nThe funding constraints in international financial markets could impact both the availability and cost of foreign funding for banks and corporates. Since the Indian financial system is bank-dominated, banks’ ability to withstand stress is critical to overall financial stability. Indian banks, however, remain robust, notwithstanding a decline in capital to risk-weighted assets ratio and a rise in non-performing asset levels in the recent past. Capital adequacy levels remain above the regulatory requirements. The financial market infrastructure continues to function without any major disruption. With further globalization, consolidation, deregulation, and diversification of the financial system, the banking business may become more complex and riskier. Issues like risk and liquidity management and enhancing skills, therefore, assume greater significance.\n\nRisk and liquidity management assume more importance in the Indian banking system in the future due to:\n\n1. Further globalization.\n2. More consolidation and deregulation of the financial system.\n3. Further diversification of the financial system.\n4. More financial inclusion in the economy.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "3 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q79",
+      "type": "single-choice",
+      "question": "Financial markets in India have acquired greater depth and liquidity over the years. Steady reforms since 1991 have led to growing linkages and integration of the Indian economy and its financial systems with the global economy. Weak global economic prospects and continuing uncertainties in the international financial markets have had an impact on the emerging market economies. Sovereign risk concerns, particularly in the Euro area, affected financial markets for the greater part of the year, with the contagion of Greece’s sovereign debt problem spreading to India and other economies by way of higher-than-normal levels of volatility.\n\nThe funding constraints in international financial markets could impact both the availability and cost of foreign funding for banks and corporates. Since the Indian financial system is bank-dominated, banks’ ability to withstand stress is critical to overall financial stability. Indian banks, however, remain robust, notwithstanding a decline in capital to risk-weighted assets ratio and a rise in non-performing asset levels in the recent past. Capital adequacy levels remain above the regulatory requirements. The financial market infrastructure continues to function without any major disruption. With further globalization, consolidation, deregulation, and diversification of the financial system, the banking business may become more complex and riskier. Issues like risk and liquidity management and enhancing skills, therefore, assume greater significance.\n\nAs per above passage, the Indian financial markets are affected by global changes mainly due to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increased inflow of remittances from abroad."
+        },
+        {
+          "id": "b",
+          "text": "Enormous increase in foreign exchange reserves."
+        },
+        {
+          "id": "c",
+          "text": "Growing global linkages and integration of the Indian financial markets."
+        },
+        {
+          "id": "d",
+          "text": "Contagion of Greece’s sovereign debt problem."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2013_csat_q80",
+      "type": "single-choice",
+      "question": "Financial markets in India have acquired greater depth and liquidity over the years. Steady reforms since 1991 have led to growing linkages and integration of the Indian economy and its financial systems with the global economy. Weak global economic prospects and continuing uncertainties in the international financial markets have had an impact on the emerging market economies. Sovereign risk concerns, particularly in the Euro area, affected financial markets for the greater part of the year, with the contagion of Greece’s sovereign debt problem spreading to India and other economies by way of higher-than-normal levels of volatility.\n\nThe funding constraints in international financial markets could impact both the availability and cost of foreign funding for banks and corporates. Since the Indian financial system is bank-dominated, banks’ ability to withstand stress is critical to overall financial stability. Indian banks, however, remain robust, notwithstanding a decline in capital to risk-weighted assets ratio and a rise in non-performing asset levels in the recent past. Capital adequacy levels remain above the regulatory requirements. The financial market infrastructure continues to function without any major disruption. With further globalization, consolidation, deregulation, and diversification of the financial system, the banking business may become more complex and riskier. Issues like risk and liquidity management and enhancing skills, therefore, assume greater significance.\n\nAccording to the passage given above, in the Indian financial system, banks’ ability to withstand stress is critical to ensuring overall financial stability because the Indian financial system is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Controlled by the Government of India."
+        },
+        {
+          "id": "b",
+          "text": "Less integrated with banks."
+        },
+        {
+          "id": "c",
+          "text": "Controlled by the Reserve Bank of India."
+        },
+        {
+          "id": "d",
+          "text": "Dominated by banks."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

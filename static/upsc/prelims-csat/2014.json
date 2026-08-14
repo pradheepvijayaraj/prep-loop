@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2014",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2014,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2014_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2014_csat_q1",
+      "type": "single-choice",
+      "question": "Examine the following statements:\n\n1. George attends Music classes on Monday.\n2. He attends Mathematics classes on Wednesdays.\n3. His Literature classes are not on Friday.\n4. He attends History classes on the day following the day of his Mathematics classes.\n5. On Tuesday, he attends his Sports classes.\n\nIf he attends just one subject in a day and his Sunday is free, then he is also free on",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monday"
+        },
+        {
+          "id": "b",
+          "text": "Thursday"
+        },
+        {
+          "id": "c",
+          "text": "Saturday"
+        },
+        {
+          "id": "d",
+          "text": "Friday"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q2",
+      "type": "single-choice",
+      "question": "With reference to the figure given below number of different routes from S to T without retracing from U and/or V (T is the next node after V), is![19](/upsc/assets/csat/CSAT_2014_Q19_0e258471aa.png)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "18"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q3",
+      "type": "single-choice",
+      "question": "Two cars start towards each other, from two places A and B which are at a distance of 160 km. They start at the same time 08: 10 AM. If the speeds of the cars are 50 km and 30 km per hour respectively, they will meet each other at",
+      "options": [
+        {
+          "id": "a",
+          "text": "10: 10 AM"
+        },
+        {
+          "id": "b",
+          "text": "10: 30 AM"
+        },
+        {
+          "id": "c",
+          "text": "11: 10 AM"
+        },
+        {
+          "id": "d",
+          "text": "11: 20 AM"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q4",
+      "type": "single-choice",
+      "question": "The letters L, M, N, 0, P, Q, R, S and T in their order are substituted by nine integers 1 to 9 but not in that order. 4 is assigned to P. The difference between P and T is 5. The difference between N and T is 3. What is the integer assigned to N?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q5",
+      "type": "single-choice",
+      "question": "Five persons fire bullets at a target at an interval of 6, 7, 8, 9 and 12 seconds respectively. The number of times they would fire the bullets together at the target in an hour is",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "7"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q6",
+      "type": "single-choice",
+      "question": "A worker reaches his factory 3 minutes late if his speed from his house to the factory is 5 km/hr. If he walks at a speed of 6 km/hr then he reaches the factory 7 minutes early the distance of the factory from his house is",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 km"
+        },
+        {
+          "id": "b",
+          "text": "4 km"
+        },
+        {
+          "id": "c",
+          "text": "5 km"
+        },
+        {
+          "id": "d",
+          "text": "6 km"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q7",
+      "type": "single-choice",
+      "question": "A group of 630 children is seated in rows for a group photo session. Each row contains three less children than the row in front of it. Which one of the following number of rows is not possible?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q8",
+      "type": "single-choice",
+      "question": "Consider that:\n\n1. A is taller than B.\n2. C is taller than A.\n3. D is taller than C.\n4. E is the tallest of all.\n\nIf they are made to sit in the above order of their height, who will occupy the mid position?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q9",
+      "type": "single-choice",
+      "question": "A straight line segment is 36 cm long. Points are to be marked on the line from both the end points. From each end, the first point is at a distance of 1 cm from the end, the second point is at a distance of 2 cm from the first point and the third point is at a distance of 3 cm from the second point and so on. If the points on the ends are not counted and the common points are counted a one, what is the number of points?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "14"
+        },
+        {
+          "id": "d",
+          "text": "16"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q10",
+      "type": "single-choice",
+      "question": "Out of a total of 120 musicians in a club, 5% can play all the three instruments, guitar, violin and flute. It so happens that the number of musicians who can play any and only two of the above instruments is 30. The number of musicians who can play guitar alone is 40. What is the total number those who can play violin alone or flute alone?",
+      "options": [
+        {
+          "id": "a",
+          "text": "45"
+        },
+        {
+          "id": "b",
+          "text": "44"
+        },
+        {
+          "id": "c",
+          "text": "38"
+        },
+        {
+          "id": "d",
+          "text": "30"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q11",
+      "type": "single-choice",
+      "question": "As per agreement with a bank, a businessman had to refund a loan in some equal installments without interest. After paying 18 installments he found that 60 percent of his loan was refunded. How many installments were there in the agreement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "22"
+        },
+        {
+          "id": "b",
+          "text": "24"
+        },
+        {
+          "id": "c",
+          "text": "30"
+        },
+        {
+          "id": "d",
+          "text": "33"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q12",
+      "type": "single-choice",
+      "question": "If the 3rd day of a month is Monday, which one of the following will be the fifth day from the 21st of this month?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monday"
+        },
+        {
+          "id": "b",
+          "text": "Tuesday"
+        },
+        {
+          "id": "c",
+          "text": "Wednesday"
+        },
+        {
+          "id": "d",
+          "text": "Friday"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q13",
+      "type": "single-choice",
+      "question": "The following table gives population and total income of a city for four years:\n\n![16](/upsc/assets/csat/CSAT_2014_Q16_2267e3bf82.png)\n\nWhich one of the following statements correct in respect of the above data?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Population increased by $5\\%$ or more every year"
+        },
+        {
+          "id": "b",
+          "text": "Income increased by $10\\%$ or more every year."
+        },
+        {
+          "id": "c",
+          "text": "Per capita income was always above $5,000$."
+        },
+        {
+          "id": "d",
+          "text": "Per capita income was highest in 1994."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q14",
+      "type": "single-choice",
+      "question": "Consider the following matrix:\n\n![15](/upsc/assets/csat/CSAT_2014_Q15_1da53b6464.png)\n\nWhich one of the following figures fits into blank part of the above matrix?",
+      "options": [
+        {
+          "id": "a",
+          "text": "![15A](/upsc/assets/csat/CSAT_2014_Q15_Option_A_7cb737789b.png)"
+        },
+        {
+          "id": "b",
+          "text": "![15B](/upsc/assets/csat/CSAT_2014_Q15_Option_B_b93aaf593f.png)"
+        },
+        {
+          "id": "c",
+          "text": "![15C](/upsc/assets/csat/CSAT_2014_Q15_Option_C_c8cabc563b.png)"
+        },
+        {
+          "id": "d",
+          "text": "![15D](/upsc/assets/csat/CSAT_2014_Q15_Option_D_87a13d440b.png)"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q15",
+      "type": "single-choice",
+      "question": "Consider the table given below in which the numbers bear certain relationship among themselves along the rows:\n\n![17](/upsc/assets/csat/CSAT_2014_Q17_839dfebde4.png)\n\nWhich one of the following numbers is the missing number indicated above by X?",
+      "options": [
+        {
+          "id": "a",
+          "text": "19"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "14"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q16",
+      "type": "single-choice",
+      "question": "Four persons, Alok, Bhupesh, Chander and Dinesh have a total of Rs. 100 among themselves. Alok and Bhupesh between them have as much money as Chander and Dinesh between them, but Alok has more money than Bhupesh; and Chander has only half the money that Dinesh has. Alok has in fact Rs. 5 more than Dinesh has. Who has the maximum amount of money?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alok"
+        },
+        {
+          "id": "b",
+          "text": "Bhupesh"
+        },
+        {
+          "id": "c",
+          "text": "Chander"
+        },
+        {
+          "id": "d",
+          "text": "Dinesh"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q17",
+      "type": "single-choice",
+      "question": "A question paper must have a question on one of the eight poets: A, B, C, D, E, F, G or H The first four belong to the medieval period while the rest are considered modern poets Generally, modern poets figure in the question paper in alternate years. Generally those who like H like G also; and those who like F like E also. The paper-setter does not like to ask about F as he has written a book on F, but he likes F. Last year, the paper contained a question on A. On the basis of the information given, this year's paper is most likely to contain a question on",
+      "options": [
+        {
+          "id": "a",
+          "text": "C"
+        },
+        {
+          "id": "b",
+          "text": "E"
+        },
+        {
+          "id": "c",
+          "text": "F"
+        },
+        {
+          "id": "d",
+          "text": "H"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q18",
+      "type": "single-choice",
+      "question": "A bell rings every 18 minutes. A second bell rings every 24 minutes. A third bell rings every 32 minutes. If all the three bells ring at the same time at 8 o'clock in the morning, at what other time will they all ring together?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$12 : 40$ hrs"
+        },
+        {
+          "id": "b",
+          "text": "$12 : 48$ hrs"
+        },
+        {
+          "id": "c",
+          "text": "$12 : 56$ hrs"
+        },
+        {
+          "id": "d",
+          "text": "$13 : 04$ hrs"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q19",
+      "type": "single-choice",
+      "question": "There are seven persons up on a ladder, A, B, C, D, E, F and G (not in that order). A is further up than E but is lower than C. B is in the middle. G is between A and B. E is between B and F. If F is between E and D, the person on the bottom step of the ladder will be",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "F"
+        },
+        {
+          "id": "c",
+          "text": "D"
+        },
+        {
+          "id": "d",
+          "text": "E"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q20",
+      "type": "single-choice",
+      "question": "Consider the following matrix with one empty block in the lower extreme corner:\n\n![18](/upsc/assets/csat/CSAT_2014_Q18_47dce8f7ee.png)\n\nWhich of the following figures could fit in the empty block and thus complete the matrix?",
+      "options": [
+        {
+          "id": "a",
+          "text": "![18A](/upsc/assets/csat/CSAT_2014_Q18_Option_A_59463cc65b.png)"
+        },
+        {
+          "id": "b",
+          "text": "![18B](/upsc/assets/csat/CSAT_2014_Q18_Option_B_d5bb13f150.png)"
+        },
+        {
+          "id": "c",
+          "text": "![18C](/upsc/assets/csat/CSAT_2014_Q18_Option_C_7cb1267c14.png)"
+        },
+        {
+          "id": "d",
+          "text": "![18D](/upsc/assets/csat/CSAT_2014_Q18_Option_D_c87756ffde.png)"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q21",
+      "type": "single-choice",
+      "question": "Six books are labelled A, B, C, D, E and F and are placed side by side. Books B, C, E and F have green covers while others have yellow covers. Books A, B and D are new while the rest are old volumes. Books A, B and C are law reports while the rest are medical extracts. Which two books are old medical extracts and have green covers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B and C"
+        },
+        {
+          "id": "b",
+          "text": "E and F"
+        },
+        {
+          "id": "c",
+          "text": "C and E"
+        },
+        {
+          "id": "d",
+          "text": "C and F"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q22",
+      "type": "single-choice",
+      "question": "Liberty, therefore, is never real unless the Government can be called to account when it invades rights.\"\n\none of the following is the best justification of the above statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In the realisation that the government can be brought to book in a court of law"
+        },
+        {
+          "id": "b",
+          "text": "In identifying a man as a political unit in a way which distinguishes him from other citizens"
+        },
+        {
+          "id": "c",
+          "text": "In a decentralized society wherein the basic needs of men can find satisfaction"
+        },
+        {
+          "id": "d",
+          "text": "In the understanding that liberty and, restraints are complementary"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q23",
+      "type": "single-choice",
+      "question": "Given the statement: \"Buses are the cause of more accidents than cars, and trucks causes fewer accidents than buses\", which of the following conclusions can we draw?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There are more buses on the road than trucks."
+        },
+        {
+          "id": "b",
+          "text": "Car drivers are more careful than bus drivers."
+        },
+        {
+          "id": "c",
+          "text": "Truck drivers are more skilled than either car or bus drivers."
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q24",
+      "type": "single-choice",
+      "question": "For a charity show, the total tickets sold were 420. Half of these tickets were sold at the rate of Rs. 5 each, one-third at the rate of Rs. 3 each and the rest for Rs. 2 each. What was the total amount received?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 900"
+        },
+        {
+          "id": "b",
+          "text": "Rs. $1,540$"
+        },
+        {
+          "id": "c",
+          "text": "Rs. $1,610$"
+        },
+        {
+          "id": "d",
+          "text": "Rs. $2,000$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q25",
+      "type": "single-choice",
+      "question": "Six identical cards are placed on a table. Each card has number '1' marked on one side and number '2' marked on its other side. All the six cards are placed in such a manner that the number '1' is on the upper side. In one try, exactly four (neither more nor less) cards are turned upside down. In how many Ieast number of tries can the cards be turned upside down such that all the six cards show number '2' on the upper side?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "This cannot be achieved"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q26",
+      "type": "single-choice",
+      "question": "In a row 'A' is in the 11th position from the left and 'B' is in the 10th position from the right. If 'A' and 'B' interchange, then 'A' becomes 18th from the left. How many persons are there in the row other than 'A' and 'B'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "27"
+        },
+        {
+          "id": "b",
+          "text": "26"
+        },
+        {
+          "id": "c",
+          "text": "25"
+        },
+        {
+          "id": "d",
+          "text": "24"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q27",
+      "type": "single-choice",
+      "question": "Consider the following statements: There are six villages A, B, C, D, E and F.\n\nF is 1 km to the west of D.\nB is 1 km to the east of E.\nA is 2 km to the north of E.\nC is 1 km to the east of A.\nD is 1 km to the south of A.\n\nWhich three villages are in a line?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A, C, B"
+        },
+        {
+          "id": "b",
+          "text": "A, D, E"
+        },
+        {
+          "id": "c",
+          "text": "C, B, F"
+        },
+        {
+          "id": "d",
+          "text": "E, B, D"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q28",
+      "type": "single-choice",
+      "question": "In a group of six women there are four dancers, four vocal musicians, one actress and three violinists. Girija and Vanaja are among the violinists while Jalaja and Shailaja do not know how to play on the violin. Shailaja and Tanuja are among the dancers. Jalaja, Vanaja, Shailaja and Tanuja are all vocal musicians and two of them are also violinists. If Pooja is an actress, who among the following is certainly a dancer and a violinist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jalaja"
+        },
+        {
+          "id": "b",
+          "text": "Pooja"
+        },
+        {
+          "id": "c",
+          "text": "Shailaja"
+        },
+        {
+          "id": "d",
+          "text": "Tanuja"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q29",
+      "type": "single-choice",
+      "question": "The following table shows the marks obtained by two students in different subjects:\n\n![13](/upsc/assets/csat/CSAT_2014_Q13_ca48b3460b.png)\n\nThe difference in the mean aggregate percentage marks of the students is",
+      "options": [
+        {
+          "id": "a",
+          "text": "$2.5\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$13.75\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$1.25\\%$"
+        },
+        {
+          "id": "d",
+          "text": "Zero"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q30",
+      "type": "single-choice",
+      "question": "\"If political leadership fails to emerge, there is likelihood of military taking over power in developing countries. Radical student groups or labour may try to raise revolution but they are not likely to compete with the military. Military intervention, rule, and withdrawal from politics is closely related to a society's level of political development.\"\n\nIn the context of political development, the assumption in the above passage is that",
+      "options": [
+        {
+          "id": "a",
+          "text": "political leadership is not an effective instrument."
+        },
+        {
+          "id": "b",
+          "text": "military fills in political vacuum."
+        },
+        {
+          "id": "c",
+          "text": "military intervention is inevitable for development."
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q31",
+      "type": "single-choice",
+      "question": "Location of B is north of A and location of C is east of A. The distances AB and AC are 5 km and 12 km respectively. The shortest distance (in km) between the locations B and C is",
+      "options": [
+        {
+          "id": "a",
+          "text": "60"
+        },
+        {
+          "id": "b",
+          "text": "13"
+        },
+        {
+          "id": "c",
+          "text": "17"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q32",
+      "type": "single-choice",
+      "question": "There are 50 students admitted to a nursery class. Some students can speak only English and some can speak only Hindi. 10 student can speak both English and Hindi. If the number of students who can speak English 21, then how many students can speak Hindi how many can speak only Hindi and how many can speak only English?",
+      "options": [
+        {
+          "id": "a",
+          "text": "21, 11 and 29 respectively"
+        },
+        {
+          "id": "b",
+          "text": "28, 18 and 22 respectively"
+        },
+        {
+          "id": "c",
+          "text": "37, 27 and 13 respectively"
+        },
+        {
+          "id": "d",
+          "text": "39, 29 and 11 respectively"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q33",
+      "type": "single-choice",
+      "question": "Consider the following figures:\n\n![20](/upsc/assets/csat/CSAT_2014_Q20_bea437e76f.png)\n\nChange in positions of beads in the figures above follows a sequence. Follows the same sequence, which of the figures look should appear as the fifth figure above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "![20A](/upsc/assets/csat/CSAT_2014_Q20_Option_A_313f9da36d.png)"
+        },
+        {
+          "id": "b",
+          "text": "![20B](/upsc/assets/csat/CSAT_2014_Q20_Option_B_bef98b00a5.png)"
+        },
+        {
+          "id": "c",
+          "text": "![20C](/upsc/assets/csat/CSAT_2014_Q20_Option_C_41fade3d62.png)"
+        },
+        {
+          "id": "d",
+          "text": "![20D](/upsc/assets/csat/CSAT_2014_Q20_Option_D_58585c6006.png)"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q34",
+      "type": "single-choice",
+      "question": "The number of deaths among the army personnel is 8 in 1000, but among the civilian population it is 20 per 1000. Which one of the following inferences can be drawn from this statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is better to join the army."
+        },
+        {
+          "id": "b",
+          "text": "The relationship is fortuitous."
+        },
+        {
+          "id": "c",
+          "text": "Quality of Life Index is very high within the armed forces."
+        },
+        {
+          "id": "d",
+          "text": "The groups cannot be compared due to their heterogeneity"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q35",
+      "type": "single-choice",
+      "question": "If Sohan, while selling two goats at the same price, makes a profit of $10\\%$ on one goat and suffers a loss of $10\\%$ on the other",
+      "options": [
+        {
+          "id": "a",
+          "text": "he makes no profit and no loss."
+        },
+        {
+          "id": "b",
+          "text": "he makes a profit of $1\\%$."
+        },
+        {
+          "id": "c",
+          "text": "he suffers a loss of $1\\%$."
+        },
+        {
+          "id": "d",
+          "text": "he suffers a loss of $2\\%$."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q36",
+      "type": "single-choice",
+      "question": "Examine the following figure:\n\nWhich one of the following figures has the above figure embedded in it?\n\n![14](/upsc/assets/csat/CSAT_2014_Q14_ea71d5882c.png)",
+      "options": [
+        {
+          "id": "a",
+          "text": "![14A](/upsc/assets/csat/CSAT_2014_Q14_Option_A_7a2027636d.png)"
+        },
+        {
+          "id": "b",
+          "text": "![14B](/upsc/assets/csat/CSAT_2014_Q14_Option_B_b0949447c8.png)"
+        },
+        {
+          "id": "c",
+          "text": "![14C](/upsc/assets/csat/CSAT_2014_Q14_Option_C_fa7ce6939f.png)"
+        },
+        {
+          "id": "d",
+          "text": "![14D](/upsc/assets/csat/CSAT_2014_Q14_Option_D_9e242dfe1a.png)"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q37",
+      "type": "single-choice",
+      "question": "A and B decide to travel from place X to place Y by bus. A has Rs. 10 with him and he finds that it is $80\\%$ of the bus fare for two persons. B finds that he has Rs. 3 with him and hands it over to A. In this context, which one of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Now the money A has just enough to buy two tickets."
+        },
+        {
+          "id": "b",
+          "text": "A still needs Rs. 2 to buy the tickets"
+        },
+        {
+          "id": "c",
+          "text": "After buying the two tickets A will be left with 50 paise."
+        },
+        {
+          "id": "d",
+          "text": "The money A now has is still not sufficient to buy two tickets."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q38",
+      "type": "single-choice",
+      "question": "\"Price is not the same thing as value. Suppose that on a day the price of everything viz., coal, bread, postage stamps, a day's labour, the rent of houses, etc. were to double. Prices then would certainly rise, but- values of all things except an would not.\"\n\nThe writer wants to say that if prices of all things were doubled",
+      "options": [
+        {
+          "id": "a",
+          "text": "the values of all things would remain constant."
+        },
+        {
+          "id": "b",
+          "text": "the values of the things sold would be doubled."
+        },
+        {
+          "id": "c",
+          "text": "the values of the things bought would be halved"
+        },
+        {
+          "id": "d",
+          "text": "the value of money only would be halved."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q39",
+      "type": "single-choice",
+      "question": "A gardener increased the area of his rectangular garden by increasing its length by 40% and decreasing its width by 20%. The area of the new garden",
+      "options": [
+        {
+          "id": "a",
+          "text": "has increased by 20%."
+        },
+        {
+          "id": "b",
+          "text": "has increased by 12%."
+        },
+        {
+          "id": "c",
+          "text": "has increased by 8%."
+        },
+        {
+          "id": "d",
+          "text": "is exactly the same as the old area."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q40",
+      "type": "single-choice",
+      "question": "Four children are sitting in a row. A is occupying the seat next to B but not next to C. If C is not sitting next to D, who is/are occupying seat/seats adjacent to D?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$B$"
+        },
+        {
+          "id": "b",
+          "text": "$A$"
+        },
+        {
+          "id": "c",
+          "text": "$B$ and $A$"
+        },
+        {
+          "id": "d",
+          "text": "Impossible to tell"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q41",
+      "type": "single-choice",
+      "question": "Assume that\n\n1. the hour and minute hands of a clock move without jerking.\n2. the clock shows a time between 8 o'clock and 9 o'clock.\n3. the two hands of the clock are one above the other.\n\nAfter how many minutes (nearest integer) with the two hands will be again lying one above the other?",
+      "options": [
+        {
+          "id": "a",
+          "text": "60"
+        },
+        {
+          "id": "b",
+          "text": "62"
+        },
+        {
+          "id": "c",
+          "text": "65"
+        },
+        {
+          "id": "d",
+          "text": "67"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q42",
+      "type": "single-choice",
+      "question": "Net profits are only 2.2% of their total assets for central public sector undertakings, lower than for the private corporate sector. While the public sector or the State-led entrepreneurship played an an important role in triggering India's industrialization, our evolving development needs, comparatively less-than-satisfactory performance of the public sector enterprises, the maturing of our private sector, a much larger social base now available for expanding entrepreneurship and the growing institutional capabilities to enforce competition policies would suggest that the time has come to review the role of public sector.\n\nWhat should the portfolio composition of the government be? It should not remain static all times. The airline industry works well as a purely private affair. At the opposite end, rural roads, whose sparse traffic makes tolling unviable, have to be on the balance-sheet of the State. If the government did not own rural roads, they would not exist. Similarly, public health capital in our towns and cities will need to come from the public sector. Equally, preservation and improvement of forest cover will have to be a new priority for the public sector assets.\n\nTake the example of steel. With near-zero tariffs, India is a globally competitive market for the metal. Indian firms export steel into the global market which demonstrates there is no gap in technology. Indian companies are buying up global steel companies, which shows there is no gap in capital availability. Under these conditions, private ownership works best.\n\nPrivate ownership is clearly desirable in regulated industries, ranging from, finance to infrastructure, where a government agency performs the function of regulation and multiple competing firms are located in the private sector. Here, the simple and clean solution - government as the umpire and the private sector as the players is what works best. In many of these industries, we have a legacy of government ownership, where productivity tends to be lower, fear of bankruptcy is absent, and the risk of asking for money from the tax payer is ever present. There is also the conflict of interest between government as an owner and as the regulator. The formulation and implementation of competition policy will be more vigorous and fair if government companies are out of action.\n\nThe author prefers government as the umpire and private sector as players because",
+      "options": [
+        {
+          "id": "a",
+          "text": "Government prescribes norms for a fair play by the private sector."
+        },
+        {
+          "id": "b",
+          "text": "Government is the ultimate in policy formulation."
+        },
+        {
+          "id": "c",
+          "text": "Government has no control over private sector players."
+        },
+        {
+          "id": "d",
+          "text": "None of the above statements is correct in this context."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q43",
+      "type": "single-choice",
+      "question": "Net profits are only 2.2% of their total assets for central public sector undertakings, lower than for the private corporate sector. While the public sector or the State-led entrepreneurship played an an important role in triggering India's industrialization, our evolving development needs, comparatively less-than-satisfactory performance of the public sector enterprises, the maturing of our private sector, a much larger social base now available for expanding entrepreneurship and the growing institutional capabilities to enforce competition policies would suggest that the time has come to review the role of public sector.\n\nWhat should the portfolio composition of the government be? It should not remain static all times. The airline industry works well as a purely private affair. At the opposite end, rural roads, whose sparse traffic makes tolling unviable, have to be on the balance-sheet of the State. If the government did not own rural roads, they would not exist. Similarly, public health capital in our towns and cities will need to come from the public sector. Equally, preservation and improvement of forest cover will have to be a new priority for the public sector assets.\n\nTake the example of steel. With near-zero tariffs, India is a globally competitive market for the metal. Indian firms export steel into the global market which demonstrates there is no gap in technology. Indian companies are buying up global steel companies, which shows there is no gap in capital availability. Under these conditions, private ownership works best.\n\nPrivate ownership is clearly desirable in regulated industries, ranging from, finance to infrastructure, where a government agency performs the function of regulation and multiple competing firms are located in the private sector. Here, the simple and clean solution - government as the umpire and the private sector as the players is what works best. In many of these industries, we have a legacy of government ownership, where productivity tends to be lower, fear of bankruptcy is absent, and the risk of asking for money from the tax payer is ever present. There is also the conflict of interest between government as an owner and as the regulator. The formulation and implementation of competition policy will be more vigorous and fair if government companies are out of action.\n\nAccording to the passage, rural roads should be in the domain of public sector only. Why?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rural development work is the domain of government only."
+        },
+        {
+          "id": "b",
+          "text": "Private sector cannot have monetary gains in this."
+        },
+        {
+          "id": "c",
+          "text": "Government takes money from tax payers and hence it is the responsibility of government only."
+        },
+        {
+          "id": "d",
+          "text": "Private sector need not have any social responsibility"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q44",
+      "type": "single-choice",
+      "question": "Net profits are only 2.2% of their total assets for central public sector undertakings, lower than for the private corporate sector. While the public sector or the State-led entrepreneurship played an an important role in triggering India's industrialization, our evolving development needs, comparatively less-than-satisfactory performance of the public sector enterprises, the maturing of our private sector, a much larger social base now available for expanding entrepreneurship and the growing institutional capabilities to enforce competition policies would suggest that the time has come to review the role of public sector.\n\nWhat should the portfolio composition of the government be? It should not remain static all times. The airline industry works well as a purely private affair. At the opposite end, rural roads, whose sparse traffic makes tolling unviable, have to be on the balance-sheet of the State. If the government did not own rural roads, they would not exist. Similarly, public health capital in our towns and cities will need to come from the public sector. Equally, preservation and improvement of forest cover will have to be a new priority for the public sector assets.\n\nTake the example of steel. With near-zero tariffs, India is a globally competitive market for the metal. Indian firms export steel into the global market which demonstrates there is no gap in technology. Indian companies are buying up global steel companies, which shows there is no gap in capital availability. Under these conditions, private ownership works best.\n\nPrivate ownership is clearly desirable in regulated industries, ranging from, finance to infrastructure, where a government agency performs the function of regulation and multiple competing firms are located in the private sector. Here, the simple and clean solution - government as the umpire and the private sector as the players is what works best. In many of these industries, we have a legacy of government ownership, where productivity tends to be lower, fear of bankruptcy is absent, and the risk of asking for money from the tax payer is ever present. There is also the conflict of interest between government as an owner and as the regulator. The formulation and implementation of competition policy will be more vigorous and fair if government companies are out of action.\n\nThe portfolio composition of the government refers to:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Public sector assets quality."
+        },
+        {
+          "id": "b",
+          "text": "Investment in liquid assets."
+        },
+        {
+          "id": "c",
+          "text": "Mix of government investment in different industrial sectors."
+        },
+        {
+          "id": "d",
+          "text": "Buying Return on Investment yielding capital assets"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q45",
+      "type": "single-choice",
+      "question": "Net profits are only 2.2% of their total assets for central public sector undertakings, lower than for the private corporate sector. While the public sector or the State-led entrepreneurship played an an important role in triggering India's industrialization, our evolving development needs, comparatively less-than-satisfactory performance of the public sector enterprises, the maturing of our private sector, a much larger social base now available for expanding entrepreneurship and the growing institutional capabilities to enforce competition policies would suggest that the time has come to review the role of public sector.\n\nWhat should the portfolio composition of the government be? It should not remain static all times. The airline industry works well as a purely private affair. At the opposite end, rural roads, whose sparse traffic makes tolling unviable, have to be on the balance-sheet of the State. If the government did not own rural roads, they would not exist. Similarly, public health capital in our towns and cities will need to come from the public sector. Equally, preservation and improvement of forest cover will have to be a new priority for the public sector assets.\n\nTake the example of steel. With near-zero tariffs, India is a globally competitive market for the metal. Indian firms export steel into the global market which demonstrates there is no gap in technology. Indian companies are buying up global steel companies, which shows there is no gap in capital availability. Under these conditions, private ownership works best.\n\nPrivate ownership is clearly desirable in regulated industries, ranging from, finance to infrastructure, where a government agency performs the function of regulation and multiple competing firms are located in the private sector. Here, the simple and clean solution - government as the umpire and the private sector as the players is what works best. In many of these industries, we have a legacy of government ownership, where productivity tends to be lower, fear of bankruptcy is absent, and the risk of asking for money from the tax payer is ever present. There is also the conflict of interest between government as an owner and as the regulator. The formulation and implementation of competition policy will be more vigorous and fair if government companies are out of action.\n\nAccording to the passage, what is/are the reason/reasons for saying that the time has come to review the role of public sector?\n\n1. Now public sector has lost its relevance in the industrialization process.\n2. Public sector does not perform satisfactorily.\n3. Entrepreneurship in private sector is expanding.\n4. Effective competition policies are available now.\n\nWhich of the statements given above is/are correct in the given context?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q46",
+      "type": "single-choice",
+      "question": "The following graph shows the average profit of two fruit-sellers A and B in thousands (Rs.) per year from the year 1995 to 2000.\n\nConsider the graph and answer the 4 (four) items that follow:\n\n![9](/upsc/assets/csat/CSAT_2014_Q9_7d0aa92d3d.png)\n\nHow much more average profit did A make in the year 2000 than in the year 1999?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 200"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 1,000"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 1,500"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 2,000"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q47",
+      "type": "single-choice",
+      "question": "The following graph shows the average profit of two fruit-sellers A and B in thousands (Rs.) per year from the year 1995 to 2000.\n\nConsider the graph and answer the 4 (four) items that follow:\n\n![9](/upsc/assets/csat/CSAT_2014_Q9_7d0aa92d3d.png)\n\nWhat is the difference between the average profit of B and A in the year 1998?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$-$ Rs. 100"
+        },
+        {
+          "id": "b",
+          "text": "$-$ Rs. $1,000$"
+        },
+        {
+          "id": "c",
+          "text": "$+$ Rs. 600"
+        },
+        {
+          "id": "d",
+          "text": "$-$ Rs. 300"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q48",
+      "type": "single-choice",
+      "question": "The following graph shows the average profit of two fruit-sellers A and B in thousands (Rs.) per year from the year 1995 to 2000.\n\nConsider the graph and answer the 4 (four) items that follow:\n\n![9](/upsc/assets/csat/CSAT_2014_Q9_7d0aa92d3d.png)\n\nWhat is the trend of the average profit of B from the year 1997 to the year 2000?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Non-increasing"
+        },
+        {
+          "id": "b",
+          "text": "Non-decreasing"
+        },
+        {
+          "id": "c",
+          "text": "Steady"
+        },
+        {
+          "id": "d",
+          "text": "Fluctuating"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q49",
+      "type": "single-choice",
+      "question": "The following graph shows the average profit of two fruit-sellers A and B in thousands (Rs.) per year from the year 1995 to 2000.\n\nConsider the graph and answer the 4 (four) items that follow:\n\n![9](/upsc/assets/csat/CSAT_2014_Q9_7d0aa92d3d.png)\n\nIn which year is the average profit of A and B same?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1995"
+        },
+        {
+          "id": "b",
+          "text": "1996"
+        },
+        {
+          "id": "c",
+          "text": "1997"
+        },
+        {
+          "id": "d",
+          "text": "1998"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q50",
+      "type": "single-choice",
+      "question": "A, B, C, D, E, F are members of a family. They are engineer, stenographer, doctor, draughtsman, lawyer and judge (not in order). A, the engineer is married to the lady stenographer. The judge is married to the lawyer. F, the draughtsman is the son of B and brother of E. C, the lawyer is the daughter-in-law of D. E is the unmarried doctor. D is the grandmother of F. There are two married couples in the family.\n\nWhich of the following is/are couple/couples?",
+      "options": [
+        {
+          "id": "a",
+          "text": "AD only"
+        },
+        {
+          "id": "b",
+          "text": "BC only"
+        },
+        {
+          "id": "c",
+          "text": "Both AD and BC"
+        },
+        {
+          "id": "d",
+          "text": "Both AC and BD"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q51",
+      "type": "single-choice",
+      "question": "A, B, C, D, E, F are members of a family. They are engineer, stenographer, doctor, draughtsman, lawyer and judge (not in order). A, the engineer is married to the lady stenographer. The judge is married to the lawyer. F, the draughtsman is the son of B and brother of E. C, the lawyer is the daughter-in-law of D. E is the unmarried doctor. D is the grandmother of F. There are two married couples in the family.\n\nWhat is the profession of D?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Judge"
+        },
+        {
+          "id": "b",
+          "text": "Stenographer"
+        },
+        {
+          "id": "c",
+          "text": "Doctor"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q52",
+      "type": "single-choice",
+      "question": "A, B, C, D, E, F are members of a family. They are engineer, stenographer, doctor, draughtsman, lawyer and judge (not in order). A, the engineer is married to the lady stenographer. The judge is married to the lawyer. F, the draughtsman is the son of B and brother of E. C, the lawyer is the daughter-in-law of D. E is the unmarried doctor. D is the grandmother of F. There are two married couples in the family.\n\nWhat is the profession of B?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Judge"
+        },
+        {
+          "id": "b",
+          "text": "Lawyer"
+        },
+        {
+          "id": "c",
+          "text": "Draughtsman"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q53",
+      "type": "single-choice",
+      "question": "In front of us was walking a bare-headed old man in tattered clothes. He was driving his beasts. They were all laden with heavy loads of clay from the hills and looked tired. The man carried a long whip which perhaps he himself had made. As he walked down the road he stopped now and then to eat the wild berries that grew on bushes along the uneven road. When he threw away the seeds, the bold birds would fly to peck at them. Sometimes a stray dog watched the procession philosophically and then began to bark. When this happened, my two little sons would stand still holding my hands firmly. A dog can sometimes be dangerous indeed.\n\nThe author’s children held his hands firmly because",
+      "options": [
+        {
+          "id": "a",
+          "text": "they were scared of the barking dogs."
+        },
+        {
+          "id": "b",
+          "text": "they wanted him to pluck berries."
+        },
+        {
+          "id": "c",
+          "text": "they saw the whip in the old man’s hand."
+        },
+        {
+          "id": "d",
+          "text": "the road was uneven"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q54",
+      "type": "single-choice",
+      "question": "In front of us was walking a bare-headed old man in tattered clothes. He was driving his beasts. They were all laden with heavy loads of clay from the hills and looked tired. The man carried a long whip which perhaps he himself had made. As he walked down the road he stopped now and then to eat the wild berries that grew on bushes along the uneven road. When he threw away the seeds, the bold birds would fly to peck at them. Sometimes a stray dog watched the procession philosophically and then began to bark. When this happened, my two little sons would stand still holding my hands firmly. A dog can sometimes be dangerous indeed.\n\nThe expression “a stray dog watched the procession philosophically” means that",
+      "options": [
+        {
+          "id": "a",
+          "text": "the dog was restless and ferocious."
+        },
+        {
+          "id": "b",
+          "text": "the dog stood aloof, looking at the procession with seriousness."
+        },
+        {
+          "id": "c",
+          "text": "the dog looked at the procession with big, wondering eyes."
+        },
+        {
+          "id": "d",
+          "text": "the dog stood there with his eyes closed."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q55",
+      "type": "single-choice",
+      "question": "Many nations now place their faith in capitalism and governments choose it as the strategy to create wealth for their people. The spectacular economic growth seen in Brazil, China and India after the liberalisation of their economies is proof of its enormous potential and success. However, the global banking crisis and the economic recession have left many bewildered. The debates tend to focus on free market operations and forces, their efficiency and their ability for self correction. Issues of justice, Integrity and honesty are rarely elaborated to highlight the failure of the global banking system. The apologists of the system continue to justify the success of capitalism and argue that the recent crisis was a blip. Their arguments betray an Ideological bias with the assumptions that an unregulated market is fair and competent, and that the exercise of private greed will be in the larger public interest. Few recognize the bidirectional relationship between capitalism and greed; that each reinforces the other. Surely, a more honest conceptualisation of the conflicts of interest among the rich and powerful players who have benefited from the system, their biases and ideology is needed; the focus on the wealth. creation should also highlight the resultant gross inequity.\n\n\"The exercise of private greed will be in the larger public interest\" from the passage\n\n1. refers to the false ideology of capitalism.\n2. underlies the righteous claims of the free market.\n3. shows the benevolent face of capitalism.\n4. ignores resultant gross inequity.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4"
+        },
+        {
+          "id": "d",
+          "text": "4 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q56",
+      "type": "single-choice",
+      "question": "Many nations now place their faith in capitalism and governments choose it as the strategy to create wealth for their people. The spectacular economic growth seen in Brazil, China and India after the liberalisation of their economies is proof of its enormous potential and success. However, the global banking crisis and the economic recession have left many bewildered. The debates tend to focus on free market operations and forces, their efficiency and their ability for self correction. Issues of justice, Integrity and honesty are rarely elaborated to highlight the failure of the global banking system. The apologists of the system continue to justify the success of capitalism and argue that the recent crisis was a blip. Their arguments betray an Ideological bias with the assumptions that an unregulated market is fair and competent, and that the exercise of private greed will be in the larger public interest. Few recognize the bidirectional relationship between capitalism and greed; that each reinforces the other. Surely, a more honest conceptualisation of the conflicts of interest among the rich and powerful players who have benefited from the system, their biases and ideology is needed; the focus on the wealth. creation should also highlight the resultant gross inequity.\n\nWith reference to \"ideological bias\", the passage implies that",
+      "options": [
+        {
+          "id": "a",
+          "text": "free market is fair but not competent."
+        },
+        {
+          "id": "b",
+          "text": "free market is not fair but competent."
+        },
+        {
+          "id": "c",
+          "text": "free market is fair and competent."
+        },
+        {
+          "id": "d",
+          "text": "free market is neither fair nor biased"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q57",
+      "type": "single-choice",
+      "question": "Many nations now place their faith in capitalism and governments choose it as the strategy to create wealth for their people. The spectacular economic growth seen in Brazil, China and India after the liberalisation of their economies is proof of its enormous potential and success. However, the global banking crisis and the economic recession have left many bewildered. The debates tend to focus on free market operations and forces, their efficiency and their ability for self correction. Issues of justice, Integrity and honesty are rarely elaborated to highlight the failure of the global banking system. The apologists of the system continue to justify the success of capitalism and argue that the recent crisis was a blip. Their arguments betray an Ideological bias with the assumptions that an unregulated market is fair and competent, and that the exercise of private greed will be in the larger public interest. Few recognize the bidirectional relationship between capitalism and greed; that each reinforces the other. Surely, a more honest conceptualisation of the conflicts of interest among the rich and powerful players who have benefited from the system, their biases and ideology is needed; the focus on the wealth. creation should also highlight the resultant gross inequity.\n\nThe apologists of the \"Free Market System\", according to the passage, believe in",
+      "options": [
+        {
+          "id": "a",
+          "text": "market without control by government authorities."
+        },
+        {
+          "id": "b",
+          "text": "market without protection by the government."
+        },
+        {
+          "id": "c",
+          "text": "ability of market to self correct."
+        },
+        {
+          "id": "d",
+          "text": "market for free goods and services."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q58",
+      "type": "single-choice",
+      "question": "The Himalayan ecosystem is highly vulnerable to damage, both due to geological reasons and on account of the stress caused by increased pressure of population, exploitation of natural resources and other related challenges. These aspects may be exacerbated due to the impact of climate change. It is possible that climate change may adversely impact the Himalayan ecosystem through increased temperature altered precipitation patterns, episodes of drought and biotic influences. This would not only impact the very sustenance of the indigenous communities in uplands but also the life of downstream dwellers across the country and beyond. Therefore, there is an urgent need for giving special attention to sustain the Himalayan ecosystem. This would require conscious efforts for conserving all the representative systems. Further, it needs to be emphasized that the endemics with restricted distribution, and most often with specialized habitat requirements, are among the most vulnerable elements. In this respect the Himalayan biodiversity hotspot, with rich endemic diversity, is vulnerable to climate change. The Threats include possible loss of genetic resources and species, habitats and concomitantly a decrease in ecosystem services. Therefore, conservation of endemic elements in representative ecosystems/habitats assumes a great significance while drawing conservation plans for the region. Towards achieving the above, we will have to shift towards contemporary conservation approaches, which include a paradigm of landscape level interconnectivity between protected area systems. The concept advocates a shift from the species-habitat focus to an inclusive focus on expanding the biogeographic range so that natural adjustments to climate change can proceed without being restrictive.\n\nWith reference to the passage, the following assumptions have been made:\n\n1. To maintain natural ecosystems, exploitation of natural resources should be completely avoided.\n2. Not only anthropogenic but also natural reasons can adversely affect ecosystems.\n3. Loss of endemic diversity leads to the extinction of ecosystems.\n\nWhich of the above assumptions is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q59",
+      "type": "single-choice",
+      "question": "The Himalayan ecosystem is highly vulnerable to damage, both due to geological reasons and on account of the stress caused by increased pressure of population, exploitation of natural resources and other related challenges. These aspects may be exacerbated due to the impact of climate change. It is possible that climate change may adversely impact the Himalayan ecosystem through increased temperature altered precipitation patterns, episodes of drought and biotic influences. This would not only impact the very sustenance of the indigenous communities in uplands but also the life of downstream dwellers across the country and beyond. Therefore, there is an urgent need for giving special attention to sustain the Himalayan ecosystem. This would require conscious efforts for conserving all the representative systems. Further, it needs to be emphasized that the endemics with restricted distribution, and most often with specialized habitat requirements, are among the most vulnerable elements. In this respect the Himalayan biodiversity hotspot, with rich endemic diversity, is vulnerable to climate change. The Threats include possible loss of genetic resources and species, habitats and concomitantly a decrease in ecosystem services. Therefore, conservation of endemic elements in representative ecosystems/habitats assumes a great significance while drawing conservation plans for the region. Towards achieving the above, we will have to shift towards contemporary conservation approaches, which include a paradigm of landscape level interconnectivity between protected area systems. The concept advocates a shift from the species-habitat focus to an inclusive focus on expanding the biogeographic range so that natural adjustments to climate change can proceed without being restrictive.\n\nAccording to the passage, the adverse impact of climate change on an ecosystem can be a\n\n1. Permanent disappearance of some of its flora and fauna.\n2. Permanent disappearance of ecosystem itself.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q60",
+      "type": "single-choice",
+      "question": "The Himalayan ecosystem is highly vulnerable to damage, both due to geological reasons and on account of the stress caused by increased pressure of population, exploitation of natural resources and other related challenges. These aspects may be exacerbated due to the impact of climate change. It is possible that climate change may adversely impact the Himalayan ecosystem through increased temperature altered precipitation patterns, episodes of drought and biotic influences. This would not only impact the very sustenance of the indigenous communities in uplands but also the life of downstream dwellers across the country and beyond. Therefore, there is an urgent need for giving special attention to sustain the Himalayan ecosystem. This would require conscious efforts for conserving all the representative systems. Further, it needs to be emphasized that the endemics with restricted distribution, and most often with specialized habitat requirements, are among the most vulnerable elements. In this respect the Himalayan biodiversity hotspot, with rich endemic diversity, is vulnerable to climate change. The Threats include possible loss of genetic resources and species, habitats and concomitantly a decrease in ecosystem services. Therefore, conservation of endemic elements in representative ecosystems/habitats assumes a great significance while drawing conservation plans for the region. Towards achieving the above, we will have to shift towards contemporary conservation approaches, which include a paradigm of landscape level interconnectivity between protected area systems. The concept advocates a shift from the species-habitat focus to an inclusive focus on expanding the biogeographic range so that natural adjustments to climate change can proceed without being restrictive.\n\nBased on the above passage:\n\nWhat is the most important message conveyed by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Endemism is a characteristic feature of Himalayan region."
+        },
+        {
+          "id": "b",
+          "text": "Conservation efforts should emphasize on biogeographic ranges rather than on some species or habitats."
+        },
+        {
+          "id": "c",
+          "text": "Climate change has adverse impact on the Himalayan ecosystem."
+        },
+        {
+          "id": "d",
+          "text": "Without Himalayan ecosystem, the life of the communities of uplands and downstream will have no sustenance."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q61",
+      "type": "single-choice",
+      "question": "The Himalayan ecosystem is highly vulnerable to damage, both due to geological reasons and on account of the stress caused by increased pressure of population, exploitation of natural resources and other related challenges. These aspects may be exacerbated due to the impact of climate change. It is possible that climate change may adversely impact the Himalayan ecosystem through increased temperature altered precipitation patterns, episodes of drought and biotic influences. This would not only impact the very sustenance of the indigenous communities in uplands but also the life of downstream dwellers across the country and beyond. Therefore, there is an urgent need for giving special attention to sustain the Himalayan ecosystem. This would require conscious efforts for conserving all the representative systems. Further, it needs to be emphasized that the endemics with restricted distribution, and most often with specialized habitat requirements, are among the most vulnerable elements. In this respect the Himalayan biodiversity hotspot, with rich endemic diversity, is vulnerable to climate change. The Threats include possible loss of genetic resources and species, habitats and concomitantly a decrease in ecosystem services. Therefore, conservation of endemic elements in representative ecosystems/habitats assumes a great significance while drawing conservation plans for the region. Towards achieving the above, we will have to shift towards contemporary conservation approaches, which include a paradigm of landscape level interconnectivity between protected area systems. The concept advocates a shift from the species-habitat focus to an inclusive focus on expanding the biogeographic range so that natural adjustments to climate change can proceed without being restrictive.\n\nBased on the above passage:\n\nWhich one of the following statements best implies the need to shift toward contemporary conservation approach?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exploitation of natural resources causes a stress on the Himalayan ecosystem."
+        },
+        {
+          "id": "b",
+          "text": "Climate change alters precipitation patterns, causes episodes of drought and biotic interference."
+        },
+        {
+          "id": "c",
+          "text": "The rich biodiversity, including endemic diversity, makes the Himalayan region a biodiversity hotspot."
+        },
+        {
+          "id": "d",
+          "text": "The Himalayan biogeographic region should be enabled to adapt to climate change smoothly."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q62",
+      "type": "single-choice",
+      "question": "It is essential that we mitigate the emissions of greenhouse gases.and thus avoid some of the worst impacts of climate change that would take place in coming years and decades. Mitigation would require a major shift in the way we produce and consume energy. A shift away from overwhelming dependence on fossil fuels is now long overdue, but unfortunately, technological development has been slow arid inadequate largely because government policies have not promoted investments in research and development, myopically as a result of relatively low prices of oil. It is now, therefore, imperative for a country like India treating the opportunity of harnessing renewable energy on a large scale as a national imperative. This country is extremely well endowed with solar, wind and biomass sources of energy. Where we have lagged, unfortunately, is in our ability to develop and to create technological solutions for harnessing these resources. One particular trajectory for carrying out stringent mitigation of greenhouse gas emissions assessed by the Inter-governmental Panel on Climate Change (IPCC) clearly shows the need for ensuring that global emissions of greenhouse gases peak no later than 2015 and reduce rapidly thereafter. The cost associated with such a trajectory is truly modest\" and would amount, in the estimation of IPCC, to not more than 3 percent of the global GDP in 2030. In other words, the level of prosperity that the world would have reached without mitigation would at worst be postponed by a few months or a year at the most. This is clearly not a very high price to pay for protecting hundreds of millions of people from the worst risks associated with climate change. Any such effort, however, would required lifestyles to change appropriately also. Mitigation of greenhouse gas emissions is not a mere technological fix, and clearly requires changes in lifestyles and transformation of a country's economic structure, whereby effective reduction in emissions is brought about, such as through the consumption of much lower quantities of animal protein. The Food and Agriculture Organization (FAO) has determined that the emissions from the livestock sector amount to 18 percent of the total. The reduction of emissions from this source is entirely in the hands of human beings, who have never questioned the impacts that their dietary habits of consuming more and more animal protein are bringing about. Mitigation overall has huge co-benefits, such as lower air pollution and health benefits, higher energy security and greater employment.\n\nWhy do we continue to depend on the fossil fuels heavily?\n\n1. Inadequate technological development\n2. Inadequate funds for research and development\n3. Inadequate availability of alternative sources of energy\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q63",
+      "type": "single-choice",
+      "question": "It is essential that we mitigate the emissions of greenhouse gases.and thus avoid some of the worst impacts of climate change that would take place in coming years and decades. Mitigation would require a major shift in the way we produce and consume energy. A shift away from overwhelming dependence on fossil fuels is now long overdue, but unfortunately, technological development has been slow arid inadequate largely because government policies have not promoted investments in research and development, myopically as a result of relatively low prices of oil. It is now, therefore, imperative for a country like India treating the opportunity of harnessing renewable energy on a large scale as a national imperative. This country is extremely well endowed with solar, wind and biomass sources of energy. Where we have lagged, unfortunately, is in our ability to develop and to create technological solutions for harnessing these resources. One particular trajectory for carrying out stringent mitigation of greenhouse gas emissions assessed by the Inter-governmental Panel on Climate Change (IPCC) clearly shows the need for ensuring that global emissions of greenhouse gases peak no later than 2015 and reduce rapidly thereafter. The cost associated with such a trajectory is truly modest\" and would amount, in the estimation of IPCC, to not more than 3 percent of the global GDP in 2030. In other words, the level of prosperity that the world would have reached without mitigation would at worst be postponed by a few months or a year at the most. This is clearly not a very high price to pay for protecting hundreds of millions of people from the worst risks associated with climate change. Any such effort, however, would required lifestyles to change appropriately also. Mitigation of greenhouse gas emissions is not a mere technological fix, and clearly requires changes in lifestyles and transformation of a country's economic structure, whereby effective reduction in emissions is brought about, such as through the consumption of much lower quantities of animal protein. The Food and Agriculture Organization (FAO) has determined that the emissions from the livestock sector amount to 18 percent of the total. The reduction of emissions from this source is entirely in the hands of human beings, who have never questioned the impacts that their dietary habits of consuming more and more animal protein are bringing about. Mitigation overall has huge co-benefits, such as lower air pollution and health benefits, higher energy security and greater employment.\n\nWhat is the essential message of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We continue to depend on fossil fuel heavily"
+        },
+        {
+          "id": "b",
+          "text": "Mitigation of the greenhouse gases is imperative"
+        },
+        {
+          "id": "c",
+          "text": "We must invest in research and development"
+        },
+        {
+          "id": "d",
+          "text": "People must change their lifestyle"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q64",
+      "type": "single-choice",
+      "question": "It is essential that we mitigate the emissions of greenhouse gases.and thus avoid some of the worst impacts of climate change that would take place in coming years and decades. Mitigation would require a major shift in the way we produce and consume energy. A shift away from overwhelming dependence on fossil fuels is now long overdue, but unfortunately, technological development has been slow arid inadequate largely because government policies have not promoted investments in research and development, myopically as a result of relatively low prices of oil. It is now, therefore, imperative for a country like India treating the opportunity of harnessing renewable energy on a large scale as a national imperative. This country is extremely well endowed with solar, wind and biomass sources of energy. Where we have lagged, unfortunately, is in our ability to develop and to create technological solutions for harnessing these resources. One particular trajectory for carrying out stringent mitigation of greenhouse gas emissions assessed by the Inter-governmental Panel on Climate Change (IPCC) clearly shows the need for ensuring that global emissions of greenhouse gases peak no later than 2015 and reduce rapidly thereafter. The cost associated with such a trajectory is truly modest\" and would amount, in the estimation of IPCC, to not more than 3 percent of the global GDP in 2030. In other words, the level of prosperity that the world would have reached without mitigation would at worst be postponed by a few months or a year at the most. This is clearly not a very high price to pay for protecting hundreds of millions of people from the worst risks associated with climate change. Any such effort, however, would required lifestyles to change appropriately also. Mitigation of greenhouse gas emissions is not a mere technological fix, and clearly requires changes in lifestyles and transformation of a country's economic structure, whereby effective reduction in emissions is brought about, such as through the consumption of much lower quantities of animal protein. The Food and Agriculture Organization (FAO) has determined that the emissions from the livestock sector amount to 18 percent of the total. The reduction of emissions from this source is entirely in the hands of human beings, who have never questioned the impacts that their dietary habits of consuming more and more animal protein are bringing about. Mitigation overall has huge co-benefits, such as lower air pollution and health benefits, higher energy security and greater employment.\n\nAccording to the passage, which of the following would help in the mitigation of greenhouse gases?\n\n1. Reducing the consumption of meat\n2. Rapid economic liberalization\n3. Reducing the consumerism\n4. Modern management practices of livestock\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q65",
+      "type": "single-choice",
+      "question": "It is essential that we mitigate the emissions of greenhouse gases.and thus avoid some of the worst impacts of climate change that would take place in coming years and decades. Mitigation would require a major shift in the way we produce and consume energy. A shift away from overwhelming dependence on fossil fuels is now long overdue, but unfortunately, technological development has been slow arid inadequate largely because government policies have not promoted investments in research and development, myopically as a result of relatively low prices of oil. It is now, therefore, imperative for a country like India treating the opportunity of harnessing renewable energy on a large scale as a national imperative. This country is extremely well endowed with solar, wind and biomass sources of energy. Where we have lagged, unfortunately, is in our ability to develop and to create technological solutions for harnessing these resources. One particular trajectory for carrying out stringent mitigation of greenhouse gas emissions assessed by the Inter-governmental Panel on Climate Change (IPCC) clearly shows the need for ensuring that global emissions of greenhouse gases peak no later than 2015 and reduce rapidly thereafter. The cost associated with such a trajectory is truly modest\" and would amount, in the estimation of IPCC, to not more than 3 percent of the global GDP in 2030. In other words, the level of prosperity that the world would have reached without mitigation would at worst be postponed by a few months or a year at the most. This is clearly not a very high price to pay for protecting hundreds of millions of people from the worst risks associated with climate change. Any such effort, however, would required lifestyles to change appropriately also. Mitigation of greenhouse gas emissions is not a mere technological fix, and clearly requires changes in lifestyles and transformation of a country's economic structure, whereby effective reduction in emissions is brought about, such as through the consumption of much lower quantities of animal protein. The Food and Agriculture Organization (FAO) has determined that the emissions from the livestock sector amount to 18 percent of the total. The reduction of emissions from this source is entirely in the hands of human beings, who have never questioned the impacts that their dietary habits of consuming more and more animal protein are bringing about. Mitigation overall has huge co-benefits, such as lower air pollution and health benefits, higher energy security and greater employment.\n\nAccording to the passage, how does the mitigation of greenhouse gases help us?\n\n1. Reduces expenditure on public health\n2. Reduces dependence on livestock\n3. Reduces energy requirements\n4. Reduces rate of global climate change\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q66",
+      "type": "single-choice",
+      "question": "Cynthia was a shy girl. She believed that she was plain and untalented. One day her teacher ordered the entire class to show up for audition for the school play. Cynthia nearly died of fright when she was told that she would have to stand on stage in front of the entire class and deliver dialogues. The mere thought of it made her feel sick. But a remarkable transformation occurred during the audition. A thin, shy girl, her knees quaking, her stomach churning in terror, began to stun everyone with her excellent performance. Her bored classmates suddenly stopped their noisy chat to stare at her slender figure on the stage. At the end of her audition, the the entire room erupted in thunderous applause.\n\nThe transformation that occurred during the audition refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "the nervousness of Cynthia."
+        },
+        {
+          "id": "b",
+          "text": "the eruption of the entire room in thunderous applause."
+        },
+        {
+          "id": "c",
+          "text": "the surprise on the faces of her classmates."
+        },
+        {
+          "id": "d",
+          "text": "the stunning performance of Cynthia"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q67",
+      "type": "single-choice",
+      "question": "Cynthia was a shy girl. She believed that she was plain and untalented. One day her teacher ordered the entire class to show up for audition for the school play. Cynthia nearly died of fright when she was told that she would have to stand on stage in front of the entire class and deliver dialogues. The mere thought of it made her feel sick. But a remarkable transformation occurred during the audition. A thin, shy girl, her knees quaking, her stomach churning in terror, began to stun everyone with her excellent performance. Her bored classmates suddenly stopped their noisy chat to stare at her slender figure on the stage. At the end of her audition, the the entire room erupted in thunderous applause.\n\nCynthia was afraid to stand on stage because",
+      "options": [
+        {
+          "id": "a",
+          "text": "she felt her classmates may laugh at her."
+        },
+        {
+          "id": "b",
+          "text": "her stomach was churning."
+        },
+        {
+          "id": "c",
+          "text": "she lacked self-confidence."
+        },
+        {
+          "id": "d",
+          "text": "she did not like school plays."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q68",
+      "type": "single-choice",
+      "question": "Cynthia was a shy girl. She believed that she was plain and untalented. One day her teacher ordered the entire class to show up for audition for the school play. Cynthia nearly died of fright when she was told that she would have to stand on stage in front of the entire class and deliver dialogues. The mere thought of it made her feel sick. But a remarkable transformation occurred during the audition. A thin, shy girl, her knees quaking, her stomach churning in terror, began to stun everyone with her excellent performance. Her bored classmates suddenly stopped their noisy chat to stare at her slender figure on the stage. At the end of her audition, the the entire room erupted in thunderous applause.\n\nCynthia’s classmates were chatting because",
+      "options": [
+        {
+          "id": "a",
+          "text": "it was their tum to act next."
+        },
+        {
+          "id": "b",
+          "text": "they were bored of the performances."
+        },
+        {
+          "id": "c",
+          "text": "Cynthia did not act well."
+        },
+        {
+          "id": "d",
+          "text": "the teacher had no control over them"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q69",
+      "type": "single-choice",
+      "question": "Cynthia was a shy girl. She believed that she was plain and untalented. One day her teacher ordered the entire class to show up for audition for the school play. Cynthia nearly died of fright when she was told that she would have to stand on stage in front of the entire class and deliver dialogues. The mere thought of it made her feel sick. But a remarkable transformation occurred during the audition. A thin, shy girl, her knees quaking, her stomach churning in terror, began to stun everyone with her excellent performance. Her bored classmates suddenly stopped their noisy chat to stare at her slender figure on the stage. At the end of her audition, the the entire room erupted in thunderous applause.\n\nCynthia’s knees were quaking because",
+      "options": [
+        {
+          "id": "a",
+          "text": "she felt nervous and shy."
+        },
+        {
+          "id": "b",
+          "text": "the teacher scolded her."
+        },
+        {
+          "id": "c",
+          "text": "she was very thin and weak."
+        },
+        {
+          "id": "d",
+          "text": "she was afraid of her classmates."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q70",
+      "type": "single-choice",
+      "question": "It is easy for the government to control State-owned companies through nods and winks. So what really needs to be done as first step is to put petrol pricing on a transparent formula - if the price of crude is x and the exchange rate y, then every month or fortnight, the government announces a maximum price of petrol, which anybody can work out from the x and Y. The rule has to be worked out to make sure that the oil-marketing can, in general, cover their costs. This will mean that if one company can innovate and cut costs, it will make greater profits. Hence, firms will be more prone to innovate and be efficient under this system. Once the rule is announced, there should be no interference by the government. If this is done for a while, private companies will re-enter this market. And once a sufficient number of them are in the fray, we can remove the rule-based pricing and leave it truly to the market (subject to, of course, the usual relations of anti-trust and other competition laws).\n\nConsider the following statements: According to the passage, an oil company can make greater profits, if a transparent formula for petrol pricing is announced every fortnight or month, by\n\n1. promoting its sales.\n2. undertaking innovation.\n3. cutting costs.\n4. selling its equity shares at higher prices.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q71",
+      "type": "single-choice",
+      "question": "It is easy for the government to control State-owned companies through nods and winks. So what really needs to be done as first step is to put petrol pricing on a transparent formula - if the price of crude is x and the exchange rate y, then every month or fortnight, the government announces a maximum price of petrol, which anybody can work out from the x and Y. The rule has to be worked out to make sure that the oil-marketing can, in general, cover their costs. This will mean that if one company can innovate and cut costs, it will make greater profits. Hence, firms will be more prone to innovate and be efficient under this system. Once the rule is announced, there should be no interference by the government. If this is done for a while, private companies will re-enter this market. And once a sufficient number of them are in the fray, we can remove the rule-based pricing and leave it truly to the market (subject to, of course, the usual relations of anti-trust and other competition laws).\n\nConsider the following statements:\n\nAccording to the passage, private oil companies re-enter the oil producing market if\n\n1. a transparent rule-based petrol pricing exists.\n2. There is no government interference in the oil producing market.\n3. subsidies are given by the government.\n4. regulations of anti-trust are removed.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q72",
+      "type": "single-choice",
+      "question": "Climate change poses potentially devastating effects on India's agriculture. While the overall parameters of climate change are increasingly accepted a 1°C average temperature increase over the next 30 years, sea level rise of less than 10 cm in the same period, and regional monsoon variations and corresponding droughts - the impacts in India are likely to be quite site and crop specific. Some crops may respond favourably to the changing conditions, others may not. This emphasizes the need to promote agricultural research and create maximum flexibility in the system to permit adaptations. The key ingredient for \"drought proofing\" is the managed recharge of aquifers. To ensure continued yields of important staple crops (e.g. wheat), it may also be necessary to shift the locations where these crops are grown, in response to temperature changes as well as to water availability. The latter will be a key factor in making long term investment decisions. For example, water runoff from the Himalayas is predicted to increase over the next 30 years as glaciers melt, but then decline substantially thereafter. It will be critical to provide incentives to plan for these large-scale shifts in agro-ecological conditions. India needs to make long term investment in research and development in agriculture. India is likely to experience changed weather patterns in future.\n\nAccording to the passage, why is it important to promote agricultural research in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To predict variations in monsoon patterns and to manage water resources"
+        },
+        {
+          "id": "b",
+          "text": "To make long term investment decisions for economic growth"
+        },
+        {
+          "id": "c",
+          "text": "To facilitate wider adaptability of crops"
+        },
+        {
+          "id": "d",
+          "text": "To predict drought conditions and to recharge aquifers"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q73",
+      "type": "single-choice",
+      "question": "Climate change poses potentially devastating effects on India's agriculture. While the overall parameters of climate change are increasingly accepted a 1°C average temperature increase over the next 30 years, sea level rise of less than 10 cm in the same period, and regional monsoon variations and corresponding droughts - the impacts in India are likely to be quite site and crop specific. Some crops may respond favourably to the changing conditions, others may not. This emphasizes the need to promote agricultural research and create maximum flexibility in the system to permit adaptations. The key ingredient for \"drought proofing\" is the managed recharge of aquifers. To ensure continued yields of important staple crops (e.g. wheat), it may also be necessary to shift the locations where these crops are grown, in response to temperature changes as well as to water availability. The latter will be a key factor in making long term investment decisions. For example, water runoff from the Himalayas is predicted to increase over the next 30 years as glaciers melt, but then decline substantially thereafter. It will be critical to provide incentives to plan for these large-scale shifts in agro-ecological conditions. India needs to make long term investment in research and development in agriculture. India is likely to experience changed weather patterns in future.\n\nConsider the following statements:\n\nClimate change may force the shifting of locations of the existing crops due to\n1. melting of glaciers.\n2. water availability and temperature suitability at other locations.\n3. poor productivity of crops.\n4. wider adaptability of crop plants.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q74",
+      "type": "single-choice",
+      "question": "It is often forgotten that globalization, is not only about policies on international economic relationships and transactions, but has equally to do with domestic policies of a nation. Policy changes necessitated by meeting the internationally set conditions (by WTO etc.) of free trade and investment flows obviously affect domestic producers and investors. But the basic philosophy underlying globalization emphasizes absolute freedom to markets to determine prices and production and distribution patterns, and view government interventions as processes that create distortions and bring in inefficiency. Thus, public enterprises have to be privatized through disinvestments and sales; sectors and activities hitherto reserved for the public sector have to be opened to the private sector. This logic extends to the social services like education and health. Any restrictions on the adjustments in workforce by way of retrenchment of workers should also be removed and exit should be made easier by removing any restrictions on closures. Employment and wages should be governed by free play of market forces, as any measure to regulate them can discourage investment and also create inefficiency in production. Above all, in line with the overall philosophy of reduction in the role of the state, fiscal reforms should be undertaken to have generally low levels of taxation and government expenditure should be kept to the minimum to abide by the principle of fiscal prudence. All these are policy actions on the domestic front and are not directly related to the core items of the globalization agenda, namely free international flow of goods and finance.\n\nAccording to the passage, in the process globalization the State should have",
+      "options": [
+        {
+          "id": "a",
+          "text": "expanding role"
+        },
+        {
+          "id": "b",
+          "text": "reducing role"
+        },
+        {
+          "id": "c",
+          "text": "statutory role"
+        },
+        {
+          "id": "d",
+          "text": "none of the above roles."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q75",
+      "type": "single-choice",
+      "question": "It is often forgotten that globalization, is not only about policies on international economic relationships and transactions, but has equally to do with domestic policies of a nation. Policy changes necessitated by meeting the internationally set conditions (by WTO etc.) of free trade and investment flows obviously affect domestic producers and investors. But the basic philosophy underlying globalization emphasizes absolute freedom to markets to determine prices and production and distribution patterns, and view government interventions as processes that create distortions and bring in inefficiency. Thus, public enterprises have to be privatized through disinvestments and sales; sectors and activities hitherto reserved for the public sector have to be opened to the private sector. This logic extends to the social services like education and health. Any restrictions on the adjustments in workforce by way of retrenchment of workers should also be removed and exit should be made easier by removing any restrictions on closures. Employment and wages should be governed by free play of market forces, as any measure to regulate them can discourage investment and also create inefficiency in production. Above all, in line with the overall philosophy of reduction in the role of the state, fiscal reforms should be undertaken to have generally low levels of taxation and government expenditure should be kept to the minimum to abide by the principle of fiscal prudence. All these are policy actions on the domestic front and are not directly related to the core items of the globalization agenda, namely free international flow of goods and finance.\n\nAccording to the passage, the basic philosophy of globalization is to",
+      "options": [
+        {
+          "id": "a",
+          "text": "give absolute freedom to producers to determine prices and production."
+        },
+        {
+          "id": "b",
+          "text": "give freedom to producers to evolve distribution patterns."
+        },
+        {
+          "id": "c",
+          "text": "give absolute freedom to markets to determine prices, production and employment."
+        },
+        {
+          "id": "d",
+          "text": "give freedom to producers to import and export."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q76",
+      "type": "single-choice",
+      "question": "It is often forgotten that globalization, is not only about policies on international economic relationships and transactions, but has equally to do with domestic policies of a nation. Policy changes necessitated by meeting the internationally set conditions (by WTO etc.) of free trade and investment flows obviously affect domestic producers and investors. But the basic philosophy underlying globalization emphasizes absolute freedom to markets to determine prices and production and distribution patterns, and view government interventions as processes that create distortions and bring in inefficiency. Thus, public enterprises have to be privatized through disinvestments and sales; sectors and activities hitherto reserved for the public sector have to be opened to the private sector. This logic extends to the social services like education and health. Any restrictions on the adjustments in workforce by way of retrenchment of workers should also be removed and exit should be made easier by removing any restrictions on closures. Employment and wages should be governed by free play of market forces, as any measure to regulate them can discourage investment and also create inefficiency in production. Above all, in line with the overall philosophy of reduction in the role of the state, fiscal reforms should be undertaken to have generally low levels of taxation and government expenditure should be kept to the minimum to abide by the principle of fiscal prudence. All these are policy actions on the domestic front and are not directly related to the core items of the globalization agenda, namely free international flow of goods and finance.\n\nAccording to the passage, under the globalization, government interventions are viewed as processes leading to",
+      "options": [
+        {
+          "id": "a",
+          "text": "distortions and inefficiency in the economy."
+        },
+        {
+          "id": "b",
+          "text": "optimum use of resources."
+        },
+        {
+          "id": "c",
+          "text": "more profitability to industries."
+        },
+        {
+          "id": "d",
+          "text": "free play of market forces with regard to the industries."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q77",
+      "type": "single-choice",
+      "question": "It is often forgotten that globalization, is not only about policies on international economic relationships and transactions, but has equally to do with domestic policies of a nation. Policy changes necessitated by meeting the internationally set conditions (by WTO etc.) of free trade and investment flows obviously affect domestic producers and investors. But the basic philosophy underlying globalization emphasizes absolute freedom to markets to determine prices and production and distribution patterns, and view government interventions as processes that create distortions and bring in inefficiency. Thus, public enterprises have to be privatized through disinvestments and sales; sectors and activities hitherto reserved for the public sector have to be opened to the private sector. This logic extends to the social services like education and health. Any restrictions on the adjustments in workforce by way of retrenchment of workers should also be removed and exit should be made easier by removing any restrictions on closures. Employment and wages should be governed by free play of market forces, as any measure to regulate them can discourage investment and also create inefficiency in production. Above all, in line with the overall philosophy of reduction in the role of the state, fiscal reforms should be undertaken to have generally low levels of taxation and government expenditure should be kept to the minimum to abide by the principle of fiscal prudence. All these are policy actions on the domestic front and are not directly related to the core items of the globalization agenda, namely free international flow of goods and finance.\n\nAccording to the passage, which of the following is/are necessary for ensuring globalization?\n\n1. Privatization of public enterprises\n2. Expansionary policy of public expenditure\n3. Free play of market forces to determine wages and employment\n4. Privatization of social services like education and health.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q78",
+      "type": "single-choice",
+      "question": "In recent times, India has grown fast not only compared to its own past but also in comparison with other nations. But there cannot be any room for complacency because it is possible for the Indian economy to develop even faster and also to spread the benefits of this growth more widely than has been done thus far. Before going into details of the kinds of micro-structural changes that we need to conceptualize and then proceed to implement, it is worthwhile elaborating on the idea of inclusive growth that constitutes the defining concept behind this Government's various economic policies and decisions. A nation interested in inclusive growth views the same growth differently depending on whether the gains of the growth are heaped primarily on a small segment or shared widely by the population. The latter is cause for celebration but not the former. In other words, growth must not be treated as an end in itself but as an instrument for spreading prosperity to all. India's own past experience and the experience of other nations suggests that growth is necessary for eradicating poverty but it is not a sufficient condition. In other words, policies for promoting growth need to be complemented with policies to ensure that more and more people join' in the growth process and, further,· that there are mechanisms in place to redistribute some of the gains to those who are unable to partake in the market process and, hence, get left behind. A simple way of giving this idea of inclusive growth a sharper form is to measure a nation's progress in terms of the progress of its poorest segment, for instance the bottom 20 per cent of the' population. One could measure the per capita income of the bottom quintile of the population and also calculate the growth rate of income; and evaluate our economic success in terms of these measures that pertain to the poorest segment. This approach is attractive because it does not ignore growth like some of the older heterodox criteria did. It simply looks at the growth of income of the poorest sections of the population. It also ensures that those who are outside of the bottom quintile do not get ignored. If that were done, then those people would in all likelihood drop down into the bottom quintile and so would automatically become a direct target of our policies. Hence the criterion being suggested here is a statistical summing up of the idea of inclusive growth, which, in turn, leads to two corollaries: to wish that India must strive to achieve high growth and that we must work to ensure that the weakest segments benefit from the growth.\n\nThe author supports policies which will help",
+      "options": [
+        {
+          "id": "a",
+          "text": "develop economic growth."
+        },
+        {
+          "id": "b",
+          "text": "better distribution of incomes irrespective of rate of growth."
+        },
+        {
+          "id": "c",
+          "text": "develop economic growth and redistribute economic gains to those getting left behind."
+        },
+        {
+          "id": "d",
+          "text": "put an emphasis on the development of the poorest segments of society."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q79",
+      "type": "single-choice",
+      "question": "In recent times, India has grown fast not only compared to its own past but also in comparison with other nations. But there cannot be any room for complacency because it is possible for the Indian economy to develop even faster and also to spread the benefits of this growth more widely than has been done thus far. Before going into details of the kinds of micro-structural changes that we need to conceptualize and then proceed to implement, it is worthwhile elaborating on the idea of inclusive growth that constitutes the defining concept behind this Government's various economic policies and decisions. A nation interested in inclusive growth views the same growth differently depending on whether the gains of the growth are heaped primarily on a small segment or shared widely by the population. The latter is cause for celebration but not the former. In other words, growth must not be treated as an end in itself but as an instrument for spreading prosperity to all. India's own past experience and the experience of other nations suggests that growth is necessary for eradicating poverty but it is not a sufficient condition. In other words, policies for promoting growth need to be complemented with policies to ensure that more and more people join' in the growth process and, further,· that there are mechanisms in place to redistribute some of the gains to those who are unable to partake in the market process and, hence, get left behind. A simple way of giving this idea of inclusive growth a sharper form is to measure a nation's progress in terms of the progress of its poorest segment, for instance the bottom 20 per cent of the' population. One could measure the per capita income of the bottom quintile of the population and also calculate the growth rate of income; and evaluate our economic success in terms of these measures that pertain to the poorest segment. This approach is attractive because it does not ignore growth like some of the older heterodox criteria did. It simply looks at the growth of income of the poorest sections of the population. It also ensures that those who are outside of the bottom quintile do not get ignored. If that were done, then those people would in all likelihood drop down into the bottom quintile and so would automatically become a direct target of our policies. Hence the criterion being suggested here is a statistical summing up of the idea of inclusive growth, which, in turn, leads to two corollaries: to wish that India must strive to achieve high growth and that we must work to ensure that the weakest segments benefit from the growth.\n\nConsider the following statements:\n\nAccording to the author, India's economy his grown but there is no room for complacency as\n\n1. growth eradicates poverty.\n2. growth has resulted in prosperity all.\n\nWhich of the statements given above is/a correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2014_csat_q80",
+      "type": "single-choice",
+      "question": "In recent times, India has grown fast not only compared to its own past but also in comparison with other nations. But there cannot be any room for complacency because it is possible for the Indian economy to develop even faster and also to spread the benefits of this growth more widely than has been done thus far. Before going into details of the kinds of micro-structural changes that we need to conceptualize and then proceed to implement, it is worthwhile elaborating on the idea of inclusive growth that constitutes the defining concept behind this Government's various economic policies and decisions. A nation interested in inclusive growth views the same growth differently depending on whether the gains of the growth are heaped primarily on a small segment or shared widely by the population. The latter is cause for celebration but not the former. In other words, growth must not be treated as an end in itself but as an instrument for spreading prosperity to all. India's own past experience and the experience of other nations suggests that growth is necessary for eradicating poverty but it is not a sufficient condition. In other words, policies for promoting growth need to be complemented with policies to ensure that more and more people join' in the growth process and, further,· that there are mechanisms in place to redistribute some of the gains to those who are unable to partake in the market process and, hence, get left behind. A simple way of giving this idea of inclusive growth a sharper form is to measure a nation's progress in terms of the progress of its poorest segment, for instance the bottom 20 per cent of the' population. One could measure the per capita income of the bottom quintile of the population and also calculate the growth rate of income; and evaluate our economic success in terms of these measures that pertain to the poorest segment. This approach is attractive because it does not ignore growth like some of the older heterodox criteria did. It simply looks at the growth of income of the poorest sections of the population. It also ensures that those who are outside of the bottom quintile do not get ignored. If that were done, then those people would in all likelihood drop down into the bottom quintile and so would automatically become a direct target of our policies. Hence the criterion being suggested here is a statistical summing up of the idea of inclusive growth, which, in turn, leads to two corollaries: to wish that India must strive to achieve high growth and that we must work to ensure that the weakest segments benefit from the growth.\n\nThe author's central focus is on",
+      "options": [
+        {
+          "id": "a",
+          "text": "applauding India's economic growth not only against its own past performance, but against other nations."
+        },
+        {
+          "id": "b",
+          "text": "emphasizing the-need for economic growth which is the sole determinant of a country's prosperity."
+        },
+        {
+          "id": "c",
+          "text": "emphasizing inclusive growth where gains of growth are shared widely by the population."
+        },
+        {
+          "id": "d",
+          "text": "emphasizing high growth."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

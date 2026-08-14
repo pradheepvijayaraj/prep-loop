@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2021_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $m_1, m_2, \\ldots, m_k$ be positive integers and $d>0$ the greatest common divisor of $m_1, m_2, \\ldots, m_k$. Show that there exist integers $x_1, x_2, \\ldots, x_k$ such that $d = x_1 m_1 + x_2 m_2 + \\cdots + x_k m_k$.\n(b) Test the uniform convergence of the series $x^4 + \\frac{x^4}{1+x^4} + \\frac{x^4}{(1+x^4)^2} + \\frac{x^4}{(1+x^4)^3} + \\cdots$ on $[0, 1]$.\n(c) If a function $f$ is monotonic in the interval $[a, b]$, then prove that $f$ is Riemann integrable in $[a, b]$.\n(d) Let $c: [0, 1] \\to \\mathbb{C}$ be the curve where $c(t) = e^{4\\pi i t}$, $0 \\le t \\le 1$. Evaluate the contour integral $\\int_c \\frac{dz}{2z^2 - 5z + 2}$.\n(e) A department of a company has five employees with five jobs to be performed. The time (in hours) that each man takes to perform each job is given in the effectiveness matrix below. Assign all the jobs to these five employees to minimize the total processing time. Jobs $A$--$E$ vs employees $I$--$V$: $A=(10, 5,13, 15,16)$, $B=(3, 9,18, 13,6)$, $C=(10, 7,2, 2,2)$, $D=(7, 11,9, 7,12)$, $E=(7, 9,10, 4,12)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Find the maximum and minimum values of $f(x) = x^3 - 9x^2 + 26x - 24$ for $0 \\le x \\le 1$.\n(b) Let $F$ be a field and $f(x) \\in F[x]$ a polynomial of degree $>0$ over $F$. Show that there is a field $F'$ and an imbedding $q: F \\to F'$ such that the polynomial $f^q \\in F'[x]$ has a root in $F'$, where $f^q$ is obtained by replacing each coefficient $a$ of $f$ by $q(a)$.\n(c) Find the Laurent series expansion of $f(z) = \\frac{z^2 - z + 1}{z(z^2 - 3z + 2)}$ in the powers of $(z+1)$ in the region $|z+1| > 3$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $f$ be an entire function whose Taylor series expansion with centre $z = 0$ has infinitely many terms. Show that $z = 0$ is an essential singularity of $f\\left(\\frac{1}{z}\\right)$.\n(b) Find the stationary values of $x^2 + y^2 + z^2$ subject to the conditions $ax^2 + by^2 + cz^2 = 1$ and $lx + my + nz = 0$. Interpret the result geometrically.\n(c) Convert the following LPP into dual LPP: Minimize $Z = x_1 - 3x_2 - 2x_3$ subject to $3x_1 - x_2 + 2x_3 \\le 7$, $2x_1 - 4x_2 \\ge 12$, $-4x_1 + 3x_2 + 8x_3 = 10$, where $x_1, x_2 \\ge 0$ and $x_3$ is unrestricted in sign.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Show that there are infinitely many subgroups of the additive group $\\mathbb{Q}$ of rational numbers.\n(b) Using contour integration, evaluate the integral $\\int_{-\\infty}^{\\infty} \\frac{\\sin x\\, dx}{x(x^2 + a^2)}$, $a > 0$.\n(c) Solve the following linear programming problem using Big $M$ method: Maximize $Z = 4x_1 + 5x_2 + 2x_3$ subject to $2x_1 + x_2 + x_3 \\ge 10$, $x_1 + 3x_2 + x_3 \\le 12$, $x_1 + x_2 + x_3 = 6$, $x_1, x_2, x_3 \\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Obtain the partial differential equation by eliminating arbitrary function $f$ from the equation $f(x + y + z,\\ x^2 + y^2 + z^2) = 0$.\n(b) Find a positive root of the equation $3x = 1 + \\cos x$ by a numerical technique using initial values $0$, $\\frac{\\pi}{2}$; and further improve the result using Newton-Raphson method correct to $8$ significant figures.\n(c) (i) Convert $(3798\\cdot 3875)_{10}$ into octal and hexadecimal equivalents.\n(ii) Obtain the principal conjunctive normal form of $(\\neg P \\to R) \\land (Q \\leftrightarrow P)$.\n(d) A particle is constrained to move along a circle lying in the vertical $xy$-plane. With the help of D'Alembert's principle, show that its equation of motion is $\\ddot{x} y - \\ddot{y} x - g x = 0$, where $g$ is the acceleration due to gravity.\n(e) What arrangements of sources and sinks can have the velocity potential $w = \\log_e\\left(z - \\frac{a^2}{z}\\right)$? Draw the corresponding sketch of the streamlines and prove that two of them subdivide into the circle $r = a$ and the axis of $y$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve the wave equation $a^2 \\frac{\\partial^2 u}{\\partial x^2} = \\frac{\\partial^2 u}{\\partial t^2}$, $0 < x < L$, $t > 0$, subject to the conditions $u(0, t) = 0$, $u(L, t) = 0$, $u(x, 0) = \\frac{1}{4} x(L - x)$, and $\\left.\\frac{\\partial u}{\\partial t}\\right|_{t=0} = 0$.\n(b) Obtain the Boolean function $F(x, y, z)$ based on the truth table with values $F(1, 1,1)=1$, $F(1, 1,0)=1$, $F(1, 0,1)=1$, $F(1, 0,0)=0$, $F(0, 1,1)=1$, $F(0, 1,0)=0$, $F(0, 0,1)=0$, $F(0, 0,0)=0$. Then simplify $F(x, y, z)$ and draw the corresponding GATE network.\n(c) Obtain the Lagrangian equation for the motion of a system of two particles of unequal masses connected by an inextensible string passing over a small smooth pulley.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the general solution of the partial differential equation $(D^2 - D'^2 - 3D + 3D')z = xy + e^{x+2y}$, where $D \\equiv \\frac{\\partial}{\\partial x}$ and $D' \\equiv \\frac{\\partial}{\\partial y}$.\n(b) Solve the system of equations $3x_1 + 9x_2 - 2x_3 = 11$, $4x_1 + 2x_2 + 13x_3 = 24$, $4x_1 - 2x_2 + x_3 = -8$ correct up to $4$ significant figures by using Gauss-Seidel method after verifying whether the method is applicable in your transformed form of the system.\n(c) Show that $\\vec{q} = \\frac{\\lambda(-y\\,\\hat{i} + x\\,\\hat{j})}{x^2 + y^2}$ ($\\lambda$ constant) is a possible incompressible fluid motion. Determine the streamlines. Is the kind of the motion potential? If yes, then find the velocity potential.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Find a complete integral of the partial differential equation $p = (z + qy)^2$ by using Charpit's method.\n(b) Derive Newton's backward difference interpolation formula and also do error analysis.\n(c) Show that for the complex potential $\\tan^{-1} z$, the streamlines and equipotential curves are circles. Find the velocity at any point and check the singularities at $z = \\pm i$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

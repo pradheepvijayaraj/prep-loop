@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper III · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "GS3",
+    "section": "mains-gs3",
+    "sourceId": "upsc_2015_mains_gs3",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_gs3_q1",
+      "type": "fill-blank",
+      "question": "The nature of economic growth in India in recent times is often described as jobless growth. Do you agree with this view? Give arguments in favour of your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q2",
+      "type": "fill-blank",
+      "question": "Livestock rearing has a big potential for providing non-farm employment and income in rural areas. Discuss suggesting suitable measures to promote this sector in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q3",
+      "type": "fill-blank",
+      "question": "In view of the declining average size of land holdings in India which has made agriculture non-viable for a majority of farmers, should contract farming and land leasing be promoted in agriculture? Critically evaluate the pros and cons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q4",
+      "type": "fill-blank",
+      "question": "How can the 'Digital India' programme help farmers to improve farm productivity and income? What steps has the Government taken in this regard?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q5",
+      "type": "fill-blank",
+      "question": "In what way could replacement of price subsidy with Direct Benefit Transfer (DBT) change the scenario of subsidies in India? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q6",
+      "type": "fill-blank",
+      "question": "What are the impediments in marketing and supply chain management in developing the food processing industry in India? Can e-commerce help in overcoming these bottlenecks?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q7",
+      "type": "fill-blank",
+      "question": "Craze for gold in Indians has led to a surge in import of gold in recent years and put pressure on balance of payments and external value of rupee. In view of this, examine the merits of the Gold Monetization Scheme.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q8",
+      "type": "fill-blank",
+      "question": "\"Success of 'Make in India' programme depends on the success of 'Skill India' programme and radical labour reforms.\" Discuss with logical arguments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q9",
+      "type": "fill-blank",
+      "question": "To what factors can the recent dramatic fall in equipment costs and tariff of solar energy be attributed? What implications does the trend have for the thermal power producers and the related industry?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q10",
+      "type": "fill-blank",
+      "question": "There is a clear acknowledgement that Special Economic Zones (SEZs) are a tool of industrial development, manufacturing and exports. Recognizing this potential, the whole instrumentality of SEZs requires augmentation. Discuss the issues plaguing the success of SEZs with respect to taxation, governing laws and administration.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q11",
+      "type": "fill-blank",
+      "question": "What do you understand by 'Standard Positioning System' and 'Precision Positioning System' in the GPS era? Discuss the advantages India perceives from its ambitious IRNSS programme employing just seven satellites.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q12",
+      "type": "fill-blank",
+      "question": "What are the areas of prohibitive labour that can be sustainably managed by robots? Discuss the initiatives that can propel research in premier research institutes for substantive and gainful innovation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q13",
+      "type": "fill-blank",
+      "question": "Discuss the advantages and security implications of cloud computing for India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q14",
+      "type": "fill-blank",
+      "question": "India's Traditional Knowledge Digital Library (TKDL), which has a database containing formatted information on more than 2 million medicinal formulations is proving a powerful weapon in the country's fight against erroneous patents. Discuss the pros and cons of making this database publicly available under open-source licensing.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q15",
+      "type": "fill-blank",
+      "question": "Discuss the Namami Gange and National Mission for Clean Ganga (NMCG) programmes and causes of mixed results from the previous schemes. What quantum leaps can help preserve the river Ganga better than incremental inputs?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q16",
+      "type": "fill-blank",
+      "question": "The frequency of urban floods due to high intensity rainfall is increasing over the years. Discussing the reasons for urban floods, highlight the mechanisms for preparedness to reduce the risk during such events.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q17",
+      "type": "fill-blank",
+      "question": "With reference to National Disaster Management Authority (NDMA) guidelines, discuss the measures to be adopted to mitigate the impact of the recent incidents of cloudbursts in many places of Uttarakhand.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q18",
+      "type": "fill-blank",
+      "question": "The persistence of corruption and unethical practices in India needs to be addressed comprehensively. Discuss the role of technology in bringing transparency and accountability.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q19",
+      "type": "fill-blank",
+      "question": "Human rights activists constantly highlight the view that the Armed Forces (Special Powers) Act, 1958 (AFSPA) is a draconian act leading to cases of human rights abuses by the security forces. What sections of AFSPA are opposed by the activists? Critically evaluate the requirement with reference to the view held by the Apex Court.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_gs3_q20",
+      "type": "fill-blank",
+      "question": "Religious indoctrination via digital media has resulted in Indian youth joining the ISIS. What is ISIS and its mission? How can ISIS be dangerous for the internal security of our country?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    }
+  ]
+}

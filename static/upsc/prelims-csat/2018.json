@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2018,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2018_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_csat_q1",
+      "type": "single-choice",
+      "question": "Consider the following graphs. The curves in the graphs indicate different age groups in the populations of two countries A and B over a period of few decades:\n\n![71](/upsc/assets/csat/CSAT_2018_Q71_322317818c.png)\n\nWith reference to the above graphs, which of the following are the most logical and rational inferences that can be made?\n\n1. Over the last two and a half decades, the dependency ratio for country B has decreased.\n2. By the end of next two and a half decades, the dependency ratio of country A will be much less than that of country B.\n3. In the next two decades, the work-force relative to its total population will increase in country B as compared to country A.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q2",
+      "type": "single-choice",
+      "question": "With reference to the above graph, consider the following statements considering 1970 as base year:\n\n1. Population has stabilized after 35 years.\n2. Population growth rate has stabilized after 35 years.\n3. Death rate has fallen by $10\\%$ in the first 10 years.\n4. Birthrate has stabilized after 35 years.\n\nWhich of the above are the most logical and rational statements that can be made from the above graph?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q3",
+      "type": "single-choice",
+      "question": "A number consists of three digits of which the middle one is zero and their sum is 4. If ‘he number formed by interchanging the first and last digits is greater than the number itself by 198, then the difference between the first and last digits is",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q4",
+      "type": "single-choice",
+      "question": "If RAMON is written as 12345 and DINESH as 675849, then HAMAM will be written as",
+      "options": [
+        {
+          "id": "a",
+          "text": "92233"
+        },
+        {
+          "id": "b",
+          "text": "92323"
+        },
+        {
+          "id": "c",
+          "text": "93322"
+        },
+        {
+          "id": "d",
+          "text": "93232"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q5",
+      "type": "single-choice",
+      "question": "There are 24 equally spaced points lying on the circumference of a circle. What is the maximum number of equilateral triangles that can be drawn by taking sets of three points as the vertices?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q6",
+      "type": "single-choice",
+      "question": "While writing all the numbers from 700 to 1000, how many numbers occur in which the digit at hundred's place is greater than the digit at ten's place, and the digit at ten's place is greater than the digit at unit's place?",
+      "options": [
+        {
+          "id": "a",
+          "text": "61"
+        },
+        {
+          "id": "b",
+          "text": "64"
+        },
+        {
+          "id": "c",
+          "text": "85"
+        },
+        {
+          "id": "d",
+          "text": "91"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q7",
+      "type": "single-choice",
+      "question": "Direction for the following 2 (two) items:\n\n![63](/upsc/assets/csat/CSAT_2018_Q63_7857eba3b8.png)\n\nConsider the following graph in which the birthrate and death rate of a country are given, and answer the two items that follow.\n\nLooking at the graph, it can be inferred that from 1990 to 2010",
+      "options": [
+        {
+          "id": "a",
+          "text": "population growth rate has increased"
+        },
+        {
+          "id": "b",
+          "text": "population growth rate has decreased"
+        },
+        {
+          "id": "c",
+          "text": "growth rate of population has remained stable"
+        },
+        {
+          "id": "d",
+          "text": "population growth rate shows no trend"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q8",
+      "type": "single-choice",
+      "question": "The graph given below indicates the changes in key policy rates made by the Central Bank several times in a year:\n\n![73](/upsc/assets/csat/CSAT_2018_Q73_0d8a1dbf7e.png)\n\nWhich one of the following can be the most likely reason for the Central Bank for such an action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Encouraging foreign investment"
+        },
+        {
+          "id": "b",
+          "text": "Increasing the liquidity"
+        },
+        {
+          "id": "c",
+          "text": "Encouraging both public and private savings"
+        },
+        {
+          "id": "d",
+          "text": "Anti-inflationary stance"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q9",
+      "type": "single-choice",
+      "question": "Twelve equal squares are placed to fit in a rectangle of diagonal 5 cm. There are three rows containing four squares each. No gaps are left between adjacent squares. What is the area of each square?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$\\frac{5}{7}$ sq cm"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{7}{5}$ sq cm"
+        },
+        {
+          "id": "c",
+          "text": "1 sq cm"
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{25}{12}$ sq cm"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q10",
+      "type": "single-choice",
+      "question": "Consider the following figures A and B:\n\n![67](/upsc/assets/csat/CSAT_2018_Q67_251fdd63f4.png)\n\nThe manufacturing cost and projected sales for a product are shown in the above figures A and B respectively. What is the minimum number of pieces that should be manufactured to avoid a loss?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2000"
+        },
+        {
+          "id": "b",
+          "text": "2500"
+        },
+        {
+          "id": "c",
+          "text": "3000"
+        },
+        {
+          "id": "d",
+          "text": "3500"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q11",
+      "type": "single-choice",
+      "question": "What was the approximate ratio of sheet steel and scrap steel imports in the first three months of the year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$1 : 1$"
+        },
+        {
+          "id": "b",
+          "text": "$1.2 : 1$"
+        },
+        {
+          "id": "c",
+          "text": "$1.4 : 1$"
+        },
+        {
+          "id": "d",
+          "text": "$1.6 : 1$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q12",
+      "type": "single-choice",
+      "question": "The following graph indicates the composition of our tax revenue for a period of two decades:\n\n![76](/upsc/assets/csat/CSAT_2018_Q76_94d2b4adec.png)\n\nWith reference to the above graph, which of the following is/are the most logical and rational inference/ inferences that can be made?\n\n1. During the given period, the revenue from Direct Taxes as percentage of gross tax revenue has increased while that of Indirect Taxes decreased.\n2. The trend in the revenue from Excise Duty demonstrates that the growth of manufacturing sector has been negative during the given period.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q13",
+      "type": "single-choice",
+      "question": "Directions for the following 3 (three)\nitems:\n\nThe following three items are based on the graph given below which shows imports of three different types of steel over a period of six months of a year. Study the graph and answer the three items that follow.\n\n![11](/upsc/assets/csat/CSAT_2018_Q11_63eba2bda1.png)\n\nThe figures in the brackets indicate the average cost per ton over six months period.\n\nBy how much (measured in thousands of tons) did the import of sheet steel exceed the import of coil steel in the first three months of the year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "19"
+        },
+        {
+          "id": "d",
+          "text": "23"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q14",
+      "type": "single-choice",
+      "question": "A train 200 meters long is moving at the rate of 40 km/h. In how many seconds will it cross a man standing near the railway line?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "16"
+        },
+        {
+          "id": "d",
+          "text": "18"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q15",
+      "type": "single-choice",
+      "question": "What was the approximate total value (in $) of sheet steel imported over the six months period?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$45,555$"
+        },
+        {
+          "id": "b",
+          "text": "$50,555$"
+        },
+        {
+          "id": "c",
+          "text": "$55,550$"
+        },
+        {
+          "id": "d",
+          "text": "$65,750$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q16",
+      "type": "single-choice",
+      "question": "If Pen < Pencil, Pencil < Book and Book > Cap, then which one of the following is always true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pen > Cap"
+        },
+        {
+          "id": "b",
+          "text": "Pen < Book"
+        },
+        {
+          "id": "c",
+          "text": "Pencil = Cap"
+        },
+        {
+          "id": "d",
+          "text": "Pencil > Cap"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q17",
+      "type": "single-choice",
+      "question": "Consider the following sum:\n$ \\bullet + 1 \\bullet + 2 \\bullet + \\bullet 3 + \\bullet 1 = 21 \\bullet $\nIn the above sum, $\\bullet$ stands for",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q18",
+      "type": "single-choice",
+      "question": "Two persons, A and B are running on a circular track. At the start, B is ahead of A and their positions make an angle of $30^\\circ$ at the centre of the circle. When A reaches the point diametrically opposite to his starting point, he meets B. What is the ratio of speeds of A and B, if they are running with uniform speeds?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$6: 5$"
+        },
+        {
+          "id": "b",
+          "text": "$4: 3$"
+        },
+        {
+          "id": "c",
+          "text": "$6: 1$"
+        },
+        {
+          "id": "d",
+          "text": "$4: 2$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q19",
+      "type": "single-choice",
+      "question": "If LSJXVC is the code for MUMBAI, the code for DELHI is",
+      "options": [
+        {
+          "id": "a",
+          "text": "CCIDD"
+        },
+        {
+          "id": "b",
+          "text": "CDKGH"
+        },
+        {
+          "id": "c",
+          "text": "CCJFG"
+        },
+        {
+          "id": "d",
+          "text": "CCIFE"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q20",
+      "type": "single-choice",
+      "question": "The figure drawn below gives the velocity graphs of two vehicles A and B. The straight line OKP represents the velocity of vehicle A at any instant, whereas the horizontal straight line CKD represents the velocity of vehicle B at any instant. In the figure, D is the point where the perpendicular from P meets the horizontal line CKD such that $PD= \\frac{1}{2}LD$.\n\n![5](/upsc/assets/csat/CSAT_2018_Q5_568def30ab.png)\n\nWhat is the ratio between the distances covered by vehicles A and B in the time interval OL?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$1 : 2$"
+        },
+        {
+          "id": "b",
+          "text": "$2 : 3$"
+        },
+        {
+          "id": "c",
+          "text": "$3 : 4$"
+        },
+        {
+          "id": "d",
+          "text": "$1 : 1$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q21",
+      "type": "single-choice",
+      "question": "Consider the figures given below:\n\n![66](/upsc/assets/csat/CSAT_2018_Q66_0e9ce6c650.png)\n\nTo fit the question mark, the correct answer is",
+      "options": [
+        {
+          "id": "a",
+          "text": "![66A](/upsc/assets/csat/CSAT_2018_Q66_Option_A_8853b46a55.png)"
+        },
+        {
+          "id": "b",
+          "text": "![66B](/upsc/assets/csat/CSAT_2018_Q66_Option_B_b416c090cd.png)"
+        },
+        {
+          "id": "c",
+          "text": "![66C](/upsc/assets/csat/CSAT_2018_Q66_Option_C_b32ef93d90.png)"
+        },
+        {
+          "id": "d",
+          "text": "![66D](/upsc/assets/csat/CSAT_2018_Q66_Option_D_1ed8cc87f4.png)"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q22",
+      "type": "single-choice",
+      "question": "Average hourly earnings per year (E) of the workers in a firm are represented in figures A and B as follows:\n\n![65](/upsc/assets/csat/CSAT_2018_Q65_3202165dea.png)\n\nFrom the figures, it is observed that the",
+      "options": [
+        {
+          "id": "a",
+          "text": "values of $E$ are different"
+        },
+        {
+          "id": "b",
+          "text": "ranges (i.e., the difference between the maximum and the minimum) of $E$ are different"
+        },
+        {
+          "id": "c",
+          "text": "slopes of the graphs are same"
+        },
+        {
+          "id": "d",
+          "text": "rates of increase of $E$ are different"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q23",
+      "type": "single-choice",
+      "question": "A person bought a refrigerator worth Rs. $22,800$ with $12.5\\%$ interest compounded yearly. At the end of first year he paid Rs. $8,650$ and at the end of second year Rs. $9,125$. How much will he have to pay at the end of third year to clear the debt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 9,990"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 10,000"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 10,590"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 11,250"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q24",
+      "type": "single-choice",
+      "question": "19 boys turn out for playing hockey. Of these, 11 are wearing hockey shirts and 14 are wearing hockey pants. There are no boys without shirts and pants. What is the number of boys wearing full uniform?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q25",
+      "type": "single-choice",
+      "question": "A solid cube of 3 cm side, painted on all its faces, is cut up into small cubes of 1 cm side. How many of the small cubes will have exactly two painted faces?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q26",
+      "type": "single-choice",
+      "question": "A student has to get 40% marks to pass in an examination. Suppose he gets 30 marks and fails by 30 marks, then what are the maximum marks in the examination?",
+      "options": [
+        {
+          "id": "a",
+          "text": "100"
+        },
+        {
+          "id": "b",
+          "text": "120"
+        },
+        {
+          "id": "c",
+          "text": "150"
+        },
+        {
+          "id": "d",
+          "text": "300"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q27",
+      "type": "single-choice",
+      "question": "For a sports meet, a winners' stand comprising three wooden blocks is in the following form:\n\n![62](/upsc/assets/csat/CSAT_2018_Q62_f15023f2dd.png)\n\nThere are six different colours available to choose from and each of the three wooden blocks is to be painted such that no two of them has the same colour. In how many different ways can the winners' stand be painted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "120"
+        },
+        {
+          "id": "b",
+          "text": "81"
+        },
+        {
+          "id": "c",
+          "text": "66"
+        },
+        {
+          "id": "d",
+          "text": "36"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q28",
+      "type": "single-choice",
+      "question": "A lift has the capacity of 18 adults or 30 children. How many children can board the lift with 12 adults?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "12"
+        },
+        {
+          "id": "d",
+          "text": "15"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q29",
+      "type": "single-choice",
+      "question": "If X is between –3 and –1, and Y is between –1 and 1, then $X^2 – Y^2$ is in between which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$–9$ and 1"
+        },
+        {
+          "id": "b",
+          "text": "$–9$ and $–1$"
+        },
+        {
+          "id": "c",
+          "text": "0 and 8"
+        },
+        {
+          "id": "d",
+          "text": "0 and 9"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q30",
+      "type": "single-choice",
+      "question": "Consider the following figures:\n\n![70](/upsc/assets/csat/CSAT_2018_Q70_3cc1c5e6fb.png)\n\nIn the figures (I) to (VI) above, some parts are shown to change their positions in regular directions. Following the same sequence, which of the figures given below will appear at (VII) stage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "![70A](/upsc/assets/csat/CSAT_2018_Q70_Option_A_d86ffa3426.png)"
+        },
+        {
+          "id": "b",
+          "text": "![70B](/upsc/assets/csat/CSAT_2018_Q70_Option_B_1581dfc83c.png)"
+        },
+        {
+          "id": "c",
+          "text": "![70C](/upsc/assets/csat/CSAT_2018_Q70_Option_C_10a17f9ea6.png)"
+        },
+        {
+          "id": "d",
+          "text": "![70D](/upsc/assets/csat/CSAT_2018_Q70_Option_D_3db8c41bdf.png)"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q31",
+      "type": "single-choice",
+      "question": "A shopkeeper sells an article at Rs. 40 and gets $X\\%$ profit. However, when he sells it at Rs. 20, he faces same percentage of loss. What is the original cost of the article?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 10"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 20"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 30"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 40"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q32",
+      "type": "single-choice",
+      "question": "How many diagonals can be drawn by joining the vertices of an octagon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20"
+        },
+        {
+          "id": "b",
+          "text": "24"
+        },
+        {
+          "id": "c",
+          "text": "28"
+        },
+        {
+          "id": "d",
+          "text": "64"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q33",
+      "type": "single-choice",
+      "question": "A bag contains 15 red balls and 20 black balls. Each ball is numbered either 1 or 2 or 3. 20% of the red balls are numbered 1 and 40% of them are numbered 3. Similarly, among the black balls, 45% are numbered 2 and 30% are numbered 3. A boy picks a ball at random. He wins if the ball is red and numbered 3 or if it is black and numbered 1 or 2. What are the chances of his winning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$\\frac{1}{2}$"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{4}{7}$"
+        },
+        {
+          "id": "c",
+          "text": "$\\frac{5}{9}$"
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{12}{13}$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q34",
+      "type": "single-choice",
+      "question": "Consider the following pattern of numbers:\n\n![3](/upsc/assets/csat/CSAT_2018_Q3_a83f0b63f9.png)\n\nWhat is the number at? in the above pattern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "17"
+        },
+        {
+          "id": "b",
+          "text": "19"
+        },
+        {
+          "id": "c",
+          "text": "21"
+        },
+        {
+          "id": "d",
+          "text": "23"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q35",
+      "type": "single-choice",
+      "question": "Lakshmi, her brother, her daughter and her son are badminton players. A game of doubles is about to begin:\n\n(i) Lakshmi's brother is directly across the net from her daughter.\n(ii) Her son is diagonally across the net from the worst player's sibling.\n(iii) The best player and the worst player are on the same side of the net.\n\nWho is the best player?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Her brother"
+        },
+        {
+          "id": "b",
+          "text": "Her daughter"
+        },
+        {
+          "id": "c",
+          "text": "Her son"
+        },
+        {
+          "id": "d",
+          "text": "Lakshmi"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q36",
+      "type": "single-choice",
+      "question": "If $x - y = 8$, then which of the following must be true?\n\n1. Both $x$ and $y$ must be positive for any value of $x$ and $y$.\n2. If $x$ is positive, $y$ must be negative for any value of $x$ and $y$.\n3. If $x$ is negative, $y$ must be positive for any value of $x$ and $y$.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2 nor 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q37",
+      "type": "single-choice",
+      "question": "A bookseller sold 'a' number of Geography textbooks at the rate of Rs. $x$ per book, '$a + 2$' number of History textbooks at the rate of Rs. $(x + 2)$ per book and '$a - 2$' number of Mathematics textbooks at the rate of Rs. $(x - 2)$ per book. What is his total sale in Rs. ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$3x + 3a$"
+        },
+        {
+          "id": "b",
+          "text": "$3ax + 8$"
+        },
+        {
+          "id": "c",
+          "text": "$9ax$"
+        },
+        {
+          "id": "d",
+          "text": "$x^3 a^3$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q38",
+      "type": "single-choice",
+      "question": "Consider the following three-dimensional figure:\n\n![1](/upsc/assets/csat/CSAT_2018_Q1_e87c1db171.png)\n\nHow many triangles does the above figure have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "18"
+        },
+        {
+          "id": "b",
+          "text": "20"
+        },
+        {
+          "id": "c",
+          "text": "22"
+        },
+        {
+          "id": "d",
+          "text": "24"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q39",
+      "type": "single-choice",
+      "question": "Consider the following graph:\n\n![61](/upsc/assets/csat/CSAT_2018_Q61_91872693cb.png)\n\nWhich one of the following statements is not correct with reference to the graph given above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "On 1st June, the actual progress of work was less than expected."
+        },
+        {
+          "id": "b",
+          "text": "The actual rate of progress of work was the greatest during the month of August."
+        },
+        {
+          "id": "c",
+          "text": "The work was actually completed before the expected time."
+        },
+        {
+          "id": "d",
+          "text": "During the period from 1st April to 1st September, at no time was the actual progress more than the expected progress."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q40",
+      "type": "single-choice",
+      "question": "Consider the sequence given below:\n\n$4/12/95$ , $1/1/96$ , $29/1/96$ , $26/2/96$ , ....\n\nWhat is the next term of the series?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$24/3/96$"
+        },
+        {
+          "id": "b",
+          "text": "$25/3/96$"
+        },
+        {
+          "id": "c",
+          "text": "$26/3/96$"
+        },
+        {
+          "id": "d",
+          "text": "$27/3/96$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q41",
+      "type": "single-choice",
+      "question": "X and Y are natural numbers other than 1, and Y is greater than X. Which of the following represents the largest number?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$XY$"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{X}{Y}$"
+        },
+        {
+          "id": "c",
+          "text": "$\\frac{Y}{X}$"
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{(X + Y)}{XY}$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q42",
+      "type": "single-choice",
+      "question": "I am a scientist, privileged to be somebody who tries to understand nature using the tools of science. But it is also clear that there are some really important questions that science cannot really answer, such as: Why is there something instead of nothing? Why are we here? In those domains, I have found that faith provides a better path to answers. I find it oddly anachronistic that in today’s culture there seems to be a widespread presumption that scientific and spiritual views are incompatible.\n\nWhich of the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is the faith and not science that can finally solve all the pro bkms of mankind."
+        },
+        {
+          "id": "b",
+          "text": "Science and faith can be mutually complementary if their proper domains are understood."
+        },
+        {
+          "id": "c",
+          "text": "There are some very fundamental questions that cannot be answered by either science or faith."
+        },
+        {
+          "id": "d",
+          "text": "In today’s culture, scientific views are given more importance than spiritual views"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q43",
+      "type": "single-choice",
+      "question": "I am a scientist, privileged to be somebody who tries to understand nature using the tools of science. But it is also clear that there are some really important questions that science cannot really answer, such as: Why is there something instead of nothing? Why are we here? In those domains, I have found that faith provides a better path to answers. I find it oddly anachronistic that in today’s culture there seems to be a widespread presumption that scientific and spiritual views are incompatible.\n\nThe author wants India to rid herself of certain past bonds because",
+      "options": [
+        {
+          "id": "a",
+          "text": "he is not able to see the relevance of the past"
+        },
+        {
+          "id": "b",
+          "text": "there is not much to be proud of"
+        },
+        {
+          "id": "c",
+          "text": "he is not interested in the history of India"
+        },
+        {
+          "id": "d",
+          "text": "they obstruct her physical and spiritual growth"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q44",
+      "type": "single-choice",
+      "question": "Global population was around 1.6 billion in 1990—today it is around 7.2 billion and growing. Recent estimates on population growth predict a global population of 9.6 billion in 2050 and 10.9 billion in 2100. Unlike Europe and North America, where only three to four percent of population is engaged in agriculture, around 47 percent of India’s population is dependent upon agriculture. Even if India continues to do well in the service sector and the manufacturing sector picks up, it is expected that around 2030 when India overtakes China as the world’s most populous country, nearly 42 percent of India’s population will still be predominantly dependent on agriculture.\n\nWhich of the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prosperity of agriculture sector is of critical importance to India."
+        },
+        {
+          "id": "b",
+          "text": "Indian economy greatly depends on its agriculture."
+        },
+        {
+          "id": "c",
+          "text": "India should take strict measures to control its rapid population growth."
+        },
+        {
+          "id": "d",
+          "text": "India’s farming communities should switch over to other occupations to improve their economic conditions."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q45",
+      "type": "single-choice",
+      "question": "Today, the top environmental challenge is a combination of people and their aspirations. If the aspirations are more like the frugal ones we had after the Second World War, a lot more is possible than if we view the planet as a giant shopping mall. We need to get beyond the fascination with glitter and understand that the planet works as a biological system.\n\nWhich of the following is the most crucial and logical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Earth can meet only the basic needs of humans for food, clothing and shelter."
+        },
+        {
+          "id": "b",
+          "text": "The only way to meet environmental challenge is to limit human population."
+        },
+        {
+          "id": "c",
+          "text": "Reducing our consumerism is very much in our own interest."
+        },
+        {
+          "id": "d",
+          "text": "Knowledge of biological systems can only help us save this planet."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q46",
+      "type": "single-choice",
+      "question": "Many pathogens that cause foodborne illnesses are unknown. Food contamination can occur at any stage from farm to plate. Since most cases of food poisoning go unreported, the true extent of global foodborne illnesses is unknown. Improvements in international monitoring have led to greater public awareness, yet the rapid globalization of food production increases consumers’ vulnerability by making food harder to regulate and trace. “We have the world on our plates,” says an official of WHO.\n\nWhich of the following is the most logical corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "With more options for food come more risks."
+        },
+        {
+          "id": "b",
+          "text": "Food processing is the source of all foodborne illnesses."
+        },
+        {
+          "id": "c",
+          "text": "We should depend on locally produced food only."
+        },
+        {
+          "id": "d",
+          "text": "Globalization of food production should be curtailed."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q47",
+      "type": "single-choice",
+      "question": "Cooking with biomass and coal in India is now recognized to cause major health problems, with women and children in poor populations facing the greatest risk. There are more than 10 lakh premature deaths each year from household air pollution due to polluting cooking fuels with another 1.5 lakh due to their contribution to general outdoor air pollution in the country. Although the fraction of the Indian population using clean cooking fuels, such as LPG, natural gas and electricity, is slowly rising, the number using polluting solid fuels as their primary cooking fuel has remained static for nearly 30 years at about 70 crore.\n\nWhich of the following is the most crucial and logical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rural people are giving up the use of polluting solid fuels due to their increasing awareness of health hazards."
+        },
+        {
+          "id": "b",
+          "text": "Subsidizing the use of clean cooking fuels will solve the problem of India's indoor air pollution."
+        },
+        {
+          "id": "c",
+          "text": "India should increase its import of natural gas and produce more electricity."
+        },
+        {
+          "id": "d",
+          "text": "Access to cooking gas can reduce premature deaths in poor households."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q48",
+      "type": "single-choice",
+      "question": "The rotated positions of a single solid are shown below. The various faces of the solid are marked with different symbols like dots, cross and line. Answer the three items that follow the given figures.\n\n![14](/upsc/assets/csat/CSAT_2018_Q14_fcf0d13aca.png)\n\nWhat is the symbol on the face opposite to that containing a single dot?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Four dots"
+        },
+        {
+          "id": "b",
+          "text": "Three dots"
+        },
+        {
+          "id": "c",
+          "text": "Two dots"
+        },
+        {
+          "id": "d",
+          "text": "Cross"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q49",
+      "type": "single-choice",
+      "question": "The rotated positions of a single solid are shown below. The various faces of the solid are marked with different symbols like dots, cross and line. Answer the three items that follow the given figures.\n\n![14](/upsc/assets/csat/CSAT_2018_Q14_fcf0d13aca.png)\n\nWhat is the symbol on the face opposite to that containing two dots?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Single dot"
+        },
+        {
+          "id": "b",
+          "text": "Three dots"
+        },
+        {
+          "id": "c",
+          "text": "Four dots"
+        },
+        {
+          "id": "d",
+          "text": "Line"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q50",
+      "type": "single-choice",
+      "question": "The rotated positions of a single solid are shown below. The various faces of the solid are marked with different symbols like dots, cross and line. Answer the three items that follow the given figures.\n\n![14](/upsc/assets/csat/CSAT_2018_Q14_fcf0d13aca.png)\n\nWhat is the symbol on the face opposite to that containing the cross?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Single dot"
+        },
+        {
+          "id": "b",
+          "text": "Two dots"
+        },
+        {
+          "id": "c",
+          "text": "Line"
+        },
+        {
+          "id": "d",
+          "text": "Four dots"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q51",
+      "type": "single-choice",
+      "question": "Being a member of the WTO, India is bound by the agreements that have been signed and ratified by its members, including itself. According to Article 6 of the Agriculture Agreement, providing minimum support prices for agricultural products is considered distorting and is subject to limits. The subsidy arising from 'minimal supports' cannot exceed 10 per cent of the value of agricultural production for developing countries. PDS in India entails minimum support prices and public stockholding of food grains. It is possible that, in some years, the subsidy to producers will exceed 10 per cent of the value of agricultural production.\n\nWhat is the crucial message conveyed by the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India should revise its PDS."
+        },
+        {
+          "id": "b",
+          "text": "India should not be a member of WTO."
+        },
+        {
+          "id": "c",
+          "text": "For India, food security collides with trade."
+        },
+        {
+          "id": "d",
+          "text": "India provides food security to its poor."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q52",
+      "type": "single-choice",
+      "question": "India's educational system is modelled on the mass education system that developed in the 19th century in Europe and later spread around the world. The goal of the system is to condition children as 'good' citizens and productive workers. This suited the industrial age that needed the constant supply of a compliant workforce with a narrow set of capabilities. Our educational institutes resemble factories with bells, uniforms and batch-processing of learners, designed to get learners to conform. But, from an economic point of view, the environment today is very different. It is a complex, volatile and globally interconnected world.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. India continues to be a developing country essentially due to its faulty education system.\n2. Today's learners need to acquire new-age skill-sets.\n3. A good number of Indians go to some developed countries for education because the educational systems there are a perfect reflection of the societies in which they function.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q53",
+      "type": "single-choice",
+      "question": "A diversity of natural assets will be needed to cope with climate change and ensure productive agriculture, forestry, and fisheries. For example, crop varieties are needed that perform well under drought, heat, and enhanced CO2. But the private-sector and farmer-led process of choosing crops favours homogeneity adapted to past or current conditions, not varieties capable of producing consistently high yields in warmer, wetter, or drier conditions. Accelerated breeding programmes are needed to conserve a wider pool of genetic resources of existing crops, breeds, and their wild relatives. Relatively intact ecosystems, such as forested catchments, mangroves, wetlands, can buffer the impacts of climate change. Under a changing climate, these ecosystems are themselves at risk, and management approaches will need to be more proactive and adaptive. Connections between natural areas, such as migration corridors, may be needed to facilitate species movements to keep up with the change in climate.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Diversification of livelihoods acts as a coping strategy for climate change.\n2. Adoption of monocropping practice leads to the extinction of plant varieties and their wild relatives.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q54",
+      "type": "single-choice",
+      "question": "A diversity of natural assets will be needed to cope with climate change and ensure productive agriculture, forestry, and fisheries. For example, crop varieties are needed that perform well under drought, heat, and enhanced CO2. But the private-sector and farmer-led process of choosing crops favours homogeneity adapted to past or current conditions, not varieties capable of producing consistently high yields in warmer, wetter, or drier conditions. Accelerated breeding programmes are needed to conserve a wider pool of genetic resources of existing crops, breeds, and their wild relatives. Relatively intact ecosystems, such as forested catchments, mangroves, wetlands, can buffer the impacts of climate change. Under a changing climate, these ecosystems are themselves at risk, and management approaches will need to be more proactive and adaptive. Connections between natural areas, such as migration corridors, may be needed to facilitate species movements to keep up with the change in climate.\n\nWith reference to the above passage, which of the following would assist us in coping with the climate change?\n\n1. Conservation of natural water sources\n2. Conservation of wider gene pool\n3. Existing crop management practices\n4. Migration corridors\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q55",
+      "type": "single-choice",
+      "question": "Some people believe that leadership is a quality which you have at birth or not at all. This theory is false, for the art of leadership can be acquired and can indeed be taught. This discovery is made in time of war and the results achieved can surprise even the instructors. Faced with the alternatives of going left or right, every soldier soon grasps that a prompt decision either way is better than an endless discussion. A firm choice of direction has an even chance of being right while to do nothing will be almost certainly wrong.\n\nThe author of the passage holds the view that",
+      "options": [
+        {
+          "id": "a",
+          "text": "leadership can be taught through war experience only"
+        },
+        {
+          "id": "b",
+          "text": "leadership can be acquired as well as taught"
+        },
+        {
+          "id": "c",
+          "text": "the results of training show that more people acquire leadership than are expected"
+        },
+        {
+          "id": "d",
+          "text": "despite rigorous instruction, very few leaders are produced"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q56",
+      "type": "single-choice",
+      "question": "The following table gives the GDP growth rate and Tele-density data of different States of a country in a particular year. Study the table and answer the two items that follow.\n\n![74](/upsc/assets/csat/CSAT_2018_Q74_c3de7467de.png)\n\nWith reference to the above table, which of the following is/are the most logical and rational inference/inferences that can be made?\n\n1. Higher per capita income is generally associated with higher Tele-density.\n2. Higher GDP growth rate always ensures higher per capita income.\n3. Higher GDP growth rate does not necessarily ensure higher Tele-density.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q57",
+      "type": "single-choice",
+      "question": "The following table gives the GDP growth rate and Tele-density data of different States of a country in a particular year. Study the table and answer the two items that follow.\n\n![74](/upsc/assets/csat/CSAT_2018_Q74_c3de7467de.png)\n\nWith reference to the above table, the following assumptions have been made:\n\n1. Nowadays, prosperity of an already high performing State cannot be sustained without making further large investments in its telecom infrastructure.\n2. Nowadays, a very high Tele-density is the most essential condition for promoting the business and economic growth in a State.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q58",
+      "type": "single-choice",
+      "question": "The plan of an office block for six officers A, B, C, D, E and F is a follows: Both B and C occupy office to the right of the corridor (as one enters the office block) and A occupies on the left of the corridor. E and F occupy office on opposite sides of the corridor but their offices do not face each other. The offices of C and D face each other. E does not have a corner office. F's office is further down the corridor than A's, but on the same side.\n\nWho is/are F's immediate neighbour/ neighbours?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A only"
+        },
+        {
+          "id": "b",
+          "text": "A and D"
+        },
+        {
+          "id": "c",
+          "text": "C only"
+        },
+        {
+          "id": "d",
+          "text": "B and C"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q59",
+      "type": "single-choice",
+      "question": "The plan of an office block for six officers A, B, C, D, E and F is a follows: Both B and C occupy office to the right of the corridor (as one enters the office block) and A occupies on the left of the corridor. E and F occupy office on opposite sides of the corridor but their offices do not face each other. The offices of C and D face each other. E does not have a corner office. F's office is further down the corridor than A's, but on the same side.\n\nIf E sits in his office and faces the corridor, whose office is to his left?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q60",
+      "type": "single-choice",
+      "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. Impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways: accelerated erosion as in the mountain regions of the country, salinization of land as in tht semi-arid and arid 'green revolution' areas of the country, e.g., Haryana and western Uttar Pradesh, and site quality decline—a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in the hydrology and related soil and nutrient losses. The consequences of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The already high rates for the tropics are increasing at an alarming rate (e.g., through the major river systems—Ganga and Brahmaputra, in the Indian context), due to deforestation and ill-suited land management practices subsequent to forest clearing. In the mountain context, the declining moisture retention of the mountain soils, drying up of the underground springs and smaller rivers in the Himalayan region could be attributed to drastic changes in the forest cover. An indirect consequence is drastic alteration in the upland-lowland interaction, mediated through water. The current concern the tea planter of Assam has is about the damage to tea plantations due to frequent inundation along the flood-plains of Brahmaputra, and the damage to tea plantation and the consequent loss in tea productivity is due to rising level of the river bottom because of siltation and the changing course of the river system. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality, and the consequent decline in food, fodder and fuel-wood yields essential for the economic well-being of rural communities.\n\nWhich of the following is/are the correct inference/ inferences that can be made from the passage?\n\n1. Deforestation can cause changes in the course of rivers.\n2. Salinization of land takes place due to human activities only.\n3. Intense monoculture practice in plains is a major reason for desertification in Tropical Asia, Africa and South America.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "None of the above is a correct inference"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q61",
+      "type": "single-choice",
+      "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. Impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways: accelerated erosion as in the mountain regions of the country, salinization of land as in tht semi-arid and arid 'green revolution' areas of the country, e.g., Haryana and western Uttar Pradesh, and site quality decline—a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in the hydrology and related soil and nutrient losses. The consequences of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The already high rates for the tropics are increasing at an alarming rate (e.g., through the major river systems—Ganga and Brahmaputra, in the Indian context), due to deforestation and ill-suited land management practices subsequent to forest clearing. In the mountain context, the declining moisture retention of the mountain soils, drying up of the underground springs and smaller rivers in the Himalayan region could be attributed to drastic changes in the forest cover. An indirect consequence is drastic alteration in the upland-lowland interaction, mediated through water. The current concern the tea planter of Assam has is about the damage to tea plantations due to frequent inundation along the flood-plains of Brahmaputra, and the damage to tea plantation and the consequent loss in tea productivity is due to rising level of the river bottom because of siltation and the changing course of the river system. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality, and the consequent decline in food, fodder and fuel-wood yields essential for the economic well-being of rural communities.\n\nWith reference to 'desertification', as described in the passage, the following assumptions have been made:\n\n1. Desertification is a phenomenon in tropical areas only.\n2. Deforestation invariably leads to floods and desertification.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q62",
+      "type": "single-choice",
+      "question": "Desertification is a term used to explain a process of decline in the biological productivity of an ecosystem, leading to total loss of productivity. While this phenomenon is often linked to the arid, semi-arid and sub-humid ecosystems, even in the humid tropics, the impact could be most dramatic. Impoverishment of human-impacted terrestrial ecosystems may exhibit itself in a variety of ways: accelerated erosion as in the mountain regions of the country, salinization of land as in tht semi-arid and arid 'green revolution' areas of the country, e.g., Haryana and western Uttar Pradesh, and site quality decline—a common phenomenon due to general decline in tree cover and monotonous monoculture of rice/wheat across the Indian plains. A major consequence of deforestation is that it relates to adverse alterations in the hydrology and related soil and nutrient losses. The consequences of deforestation invariably arise out of site degradation through erosive losses. Tropical Asia, Africa and South America have the highest levels of erosion. The already high rates for the tropics are increasing at an alarming rate (e.g., through the major river systems—Ganga and Brahmaputra, in the Indian context), due to deforestation and ill-suited land management practices subsequent to forest clearing. In the mountain context, the declining moisture retention of the mountain soils, drying up of the underground springs and smaller rivers in the Himalayan region could be attributed to drastic changes in the forest cover. An indirect consequence is drastic alteration in the upland-lowland interaction, mediated through water. The current concern the tea planter of Assam has is about the damage to tea plantations due to frequent inundation along the flood-plains of Brahmaputra, and the damage to tea plantation and the consequent loss in tea productivity is due to rising level of the river bottom because of siltation and the changing course of the river system. The ultimate consequences of site desertification are soil degradation, alteration in available water and its quality, and the consequent decline in food, fodder and fuel-wood yields essential for the economic well-being of rural communities.\n\nAccording to the passage, which of the following are the consequences of decline in forest cover?\n\n1. Loss of topsoil\n2. Loss of smaller rivers\n3. Adverse effect on agricultural production\n4. Declining of groundwater\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q63",
+      "type": "single-choice",
+      "question": "The Arctic's vast reserves of fossil fuel, fish and minerals are now accessible for a longer period in a year. But unlike Antarctica, which is protected from exploitation by the Antarctic Treaty framed during the Cold War and is not subject to territorial claims by any country, there is no legal regime protecting the Arctic from industrialization, especially at a time when the world craves for more and more resources. The distinct possibility of ice-free summer has prompted countries with Arctic coastline to scramble for great chunks of the melting ocean.\n\nWhich one of the following is the most important implication of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India can have territorial claims in the Arctic territory and free access to its resources."
+        },
+        {
+          "id": "b",
+          "text": "Melting of summer ice in the Arctic leads to changes in the geopolitics."
+        },
+        {
+          "id": "c",
+          "text": "The Arctic region will solve the world's future problem of resource crunch."
+        },
+        {
+          "id": "d",
+          "text": "The Arctic region has more resources than Antarctica."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q64",
+      "type": "single-choice",
+      "question": "It is no longer enough for us to talk about providing for universal access to education. Making available schooling facilities is an essential prerequisite, but is insufficient to ensure that all children attend school and participate in the learning process. The school may be there, but children may not attend or they may drop out after a few months. Through school and social mapping, we must address the entire gamut of social, economic, cultural and indeed linguistic and pedagogic issues, factors that prevent children from weaker sections and disadvantaged groups, as also girls, from regularly attending and complementing elementary education. The focus must be on the poorest and most vulnerable since these groups are the most disempowered and at the greatest risk of violation or denial of their right to education. The right to education goes beyond free and compulsory education to include quality education for all. Quality is an integral part of the right to education. If the education process lacks quality, children are being denied their rights. The Right of Children to Free and Compulsory Education Act lays down that the curriculum should provide for learning through activities, exploration and discovery. This places an obligation on us to change our perception of children as passive receivers of knowledge and to move beyond the convention of using textbooks as the basis of examinations.The teaching-learning process must become stress-free; and a massive program for curricular reform should be initiated to provide for a child-friendly learning system, that is more relevant and empowering. Teacher accountability systems and processes must ensure that children are learning and that their right to learn in a child-friendly environment is not violated. Testing and assessment systems must be reexamined and redesigned to ensure that these do not force children to struggle between school and tuition centres, and bypass childhood.\n\nAccording to the passage, which one of the following is critical in bringing quality in education?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ensuring regular attendance of children as well as teachers in school"
+        },
+        {
+          "id": "b",
+          "text": "Giving pecuniary benefits to teachers to motivate them"
+        },
+        {
+          "id": "c",
+          "text": "Understanding the socio-cultural background of children"
+        },
+        {
+          "id": "d",
+          "text": "Inculcating learning through activities and discovery"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q65",
+      "type": "single-choice",
+      "question": "It is no longer enough for us to talk about providing for universal access to education. Making available schooling facilities is an essential prerequisite, but is insufficient to ensure that all children attend school and participate in the learning process. The school may be there, but children may not attend or they may drop out after a few months. Through school and social mapping, we must address the entire gamut of social, economic, cultural and indeed linguistic and pedagogic issues, factors that prevent children from weaker sections and disadvantaged groups, as also girls, from regularly attending and complementing elementary education. The focus must be on the poorest and most vulnerable since these groups are the most disempowered and at the greatest risk of violation or denial of their right to education. The right to education goes beyond free and compulsory education to include quality education for all. Quality is an integral part of the right to education. If the education process lacks quality, children are being denied their rights. The Right of Children to Free and Compulsory Education Act lays down that the curriculum should provide for learning through activities, exploration and discovery. This places an obligation on us to change our perception of children as passive receivers of knowledge and to move beyond the convention of using textbooks as the basis of examinations.The teaching-learning process must become stress-free; and a massive program for curricular reform should be initiated to provide for a child-friendly learning system, that is more relevant and empowering. Teacher accountability systems and processes must ensure that children are learning and that their right to learn in a child-friendly environment is not violated. Testing and assessment systems must be reexamined and redesigned to ensure that these do not force children to struggle between school and tuition centres, and bypass childhood.\n\nAccording to the passage, which of the following is/are of paramount importance under the Right to Education?\n\n1. Sending of children to school by all parents.\n2. Provision of adequate physical infrastructure in schools.\n3. Curricular reforms for developing a child-friendly learning system.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q66",
+      "type": "single-choice",
+      "question": "It is no longer enough for us to talk about providing for universal access to education. Making available schooling facilities is an essential prerequisite, but is insufficient to ensure that all children attend school and participate in the learning process. The school may be there, but children may not attend or they may drop out after a few months. Through school and social mapping, we must address the entire gamut of social, economic, cultural and indeed linguistic and pedagogic issues, factors that prevent children from weaker sections and disadvantaged groups, as also girls, from regularly attending and complementing elementary education. The focus must be on the poorest and most vulnerable since these groups are the most disempowered and at the greatest risk of violation or denial of their right to education. The right to education goes beyond free and compulsory education to include quality education for all. Quality is an integral part of the right to education. If the education process lacks quality, children are being denied their rights. The Right of Children to Free and Compulsory Education Act lays down that the curriculum should provide for learning through activities, exploration and discovery. This places an obligation on us to change our perception of children as passive receivers of knowledge and to move beyond the convention of using textbooks as the basis of examinations.The teaching-learning process must become stress-free; and a massive program for curricular reform should be initiated to provide for a child-friendly learning system, that is more relevant and empowering. Teacher accountability systems and processes must ensure that children are learning and that their right to learn in a child-friendly environment is not violated. Testing and assessment systems must be reexamined and redesigned to ensure that these do not force children to struggle between school and tuition centres, and bypass childhood.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. The Right to Education guarantees teachers’ accountability for the learning process of children.\n2. The Right to Education guarantees 100% enrolment of children in the schools.\n3. The Right to Education intends to take full advantage of demographic dividend.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q67",
+      "type": "single-choice",
+      "question": "It is no longer enough for us to talk about providing for universal access to education. Making available schooling facilities is an essential prerequisite, but is insufficient to ensure that all children attend school and participate in the learning process. The school may be there, but children may not attend or they may drop out after a few months. Through school and social mapping, we must address the entire gamut of social, economic, cultural and indeed linguistic and pedagogic issues, factors that prevent children from weaker sections and disadvantaged groups, as also girls, from regularly attending and complementing elementary education. The focus must be on the poorest and most vulnerable since these groups are the most disempowered and at the greatest risk of violation or denial of their right to education. The right to education goes beyond free and compulsory education to include quality education for all. Quality is an integral part of the right to education. If the education process lacks quality, children are being denied their rights. The Right of Children to Free and Compulsory Education Act lays down that the curriculum should provide for learning through activities, exploration and discovery. This places an obligation on us to change our perception of children as passive receivers of knowledge and to move beyond the convention of using textbooks as the basis of examinations.The teaching-learning process must become stress-free; and a massive program for curricular reform should be initiated to provide for a child-friendly learning system, that is more relevant and empowering. Teacher accountability systems and processes must ensure that children are learning and that their right to learn in a child-friendly environment is not violated. Testing and assessment systems must be reexamined and redesigned to ensure that these do not force children to struggle between school and tuition centres, and bypass childhood.\n\nWhat is the essential message in this passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Right to Education now is a Fundamental Right."
+        },
+        {
+          "id": "b",
+          "text": "The Right to Education enables the children of poor and weaker sections of society to attend schools."
+        },
+        {
+          "id": "c",
+          "text": "The Right to Free and Compulsory Education should include quality education for all."
+        },
+        {
+          "id": "d",
+          "text": "The Government as well as parents should ensure that all children attend schools."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q68",
+      "type": "single-choice",
+      "question": "A male tiger vas removed from Pench Tiger Reserve and was relocated in Parma National Park. Later, this tiger trekked toward his home 250 miles away. The trek of this solitary tiger highlights a crisis. Many wildlife reserves exist as islands of fragile habitat in a vast sea of humanity, yet tigers can range over a hundred miles, seeking prey, mates and territory. Nearly a third of India's tigers live outside tiger reserves, a situation that is dangerous for both human and animal. Prey and tigers can only disperse if there are recognized corridors of land between protected areas to allow unmolested passage.\n\nWhich of the following is the most rational and crucial message given by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The conflict between man and wildlife cannot be resolved, no matter what efforts we make."
+        },
+        {
+          "id": "b",
+          "text": "Safe wildlife corridors between protected areas is an essential aspect of conservation efforts."
+        },
+        {
+          "id": "c",
+          "text": "India needs to declare more protected areas and set up more tiger reserves."
+        },
+        {
+          "id": "d",
+          "text": "India's National Parks and Tiger Reserves need to be professionally managed."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q69",
+      "type": "single-choice",
+      "question": "A male tiger vas removed from Pench Tiger Reserve and was relocated in Parma National Park. Later, this tiger trekked toward his home 250 miles away. The trek of this solitary tiger highlights a crisis. Many wildlife reserves exist as islands of fragile habitat in a vast sea of humanity, yet tigers can range over a hundred miles, seeking prey, mates and territory. Nearly a third of India's tigers live outside tiger reserves, a situation that is dangerous for both human and animal. Prey and tigers can only disperse if there are recognized corridors of land between protected areas to allow unmolested passage.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. The strategy of conversation of wildlife by relocating them from one protected area to another is not often successful.\n2. India does not have suitable legislation to save the tigers, and its conservation efforts have failed which forced the tigers to live outside protected areas.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q70",
+      "type": "single-choice",
+      "question": "The practice of dieting has become an epidemic; everyone is looking out for a way to attain that perfect body. We are all different with respect to our ethnicity, genetics, family history, gender, age, physical and mental and spiritual health status, lifestyles and preferences. Thereby we also differ in what foods we tolerate or are sensitive to. So we really cannot reduce so many complexities into one diet or diet book. This explains the failure of diets across the world in curbing obesity. Unless the reasons for weight gain are well understood and addressed and unless habits are changed permanently, no diet is likely to succeed.\n\nWhat is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obesity has become an epidemic all over the world."
+        },
+        {
+          "id": "b",
+          "text": "A lot of people are obsessed with attaining a perfect body."
+        },
+        {
+          "id": "c",
+          "text": "Obesity is essentially an incurable disease."
+        },
+        {
+          "id": "d",
+          "text": "There is no perfect diet or one solution for obesity."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q71",
+      "type": "single-choice",
+      "question": "All actions to address climate change ultimately involve costs. Funding is vital in order for countries like India to design and implement adaptation and mitigation plans and projects. The problem is more severe for developing countries like India, which would be one of the hardest hit by climate change, given its need to finance development. Most countries do indeed treat climate change as real threat and are striving to address it in a more comprehensive and integrated manner with the limited resources at their disposal.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Climate change is not a challenge for developed countries.\n2. Climate change is a complex policy issue and also a development issue for many countries.\n3. Ways and means of finance must be found to enable developing countries to enhance their adaptive capacity.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q72",
+      "type": "single-choice",
+      "question": "Scientific knowledge has its dangers, but so has every great thing. Over and beyond the dangers with which it threatens the present, it opens up as nothing else can, the vision of a possible happy world; a world without poverty, without war, with little illness. Science, whateverunpleasant consequences it may have by the way, is in its very nature a liberator.\n\nWhich one of the following is the most important implication of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A happy world is a dream of science."
+        },
+        {
+          "id": "b",
+          "text": "Science only can build a happy world, but it is also the only major threat."
+        },
+        {
+          "id": "c",
+          "text": "A happy world is not possible without science."
+        },
+        {
+          "id": "d",
+          "text": "A happy world is not at all possible with or without science."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q73",
+      "type": "single-choice",
+      "question": "A, B, C and D are students. They are studying in four different cities, viz., P, Q, R and S (not necessarily in that order). They are studying in Science college, Arts college, Commerce college and Engineering college (not necessarily in that order), which are situated in four different States, viz., Gujarat, Rajasthan, Assam and Kerala (not necessarily in that order). Further, it is given that—\n\n(i) D is studying in Assam\n(ii) Arts college is located in city S which is in Rajasthan\n(iii) A is studying in Commerce college\n(iv) B is studying in city Q\n(v) Science college is located in Kerala\n\nScience college is located in",
+      "options": [
+        {
+          "id": "a",
+          "text": "city Q"
+        },
+        {
+          "id": "b",
+          "text": "city S"
+        },
+        {
+          "id": "c",
+          "text": "city R"
+        },
+        {
+          "id": "d",
+          "text": "city P"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q74",
+      "type": "single-choice",
+      "question": "A, B, C and D are students. They are studying in four different cities, viz., P, Q, R and S (not necessarily in that order). They are studying in Science college, Arts college, Commerce college and Engineering college (not necessarily in that order), which are situated in four different States, viz., Gujarat, Rajasthan, Assam and Kerala (not necessarily in that order). Further, it is given that—\n\n(i) D is studying in Assam\n(ii) Arts college is located in city S which is in Rajasthan\n(iii) A is studying in Commerce college\n(iv) B is studying in city Q\n(v) Science college is located in Kerala\n\nWhich one of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D is not studying in city S."
+        },
+        {
+          "id": "b",
+          "text": "A is studying in Science college."
+        },
+        {
+          "id": "c",
+          "text": "A is studying in Kerala."
+        },
+        {
+          "id": "d",
+          "text": "Engineering college is located in Gujarat."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q75",
+      "type": "single-choice",
+      "question": "A, B, C and D are students. They are studying in four different cities, viz., P, Q, R and S (not necessarily in that order). They are studying in Science college, Arts college, Commerce college and Engineering college (not necessarily in that order), which are situated in four different States, viz., Gujarat, Rajasthan, Assam and Kerala (not necessarily in that order). Further, it is given that—\n\n(i) D is studying in Assam\n(ii) Arts college is located in city S which is in Rajasthan\n(iii) A is studying in Commerce college\n(iv) B is studying in city Q\n(v) Science college is located in Kerala\n\nWhich one of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Engineering college is located in Assam."
+        },
+        {
+          "id": "b",
+          "text": "City Q is situated in Assam."
+        },
+        {
+          "id": "c",
+          "text": "C is studying in kerala."
+        },
+        {
+          "id": "d",
+          "text": "B is studying in Gujarat."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q76",
+      "type": "single-choice",
+      "question": "A, B, C and D are students. They are studying in four different cities, viz., P, Q, R and S (not necessarily in that order). They are studying in Science college, Arts college, Commerce college and Engineering college (not necessarily in that order), which are situated in four different States, viz., Gujarat, Rajasthan, Assam and Kerala (not necessarily in that order). Further, it is given that—\n\n(i) D is studying in Assam\n(ii) Arts college is located in city S which is in Rajasthan\n(iii) A is studying in Commerce college\n(iv) B is studying in city Q\n(v) Science college is located in Kerala\n\nC is studying in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Science college"
+        },
+        {
+          "id": "b",
+          "text": "Rajasthan"
+        },
+        {
+          "id": "c",
+          "text": "Gujarat"
+        },
+        {
+          "id": "d",
+          "text": "city Q"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q77",
+      "type": "single-choice",
+      "question": "A, B, C and D are students. They are studying in four different cities, viz., P, Q, R and S (not necessarily in that order). They are studying in Science college, Arts college, Commerce college and Engineering college (not necessarily in that order), which are situated in four different States, viz., Gujarat, Rajasthan, Assam and Kerala (not necessarily in that order). Further, it is given that—\n\n(i) D is studying in Assam\n(ii) Arts college is located in city S which is in Rajasthan\n(iii) A is studying in Commerce college\n(iv) B is studying in city Q\n(v) Science college is located in Kerala\n\nOkay, I understand. Please provide the text containing the math expressions you want me to normalize. I will then return the cleaned text with all mathematical expressions converted to KaTeX-compatible LaTeX enclosed in single dollar signs.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rajasthan"
+        },
+        {
+          "id": "b",
+          "text": "Gujarat"
+        },
+        {
+          "id": "c",
+          "text": "city Q"
+        },
+        {
+          "id": "d",
+          "text": "Kerala"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q78",
+      "type": "single-choice",
+      "question": "A, B, C and D are students. They are studying in four different cities, viz., P, Q, R and S (not necessarily in that order). They are studying in Science college, Arts college, Commerce college and Engineering college (not necessarily in that order), which are situated in four different States, viz., Gujarat, Rajasthan, Assam and Kerala (not necessarily in that order). Further, it is given that—\n\n(i) D is studying in Assam\n(ii) Arts college is located in city S which is in Rajasthan\n(iii) A is studying in Commerce college\n(iv) B is studying in city Q\n(v) Science college is located in Kerala\n\nWhich one of the following statements is correct regarding Engineering college?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C is studying there."
+        },
+        {
+          "id": "b",
+          "text": "B is studying there."
+        },
+        {
+          "id": "c",
+          "text": "It is located in Gujarat."
+        },
+        {
+          "id": "d",
+          "text": "D is studying there."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q79",
+      "type": "single-choice",
+      "question": "The quest for cheap and plentiful meat has resulted in farms where more and more animals are squeezed into smaller lots in cruel and shocking conditions. Such practices have resulted in many of the world's health pandemics such as the avian flu. Worldwide, livestock increasingly raised in cruel, cramped conditions, where animals spend their short live under artificial light, pumped full of antibiotics and growth hormones, until the day they are slaughtered. Meat production is water intensive. 15000 litres of water is needed for every kilogram of meat compared with 3400 liters for rice, 3300 litres for eggs and 256 for a kilogram of potatoes.\n\nWhat is the most rational and crucial message given by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mass production of meat through industrial farming is cheap and is suitable for providing protein nutrition to poor countries."
+        },
+        {
+          "id": "b",
+          "text": "Meat-producing industry violates the laws against cruelty to animals."
+        },
+        {
+          "id": "c",
+          "text": "Mass production of meat through industrial farming is undesirable and should be stopped immediately."
+        },
+        {
+          "id": "d",
+          "text": "Environmental cost of meat production is unsustainable when it is produced through industrial farming."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2018_csat_q80",
+      "type": "single-choice",
+      "question": "Monoculture carries great risks. A single disease or pest can wipe out swathes of the world's food production, an alarming prospect given that its growing and wealthier population will eat 70% more by 2050. The risks are magnified by the changing climate. As the planet warms and monsoon rains intensify, farmlands in Asia will flood. North America will suffer more intense droughts, and crop diseases will spread to new latitudes.\n\nWhich of the following is the most logical, rational and crucial message given by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Preserving crop genetic diversity is an insurance against the effects of climate change."
+        },
+        {
+          "id": "b",
+          "text": "Despite great risks, monoculture is the only way to ensure food security in the world."
+        },
+        {
+          "id": "c",
+          "text": "More and more genetically modified crops only can save the world from impending shortages of food."
+        },
+        {
+          "id": "d",
+          "text": "Asia and North America will be worst sufferers from climate change and the consequent shortage of food."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

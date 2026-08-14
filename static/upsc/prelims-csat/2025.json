@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2025,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2025_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_csat_q1",
+      "type": "single-choice",
+      "question": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion: Is $ (p + q)^2 - 4pq $, where $ p $, $ q $ are natural numbers, positive?\nStatement I: $ p < q $.\nStatement II: $ p > q $.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone."
+        },
+        {
+          "id": "b",
+          "text": "The Question can be answered by using either Statement alone."
+        },
+        {
+          "id": "c",
+          "text": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone."
+        },
+        {
+          "id": "d",
+          "text": "The Question can be answered even without using any of the Statements."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q2",
+      "type": "single-choice",
+      "question": "A set (X) of 20 pipes can fill 70% of a tank in 14 minutes. Another set (Y) of 10 pipes fills $\\frac{3}{8}$th of the tank in 6 minutes. A third set (Z) of 16 pipes can empty half of the tank in 20 minutes. If half of the pipes of set X are closed and only half of the pipes of set Y are open, and all pipes of the set (Z) are open, then how long will it take to fill 50% of the tank?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8 minutes"
+        },
+        {
+          "id": "b",
+          "text": "10 minutes"
+        },
+        {
+          "id": "c",
+          "text": "12 minutes"
+        },
+        {
+          "id": "d",
+          "text": "16 minutes"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q3",
+      "type": "single-choice",
+      "question": "X can complete one-third of a certain work in 6 days, Y can complete one-third of the same work in 8 days, and Z can complete three-fourth of the same work in 12 days. All of them work together for $n$ days and then X and Z quit, and Y alone finishes the remaining work in $8\\frac{2}{3}$ days. What is $n$ equal to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q4",
+      "type": "single-choice",
+      "question": "The price (p) of a commodity is first increased by k%, then decreased by k%; again increased by k%, and again decreased by k%. If the new price is q, then what is the relation between p and q?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$p(10^4 – k^2)^2 = q \\times 10^8$"
+        },
+        {
+          "id": "b",
+          "text": "$p(10^4 – k^2)^2 = q \\times 10^4$"
+        },
+        {
+          "id": "c",
+          "text": "$p(10^4 – k^2) = q \\times 10^4$"
+        },
+        {
+          "id": "d",
+          "text": "$p(10^4 – k^2) = q \\times 10^8$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q5",
+      "type": "single-choice",
+      "question": "What is the unit digit in the multiplication of $1 \\times 3 \\times 5 \\times 7 \\times 9 \\times \\dots \\times 999$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q6",
+      "type": "single-choice",
+      "question": "The petrol price shot up by 10% as a result of the hike in crude oil prices. The price of petrol before the hike was ₹90 per litre. A person travels 2200 km every month and his car gives a mileage of 16 km per litre. By how many km should he reduce his travel if he wants to maintain his expenditure at the previous level?",
+      "options": [
+        {
+          "id": "a",
+          "text": "180 km"
+        },
+        {
+          "id": "b",
+          "text": "200 km"
+        },
+        {
+          "id": "c",
+          "text": "220 km"
+        },
+        {
+          "id": "d",
+          "text": "240 km"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q7",
+      "type": "single-choice",
+      "question": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.\n\nQuestion: In a football match, team P playing against Q was behind by 3 goals with 10 minutes remaining.\nDoes team P win the match?\n\nStatement I: Team P scored 4 goals in the last 10 minutes.\nStatement II: Team Q scored a total of 4 goals in the match.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The question can be answered by using one statement alone, but not the other."
+        },
+        {
+          "id": "b",
+          "text": "The question can be answered by using either statement alone."
+        },
+        {
+          "id": "c",
+          "text": "The question can be answered only by using both statements together."
+        },
+        {
+          "id": "d",
+          "text": "The question cannot be answered even by using both statements."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q8",
+      "type": "single-choice",
+      "question": "There are 7 places A, B, C, D, E, F and G in a city connected by various roads AB, AC, CD, DE, BF, EG and FG. A is 6 km south of B. A is 10 km west of C. D is 5 km east of E. C is 6 km north of D. F is 9 km west of B. F is 12 km north of G. A person travels from D to F through these roads. What is the distance covered by the person?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 km"
+        },
+        {
+          "id": "b",
+          "text": "25 km"
+        },
+        {
+          "id": "c",
+          "text": "31 km"
+        },
+        {
+          "id": "d",
+          "text": "37 km"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q9",
+      "type": "single-choice",
+      "question": "What is the 489th digit in the number $123456789101112...?$",
+      "options": [
+        {
+          "id": "a",
+          "text": "0"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q10",
+      "type": "single-choice",
+      "question": "How many possible values of $(p + q + r)$ are there satisfying $\\frac{1}{p} + \\frac{1}{q} + \\frac{1}{r} = 1$, where p, q, and r are natural numbers (not necessarily distinct)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "None"
+        },
+        {
+          "id": "b",
+          "text": "One"
+        },
+        {
+          "id": "c",
+          "text": "Three"
+        },
+        {
+          "id": "d",
+          "text": "More than three"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q11",
+      "type": "single-choice",
+      "question": "What is the maximum value of n such that $7 \\times 343 \\times 385 \\times 1000 \\times 2401 \\times 77777$ is divisible by $35^n$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q12",
+      "type": "single-choice",
+      "question": "What is X in the sequence\n24, $X$, 12, 18, 36, 90?",
+      "options": [
+        {
+          "id": "a",
+          "text": "18"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q13",
+      "type": "single-choice",
+      "question": "What is the remainder when $9^3 + 9^4 + 9^5 + \\dots + 9^{100}$ is divided by 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0"
+        },
+        {
+          "id": "b",
+          "text": "1"
+        },
+        {
+          "id": "c",
+          "text": "2"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q14",
+      "type": "single-choice",
+      "question": "Three teams P, Q, R participated in a tournament in which the teams play with one another exactly once. A win fetches a team 2 points and a draw 1 point. A team gets no point for a loss. Each team scored exactly one goal in the tournament. The team P got 3 points, Q got 2 points and R got 1 point.\n\nWhich of the following statements is/are correct?\n\nI. The result of the match between P and Q is a draw with the score 0–0.\nII. The number of goals scored by R against Q is 1.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q15",
+      "type": "single-choice",
+      "question": "There are n sets of numbers each having only three positive integers with LCM equal to 1001 and HCF equal to 1. What is the value of n?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "7"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "More than 8"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q16",
+      "type": "single-choice",
+      "question": "What is X in the sequence\n$1, 3, 6, 11, 18, X, 42$ ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "26"
+        },
+        {
+          "id": "b",
+          "text": "27"
+        },
+        {
+          "id": "c",
+          "text": "29"
+        },
+        {
+          "id": "d",
+          "text": "30"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q17",
+      "type": "single-choice",
+      "question": "Consider the first 100 natural numbers. How many of them are not divisible by any one of 2, 3, 5, 7, and 9?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20"
+        },
+        {
+          "id": "b",
+          "text": "21"
+        },
+        {
+          "id": "c",
+          "text": "22"
+        },
+        {
+          "id": "d",
+          "text": "23"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q18",
+      "type": "single-choice",
+      "question": "If 7 * 24 = 25 and 12 * 16 = 20, then what is 16 * 63 equal to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "70"
+        },
+        {
+          "id": "b",
+          "text": "66"
+        },
+        {
+          "id": "c",
+          "text": "65"
+        },
+        {
+          "id": "d",
+          "text": "64"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q19",
+      "type": "single-choice",
+      "question": "A 4-digit number N is such that when divided by 3, 5, 6, and 9 it leaves a remainder of 1, 3, 4, and 7 respectively. What is the smallest value of N?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1068"
+        },
+        {
+          "id": "b",
+          "text": "1072"
+        },
+        {
+          "id": "c",
+          "text": "1078"
+        },
+        {
+          "id": "d",
+          "text": "1082"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q20",
+      "type": "single-choice",
+      "question": "The average of three numbers p, q, and r is k. $p$ is as much more than the average as $q$ is less than the average. What is the value of $r$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$k$"
+        },
+        {
+          "id": "b",
+          "text": "$k – 1$"
+        },
+        {
+          "id": "c",
+          "text": "$k + 1$"
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{k}{2}$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q21",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\nI. There exists a natural number which when increased by 50% can have its number of factors unchanged.\nII. There exists a natural number which when increased by 150% can have its number of factors unchanged.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q22",
+      "type": "single-choice",
+      "question": "Consider a set of 11 numbers:\n\nValue-I = Minimum value of the average of the numbers of the set when they are consecutive integers $\\ge$ –5.\nValue-II = Minimum value of the product of the numbers of the set when they are consecutive non-negative integers.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Value-I $ < $ Value-II"
+        },
+        {
+          "id": "b",
+          "text": "Value-II $ < $ Value-I"
+        },
+        {
+          "id": "c",
+          "text": "Value-I $ = $ Value-II"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined due to insufficient data"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q23",
+      "type": "single-choice",
+      "question": "A question is given followed by two Statements 1 and 2. Consider the Question and the Statements and mark the correct option.\n\nQuestion: How is Q related to P?\n\nStatement-1: P has two sisters, R and S.\nStatement-2: R’s father is the brother of Q.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone."
+        },
+        {
+          "id": "b",
+          "text": "The Question can be answered by using either Statement alone."
+        },
+        {
+          "id": "c",
+          "text": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone."
+        },
+        {
+          "id": "d",
+          "text": "The Question can be answered even without using any of the Statements."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q24",
+      "type": "single-choice",
+      "question": "Three prime numbers p, q, and r, each less than 20, are such that $p - q = q - r$. How many distinct possible values can we get for $(p + q + r)$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "More than 6"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q25",
+      "type": "single-choice",
+      "question": "P and Q walk along a circular track. They start at 5:00 am. from the same point in opposite directions. P walks at an average speed of 5 rounds per hour and Q walks at an average speed of 3 rounds per hour. How many times will they cross each other between 5:20 a.m. and 7:00 a.m.?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12"
+        },
+        {
+          "id": "b",
+          "text": "13"
+        },
+        {
+          "id": "c",
+          "text": "14"
+        },
+        {
+          "id": "d",
+          "text": "15"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q26",
+      "type": "single-choice",
+      "question": "Team X scored a total of $N$ runs in 20 overs. Team Y tied the score in $10\\%$ less overs. Had Team Y's average run rate (runs per over) been $50\\%$ higher, the scores would have been tied in 12 overs. How many runs were scored by Team X?",
+      "options": [
+        {
+          "id": "a",
+          "text": "72"
+        },
+        {
+          "id": "b",
+          "text": "144"
+        },
+        {
+          "id": "c",
+          "text": "216"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q27",
+      "type": "single-choice",
+      "question": "A natural number N is such that it can be expressed as $N = p + q + r$, where p, q, and r are distinct factors of N. How many numbers below 50 have this property?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "7"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q28",
+      "type": "single-choice",
+      "question": "If $4 \\leq x \\leq 8$ and $2 \\leq y \\leq 7$, then what is the ratio of the maximum value of $(x + y)$ to the minimum value of $(x - y)$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{15}{2}$"
+        },
+        {
+          "id": "c",
+          "text": "$-\\frac{15}{2}$"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q29",
+      "type": "single-choice",
+      "question": "In a certain code if 64 is written as 343 and 216 is written as 729, then how is 512 written in that code?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1000"
+        },
+        {
+          "id": "b",
+          "text": "1331"
+        },
+        {
+          "id": "c",
+          "text": "1728"
+        },
+        {
+          "id": "d",
+          "text": "2197"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q30",
+      "type": "single-choice",
+      "question": "If N² = 12345678987654321, then how many digits does the number N have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8"
+        },
+        {
+          "id": "b",
+          "text": "9"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "11"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q31",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\nI. If $A \\le B > C < D > E > F \\ge G = H$; then B is always greater than E.\nII. If $P > Q = R \\ge S = T \\le U = V > W$; then S is always less than V.\n\nWhich of the statements above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q32",
+      "type": "single-choice",
+      "question": "If n is a natural number, then what is the number of distinct remainders of $(1^n + 2^n)$ when divided by 4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0"
+        },
+        {
+          "id": "b",
+          "text": "1"
+        },
+        {
+          "id": "c",
+          "text": "2"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q33",
+      "type": "single-choice",
+      "question": "A tram overtakes 2 persons X and Y walking at 3 km/h and 4 km/h in the same direction and completely passes them in 8 s and 9 s respectively. What is the length of the tram?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15 m"
+        },
+        {
+          "id": "b",
+          "text": "18 m"
+        },
+        {
+          "id": "c",
+          "text": "20 m"
+        },
+        {
+          "id": "d",
+          "text": "24 m"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q34",
+      "type": "single-choice",
+      "question": "Let x be a real number between 0 and 1.\nWhich of the following statements is/are correct?\n\nI. $x^2 > x^3$\nII. $x > \\sqrt{x}$\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q35",
+      "type": "single-choice",
+      "question": "A mobile phone has been stolen. There are 3 suspects P, Q and R. They were questioned knowing that only one of them is guilty. Their responses are as follows:\n\nP: “I did not steal. Q stole it.”\nQ: “R did not steal. I did not steal.”\nR: “I did not steal. I do not know who did it.”\n\nWho stole the mobile phone?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$P$"
+        },
+        {
+          "id": "b",
+          "text": "$R$"
+        },
+        {
+          "id": "c",
+          "text": "$Q$"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be concluded"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q36",
+      "type": "single-choice",
+      "question": "What comes at X and Y respectively in the following sequence?\nJanuary, January, December, October, X, March, October, Y, September",
+      "options": [
+        {
+          "id": "a",
+          "text": "July, May"
+        },
+        {
+          "id": "b",
+          "text": "July, April"
+        },
+        {
+          "id": "c",
+          "text": "June, May"
+        },
+        {
+          "id": "d",
+          "text": "June, April"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q37",
+      "type": "single-choice",
+      "question": "A question is given followed by two Statements 1 and 2. Consider the Question and the Statements and mark the correct option.\n\nQuestion: What is the smallest 1-digit number having exactly 4 distinct factors?\n\nStatement-1: 2 is one of the factors.\nStatement-2: 3 is one of the factors.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone."
+        },
+        {
+          "id": "b",
+          "text": "The Question can be answered by using either Statement alone."
+        },
+        {
+          "id": "c",
+          "text": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone."
+        },
+        {
+          "id": "d",
+          "text": "The Question can be answered even without using any of the Statements."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q38",
+      "type": "single-choice",
+      "question": "Let $P = QQQ$ be a 3-digit number. What is the HCF of $P$ and 481?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "13"
+        },
+        {
+          "id": "c",
+          "text": "37"
+        },
+        {
+          "id": "d",
+          "text": "481"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q39",
+      "type": "single-choice",
+      "question": "P is the brother of Q and R. S is R’s mother. T is P’s father. How many of the following statements are definitely true?\n\nI. S and T are a couple.\nII. Q is T’s son.\nIII. T is Q’s father.\nIV. S is P’s mother.\nV. R is T’s daughter.\nVI. P is S’s son.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only two"
+        },
+        {
+          "id": "b",
+          "text": "Only three"
+        },
+        {
+          "id": "c",
+          "text": "Only four"
+        },
+        {
+          "id": "d",
+          "text": "Only five"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q40",
+      "type": "single-choice",
+      "question": "Let both $p$ and $k$ be prime numbers such that $(p^2 + k)$ is also a prime number less than 30. What is the number of possible values of $k$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q41",
+      "type": "single-choice",
+      "question": "Let PQR be a 3-digit number, PPT be a 3-digit number and PS be a 2-digit number, where P, Q, R, S, T are distinct non-zero digits. Further, $PQR - PS = PPT$. If $Q = 3$ and $T < 6$, then what is the number of possible values of $(R, S)$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "More than 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q42",
+      "type": "single-choice",
+      "question": "If NO is coded as 210, NOT is coded as 4200 and NOTE is coded as 21000, then how is NOTES coded?",
+      "options": [
+        {
+          "id": "a",
+          "text": "399000"
+        },
+        {
+          "id": "b",
+          "text": "420000"
+        },
+        {
+          "id": "c",
+          "text": "440000"
+        },
+        {
+          "id": "d",
+          "text": "630000"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q43",
+      "type": "single-choice",
+      "question": "If P = +, Q = –, R = ×, S = ÷, then insert the proper notations between the successive numbers in the equation:\n$60 \\_ 15 \\_ 3 \\_ 20 \\_ 4 = 20$",
+      "options": [
+        {
+          "id": "a",
+          "text": "SPRQ"
+        },
+        {
+          "id": "b",
+          "text": "QRPS"
+        },
+        {
+          "id": "c",
+          "text": "QRSP"
+        },
+        {
+          "id": "d",
+          "text": "SPQR"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q44",
+      "type": "single-choice",
+      "question": "In a T20 cricket match, three players X, Y and Z scored a total of 37 runs. The ratio of runs scored by X to runs scored by Y equals the ratio of runs scored by Y to runs scored by Z.\n\nValue-I = Runs scored by X\nValue-II = Runs scored by Y\nValue-III = Runs scored by Z\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Value-I $ < $ Value-II $ < $ Value-III"
+        },
+        {
+          "id": "b",
+          "text": "Value-III $ < $ Value-II $ < $ Value-I"
+        },
+        {
+          "id": "c",
+          "text": "Value-I $ < $ Value-III $ < $ Value-II"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined due to insufficient data"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q45",
+      "type": "single-choice",
+      "question": "A question is given followed by two Statements 1 and 2. Consider the Question and the Statements and mark the correct option.\n\nQuestion: Let P, Q, R, S be distinct non zero digits. If $PP \\times PQ = RRSS$, where $P \\le 3$ and $Q \\le 4$, then what is Q equal to?\n\nStatement-1: $R = 1$.\nStatement-2: $S = 2$.\n\nWhich one of the following is correct in respect of the above Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone."
+        },
+        {
+          "id": "b",
+          "text": "The Question can be answered by using either Statement alone."
+        },
+        {
+          "id": "c",
+          "text": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone."
+        },
+        {
+          "id": "d",
+          "text": "The Question can be answered even without using any of the Statements."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q46",
+      "type": "single-choice",
+      "question": "The difference between any two natural numbers is 10. What can be said about the natural numbers which are divisible by 5 and lie between these two numbers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is only one such number."
+        },
+        {
+          "id": "b",
+          "text": "There are only two such numbers."
+        },
+        {
+          "id": "c",
+          "text": "There can be more than one such number."
+        },
+        {
+          "id": "d",
+          "text": "No such number exists."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q47",
+      "type": "single-choice",
+      "question": "Let $p + q = 10$, where $p$ and $q$ are integers.\n\nValue-I = Maximum value of $p \\times q$ when $p$, $q$ are positive integers.\nValue-II = Maximum value of $p \\times q$ when $p \\ge -6$, $q \\ge -4$.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Value-I < Value-II"
+        },
+        {
+          "id": "b",
+          "text": "Value-II < Value-I"
+        },
+        {
+          "id": "c",
+          "text": "Value-I = Value-II"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined due to insufficient data"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q48",
+      "type": "single-choice",
+      "question": "Consider the sequence:\n\nAB_CC_A_BCCC_BBC_C that follows a certain pattern.\n\nWhich one of the following completes the sequence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B, C, B, C, A"
+        },
+        {
+          "id": "b",
+          "text": "A, C, B, C, A"
+        },
+        {
+          "id": "c",
+          "text": "B, C, B, A, C"
+        },
+        {
+          "id": "d",
+          "text": "C, B, B, A, C"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q49",
+      "type": "single-choice",
+      "question": "The 5-digit number PQRST (all distinct digits) is such that $T \\ne 0$. P is thrice T. S is greater than Q by 4, while Q is greater than R by 3. How many such 5-digit numbers are possible?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q50",
+      "type": "single-choice",
+      "question": "A solid cube is painted yellow on all its faces. The cube is then cut into 60 smaller but equal pieces by making the minimum number of cuts.\nWhich of the following statements is/are correct?\n\nI. The minimum number of cuts is 9.\nII. The number of smaller pieces which are not painted on any face is 6.\n\nSelect the correct answer using the code below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q51",
+      "type": "single-choice",
+      "question": "If FRANCE is coded as 654321 and GERMANY is coded as 9158437, then how is YEMEN coded?",
+      "options": [
+        {
+          "id": "a",
+          "text": "54321"
+        },
+        {
+          "id": "b",
+          "text": "81913"
+        },
+        {
+          "id": "c",
+          "text": "71913"
+        },
+        {
+          "id": "d",
+          "text": "71813"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q52",
+      "type": "single-choice",
+      "question": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3.5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s.\n\nWith reference to the passage, the following assumptions have been made:\n\nThe growing divergence between the fortunes of the agricultural and non-agricultural economy in India could have been reduced/contained by:\nI. Adopting large-scale cultivation of commercial crops and viable corporate farming.\nII. Providing free insurance for all crops and heavily subsidizing seeds, fertilizers, electricity, and farm machinery at par with developed countries.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q53",
+      "type": "single-choice",
+      "question": "One of the dismal realities of the agricultural sector in independent India has been that it never experienced a high-growth phase, unlike the non-agricultural economy. The highest decadal growth (compound annual growth rate or CAGR) for agriculture has been just 3.5% in the 1980s. Also, after experiencing a spurt in decadal growth during the 1980s, agricultural growth suffered relative stagnation thereafter. This is in sharp contrast to non-agricultural growth, which consistently increased from the 1980s to 2000s.\n\nWhich one of the following statements best reflects the corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The benefit of economic reforms percolates down more slowly to the agriculture sector than in other sectors of the economy."
+        },
+        {
+          "id": "b",
+          "text": "For India, the green revolution was not as useful as it was expected to be."
+        },
+        {
+          "id": "c",
+          "text": "India lagged behind other countries in adapting mechanized and modern farming."
+        },
+        {
+          "id": "d",
+          "text": "Rural-to-urban migration resulted in the stagnant agriculture sector."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q54",
+      "type": "single-choice",
+      "question": "The history of renewable energy suggests there is a steep learning curve, meaning that, as more is produced, costs fall rapidly because of economies of scale and learning by doing. The firms’ green innovation is path-dependent: the more a firm does, the more it is likely to do in the future. The strongest evidence for this is the collapse in the price of solar energy, which became about 90% cheaper during the 2010s, repeatedly beating forecasts. Moving early and gradually gives economies more time to adjust, allowing them to reap the benefits of path-dependent green investment without much disruption. A late, more chaotic transition is costlier.\n\nWhich one of the following statements best reflects the central idea of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Economies of scale is essential for transition to green growth."
+        },
+        {
+          "id": "b",
+          "text": "Modern technological progress is intensely linked to path-dependent innovations."
+        },
+        {
+          "id": "c",
+          "text": "Countries with large economies are in a better position to adopt green technologies."
+        },
+        {
+          "id": "d",
+          "text": "Timing plays a crucial role in the case of green technology development."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q55",
+      "type": "single-choice",
+      "question": "The history of renewable energy suggests there is a steep learning curve, meaning that, as more is produced, costs fall rapidly because of economies of scale and learning by doing. The firms’ green innovation is path-dependent: the more a firm does, the more it is likely to do in the future. The strongest evidence for this is the collapse in the price of solar energy, which became about 90% cheaper during the 2010s, repeatedly beating forecasts. Moving early and gradually gives economies more time to adjust, allowing them to reap the benefits of path-dependent green investment without much disruption. A late, more chaotic transition is costlier.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. Path-dependent green investments will eventually most likely benefit growth as well as public finances in a country like India.\nII. If other green technologies follow the same pattern as that of solar energy, there will most likely be an easy green transition.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q56",
+      "type": "single-choice",
+      "question": "If the social inequality is the most acutely felt social problem in India, insecurity, more than poverty, is the most acutely felt economic problem. Besides those below the official poverty line, even those just over the poverty line are subject to multiple economic insecurities of various kinds (due to wealth and/or health risks, market fluctuations, job-related uncertainties). Many Government policies are actually intended towards mitigating these insecurities.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. People above the poverty line also are prone to suffer from anxiety about economic insecurity.\nII. Eradication of poverty can result in peace and social equality in the country.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q57",
+      "type": "single-choice",
+      "question": "If the social inequality is the most acutely felt social problem in India, insecurity, more than poverty, is the most acutely felt economic problem. Besides those below the official poverty line, even those just over the poverty line are subject to multiple economic insecurities of various kinds (due to wealth and/or health risks, market fluctuations, job-related uncertainties). Many Government policies are actually intended towards mitigating these insecurities.\n\nWhich one of the following statements best reflects the critical message conveyed by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India’s political executive should be aware that poverty and social inequality and the consequent sense of insecurity is the main social problem."
+        },
+        {
+          "id": "b",
+          "text": "In India, poverty is the primary reason for social inequality and insecurity."
+        },
+        {
+          "id": "c",
+          "text": "Poverty and social inequality are so intricately linked that they pose an unmanageable crisis for India."
+        },
+        {
+          "id": "d",
+          "text": "Insecurity, more than poverty, is the main economic issue that Government policies must address."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q58",
+      "type": "single-choice",
+      "question": "A good statesman, like any other sensible human being, learns more from his opponents than from his fervent supporters. For his supporters will push him to disaster unless his opponents show him where the dangers are. So, if he is wise, he will often pray to be delivered from his friends, because they will ruin him. But though it hurts, he ought also to pray never to be left without opponents; for they keep him on the path of reason and good sense. The national unity of free people depends upon a sufficiently even balance of political power to make it impracticable for the administration to be arbitrary and for opposition to be revolutionary and irreconcilable.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. In a democracy, a strong opposition is required only if the Head of Government is indifferent.\nII. The more aggressive the opposition, the better is the governance in a democracy.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q59",
+      "type": "single-choice",
+      "question": "A good statesman, like any other sensible human being, learns more from his opponents than from his fervent supporters. For his supporters will push him to disaster unless his opponents show him where the dangers are. So, if he is wise, he will often pray to be delivered from his friends, because they will ruin him. But though it hurts, he ought also to pray never to be left without opponents; for they keep him on the path of reason and good sense. The national unity of free people depends upon a sufficiently even balance of political power to make it impracticable for the administration to be arbitrary and for opposition to be revolutionary and irreconcilable.\n\nWhich one of the following statements best reflects the critical message conveyed by the author of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Without opposition parties, the administration in a democracy gets to become more responsible."
+        },
+        {
+          "id": "b",
+          "text": "Democracy needs to have revolutionaries in opposition to keep the government alert."
+        },
+        {
+          "id": "c",
+          "text": "Rulers in a democracy need the support of opposition for their political survival."
+        },
+        {
+          "id": "d",
+          "text": "In a democracy, the opposition is indispensable for the balance of political power and good governance"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q60",
+      "type": "single-choice",
+      "question": "Each State in India faces a distinctive set of challenges regarding the impact of warming, but also offers its own set of opportunities for reducing emissions depending on its natural resources. For example, coastal States need to take action to protect their shores from sea level rise, districts that are drier need to prepare for variable monsoon precipitation. Himalayan regions have their own unique challenges, and selected parts of peninsular India and offshore areas offer great opportunities for harnessing wind power. These various aspects need to be considered for developing clear and sustainable goals for the future.\n\nWith reference to the passage, the following assumptions have been made:\n\nI. Green energy production can be linked to/integrated with the climate change mitigation and adaptation strategies.\nII. Effects of climate change are much more severe in coastal and mountainous regions.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q61",
+      "type": "single-choice",
+      "question": "Each State in India faces a distinctive set of challenges regarding the impact of warming, but also offers its own set of opportunities for reducing emissions depending on its natural resources. For example, coastal States need to take action to protect their shores from sea level rise, districts that are drier need to prepare for variable monsoon precipitation. Himalayan regions have their own unique challenges, and selected parts of peninsular India and offshore areas offer great opportunities for harnessing wind power. These various aspects need to be considered for developing clear and sustainable goals for the future.\n\nWhich one of the following statements best reflects the most logical, rational, and pragmatic message conveyed by the author of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The mitigation and adaptation strategies to tackle climate change are essentially the responsibility of each State."
+        },
+        {
+          "id": "b",
+          "text": "India is too diverse to implement any effective strategy or programme to tackle climate change."
+        },
+        {
+          "id": "c",
+          "text": "It is basically the responsibility of the Union Government to implement the climate action plans and ensure net zero emissions."
+        },
+        {
+          "id": "d",
+          "text": "India needs to formulate effective climate change mitigation and adaptation strategies at the State/region level."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q62",
+      "type": "single-choice",
+      "question": "In our country, regrettably, teaching and learning for the examination have been our forte but the new demands of society and the future of work require critical and independent thinking, learning through doing, asking questions from multiple disciplinary perspectives on the same issue, using evidence for building arguments, and reflecting and articulation. Higher education should not \"either be a mere servant of the government policy or a passive respondent to public mood.\" Higher learning is all about how to think rather than what to think. Teaching has to be re-invented.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. Higher education is a constantly evolving subject that needs to align towards new developments in all spheres of society.\nII. In our country, sufficient funds are not allocated for promoting higher education.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q63",
+      "type": "single-choice",
+      "question": "In our country, regrettably, teaching and learning for the examination have been our forte but the new demands of society and the future of work require critical and independent thinking, learning through doing, asking questions from multiple disciplinary perspectives on the same issue, using evidence for building arguments, and reflecting and articulation. Higher education should not \"either be a mere servant of the government policy or a passive respondent to public mood.\" Higher learning is all about how to think rather than what to think. Teaching has to be re-invented.\n\nWhich one of the following statements best reflects the central idea conveyed by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India does not have enough resources for promoting quality education in its universities."
+        },
+        {
+          "id": "b",
+          "text": "The institutions of higher learning in the country should not be under the control of the\nGovernment."
+        },
+        {
+          "id": "c",
+          "text": "Classroom approach to higher education should be done away with."
+        },
+        {
+          "id": "d",
+          "text": "Classroom needs to be reimagined and teaching to be re-invented."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q64",
+      "type": "single-choice",
+      "question": "A network of voluntary associations stands as a ‘buffer’ between the relatively powerless individual and the potentially powerful State.\n\nWhich one of the following statements reflects the best explanation of the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It emphasizes the inability of the State to enforce its will in practice against the opposition of certain groups within it."
+        },
+        {
+          "id": "b",
+          "text": "It is a cooperative organization for the promotion of the well-being and development of the personality of its members."
+        },
+        {
+          "id": "c",
+          "text": "It takes individuals out of a state of isolation and gives them a chance to participate in the common endeavour."
+        },
+        {
+          "id": "d",
+          "text": "It permits citizens to have a variety of loyalties and allegiance."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q65",
+      "type": "single-choice",
+      "question": "A single number for inflation is an aggregate across different commodities and services – the price rise differs for different items of consumption. So, the single number is arrived at by assigning weights to different commodities and services. For WPI, the weights in production are used; for CPI, the consumption basket is used. But people are not homogeneous. The consumption basket is vastly different for the poor, the middle classes, and the rich. Hence, the CPI is different for each of these classes and a composite index requires averaging the baskets.\n\nWhich one of the following statements best reflects the most logical, rational, and crucial message conveyed by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We must use WPI exclusively in measuring price rise and CPI should be done away with."
+        },
+        {
+          "id": "b",
+          "text": "The present calculation of inflation rate does not correctly measure price rise of individual item/commodity."
+        },
+        {
+          "id": "c",
+          "text": "Inflation data under-presents services in the consumption basket."
+        },
+        {
+          "id": "d",
+          "text": "Knowledge of inflation rate is not really of any use to anybody in the country."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q66",
+      "type": "single-choice",
+      "question": "Over the next 30 years, many countries are promising to move to net-zero carbon, implying that household emissions will have to be cut to close to nothing. A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures, such as behavioural changes by individuals and households. And even that would require companies and governments to provide more incentives to change through supply-side investments to make low-carbon options cheaper and more widely available.\n\nWhich one of the following statements best reflects the central idea conveyed by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moving to net-zero carbon is possible only by the reduction in household emissions."
+        },
+        {
+          "id": "b",
+          "text": "Low-carbon behaviour in people can be brought about by incentivising them."
+        },
+        {
+          "id": "c",
+          "text": "Cheaper goods and services can be made available to people by using low-carbon technologies."
+        },
+        {
+          "id": "d",
+          "text": "Manufacturing industries that use low-carbon technologies should be provided with subsidies."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q67",
+      "type": "single-choice",
+      "question": "Over the next 30 years, many countries are promising to move to net-zero carbon, implying that household emissions will have to be cut to close to nothing. A leading climate scientist reckons that, at best, half the reduction might be achieved through demand-side measures, such as behavioural changes by individuals and households. And even that would require companies and governments to provide more incentives to change through supply-side investments to make low-carbon options cheaper and more widely available.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. Supply-side investments in companies can result in low-carbon behaviour in people.\nII. People are not capable of adapting low-carbon behaviour without the involvement of Government and Companies.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q68",
+      "type": "single-choice",
+      "question": "It is hard to predict how changes in the climate and the atmosphere’s chemistry will affect the prevalence and virulence of agricultural diseases. But there is a risk that such changes will make some plant infections more common in all climatic zones, perhaps catastrophically so. Part of the problem is that centuries of selective breeding have refined the genomes of most high-value crops. They are spectacular at growing in today’s conditions but genetic variations that are not immediately useful to them have been bred out. This is good for yields but bad for coping with changes. A minor disease or even an unknown one could suddenly rampage through a genetically honed crop.\n\nWhich one of the following statements best reflects the central idea conveyed by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Global climate change adversely affects the productivity of crops."
+        },
+        {
+          "id": "b",
+          "text": "Our total dependence on genetically honed crops entails possible food insecurity."
+        },
+        {
+          "id": "c",
+          "text": "Our food security should not depend on agricultural productivity alone."
+        },
+        {
+          "id": "d",
+          "text": "Genetically honed crops should be replaced with their wild varieties in our present cultivation practices."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q69",
+      "type": "single-choice",
+      "question": "It is hard to predict how changes in the climate and the atmosphere’s chemistry will affect the prevalence and virulence of agricultural diseases. But there is a risk that such changes will make some plant infections more common in all climatic zones, perhaps catastrophically so. Part of the problem is that centuries of selective breeding have refined the genomes of most high-value crops. They are spectacular at growing in today’s conditions but genetic variations that are not immediately useful to them have been bred out. This is good for yields but bad for coping with changes. A minor disease or even an unknown one could suddenly rampage through a genetically honed crop.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. Global climate change can result in the migration of several plant diseases to new areas.\nII. Scientific understanding of the wild relatives of our present crops would enable us to strengthen food security.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q70",
+      "type": "single-choice",
+      "question": "Trust stands commonly defined as being vulnerable to others. Entrepreneurship implies trust in others and willingness to expose oneself to betrayal. Trust in expert systems is the essence of globalizing behaviors; trust itself emerges as a super-commodity in the social market and defines the characteristics of goods and services in a global market. Trusting conduct also means holding others in good esteem, and an optimism that they are, or will be, competent in certain respects.\n\nWhich one of the following statements best reflects the crux of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trustworthiness cannot be expected in entrepreneurship."
+        },
+        {
+          "id": "b",
+          "text": "Trustworthy people are the most vulnerable people."
+        },
+        {
+          "id": "c",
+          "text": "No economic activity is possible without being exposed to betrayal."
+        },
+        {
+          "id": "d",
+          "text": "Trust is important though it entails risk."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q71",
+      "type": "single-choice",
+      "question": "If there is inequality in the pattern of population growth, there is greater inequality in food production and utilization. As societies become wealthier, their consumption of animal products increases. This means that a greater proportion of such basic foodstuff as grains and legumes that could feed humans directly is instead being converted into feed for poultry and large farm animals. Yet this conversion of plant-based food into animal food for humans is far from efficient. Only 16% of the calories fed to chickens are recovered by us when we eat them. This conversion rate goes down to five to seven per cent in large animals that are fed grain to add fat and some protein before slaughter.\n\nWhich one of the following statements best reflects the crux of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is an urgent need for a public policy to promote the consumption of cereal-based foods in wealthier societies."
+        },
+        {
+          "id": "b",
+          "text": "Animal-based food is far less efficient than grain/plant-based food in terms of production and utilization."
+        },
+        {
+          "id": "c",
+          "text": "Plant-based protein should replace the animal-based protein in our daily diets."
+        },
+        {
+          "id": "d",
+          "text": "Inequality in food production and consumption is inevitable in any fast chancing society."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q72",
+      "type": "single-choice",
+      "question": "If there is inequality in the pattern of population growth, there is greater inequality in food production and utilization. As societies become wealthier, their consumption of animal products increases. This means that a greater proportion of such basic foodstuff as grains and legumes that could feed humans directly is instead being converted into feed for poultry and large farm animals. Yet this conversion of plant-based food into animal food for humans is far from efficient. Only 16% of the calories fed to chickens are recovered by us when we eat them. This conversion rate goes down to five to seven per cent in large animals that are fed grain to add fat and some protein before slaughter.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. The food manufacturing and processing industries in every country should align their objectives and processes in accordance with the changing needs of the societies.\nII. Wealthier societies tend to incur great loss of calories of food materials due to indirect utilization of their agricultural produce.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q73",
+      "type": "single-choice",
+      "question": "In our country, handlooms are equated with a culture that ensures a continuity of tradition. This idea has become part of the public policy-framing and provides a legitimate basis for the State to support the sector. But the notion of tradition as a single, linear entity is being strongly contested today. The narratives dominant in defining culture/tradition in a particular way are seen to have emerged as the identities and histories of large sections. The discounted and, at times, forcibly stifled identities are fighting for their rightful place in history. Against this backdrop, when we promote handloom as a traditional industry, it is not surprising that large sections of our population choose to ignore it.\n\nWhich one of the following statements best reflects the most logical and rational message conveyed by the author of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We need to free the handloom industry from the limited narrative linked to preserving cultural heritage."
+        },
+        {
+          "id": "b",
+          "text": "Continued State support to the handloom industry ensures the preservation of some of our glorious art forms and old traditions."
+        },
+        {
+          "id": "c",
+          "text": "Household units of the handloom sector should be modernized and made an economically viable organized industry."
+        },
+        {
+          "id": "d",
+          "text": "Handloom products need to be converted to machine-made designer products so as to make them more popular."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q74",
+      "type": "single-choice",
+      "question": "In our country, handlooms are equated with a culture that ensures a continuity of tradition. This idea has become part of the public policy-framing and provides a legitimate basis for the State to support the sector. But the notion of tradition as a single, linear entity is being strongly contested today. The narratives dominant in defining culture/tradition in a particular way are seen to have emerged as the identities and histories of large sections. The discounted and, at times, forcibly stifled identities are fighting for their rightful place in history. Against this backdrop, when we promote handloom as a traditional industry, it is not surprising that large sections of our population choose to ignore it.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. There is no need for the State to be involved in any manner in the handloom sector.\nII. Handloom products are no longer appealing and attractive in the rapidly changing modern world.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q75",
+      "type": "single-choice",
+      "question": "Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income.\n\nWhich one of the following statements best reflects the critical message conveyed by the author of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conservation of biodiversity is not an issue to be worried about when some people depend on ecosystems for their livelihoods."
+        },
+        {
+          "id": "b",
+          "text": "Commercial exploitation of forests goes against the fundamental rights of the people dependent on forests for food and shelter."
+        },
+        {
+          "id": "c",
+          "text": "Sustenance of livelihood and degradation of ecosystem while being together exacerbate one another, leading to conflicts and imbalance."
+        },
+        {
+          "id": "d",
+          "text": "Commercial exploitation of ecosystems should be completely stopped."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q76",
+      "type": "single-choice",
+      "question": "Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. No country needs to depend on ecosystems to boost national income.\nII. Resource-rich countries need to share their resources with those of scant resources so as to prevent the degradation of ecosystems.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q77",
+      "type": "single-choice",
+      "question": "In only 50 years, the world's consumption of raw materials has nearly quadrupled, to more than 100 billion tons. Less than 9% of this is reused. Batteries of old vehicles contain materials such as lithium, cobalt, manganese and nickel that are pricey and can be hard to obtain. Supply chains are long and complicated. Buyers' risks are being aggravated by their suppliers' poor environmental and labour standards. Reusing materials makes sense. Once batteries reach the ends of their lives, they should go back to a factory where their ingredients can be recovered and put into new batteries.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. Automobile factories are examples of the circular economy.\nII. Economic growth is compatible with circular use of mineral resources.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q78",
+      "type": "single-choice",
+      "question": "In only 50 years, the world's consumption of raw materials has nearly quadrupled, to more than 100 billion tons. Less than 9% of this is reused. Batteries of old vehicles contain materials such as lithium, cobalt, manganese and nickel that are pricey and can be hard to obtain. Supply chains are long and complicated. Buyers' risks are being aggravated by their suppliers' poor environmental and labour standards. Reusing materials makes sense. Once batteries reach the ends of their lives, they should go back to a factory where their ingredients can be recovered and put into new batteries.\n\nWhich one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Green economy is not possible without reusing critical minerals."
+        },
+        {
+          "id": "b",
+          "text": "Every sector of economy should adapt the reuse of material resources immediately."
+        },
+        {
+          "id": "c",
+          "text": "Circular economy can be beneficial for sustainable growth."
+        },
+        {
+          "id": "d",
+          "text": "Circular use of material resources is the only option for some industries for their survival."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q79",
+      "type": "single-choice",
+      "question": "There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy and enabling the transition from rural to urban, and agriculture to industry and services, which are inevitable with growth. It generates jobs — and there is no other way to fix a country's unemployment challenge without a further impetus to private business. Big companies can operate on a large scale and become competitive both domestically and externally. A vibrant corporate capitalist base also leads to additional revenues for the State — which in turn, can be used for greater welfare for the marginalized and creating a more level playing field in terms of opportunities.\n\nWhich one of the following statements best reflects the critical message conveyed by the author of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Corporate capitalism is important for economic growth of a State and also for democracy."
+        },
+        {
+          "id": "b",
+          "text": "Corporate capitalism is imperative for a modern State to achieve its political objectives."
+        },
+        {
+          "id": "c",
+          "text": "No State can ensure its economic survival for long without the role of corporate capitalism."
+        },
+        {
+          "id": "d",
+          "text": "Corporate capitalism and democracy have mutual dependence for their continued existence."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2025_csat_q80",
+      "type": "single-choice",
+      "question": "There has been no democracy that has grown economically without corporate capitalism. It helps in modernizing the economy and enabling the transition from rural to urban, and agriculture to industry and services, which are inevitable with growth. It generates jobs — and there is no other way to fix a country's unemployment challenge without a further impetus to private business. Big companies can operate on a large scale and become competitive both domestically and externally. A vibrant corporate capitalist base also leads to additional revenues for the State — which in turn, can be used for greater welfare for the marginalized and creating a more level playing field in terms of opportunities.\n\nWith reference to the above passage, the following assumptions have been made:\n\nI. Corporate capitalism promotes the growth of labour force and provides more employment opportunities.\nII. Poor and marginalized sections of population are benefited by corporate capitalism due to trickle-down effect.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

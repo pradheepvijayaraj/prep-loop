@@ -1,0 +1,18 @@
+[
+  {
+    "id": "a",
+    "text": "I only"
+  },
+  {
+    "id": "b",
+    "text": "II only"
+  },
+  {
+    "id": "c",
+    "text": "Both I and II"
+  },
+  {
+    "id": "d",
+    "text": "Neither I nor II"
+  }
+]

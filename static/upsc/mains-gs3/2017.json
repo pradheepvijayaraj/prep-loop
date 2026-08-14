@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper III · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "GS3",
+    "section": "mains-gs3",
+    "sourceId": "upsc_2017_mains_gs3",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_gs3_q1",
+      "type": "fill-blank",
+      "question": "Among several factors for India's potential growth, savings rate is the most effective one. Do you agree? What are the other factors available for growth potential?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q2",
+      "type": "fill-blank",
+      "question": "Account for the failure of manufacturing sector in achieving the goal of labour-intensive exports rather than capital-intensive exports. Suggest measures for more labour-intensive rather than capital-intensive exports.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q3",
+      "type": "fill-blank",
+      "question": "Examine the development of Airports in India through joint ventures under Public-Private Partnership (PPP) model. What are the challenges faced by the authorities in this regard?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q4",
+      "type": "fill-blank",
+      "question": "Explain various types of revolutions that took place in agriculture after independence in India. How these revolutions have helped in poverty alleviation and food security in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q5",
+      "type": "fill-blank",
+      "question": "What are the reasons for poor acceptance of cost-effective small processing unit? How will the food processing unit be helpful to uplift the socio-economic status of poor farmers?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q6",
+      "type": "fill-blank",
+      "question": "What is water stress? How and why does it differ regionally in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q7",
+      "type": "fill-blank",
+      "question": "Give an account of the growth and development of nuclear science and technology in India. What is the advantage of fast breeder reactor programme in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q8",
+      "type": "fill-blank",
+      "question": "India has achieved remarkable successes in unmanned space missions including the Chandrayaan and Mars Orbiter Mission, but has not ventured into manned space mission, both in terms of technology and logistics. Explain critically.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q9",
+      "type": "fill-blank",
+      "question": "Discuss the potential threats of Cyber attack and the security framework to prevent it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q10",
+      "type": "fill-blank",
+      "question": "The North-East region of India has been infested with insurgency for a very long time. Analyze the major reasons for the survival of armed insurgency in this region.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q11",
+      "type": "fill-blank",
+      "question": "One of the intended objectives of the Union Budget 2017-18 is to 'transform, energize and clean India'. Analyse the measures proposed in the Budget 2017-18 to achieve the objective.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q12",
+      "type": "fill-blank",
+      "question": "\"Industrial growth rate has lagged behind in the overall growth of Gross Domestic Product (GDP) in the post-reform period.\" Give reasons. How far are the recent changes in Industrial Policy capable of increasing the industrial growth rate?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q13",
+      "type": "fill-blank",
+      "question": "What are the salient features of 'inclusive growth'? Has India been experiencing such a growth process? Analyse and suggest measures for inclusive growth.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q14",
+      "type": "fill-blank",
+      "question": "What are the major reasons for declining rice and wheat yield in the cropping system? How is crop diversification helpful to stabilize the yield of the crop in the system?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q15",
+      "type": "fill-blank",
+      "question": "Stem cell therapy is gaining popularity in India to treat a wide variety of medical conditions including leukaemia, Thalassemia, damaged cornea and several burns. Describe briefly what stem cell therapy is and what advantages it has over other treatments?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q16",
+      "type": "fill-blank",
+      "question": "Not many years ago, river linking was a concept but it is becoming a reality in the country. Discuss the advantages of river linking and its possible impact on the environment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q17",
+      "type": "fill-blank",
+      "question": "Mention the advantages of the cultivation of pulses because of which the year 2016 was declared as the International Year of Pulses by the United Nations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q18",
+      "type": "fill-blank",
+      "question": "'Climate Change' is a global problem. How will India be affected by climate change? How Himalayan and coastal states of India will be affected by climate change?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q19",
+      "type": "fill-blank",
+      "question": "The scourge of terrorism is a grave challenge to national security. What solutions do you suggest to curb this growing menace? What are the major sources of terrorist funding?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_gs3_q20",
+      "type": "fill-blank",
+      "question": "Mob violence is emerging as a serious law and order problem in India. By giving suitable examples, analyze the causes and consequences of such violence.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    }
+  ]
+}

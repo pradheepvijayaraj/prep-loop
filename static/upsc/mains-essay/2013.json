@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2013",
+    "exam": "UPSC CSE",
+    "totalQuestions": 4,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2013,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2013_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2013_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Be the change you want to see in others — Gandhiji.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Is the Colonial mentality hindering India's success?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "GDP (Gross Domestic Product) along with GNH (Gross National Happiness) would be the right indices for judging the well-being of a country.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Science and technology are the panaceas for the growth and security of the nation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    }
+  ]
+}

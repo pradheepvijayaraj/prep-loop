@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2019_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $f:[0,\\pi/2]\\to\\mathbb{R}$ be a continuous function such that $f(x)=\\frac{\\cos^2 x}{4x^2-\\pi^2}$ for $0\\le x<\\pi/2$. Find the value of $f(\\pi/2)$.\n(b) Let $f:D(\\subseteq\\mathbb{R}^2)\\to\\mathbb{R}$ be a function and $(a,b)\\in D$. If $f(x,y)$ is continuous at $(a,b)$, then show that the functions $f(x,b)$ and $f(a,y)$ are continuous at $x=a$ and at $y=b$ respectively.\n(c) Let $T:\\mathbb{R}^2\\to\\mathbb{R}^2$ be a linear map such that $T(2, 1)=(5, 7)$ and $T(1, 2)=(3, 3)$. If $A$ is the matrix corresponding to $T$ with respect to the standard bases $e_1$, $e_2$, then find $\\mathrm{Rank}(A)$.\n(d) If $A=\\begin{pmatrix}1&2&1\\\\1&-4&1\\\\3&0&-3\\end{pmatrix}$ and $B=\\begin{pmatrix}2&1&1\\\\1&-1&0\\\\2&1&-1\\end{pmatrix}$, then show that $AB=6I_3$. Use this result to solve the system $2x+y+z=5$, $x-y=0$, $2x+y-z=1$.\n(e) Show that the lines $\\frac{x+1}{-3}=\\frac{y-3}{2}=\\frac{z+2}{1}$ and $\\frac{x}{1}=\\frac{y-7}{-3}=\\frac{z+7}{2}$ intersect. Find the coordinates of the point of intersection and the equation of the plane containing them.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Is $f(x)=|\\cos x|+|\\sin x|$ differentiable at $x=\\pi/2$? If yes, then find its derivative at $x=\\pi/2$. If no, then give a proof of it.\n(b) Let $A$ and $B$ be two orthogonal matrices of same order and $\\det A+\\det B=0$. Show that $A+B$ is a singular matrix.\n(c) (i) The plane $x+2y+3z=12$ cuts the axes of coordinates in $A$, $B$, $C$. Find the equations of the circle circumscribing the triangle $ABC$.\n(ii) Prove that the plane $z=0$ cuts the enveloping cone of the sphere $x^2+y^2+z^2=11$ which has the vertex at $(2, 4,1)$ in a rectangular hyperbola.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Find the maximum and the minimum value of the function $f(x)=2x^3-9x^2+12x+6$ on the interval $[2, 3]$.\n(b) Prove that, in general, three normals can be drawn from a given point to the paraboloid $x^2+y^2=2az$, but if the point lies on the surface $27a(x^2+y^2)+8(a-z)^3=0$ then two of the three normals coincide.\n(c) Let $A=\\begin{pmatrix}5&7&2&1\\\\1&1&-8&1\\\\2&3&5&0\\\\3&4&-3&1\\end{pmatrix}$. (i) Find the rank of matrix $A$.\n(ii) Find the dimension of the subspace $V=\\{(x_1,x_2,x_3,x_4)\\in\\mathbb{R}^4\\mid A(x_1,x_2,x_3,x_4)^T=0\\}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) State the Cayley-Hamilton theorem. Use this theorem to find $A^{100}$, where $A=\\begin{pmatrix}1&0&0\\\\1&0&1\\\\0&1&0\\end{pmatrix}$.\n(b) Find the length of the normal chord through a point $P$ of the ellipsoid $\\frac{x^2}{a^2}+\\frac{y^2}{b^2}+\\frac{z^2}{c^2}=1$ and prove that if it is equal to $4PG_3$, where $G_3$ is the point where the normal chord through $P$ meets the $xy$-plane, then $P$ lies on the cone $\\frac{x^2}{a^6}(2c^2-a^2)+\\frac{y^2}{b^6}(2c^2-b^2)+\\frac{z^2}{c^4}=0$.\n(c) (i) If $u=\\sin^{-1}\\sqrt{\\frac{x^{1/3}+y^{1/3}}{x^{1/2}+y^{1/2}}}$, then show that $\\sin^2 u$ is a homogeneous function of $x$ and $y$ of degree $-\\frac{1}{6}$. Hence show that $x^2\\frac{\\partial^2 u}{\\partial x^2}+2xy\\frac{\\partial^2 u}{\\partial x\\partial y}+y^2\\frac{\\partial^2 u}{\\partial y^2}=\\frac{\\tan u}{12}\\Bigl(\\frac{13}{12}+\\frac{\\tan^2 u}{12}\\Bigr)$.\n(ii) Using the Jacobian method, show that if $f'(x)=\\frac{1}{1+x^2}$ and $f(0)=0$, then $f(x)+f(y)=f\\Bigl(\\frac{x+y}{1-xy}\\Bigr)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the differential equation $(2y\\sin x+3y^4\\sin x\\cos x)\\,dx-(4y^3\\cos^2 x+\\cos x)\\,dy=0$.\n(b) Determine the complete solution of the differential equation $\\frac{d^2y}{dx^2}-4\\frac{dy}{dx}+4y=3x^2 e^{2x}\\sin 2x$.\n(c) One end of a heavy uniform rod $AB$ can slide along a rough horizontal rod $AC$, to which it is attached by a ring. $B$ and $C$ are joined by a string. When the rod is on the point of sliding, then $AC^2-AB^2=BC^2$. If $\\theta$ is the angle between $AB$ and the horizontal line, then prove that the coefficient of friction is $\\frac{\\cot\\theta}{2+\\cot^2\\theta}$.\n(d) The force of attraction of a particle by the earth is inversely proportional to the square of its distance from the earth's centre. A particle, whose weight on the surface of the earth is $W$, falls to the surface of the earth from a height $3h$ above it. Show that the magnitude of work done by the earth's attraction force is $\\frac{3}{4}hW$, where $h$ is the radius of the earth.\n(e) Find the directional derivative of the function $xy^2+yz^2+zx^2$ along the tangent to the curve $x=t$, $y=t^2$, $z=t^3$ at the point $(1, 1,1)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) A body consists of a cone and underlying hemisphere. The base of the cone and the top of the hemisphere have same radius $a$. The whole body rests on a rough horizontal table with hemisphere in contact with the table. Show that the greatest height of the cone, so that the equilibrium may be stable, is $\\sqrt{3}\\,a$.\n(b) Find the circulation of $\\vec{F}$ round the curve $C$, where $\\vec{F}=(2x+y^2)\\hat{i}+(3y-4x)\\hat{j}$ and $C$ is the curve $y=x^2$ from $(0, 0)$ to $(1, 1)$ and the curve $y^2=x$ from $(1, 1)$ to $(0, 0)$.\n(c) (i) Solve the differential equation $\\frac{d^2y}{dx^2}+(3\\sin x-\\cot x)\\frac{dy}{dx}+2y\\sin^2 x=e^{-\\cos x}\\sin^2 x$.\n(ii) Find the Laplace transforms of $t^{-1/2}$ and $t^{1/2}$. Prove that the Laplace transform of $t^{n+1/2}$, where $n\\in\\mathbb{N}$, is $\\frac{\\Gamma(n+1+\\frac{1}{2})}{s^{n+1+\\frac{1}{2}}}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the linearly independent solutions of the corresponding homogeneous differential equation of the equation $x^2 y''-2xy'+2y=x^3\\sin x$ and then find the general solution of the given equation by the method of variation of parameters.\n(b) Find the radius of curvature and radius of torsion of the helix $x=a\\cos u$, $y=a\\sin u$, $z=au\\tan\\alpha$.\n(c) A particle moving along the $y$-axis has an acceleration $Fy$ towards the origin, where $F$ is a positive and even function of $y$. The periodic time, when the particle vibrates between $y=-a$ and $y=a$, is $T$. Show that $\\frac{2\\pi}{\\sqrt{F_1}}<T<\\frac{2\\pi}{\\sqrt{F_2}}$ where $F_1$ and $F_2$ are the greatest and the least values of $F$ within the range $[-a,a]$. Further, show that when a simple pendulum of length $l$ oscillates through $30^\\circ$ on either side of the vertical line, $T$ lies between $2\\pi\\sqrt{l/g}$ and $2\\pi\\sqrt{l/g}\\,\\sqrt{\\pi/3}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Obtain the singular solution of the differential equation $\\bigl(\\frac{dy}{dx}\\bigr)^2\\bigl(\\frac{y}{x}\\bigr)^2\\cot^2\\alpha-2\\bigl(\\frac{dy}{dx}\\bigr)\\bigl(\\frac{y}{x}\\bigr)+\\bigl(\\frac{y}{x}\\bigr)^2\\operatorname{cosec}^2\\alpha=1$. Also find the complete primitive of the given differential equation. Give the geometrical interpretations of the complete primitive and singular solution.\n(b) Prove that the path of a planet, which is moving so that its acceleration is always directed to a fixed point (star) and is equal to $\\frac{\\mu}{(\\mathrm{distance})^2}$, is a conic section. Find the conditions under which the path becomes (i) ellipse,\n(ii) parabola\n(iii) hyperbola.\n(c) (i) State Gauss divergence theorem. Verify this theorem for $\\vec{F}=4x\\hat{i}-2y^2\\hat{j}+z^2\\hat{k}$, taken over the region bounded by $x^2+y^2=4$, $z=0$ and $z=3$.\n(ii) Evaluate by Stokes' theorem $\\oint_C e^x\\,dx+2y\\,dy-dz$, where $C$ is the curve $x^2+y^2=4$, $z=2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

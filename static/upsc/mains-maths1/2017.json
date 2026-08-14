@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2017_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $A=\\begin{pmatrix}2&2\\\\1&3\\end{pmatrix}$. Find a non-singular matrix $P$ such that $P^{-1}AP$ is a diagonal matrix.\n(b) Show that similar matrices have the same characteristic polynomial.\n(c) Integrate the function $f(x,y)=xy(x^2+y^2)$ over the domain $R:\\{-3\\le x^2-y^2\\le 3,\\ 1\\le xy\\le 4\\}$.\n(d) Find the equation of the tangent plane at point $(1, 1,1)$ to the conicoid $3x^2-y^2=2z$.\n(e) Find the shortest distance between the skew lines $\\frac{x-3}{3}=\\frac{8-y}{1}=\\frac{z-3}{1}$ and $\\frac{x+3}{-3}=\\frac{y+7}{2}=\\frac{z-6}{4}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Find the volume of the solid above the $xy$-plane and directly below the portion of the elliptic paraboloid $x^2+\\frac{y^2}{4}=z$ which is cut off by the plane $z=9$.\n(b) A plane passes through a fixed point $(a,b,c)$ and cuts the axes at the points $A$, $B$, $C$ respectively. Find the locus of the centre of the sphere which passes through the origin $O$ and $A$, $B$, $C$.\n(c) Show that the plane $2x-2y+z+12=0$ touches the sphere $x^2+y^2+z^2-2x-4y+2z-3=0$. Find the point of contact.\n(d) Suppose $U$ and $W$ are distinct four dimensional subspaces of a vector space $V$, where $\\dim V=6$. Find the possible dimensions of subspace $U\\cap W$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Consider the matrix mapping $A:\\mathbb{R}^4\\to\\mathbb{R}^3$, where $A=\\begin{pmatrix}1&2&3&1\\\\1&3&5&-2\\\\3&8&13&-3\\end{pmatrix}$. Find a basis and dimension of the image of $A$ and those of the kernel of $A$.\n(b) Prove that distinct non-zero eigenvectors of a matrix are linearly independent.\n(c) If $f(x,y)=\\frac{xy(x^2-y^2)}{x^2+y^2}$ when $(x,y)\\neq(0, 0)$ and $f(0, 0)=0$, calculate $\\frac{\\partial^2 f}{\\partial x\\partial y}$ and $\\frac{\\partial^2 f}{\\partial y\\partial x}$ at $(0, 0)$.\n(d) Find the locus of the point of intersection of three mutually perpendicular tangent planes to $ax^2+by^2+cz^2=1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Reduce the following equation to the standard form and hence determine the nature of the conicoid: $x^2+y^2+z^2-yz-zx-xy-3x-6y-9z+21=0$.\n(b) Consider the following system of equations in $x,y,z$: $x+2y+2z=1$, $x+ay+3z=3$, $x+11y+az=b$. (i) For which values of $a$ does the system have a unique solution?\n(ii) For which pair of values $(a,b)$ does the system have more than one solution?\n(c) Examine if the improper integral $\\int_0^3\\frac{2x\\,dx}{(1-x^2)^{2/3}}$ exists.\n(d) Prove that $\\frac{\\pi}{3}\\le\\iint_D\\frac{dx\\,dy}{\\sqrt{x^2+(y-2)^2}}\\le\\pi$ where $D$ is the unit disc.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Find the differential equation representing all the circles in the $x$-$y$ plane.\n(b) Suppose that the streamlines of the fluid flow are given by a family of curves $xy=c$. Find the equipotential lines, that is, the orthogonal trajectories of the family of curves representing the streamlines.\n(c) A fixed wire is in the shape of the cardioid $r=a(1+\\cos\\theta)$, the initial line being the downward vertical. A small ring of mass $m$ can slide on the wire and is attached to the point $r=0$ of the cardioid by an elastic string of natural length $a$ and modulus of elasticity $4mg$. The string is released from rest when the string is horizontal. Show by using the laws of conservation of energy that $a\\dot{\\theta}^2(1+\\cos\\theta)-g\\cos\\theta(1-\\cos\\theta)=0$, $g$ being the acceleration due to gravity.\n(d) For what values of the constants $a$, $b$ and $c$ the vector $\\vec{V}=(x+y+az)\\hat{i}+(bx+2y-z)\\hat{j}+(-x+cy+2z)\\hat{k}$ is irrotational. Find the divergence in cylindrical coordinates of this vector with these values.\n(e) The position vector of a moving point at time $t$ is $\\vec{r}=\\sin t\\,\\hat{i}+\\cos 2t\\,\\hat{j}+(t^2+2t)\\hat{k}$. Find the components of acceleration $\\vec{a}$ in the directions parallel to the velocity vector $\\vec{v}$ and perpendicular to the plane of $\\vec{r}$ and $\\vec{v}$ at time $t=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Solve the following simultaneous linear differential equations: $(D+1)y=z+e^x$ and $(D+1)z=y+e^x$ where $y$ and $z$ are functions of independent variable $x$ and $D\\equiv\\frac{d}{dx}$.\n(ii) If the growth rate of the population of bacteria at any time $t$ is proportional to the amount present at that time and population doubles in one week, then how much bacteria can be expected after $4$ weeks?\n(b) (i) Consider the differential equation $xy p^2-(x^2+y^2-1)p+xy=0$ where $p=\\frac{dy}{dx}$. Substituting $u=x^2$ and $v=y^2$ reduce the equation to Clairaut's form in terms of $u$, $v$ and $p'=\\frac{dv}{du}$. Hence, or otherwise solve the equation.\n(ii) Solve the following initial value differential equation: $20y''+4y'+y=0$, $y(0)=3\\cdot 2$ and $y'(0)=0$.\n(c) A uniform solid hemisphere rests on a rough plane inclined to the horizon at an angle $\\phi$ with its curved surface touching the plane. Find the greatest admissible value of the inclination $\\phi$ for equilibrium. If $\\phi$ be less than this value, is the equilibrium stable?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the curvature vector and its magnitude at any point $\\vec{r}=(\\theta)$ of the curve $\\vec{r}=(a\\cos\\theta,a\\sin\\theta,a\\theta)$. Show that the locus of the feet of the perpendicular from the origin to the tangent is a curve that completely lies on the hyperboloid $x^2+y^2-z^2=a^2$.\n(b) (i) Solve the differential equation $x\\frac{d^2y}{dx^2}-\\frac{dy}{dx}-4x^3 y=8x^3\\sin(x^2)$.\n(ii) Solve the following differential equation using method of variation of parameters: $\\frac{d^2y}{dx^2}-\\frac{dy}{dx}-2y=44-76x-48x^2$.\n(c) A particle is free to move on a smooth vertical circular wire of radius $a$. At time $t=0$ it is projected along the circle from its lowest point $A$ with velocity just sufficient to carry it to the highest point $B$. Find the time $T$ at which the reaction between the particle and the wire is zero.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) A spherical shot of $W$ gm weight and radius $r$ cm, lies at the bottom of cylindrical bucket of radius $R$ cm. The bucket is filled with water ua depth $h$ cm ($h>2r$). Show that the minimum amount of work done in lifting the shot just clear of the water must be $\\Bigl[W\\bigl(h-\\frac{4r^3}{3R^2}\\bigr)+W'\\bigl(r-h+\\frac{2r^3}{3R^2}\\bigr)\\Bigr]$ cm gm. $W'$ gm is the weight of water displaced by the shot.\n(b) Solve the following initial value problem using Laplace transform: $\\frac{d^2y}{dx^2}+9y=r(x)$, $y(0)=0$, $y'(0)=4$, where $r(x)=8\\sin x$ if $0<x<\\pi$ and $r(x)=0$ if $x\\ge\\pi$.\n(c) (i) Evaluate the integral $\\iint_S\\vec{F}\\cdot\\hat{n}\\,ds$ where $\\vec{F}=3xy^2\\hat{i}+(yx^2-y^3)\\hat{j}+3zx^2\\hat{k}$ and $S$ is a surface of the cylinder $y^2+z^2\\le 4$, $-3\\le x\\le 3$, using divergence theorem.\n(ii) Using Green's theorem, evaluate $\\int_C F(\\vec{r})\\cdot d\\vec{r}$ counterclockwise where $F(\\vec{r})=(x^2+y^2)\\hat{i}+(x^2-y^2)\\hat{j}$ and $d\\vec{r}=dx\\,\\hat{i}+dy\\,\\hat{j}$ and the curve $C$ is the boundary of the region $R=\\{(x,y)\\mid 1\\le y\\le 2-x^2\\}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

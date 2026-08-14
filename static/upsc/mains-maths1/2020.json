@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2020_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Consider the set $V$ of all $n\\times n$ real magic squares. Show that $V$ is a vector space over $\\mathbb{R}$. Give examples of two distinct $2\\times 2$ magic squares.\n(b) Let $M_2(\\mathbb{R})$ be the vector space of all $2\\times 2$ real matrices. Let $B=\\begin{pmatrix}1&-1\\\\-4&4\\end{pmatrix}$. Suppose $T:M_2(\\mathbb{R})\\to M_2(\\mathbb{R})$ is a linear transformation defined by $T(A)=BA$. Find the rank and nullity of $T$. Find a matrix $A$ which maps to the null matrix.\n(c) Evaluate $\\lim_{x\\to\\pi/4}(\\tan x)^{\\tan 2x}$.\n(d) Find all the asymptotes of the curve $(2x+3)y=(x-1)^2$.\n(e) Find the equations of the tangent plane to the ellipsoid $2x^2+6y^2+3z^2=27$ which passes through the line $x-y-z=0=x-y+2z-9$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Evaluate $\\int_0^1\\tan^{-1}\\bigl(1-\\frac{1}{x}\\bigr)\\,dx$.\n(b) Define an $n\\times n$ matrix as $A=I-2u\\cdot u^T$, where $u$ is a unit column vector. (i) Examine if $A$ is symmetric.\n(ii) Examine if $A$ is orthogonal.\n(iii) Show that $\\mathrm{trace}(A)=n-2$.\n(iv) Find $A_{3\\times 3}$ when $u=\\begin{pmatrix}1/3\\\\2/3\\\\2/3\\end{pmatrix}$.\n(c) Find the equation of the cylinder whose generators are parallel to the line $\\frac{x}{1}=\\frac{y}{-2}=\\frac{z}{3}$ and whose guiding curve is $x^2+y^2=4$, $z=2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Consider the function $f(x)=\\int_0^x(t^2-5t+4)(t^2-5t+6)\\,dt$. (i) Find the critical points of the function $f(x)$.\n(ii) Find the points at which local minimum occurs.\n(iii) Find the points at which local maximum occurs.\n(iv) Find the number of zeros of the function $f(x)$ in $[0, 5]$.\n(b) Let $F$ be a subfield of complex numbers and $T$ a function from $F^3\\to F^3$ defined by $T(x_1,x_2,x_3)=(x_1+x_2+3x_3,\\ 2x_1-x_2,\\ -3x_1+x_2-x_3)$. What are the conditions on $a$, $b$, $c$ such that $(a,b,c)$ be in the null space of $T$? Find the nullity of $T$.\n(c) If the straight line $\\frac{x}{1}=\\frac{y}{2}=\\frac{z}{3}$ represents one of a set of three mutually perpendicular generators of the cone $5yz-8zx-3xy=0$, then find the equations of the other two generators.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Let $A=\\begin{pmatrix}1&0&2\\\\2&-1&3\\\\4&1&8\\end{pmatrix}$ and $B=\\begin{pmatrix}-11&2&2\\\\-4&0&1\\\\6&-1&-1\\end{pmatrix}$. (i) Find $AB$.\n(ii) Find $\\det(A)$ and $\\det(B)$.\n(iii) Solve the following system of linear equations: $x+2z=3$, $2x-y+3z=3$, $4x+y+8z=14$.\n(b) Find the locus of the point of intersection of the perpendicular generators of the hyperbolic paraboloid $\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=2z$.\n(c) Find an extreme value of the function $u=x^2+y^2+z^2$, subject to the condition $2x+3y+5z=30$, by using Lagrange's method of undetermined multiplier.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the following differential equation: $x\\cos\\bigl(\\frac{y}{x}\\bigr)(y\\,dx+x\\,dy)=y\\sin\\bigl(\\frac{y}{x}\\bigr)(x\\,dy-y\\,dx)$.\n(b) Find the orthogonal trajectories of the family of circles passing through the points $(0, 2)$ and $(0,-2)$.\n(c) For what values of $a$, $b$, $c$ is the vector field $\\vec{V}=(-4x-3y+az)\\hat{i}+(bx+3y+5z)\\hat{j}+(4x+cy+3z)\\hat{k}$ irrotational? Hence, express $\\vec{V}$ as the gradient of a scalar function $\\phi$. Determine $\\phi$.\n(d) A uniform rod, in vertical position, can turn freely about one of its ends and is pulled aside from the vertical by a horizontal force acting at the other end of the rod and equal to half its weight. At what inclination to the vertical will the rod rest?\n(e) A light rigid rod $ABC$ has three particles each of mass $m$ attached to it at $A$, $B$ and $C$. The rod is struck by a blow $P$ at right angles to it at a point distant from $A$ equal to $BC$. Prove that the kinetic energy set up is $\\frac{1}{2}\\frac{P^2}{m}\\frac{a^2-ab+b^2}{a^2+ab+b^2}$, where $AB=a$ and $BC=b$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) Using the method of variation of parameters, solve the differential equation $y''+(1-\\cot x)y'-y\\cot x=\\sin^2 x$, if $y=e^{-x}$ is one solution of the complementary function.\n(b) For the vector function $\\vec{A}$, where $\\vec{A}=(3x^2+6y)\\hat{i}-14yz\\,\\hat{j}+20xz^2\\,\\hat{k}$, calculate $\\int_C\\vec{A}\\cdot d\\vec{r}$ from $(0, 0,0)$ to $(1, 1,1)$ along the following paths: (i) $x=t$, $y=t^2$, $z=t^3$;\n(ii) Straight lines joining $(0, 0,0)$ to $(1, 0,0)$, then to $(1, 1,0)$ and then to $(1, 1,1)$;\n(iii) Straight line joining $(0, 0,0)$ to $(1, 1,1)$. Is the result same in all the cases? Explain the reason.\n(c) A beam $AD$ rests on two supports $B$ and $C$, where $AB=BC=CD$. It is found that the beam will tilt when a weight of $p$ kg is hung from $A$ or when a weight of $q$ kg is hung from $D$. Find the weight of the beam.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) Verify the Stokes' theorem for the vector field $\\vec{F}=xy\\hat{i}+yz\\hat{j}+xz\\hat{k}$ on the surface $S$ which is the part of the cylinder $z=1-x^2$ for $0\\le x\\le 1$, $-2\\le y\\le 2$; $S$ is oriented upwards.\n(b) Using Laplace transform, solve the initial value problem $ty''+2ty'+2y=2$; $y(0)=1$ and $y'(0)$ is arbitrary. Does this problem have a unique solution?\n(c) (i) A square framework formed of uniform heavy rods of equal weight $W$ jointed together, is hung up by one corner. A weight $W$ is suspended from each of the three lower corners, and the shape of the square is preserved by a light rod along the horizontal diagonal. Find the thrust of the light rod.\n(ii) A particle starts at a great distance with velocity $V$. Let $p$ be the length of the perpendicular from the centre of a star on the tangent to the initial path of the particle. Show that the least distance of the particle from the centre of the star is $\\lambda$, where $V^2\\lambda=\\sqrt{\\mu^2+p^2 V^4}-\\mu$. Here $\\mu$ is a constant.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Solve the following differential equation: $(x+1)^2 y''-4(x+1)y'+6y=6(x+1)^2+\\sin\\log(x+1)$.\n(ii) Find the general and singular solutions of the differential equation $9p^2(2-y)^2=4(3-y)$, where $p=\\frac{dy}{dx}$.\n(b) Evaluate the surface integral $\\iint_S(\\nabla\\times\\vec{F})\\cdot\\hat{n}\\,dS$ for $\\vec{F}=y\\hat{i}+(x-2xz)\\hat{j}-xy\\hat{k}$ and $S$ is the surface of the sphere $x^2+y^2+z^2=a^2$ above the $xy$-plane.\n(c) A four-wheeled railway truck has a total mass $M$, the mass and radius of gyration of each pair of wheels and axle are $m$ and $k$ respectively, and the radius of each wheel is $r$. Prove that if the truck is propelled along a level track by a force $P$, the acceleration is $\\frac{P}{M+\\frac{2mk^2}{r^2}}$, and find the horizontal force exerted on each axle by the truck. The axle friction and wind resistance are to be neglected.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

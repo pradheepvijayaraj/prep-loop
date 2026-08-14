@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2019_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $G$ be a finite group, $H$ and $K$ subgroups of $G$ such that $K\\subset H$. Show that $(G:K)=(G:H)(H:K)$.\n(b) Show that the function $f(x,y)=\\frac{x^{2}-y^{2}}{x-y}$ when $(x,y)\\ne(1,-1),(1, 1)$, and $f(x,y)=0$ when $(x,y)=(1, 1),(1,-1)$, is continuous and differentiable at $(1,-1)$.\n(c) Evaluate $\\int_{0}^{\\infty}\\frac{\\tan^{-1}(ax)}{x(1+x^{2})}\\,dx$, $a>0$, $a\\ne 1$.\n(d) Suppose $f(z)$ is an analytic function on a domain $D$ in $\\mathbb{C}$ and satisfies the equation $\\operatorname{Im} f(z)=(\\operatorname{Re} f(z))^{2}$, $z\\in D$. Show that $f(z)$ is constant in $D$.\n(e) Use graphical method to solve the linear programming problem: maximize $Z=3x_{1}+2x_{2}$ subject to $x_{1}-x_{2}\\ge 1$, $x_{1}+x_{3}\\ge 3$ and $x_{1},x_{2},x_{3}\\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) If $G$ and $H$ are finite groups whose orders are relatively prime, then prove that there is only one homomorphism from $G$ to $H$, the trivial one.\n(b) Write down all quotient groups of the group $\\mathbb{Z}_{12}$.\n(c) Using differentials, find an approximate value of $f(4\\cdot 1,\\,4\\cdot 9)$ where $f(x,y)=(x^{3}+x^{2}y)^{1/2}$.\n(d) Show that an isolated singular point $z_{0}$ of a function $f(z)$ is a pole of order $m$ if and only if $f(z)$ can be written in the form $f(z)=\\frac{\\phi(z)}{(z-z_{0})^{m}}$ where $\\phi(z)$ is analytic and non-zero at $z_{0}$. Moreover $\\operatorname{Res}_{z=z_{0}}f(z)=\\frac{\\phi^{(m-1)}(z_{0})}{(m-1)!}$ if $m\\ge 1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the uniform convergence of $f_{n}(x)=\\dfrac{nx}{1+n^{2}x^{2}}$, for all $x\\in\\mathbb{R}=(-\\infty,\\infty)$, $n=1, 2,3,\\ldots$.\n(b) Solve the linear programming problem using simplex method: minimize $Z=x_{1}+2x_{2}-3x_{3}-2x_{4}$ subject to $x_{1}+2x_{2}-3x_{3}+x_{4}=4$, $x_{1}+2x_{2}+x_{3}+2x_{4}=4$ and $x_{1},x_{2},x_{3},x_{4}\\ge 0$.\n(c) Evaluate the integral $\\int_{C}\\operatorname{Re}(z^{2})\\,dz$ from $0$ to $2+4i$ along the curve $C$ where $C$ is a parabola $y=x^{2}$.\n(d) Let $a$ be an irreducible element of the Euclidean ring $R$, then prove that $R/(a)$ is a field.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Find the maximum value of $f(x,y,z)=x^{2}y^{2}z^{2}$ subject to the subsidiary condition $x^{2}+y^{2}+z^{2}=c^{2}$, $(x,y,z>0)$.\n(b) Obtain the first three terms of the Laurent series expansion of the function $f(z)=\\frac{1}{e^{z}-1}$ about the point $z=0$ valid in the region $0<|z|<2\\pi$.\n(c) Discuss the convergence of $\\int_{1}^{2}\\frac{\\sqrt{x}}{\\ln x}\\,dx$.\n(d) Consider the following LPP: maximize $Z=2x_{1}+4x_{2}+4x_{3}-3x_{4}$ subject to $x_{1}+x_{2}+x_{3}=4$, $x_{1}+4x_{2}+x_{4}=8$ and $x_{1},x_{2},x_{3},x_{4}\\ge 0$. Use the dual problem to verify that the basic solution $(x_{1},x_{2})$ is not optimal.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Form a partial differential equation of the family of surfaces given by the following expression: $\\psi(x^{2}+y^{2}+2z^{2},\\,y^{2}-2zx)=0$.\n(b) Apply Newton–Raphson method to find a real root of the transcendental equation $x\\log_{10}x=1\\cdot 2$, correct to three decimal places.\n(c) A uniform rod $OA$, of length $2a$, free to turn about its end $O$, revolves with angular velocity $\\omega$ about the vertical $OZ$ through $O$, and is inclined at a constant angle $\\alpha$ to $OZ$; find the value of $\\alpha$.\n(d) Using Runge–Kutta method of fourth order, solve $\\frac{dy}{dx}=\\frac{y^{2}-x^{2}}{y^{2}+x^{2}}$ with $y(0)=1$ at $x=0\\cdot 2$. Use four decimal places for calculation and step length $0\\cdot 2$.\n(e) Draw a flow chart and write a basic algorithm (in FORTRAN/C/C++) for evaluating $y=\\int_{0}^{6}\\frac{dx}{1+x^{2}}$ using Trapezoidal rule.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve the first order quasilinear partial differential equation by the method of characteristics: $x u_{x}+(u-x-y)u_{y}=x+2y$ in $x>0$, $-\\infty<y<\\infty$ with $u=1+y$ on $x=1$.\n(b) Find the equivalent numbers given in a specified number system to the system mentioned against them: (i) integer $524$ in binary system;\n(ii) $101010110101\\cdot 101101011$ to octal system;\n(iii) decimal number $5280$ to hexadecimal system;\n(iv) find the unknown number $(1101\\cdot 101)_{8}\\to (?)_{10}$.\n(c) A circular cylinder of radius $a$ and radius of gyration $k$ rolls without slipping inside a fixed hollow cylinder of radius $b$. Show that the plane through axes moves in a circular pendulum of length $(b-a)\\left(1+\\frac{k^{2}}{a^{2}}\\right)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Using Hamilton's equation, find the acceleration for a sphere rolling down a rough inclined plane, if $x$ be the distance of the point of contact of the sphere from a fixed point on the plane.\n(b) Apply Gauss–Seidel iteration method to solve the following system of equations: $2x+y-2z=17$, $3x+20y-z=-18$, $2x-3y+20z=25$, correct to three decimal places.\n(c) Reduce the following second order partial differential equation to canonical form and find the general solution: $\\frac{\\partial^{2}u}{\\partial x^{2}}-2x\\frac{\\partial^{2}u}{\\partial x\\partial y}+x^{2}\\frac{\\partial^{2}u}{\\partial y^{2}}=\\frac{\\partial u}{\\partial y}+12x$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Given the Boolean expression $X=AB+ABC+A\\bar{B}\\bar{C}+A\\bar{C}$: (i) draw the logical diagram for the expression;\n(ii) minimize the expression;\n(iii) draw the logical diagram for the reduced expression.\n(b) A sphere of radius $R$, whose centre is at rest, vibrates radially in an infinite incompressible fluid of density $\\rho$, which is at rest at infinity. If the pressure at infinity is $\\Pi$, show that the pressure at the surface of the sphere at time $t$ is $\\Pi+\\frac{1}{2}\\rho\\left\\{\\frac{d^{2}R^{2}}{dt^{2}}+\\left(\\frac{dR}{dt}\\right)^{2}\\right\\}$.\n(c) Two sources, each of strength $m$, are placed at the points $(-a,0)$, $(a,0)$ and a sink of strength $2m$ at the origin. Show that the stream lines are the curves $(x^{2}+y^{2})^{2}=a^{2}(x^{2}-y^{2}+\\lambda xy)$, where $\\lambda$ is a variable parameter. Show also that the fluid speed at any point is $(2ma^{2})/(r_{1}r_{2}r_{3})$, where $r_{1},r_{2}$ and $r_{3}$ are the distances of the points from the sources and the sink, respectively.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

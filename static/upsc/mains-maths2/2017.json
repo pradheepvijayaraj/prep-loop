@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2017_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $x_{1}=2$ and $x_{n+1}=\\sqrt{x_{n}+20}$, $n=1, 2,3,\\ldots$. Show that the sequence $x_{1},x_{2},x_{3},\\ldots$ is convergent.\n(b) Let $G$ be a group of order $n$. Show that $G$ is isomorphic to a subgroup of the permutation group $S_{n}$.\n(c) Find the supremum and the infimum of $\\frac{x}{\\sin x}$ on the interval $\\left(0,\\frac{\\pi}{2}\\right]$.\n(d) Determine all entire functions $f(z)$ such that $0$ is a removable singularity of $f\\left(\\frac{1}{z}\\right)$.\n(e) Using graphical method, find the maximum value of $2x+y$ subject to $4x+3y\\le 12$, $4x+y\\le 8$, $4x-y\\le 8$, $x,y\\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Let $f(t)=\\int_{0}^{t}[x]\\,dx$, where $[x]$ denotes the largest integer less than or equal to $x$.\n(i) Determine all the real numbers $t$ at which $f$ is differentiable.\n(ii) Determine all the real numbers $t$ at which $f$ is continuous but not differentiable.\n(b) Using contour integral method, prove that $\\int_{0}^{\\infty}\\frac{x\\sin mx}{a^{2}+x^{2}}\\,dx=\\frac{\\pi}{2}e^{-ma}$.\n(c) Let $F$ be a field and $F[X]$ denote the ring of polynomials over $F$ in a single variable $X$. For $f(X),g(X)\\in F[X]$ with $g(X)\\ne 0$, show that there exist $q(X),r(X)\\in F[X]$ such that $\\mathrm{degree}(r(X))<\\mathrm{degree}(g(X))$ and $f(X)=q(X)\\cdot g(X)+r(X)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Show that the groups $\\mathbb{Z}_{5}\\times\\mathbb{Z}_{7}$ and $\\mathbb{Z}_{35}$ are isomorphic.\n(b) Let $f=u+iv$ be an analytic function on the unit disc $D=\\{z\\in\\mathbb{C}:|z|<1\\}$. Show that $\\frac{\\partial^{2}u}{\\partial x^{2}}+\\frac{\\partial^{2}u}{\\partial y^{2}}=0=\\frac{\\partial^{2}v}{\\partial x^{2}}+\\frac{\\partial^{2}v}{\\partial y^{2}}$ at all points of $D$.\n(c) Solve the following linear programming problem by simplex method: maximize $z=3x_{1}+5x_{2}+4x_{3}$ subject to $2x_{1}+3x_{2}\\le 8$, $2x_{2}+5x_{3}\\le 10$, $3x_{1}+2x_{2}+4x_{3}\\le 15$, $x_{1},x_{2},x_{3}\\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) For a function $f:\\mathbb{C}\\to\\mathbb{C}$ and $n\\ge 1$, let $f^{(n)}$ denote the $n$th derivative of $f$ and $f^{(0)}=f$. Let $f$ be an entire function such that for some $n\\ge 1$, $f^{(n)}\\!\\left(\\frac{1}{k}\\right)=0$ for all $k=1, 2,3,\\ldots$. Show that $f$ is a polynomial.\n(b) Find the initial basic feasible solution of the following transportation problem using Vogel's approximation method and find the cost. The cost matrix with rows $O_{1},O_{2},O_{3}$ and columns $D_{1},D_{2},D_{3},D_{4},D_{5}$ is $\\begin{pmatrix}4&7&0&3&6\\\\1&2&-3&3&8\\\\3&-1&4&0&5\\end{pmatrix}$, with supply $14, 9,17$ and demand $8, 3,8, 13,8$.\n(c) Let $\\sum_{n=1}^{\\infty}x_{n}$ be a conditionally convergent series of real numbers. Show that there is a rearrangement $\\sum_{n=1}^{\\infty}x_{\\pi(n)}$ of the series $\\sum_{n=1}^{\\infty}x_{n}$ that converges to $100$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve $(D^{2}-2DD'+D'^{2})z=e^{x+2y}+x^{3}+\\sin 2x$, where $D\\equiv\\frac{\\partial}{\\partial x}$, $D'\\equiv\\frac{\\partial}{\\partial y}$, $D^{2}\\equiv\\frac{\\partial^{2}}{\\partial x^{2}}$, $D'^{2}\\equiv\\frac{\\partial^{2}}{\\partial y^{2}}$.\n(b) Explain the main steps of the Gauss–Jordan method and apply this method to find the inverse of the matrix $\\begin{pmatrix}2&6&6\\\\2&8&6\\\\2&6&8\\end{pmatrix}$.\n(c) Write the Boolean expression $z(y+z)(x+y+z)$ in its simplest form using Boolean postulate rules. Mention the rules used during simplification. Verify your result by constructing the truth table for the given expression and for its simplest form.\n(d) Let $\\Gamma$ be a closed curve in the $xy$-plane and let $S$ denote the region bounded by the curve $\\Gamma$. Let $\\frac{\\partial^{2}w}{\\partial x^{2}}+\\frac{\\partial^{2}w}{\\partial y^{2}}=f(x,y)$ for all $(x,y)\\in S$. If $f$ is prescribed at each point $(x,y)$ of $S$ and $w$ is prescribed on the boundary $\\Gamma$ of $S$, then prove that any solution $w=w(x,y)$ satisfying these conditions is unique.\n(e) Show that the moment of inertia of an elliptic area of mass $M$ and semi-axes $a$ and $b$ about a semi-diameter of length $r$ is $\\frac{1}{4}M\\frac{a^{2}b^{2}}{r^{2}}$. Further, prove that the moment of inertia about a tangent is $\\frac{5M}{4}p^{2}$, where $p$ is the perpendicular distance from the centre of the ellipse to the tangent.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Find a complete integral of the partial differential equation $2(pq+yp+qx)+x^{2}+y^{2}=0$.\n(b) For given equidistant values $u_{-1},u_{0},u_{1}$ and $u_{2}$, a value is interpolated by Lagrange's formula. Show that it may be written in the form $u_{x}=yu_{0}+xu_{1}+\\frac{y(y^{2}-1)}{3!}\\Delta^{2}u_{-1}+\\frac{x(x^{2}-1)}{3!}\\Delta^{2}u_{0}$, where $x+y=1$.\n(c) Two uniform rods $AB$, $AC$, each of mass $m$ and length $2a$, are smoothly hinged together at $A$ and move on a horizontal plane. At time $t$, the mass centre of the rods is at the point $(\\xi,\\eta)$ referred to fixed perpendicular axes $Ox$, $Oy$ in the plane, and the rods make angles $\\theta\\pm\\phi$ with $Ox$. Prove that the kinetic energy of the system is $m\\left[\\dot{\\xi}^{2}+\\dot{\\eta}^{2}+\\left(\\frac{1}{3}+\\sin^{2}\\phi\\right)a^{2}\\dot{\\theta}^{2}+\\left(\\frac{1}{3}+\\cos^{2}\\phi\\right)a^{2}\\dot{\\phi}^{2}\\right]$. Also derive Lagrange's equations of motion for the system if an external force with components $[X,Y]$ along the axes acts at $A$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Reduce the equation $y^{2}\\frac{\\partial^{2}z}{\\partial x^{2}}-2xy\\frac{\\partial^{2}z}{\\partial x\\partial y}+x^{2}\\frac{\\partial^{2}z}{\\partial y^{2}}=\\frac{y^{2}}{x}\\frac{\\partial z}{\\partial x}+\\frac{x^{2}}{y}\\frac{\\partial z}{\\partial y}$ to canonical form and hence solve it.\n(b) Derive the formula $\\int_{a}^{b} y\\,dx=\\frac{3h}{8}\\big[(y_{0}+y_{n})+3(y_{1}+y_{2}+y_{4}+y_{5}+\\cdots+y_{n-1})+2(y_{3}+y_{6}+\\cdots+y_{n-3})\\big]$. Is there any restriction on $n$? State that condition. What is the error bound in the case of Simpson's $\\frac{3}{8}$ rule?\n(c) A stream is rushing from a boiler through a conical pipe, the diameters of the ends of which are $D$ and $d$. If $V$ and $v$ be the corresponding velocities of the stream and if the motion is assumed to be steady and diverging from the vertex of the cone, then prove that $\\frac{v}{V}=\\frac{D^{2}}{d^{2}}\\,e^{(v^{2}-V^{2})/2K}$, where $K$ is the pressure divided by the density and is constant.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Given the one-dimensional wave equation $\\frac{\\partial^{2}y}{\\partial t^{2}}=c^{2}\\frac{\\partial^{2}y}{\\partial x^{2}}$, $t>0$, where $c^{2}=\\frac{T}{m}$, $T$ is the constant tension in the string and $m$ is the mass per unit length of the string.\n(i) Find the appropriate solution of the above wave equation.\n(ii) Find also the solution under the conditions $y(0,t)=0$, $y(l,t)=0$ for all $t$ and $\\left[\\frac{\\partial y}{\\partial t}\\right]_{t=0}=0$, $y(x,0)=a\\sin\\frac{\\pi x}{l}$, $0<x<l$, $a>0$.\n(b) Write an algorithm in the form of a flow chart for Newton–Raphson method. Describe the cases of failure of this method.\n(c) If the velocity of an incompressible fluid at the point $(x,y,z)$ is given by $\\left(\\frac{3xz}{r^{5}},\\frac{3yz}{r^{5}},\\frac{3z^{2}-r^{2}}{r^{5}}\\right)$, $r^{2}=x^{2}+y^{2}+z^{2}$, then prove that the liquid motion is possible and that the velocity potential is $\\frac{z}{r^{3}}$. Further, determine the streamlines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2025_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Can the set $\\{(0, 0,0, 3),\\,(1, 1,0, 0),\\,(0, 1,-1, 0)\\}$ be extended to form a basis of the vector space $\\mathbb{R}^{4}$? Justify your answer.\n(b) Find the range, rank, kernel and nullity of the linear transformation $T:\\mathbb{R}^{4}\\to\\mathbb{R}^{3}$ given by $T(x,y,z,w)=(x-w,\\,y+z,\\,z-w)$.\n(c) A rectangular sheet of metal of length $6$ meters and width $2$ meters is given. Four equal squares are removed from the four corners. The sides of this sheet are now folded to form an open rectangular box. Find approximately the height of the box such that the volume of the box is maximum.\n(d) Given that $f(x+y)=f(x)f(y)$ for all real $x,y$, $f(x)\\neq 0$ for any real $x$ and $f'(0)=2$. Show that for all real $x$, $f'(x)=2f(x)$. Hence find $f(x)$.\n(e) Find the equation of the cone whose vertex is the point $(1, 1,0)$ and whose guiding curve is $y=0$, $x^{2}+z^{2}=4$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Let $T:\\mathbb{R}^{3}\\to\\mathbb{R}^{2}$ be a linear transformation such that $T(1, 1,-1)=(1, 0)$, $T(4, 1,1)=(0, 1)$ and $T(1,-1, 2)=(1, 1)$. Find $T$.\n(b) Using Mean Value Theorem, prove that $\\frac{\\pi}{6}+\\frac{3^{1/2}}{15}<\\sin^{-1}\\!\\left(\\frac{3}{5}\\right)<\\frac{\\pi}{6}+\\frac{1}{8}$.\n(c) (i) Find the equation of the cylinder whose generators are parallel to the line $\\frac{x}{1}=\\frac{y}{2}=\\frac{z}{3}$ and that passes through the curve $x^{2}+y^{2}=16$, $z=0$.\n(ii) Find the shortest distance between the straight lines $\\frac{x-3}{3}=\\frac{y-8}{-1}=\\frac{z-3}{1}$ and $\\frac{x+3}{-3}=\\frac{y+7}{2}=\\frac{z-6}{4}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Reduce the following matrix to echelon form: $A=\\begin{pmatrix}2&-2&2&1\\\\-3&6&0&-1\\\\1&-7&10&2\\end{pmatrix}$.\n(b) Find the equations of the spheres which pass through the circle $x^{2}+y^{2}+z^{2}-2x+2y+4z-3=0$, $2x+y+z=4$ and touch the plane $3x+4y=14$.\n(c) (i) Evaluate $\\iint_{R} y\\,dx\\,dy$, where $R$ is the region bounded by $y=x$ and $y=4x-x^{2}$.\n(ii) If $u(x,y)=x\\,f\\!\\left(\\frac{y}{x}\\right)+g\\!\\left(\\frac{y}{x}\\right)$, where $f$ and $g$ are arbitrary functions, then show that (I) $x\\frac{\\partial u}{\\partial x}+y\\frac{\\partial u}{\\partial y}=x\\,f\\!\\left(\\frac{y}{x}\\right)$\n(II) $x^{2}\\frac{\\partial^{2}u}{\\partial x^{2}}+2xy\\frac{\\partial^{2}u}{\\partial x\\partial y}+y^{2}\\frac{\\partial^{2}u}{\\partial y^{2}}=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Show that there is no tangent plane to the sphere $x^{2}+y^{2}+z^{2}-4x+2y-4z+4=0$ that can be passed through the straight line $\\frac{x+6}{2}=y+3=z+1$.\n(b) If $f(x,y)=\\begin{cases} xy\\dfrac{x^{2}-y^{2}}{x^{2}+y^{2}}, & (x,y)\\neq(0, 0)\\\\ 0, & (x,y)=(0, 0)\\end{cases}$, then find $f_{xy}(0, 0)$ and $f_{yx}(0, 0)$.\n(c) (i) Find the eigenvalues and the corresponding eigenvectors of the matrix $A=\\begin{pmatrix}1&2&0\\\\2&1&-6\\\\2&-2&3\\end{pmatrix}$.\n(ii) Let $P_{n}$ denote the vector space of all polynomials of degree $\\le n$ over $\\mathbb{R}$. Verify that $\\dim\\!\\left(\\frac{P_{4}}{P_{2}}\\right)=\\dim P_{4}-\\dim P_{2}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve $\\left(1-y^{2}+\\frac{y^{4}}{x^{2}}\\right)\\left(\\frac{dy}{dx}\\right)^{2}-2\\frac{y}{x}\\frac{dy}{dx}+\\frac{y^{2}}{x^{2}}=0$.\n(b) Form the differential equation of all ellipses whose axes coincide with the coordinate axes.\n(c) Prove that the time taken by the Earth to travel over half of its orbit, which is separated by the minor axis and is remote from the Sun, when the Sun is at the focus of the elliptic orbit, is two days more than half of the year. The eccentricity of the orbit is taken as $\\frac{1}{60}$.\n(d) Given that $A$ and $B$ are two points in the same horizontal line distant $2a$ apart. $AO$ and $BO$ are two equal heavy strings tied together at $O$ and carrying their weight at $O$. If $l$ is the length of each string and $d$ is the depth of $O$ below $AB$, then show that the parameter $c$ of this catenary, in which the strings hang, is given by $l^{2}-d^{2}=2c^{2}\\bigl[\\cosh\\!\\left(\\frac{a}{c}\\right)-1\\bigr]$.\n(e) If $u=x+y+z$, $v=x^{2}+y^{2}+z^{2}$ and $w=xy+yz+zx$, then show that $\\mathrm{grad}\\,u$, $\\mathrm{grad}\\,v$ and $\\mathrm{grad}\\,w$ are coplanar.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) If $F(s)$ and $G(s)$ are Laplace transforms of $f(t)$ and $g(t)$ respectively, then prove that $\\mathcal{L}\\!\\left\\{\\int_{0}^{t}f(x)g(t-x)\\,dx\\right\\}=F(s)G(s)$. Using this result, solve the equation $y(t)=t+\\int_{0}^{t}y(x)\\sin(t-x)\\,dx$.\n(b) One end of an elastic string, having natural length $a$, is fixed at some point $O$ and a heavy particle is attached to the other end of the string. The string is drawn vertically downward till it is four times its natural length at the point $C$ and then released. If the modulus of elasticity of the string is equal to the weight of the particle, then show that the particle will return to the same point $C$ in the time $\\left(\\frac{a}{g}\\right)^{1/2}\\left(2\\cdot 3^{1/2}+\\frac{4\\pi}{3}\\right)$.\n(c) (i) Find the absolute value of the directional derivative of $\\phi(x,y,z)=x^{2}y^{2}z^{2}$ at the point $(1, 1,-1)$ in the direction of the tangent to the curve $x=e^{t}$, $y=2\\sin t+1$, $z=t-\\cos t$, at $t=0$.\n(ii) If $\\nabla\\cdot\\vec{E}=0$, $\\nabla\\cdot\\vec{H}=0$, $\\nabla\\times\\vec{E}=-\\frac{\\partial\\vec{H}}{\\partial t}$ and $\\nabla\\times\\vec{H}=\\frac{\\partial\\vec{E}}{\\partial t}$, then show that $\\nabla^{2}\\vec{H}=\\frac{\\partial^{2}\\vec{H}}{\\partial t^{2}}$ and $\\nabla^{2}\\vec{E}=\\frac{\\partial^{2}\\vec{E}}{\\partial t^{2}}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) A solid sphere rests inside a fixed rough and hemispherical bowl of twice its radius. If a large amount of weight, whatsoever, is attached to the highest point of the sphere, then show that the equilibrium is stable.\n(b) Verify Green's theorem in the plane for $\\oint_{C}\\bigl[(xy+y^{2})\\,dx+x^{2}\\,dy\\bigr]$, where $C$ is the boundary of the region bounded by the curves $y=x$ and $y=x^{2}$.\n(c) (i) Find the general solution and singular solution of the differential equation $\\left(1+\\frac{dy}{dx}\\right)^{3}=\\frac{27}{8a}(x+y)\\left(1-\\frac{dy}{dx}\\right)^{3}$.\n(ii) Find the complete solution of $x^{3}\\frac{d^{3}y}{dx^{3}}+3x^{2}\\frac{d^{2}y}{dx^{2}}+x\\frac{dy}{dx}+y=x\\log x$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Solve the differential equation $(x+2)\\frac{d^{2}y}{dx^{2}}-(2x+5)\\frac{dy}{dx}+2y=(1+x)e^{x}$ by the method of variation of parameters.\n(b) Verify Gauss's divergence theorem for $\\vec{F}=\\bigl[(x^{2}-yz)\\hat{\\imath}+(y^{2}-zx)\\hat{\\jmath}+(z^{2}-xy)\\hat{k}\\bigr]$, taken over the rectangular parallelepiped $0\\le x\\le a$, $0\\le y\\le b$, $0\\le z\\le c$.\n(c) A particle is projected inside a fixed smooth cylinder with circular cross-section in a vertical plane from the lowest point with initial horizontal velocity $u$. Show that for (i) $u^{2}\\le 2ag$, the particle oscillates about the mean position in the lower half;\n(ii) $u^{2}\\ge 5ag$, the particle executes complete circular motion\n(iii) $2ag<u^{2}<5ag$, the particle will leave the curve in a tangential direction, making an angle $\\alpha$ with the horizontal such that $\\cos\\alpha=\\frac{u^{2}-2ag}{3ag}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Consider the following airports:
+1. Donyi
+2. Polo
+3. Airport
+4. Kushinagar
+5. International
+6. Airport
+7. Vijayawada
+8. International
+9. Airport
+10. In the recent past, which of the above have been constructed as Greenfield project?

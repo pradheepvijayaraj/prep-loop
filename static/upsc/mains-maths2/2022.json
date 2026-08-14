@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2022_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Show that the multiplicative group $G = \\{1, -1, i, -i\\}$, where $i = \\sqrt{-1}$, is isomorphic to the group $G' = (\\{0, 1, 2, 3\\}, +_4)$.\n(b) If $f(z) = u + iv$ is an analytic function of $z$, and $u - v = \\frac{\\cos x + \\sin x - e^{-y}}{2\\cos x - e^y - e^{-y}}$, then find $f(z)$ subject to the condition $f\\left(\\frac{\\pi}{2}\\right) = 0$.\n(c) Examine the convergence of the integral $\\int_0^{\\infty} \\frac{\\cos x}{1+x^2}\\, dx$.\n(d) Expand $f(z) = \\frac{1}{(z-1)^2 (z-3)}$ in a Laurent series valid for the regions (i) $0 < |z-1| < 2$\n(ii) $0 < |z-3| < 2$.\n(e) Use two-phase method to solve the following linear programming problem: Minimize $Z = x_1 + x_2$ subject to $2x_1 + x_2 \\ge 4$, $x_1 + 7x_2 \\ge 7$, $x_1, x_2 \\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Let $f(x) = x^2$ on $[0, k]$, $k > 0$. Show that $f$ is Riemann integrable on the closed interval $[0, k]$ and $\\int_0^k f\\, dx = \\frac{k^3}{3}$.\n(b) Prove that every homomorphic image of a group $G$ is isomorphic to some quotient group of $G$.\n(c) Apply the calculus of residues to evaluate $\\int_{-\\infty}^{\\infty} \\frac{\\cos x\\, dx}{(x^2 + a^2)(x^2 + b^2)}$, $a > b > 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Evaluate $\\int_C \\frac{z+4}{z^2 + 2z + 5}\\, dz$, where $C$ is $|z + 1 - i| = 2$.\n(b) Find the maximum and minimum values of $\\frac{x^2}{a^4} + \\frac{y^2}{b^4} + \\frac{z^2}{c^4}$ when $lx + my + nz = 0$ and $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2} = 1$. Interpret the result geometrically.\n(c) Solve the following linear programming problem by the simplex method. Write its dual. Also, write the optimal solution of the dual from the optimal table of the given problem: Maximize $Z = x_1 + x_2 + x_3$ subject to $2x_1 + x_2 + x_3 \\le 2$, $4x_1 + 2x_2 + x_3 \\le 2$, $x_1, x_2, x_3 \\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Let $R$ be a field of real numbers and $S$ the field of all those polynomials $f(x) \\in R[x]$ such that $f(0) = 0 = f(1)$. Prove that $S$ is an ideal of $R[x]$. Is the residue class ring $R[x]/S$ an integral domain? Give justification for your answer.\n(b) Determine whether the series $x + \\frac{2^2 x^2}{2!} + \\frac{3^3 x^3}{3!} + \\frac{4^4 x^4}{4!} + \\frac{5^5 x^5}{5!} + \\cdots$ ($x > 0$) converges or diverges.\n(c) Find the initial basic feasible solution of the following transportation problem by Vogel's approximation method and use it to find the optimal solution and the transportation cost of the problem. Costs (sources $S_1,S_2,S_3$ to destinations $A,B,C,D$): $S_1=(21, 16,25, 13)$, $S_2=(17, 18,14, 23)$, $S_3=(32, 27,18, 41)$; availability $11, 13,19$; requirement $6, 10,12, 15$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) It is given that the equation of any cone with vertex at $(a, b, c)$ is $f\\left(\\frac{x-a}{z-c}, \\frac{y-b}{z-c}\\right) = 0$. Find the differential equation of the cone.\n(b) Solve, by Gauss elimination method, the system of equations $2x + 2y + 4z = 18$, $x + 3y + 2z = 13$, $3x + y + 3z = 14$.\n(c) (i) Convert the number $(1093\\cdot 21875)_{10}$ into octal and the number $(1693\\cdot 0628)_{10}$ into hexadecimal systems.\n(ii) Express the Boolean function $F(x, y, z) = xy + x'z$ in a product of maxterms form.\n(d) A particle at a distance $r$ from the centre of force moves under the influence of the central force $F = -\\frac{k}{r^2}$, where $k$ is a constant. Obtain the Lagrangian and derive the equations of motion.\n(e) The velocity components of an incompressible fluid in spherical polar coordinates $(r, \\theta, \\psi)$ are $(2M r^{-3}\\cos\\theta,\\ M r^{-2}\\sin\\theta,\\ 0)$, where $M$ is a constant. Show that the velocity is of the potential kind. Find the velocity potential and the equations of the streamlines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve the heat equation $\\frac{\\partial u}{\\partial t} = \\frac{\\partial^2 u}{\\partial x^2}$, $0 < x < l$, $t > 0$ subject to the conditions $u(0, t) = u(l, t) = 0$ and $u(x, 0) = x(l - x)$, $0 \\le x \\le l$.\n(b) Find a combinatorial circuit corresponding to the Boolean function $f(x, y, z) = [x \\cdot (\\bar{y} + z)] + y$ and write the input/output table for the circuit.\n(c) Find the moment of inertia of a right circular solid cone about one of its slant sides (generator) in terms of its mass $M$, height $h$ and the radius of base as $a$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the general solution of the partial differential equation $(D^2 + DD - 6D'^2)z = x^2 \\sin(x + y)$, where $D \\equiv \\frac{\\partial}{\\partial x}$ and $D' \\equiv \\frac{\\partial}{\\partial y}$.\n(b) The velocity of a train which starts from rest is given by the following table, the time being reckoned in minutes from the start and the velocity in km/hour: $t = 2, 4,6, 8,10, 12,14, 16,18, 20$ with $v = 16,\\ 28.8,\\ 40,\\ 46.4,\\ 51.2,\\ 32,\\ 17.6,\\ 8,\\ 3.2,\\ 0$. Using Simpson's $\\frac{1}{3}$rd rule, estimate approximately in km the total distance run in $20$ minutes.\n(c) Two point vortices each of strength $k$ are situated at $(\\pm a, 0)$ and a point vortex of strength $-\\frac{k}{2}$ is situated at the origin. Show that the fluid motion is stationary and also find the equations of streamlines. If the streamlines, which pass through the stagnation points, meet the $x$-axis at $(\\pm b, 0)$, then show that $3\\sqrt{3}\\,(b^2 - a^2)^2 = 16 a^3 b$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Reduce the following partial differential equation to a canonical form and hence solve it: $y u_{xx} + (x + y) u_{xy} + x u_{yy} = 0$.\n(b) Using Runge-Kutta method of fourth order, solve the differential equation $\\frac{dy}{dx} = x + y^2$ with $y(0) = 1$, at $x = 0.2$. Use four decimal places for calculation and step length $0.1$.\n(c) Verify that $w = ik \\log\\{(z - ia)/(z + ia)\\}$ is the complex potential of a steady flow of fluid about a circular cylinder, where the plane $y = 0$ is a rigid boundary. Find also the force exerted by the fluid on unit length of the cylinder.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

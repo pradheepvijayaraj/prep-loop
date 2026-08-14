@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "GS2",
+    "section": "mains-gs2",
+    "sourceId": "upsc_2016_mains_gs2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_gs2_q1",
+      "type": "fill-blank",
+      "question": "Discuss the essentials of the 69th Constitutional Amendment Act and anomalies, if any, that have led to recent reported conflicts between the elected representatives and the institution of the Lieutenant Governor in the administration of Delhi. Do you think that this will give rise to a new trend in the functioning of the Indian federal politics?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q2",
+      "type": "fill-blank",
+      "question": "To what extent is Article 370 of the Indian Constitution, bearing marginal note \"Temporary provision with respect to the State of Jammu and Kashmir\", temporary? Discuss the future prospects of this provision in the context of Indian polity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q3",
+      "type": "fill-blank",
+      "question": "\"The Indian party system is passing through a phase of transition which looks to be full of contradictions and paradoxes.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q4",
+      "type": "fill-blank",
+      "question": "Exercise of CAG's powers in relation to the accounts of the Union and the States is derived from Article 149 of the Indian Constitution. Discuss whether audit of the Government's policy implementation could amount to overstepping its own (CAG) jurisdiction.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q5",
+      "type": "fill-blank",
+      "question": "Discuss each adjective attached to the word 'Republic' in the 'Preamble'. Are they defendable in the present circumstances?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q6",
+      "type": "fill-blank",
+      "question": "What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the basic features of the Constitution?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q7",
+      "type": "fill-blank",
+      "question": "Did the Government of India Act, 1935 lay down a federal constitution? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q8",
+      "type": "fill-blank",
+      "question": "What is quasi-judicial body? Explain with the help of concrete examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q9",
+      "type": "fill-blank",
+      "question": "Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q10",
+      "type": "fill-blank",
+      "question": "\"In the Indian governance system, the role of non-state actors has been only marginal.\" Critically examine this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q11",
+      "type": "fill-blank",
+      "question": "\"Effectiveness of the government system at various levels and people's participation in the governance system are inter-dependent.\" Discuss their relationship in the context of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q12",
+      "type": "fill-blank",
+      "question": "In the integrity index of Transparency International, India stands very low. Discuss briefly the legal, political, economic, social and cultural factors that have caused the decline of public morality in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q13",
+      "type": "fill-blank",
+      "question": "Has the Indian governmental system responded adequately to the demands of Liberalization, Privatization and Globalization started in 1991? What can the government do to be responsive to this important change?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q14",
+      "type": "fill-blank",
+      "question": "\"Traditional bureaucratic structure and culture have hampered the process of socio-economic development in India.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q15",
+      "type": "fill-blank",
+      "question": "Examine the main provisions of the National Child Policy and throw light on the status of its implementation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q16",
+      "type": "fill-blank",
+      "question": "\"Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.\" What measures have been taken by the government to enhance the capacity of our population to be more productive and employable?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q17",
+      "type": "fill-blank",
+      "question": "\"The broader aims and objectives of WTO are to manage and promote international trade in the era of globalization. But the Doha Development Agenda has been affected by major differences among the developed and the developing countries.\" Discuss with specific examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q18",
+      "type": "fill-blank",
+      "question": "Evaluate the economic and strategic dimensions of India's Look East Policy in the context of the post-Cold War international scenario.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q19",
+      "type": "fill-blank",
+      "question": "\"Increasing cross-border terrorist attacks in India and growing interference in the internal affairs of several member-states by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation).\" Explain with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_gs2_q20",
+      "type": "fill-blank",
+      "question": "What are the aims and objectives of the McBride Commission of the UNESCO? What is India's position on these?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 12.5,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper II",
+        "descriptive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2011",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2011,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2011_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2011_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $A$ be a non-singular $n\\times n$ square matrix. Show that $A\\cdot(\\operatorname{adj} A)=|A|\\,I_{n}$. Hence show that $|\\operatorname{adj}(\\operatorname{adj} A)|=|A|^{(n-1)^{2}}$.\n(b) Let $A=\\begin{pmatrix} 1 & 0 & -1 \\\\ 3 & 4 & 5 \\\\ 0 & 6 & 7 \\end{pmatrix}$, $X=\\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix}$, $B=\\begin{pmatrix} 2 \\\\ 6 \\\\ 5 \\end{pmatrix}$. Solve the system of equations given by $AX=B$. Using the above, also solve the system of equations $A^{T}X=B$ where $A^{T}$ denotes the transpose of matrix $A$.\n(c) Find $\\displaystyle\\lim_{(x,y)\\to(0, 0)}\\frac{x^{2}y}{x^{3}+y^{3}}$, if it exists.\n(d) Let $f$ be a function defined on $\\mathbb{R}$ such that $f(0)=-3$ and $f'(x)\\le 5$ for all values of $x$ in $\\mathbb{R}$. How large can $f(2)$ possibly be?\n(e) Find the equations of the straight line through the point $(3, 1,2)$ to intersect the straight line $x+4=y+1=2(z-2)$ and parallel to the plane $4x+y+5z=0$.\n(f) Show that the equation of the sphere which touches the sphere $4(x^{2}+y^{2}+z^{2})+10x-25y-2z=0$ at the point $(1, 2,-2)$ and passes through the point $(-1, 0,0)$ is $x^{2}+y^{2}+z^{2}+2x-6y+1=0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) (i) Let $\\lambda_{1},\\lambda_{2},\\ldots,\\lambda_{n}$ be the eigenvalues of an $n\\times n$ square matrix $A$ with corresponding eigenvectors $X_{1},X_{2},\\ldots,X_{n}$. If $B$ is a matrix similar to $A$, show that the eigenvalues of $B$ are the same as those of $A$. Also find the relation between the eigenvectors of $B$ and the eigenvectors of $A$.\n(ii) Verify the Cayley–Hamilton theorem for the matrix $A=\\begin{pmatrix} 1 & 0 & -1 \\\\ 2 & 1 & 0 \\\\ 3 & -5 & 1 \\end{pmatrix}$. Using this, show that $A$ is non-singular and find $A^{-1}$.\n(b) (i) Show that the subspaces of $\\mathbb{R}^{3}$ spanned by the two sets of vectors $\\{(1, 1,-1),(1, 0,1)\\}$ and $\\{(1, 2,-3),(5, 2,1)\\}$ are identical. Also find the dimension of this subspace.\n(ii) Find the nullity and a basis of the null space of the linear transformation $A:\\mathbb{R}^{4}\\to\\mathbb{R}^{4}$ given by the matrix $A=\\begin{pmatrix} 0 & 1 & -3 & -1 \\\\ 1 & 0 & 1 & 1 \\\\ 3 & 1 & 0 & 2 \\\\ 1 & 1 & -2 & 0 \\end{pmatrix}$.\n(c) (i) Show that the vectors $(1, 1,1)$, $(2, 1,2)$ and $(1, 2,3)$ are linearly independent in $\\mathbb{R}^{3}$. Let $T:\\mathbb{R}^{3}\\to\\mathbb{R}^{3}$ be a linear transformation defined by $T(x,y,z)=(x+2y+3z,\\,x+2y+5z,\\,2x+4y+6z)$. Show that the images of the above vectors under $T$ are linearly dependent. Give the reason for the same.\n(ii) Let $A=\\begin{pmatrix} 2 & -2 & 2 \\\\ 1 & 1 & 1 \\\\ 1 & 3 & -1 \\end{pmatrix}$ and $C$ be a non-singular matrix of order $3\\times 3$. Find the eigenvalues of the matrix $B^{3}$ where $B=C^{-1}AC$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Evaluate: (i) $\\displaystyle\\lim_{x\\to 2}f(x)$, where $f(x)=\\begin{cases}\\dfrac{x^{2}-4}{x-2}, & x\\ne 2 \\\\ \\pi, & x=2\\end{cases}$;\n(ii) $\\displaystyle\\int_{0}^{1}\\ln x\\,dx$.\n(b) Find the points on the sphere $x^{2}+y^{2}+z^{2}=4$ that are closest to and farthest from the point $(3, 1,-1)$.\n(c) Find the volume of the solid that lies under the paraboloid $z=x^{2}+y^{2}$, above the $xy$-plane and inside the cylinder $x^{2}+y^{2}=2x$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Three points $P$, $Q$, $R$ are taken on the ellipsoid $\\dfrac{x^{2}}{a^{2}}+\\dfrac{y^{2}}{b^{2}}+\\dfrac{z^{2}}{c^{2}}=1$ so that the lines joining $P$, $Q$, $R$ to the origin are mutually perpendicular. Prove that the plane $PQR$ touches a fixed sphere.\n(b) Show that the cone $yz+zx+xy=0$ cuts the sphere $x^{2}+y^{2}+z^{2}=a^{2}$ in two equal circles, and find their area.\n(c) Show that the generators through any one of the ends of an equiconjugate diameter of the principal elliptic section of the hyperboloid $\\dfrac{x^{2}}{a^{2}}+\\dfrac{y^{2}}{b^{2}}-\\dfrac{z^{2}}{c^{2}}=1$ are inclined to each other at an angle of $60^{\\circ}$ if $a^{2}+b^{2}=6c^{2}$. Find also the condition for the generators to be perpendicular to each other.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Obtain the solution of the ordinary differential equation $\\dfrac{dy}{dx}=(4x+y+1)^{2}$, if $y(0)=1$.\n(b) Determine the orthogonal trajectory of a family of curves represented by the polar equation $r=a(1-\\cos\\theta)$, $(r,\\theta)$ being the plane polar coordinates of any point.\n(c) The velocity of a train increases from $0$ to $v$ at a constant acceleration $f_{1}$, then remains constant for an interval and again decreases to $0$ at a constant retardation $f_{2}$. If the total distance described is $x$, find the total time taken.\n(d) A projectile aimed at a mark which is in the horizontal plane through the point of projection, falls $x$ metres short of it when the angle of projection is $\\alpha$ and goes $y$ metres beyond when the angle of projection is $\\beta$. If the velocity of projection is assumed the same in all cases, find the correct angle of projection.\n(e) For two vectors $\\vec{a}$ and $\\vec{b}$ given respectively by $\\vec{a}=5t^{2}\\hat{\\imath}+t\\hat{\\jmath}-t^{3}\\hat{k}$ and $\\vec{b}=\\sin t\\,\\hat{\\imath}-\\cos t\\,\\hat{\\jmath}$, determine (i) $\\dfrac{d}{dt}(\\vec{a}\\cdot\\vec{b})$\n(ii) $\\dfrac{d}{dt}(\\vec{a}\\times\\vec{b})$.\n(f) If $u$ and $v$ are two scalar fields and $\\vec{f}$ is a vector field such that $u\\vec{f}=\\operatorname{grad} v$, find the value of $\\vec{f}\\cdot\\operatorname{curl}\\vec{f}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) Obtain Clairaut's form of the differential equation $\\left(x\\dfrac{dy}{dx}-y\\right)\\left(y\\dfrac{dy}{dx}+x\\right)=a^{2}\\dfrac{dy}{dx}$. Also find its general solution.\n(b) Obtain the general solution of the second order ordinary differential equation $y''-2y'+2y=x+e^{x}\\cos x$, where dashes denote derivatives with respect to $x$.\n(c) Using the method of variation of parameters, solve the second order differential equation $\\dfrac{d^{2}y}{dx^{2}}+4y=\\tan 2x$.\n(d) Use Laplace transform method to solve the following initial value problem: $\\dfrac{d^{2}x}{dt^{2}}-2\\dfrac{dx}{dt}+x=e^{t}$, $x(0)=2$ and $\\left.\\dfrac{dx}{dt}\\right|_{t=0}=-1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) A mass of $560$ kg moving with a velocity of $240$ m/sec strikes a fixed target and is brought to rest in $\\dfrac{1}{100}$ sec. Find the impulse of the blow on the target and, assuming the resistance to be uniform throughout the time taken by the body in coming to rest, find the distance through which it penetrates.\n(b) A ladder of weight $W$ rests with one end against a smooth vertical wall and the other end rests on a smooth floor. If the inclination of the ladder to the horizon is $60^{\\circ}$, find the horizontal force that must be applied to the lower end to prevent the ladder from slipping down.\n(c) (i) After a ball has been falling under gravity for $5$ seconds it passes through a pane of glass and loses half its velocity. If it now reaches the ground in $1$ second, find the height of the glass above the ground.\n(ii) A particle of mass $m$ moves on a straight line under an attractive force $mn^{2}x$ towards a point $O$ on the line, where $x$ is the distance from $O$. If $x=a$ and $\\dfrac{dx}{dt}=u$ when $t=0$, find $x(t)$ for any time $t>0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Examine whether the vectors $\\nabla u$, $\\nabla v$ and $\\nabla w$ are coplanar, where $u$, $v$ and $w$ are the scalar functions defined by $u=x+y+z$, $v=x^{2}+y^{2}+z^{2}$ and $w=yz+zx+xy$.\n(b) If $\\vec{u}=4y\\hat{\\imath}+x\\hat{\\jmath}+2z\\hat{k}$, calculate the double integral $\\iint_{S}(\\nabla\\times\\vec{u})\\cdot d\\vec{S}$ over the hemisphere given by $x^{2}+y^{2}+z^{2}=a^{2}$, $z\\ge 0$.\n(c) If $\\vec{r}$ be the position vector of a point, find the value(s) of $n$ for which the vector $r^{n}\\vec{r}$ is (i) irrotational,\n(ii) solenoidal.\n(d) Verify Gauss' Divergence Theorem for the vector $\\vec{v}=x^{2}\\hat{\\imath}+y^{2}\\hat{\\jmath}+z^{2}\\hat{k}$ taken over the cube $0\\le x,y,z\\le 1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

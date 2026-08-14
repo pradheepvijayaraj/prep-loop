@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2022,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2022_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_csat_q1",
+      "type": "single-choice",
+      "question": "One non-zero digit, one vowel and one consonant from English alphabet (in capital) are to be used in forming passwords, such that each password has to start with a vowel and end with a consonant. How many such passwords can be generated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "105"
+        },
+        {
+          "id": "b",
+          "text": "525"
+        },
+        {
+          "id": "c",
+          "text": "945"
+        },
+        {
+          "id": "d",
+          "text": "1050"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q2",
+      "type": "single-choice",
+      "question": "Let p be a two-digit number and q be the number consisting of same digits written in reverse order. If $p \\times q = 2430$, then what is the difference between p and q?",
+      "options": [
+        {
+          "id": "a",
+          "text": "45"
+        },
+        {
+          "id": "b",
+          "text": "27"
+        },
+        {
+          "id": "c",
+          "text": "18"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q3",
+      "type": "single-choice",
+      "question": "The digits 1 to 9 are arranged in three rows in such a way that each row contains three digits, and the number formed in the second row is twice the number formed in the first row; and the number formed in the third row is thrice the number formed in the first row. Repetition of digits is not allowed. If only three of the four digits 2, 3, 7 and 9 are allowed to use in the first row, how many such combinations are possible to be arranged in the three rows?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "2"
+        },
+        {
+          "id": "d",
+          "text": "1"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q4",
+      "type": "single-choice",
+      "question": "The sum of three consecutive integers is equal to their product. How many such possibilities are there?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one"
+        },
+        {
+          "id": "b",
+          "text": "Only two"
+        },
+        {
+          "id": "c",
+          "text": "Only three"
+        },
+        {
+          "id": "d",
+          "text": "No such possibility is there"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q5",
+      "type": "single-choice",
+      "question": "Two friends X and Y start running and they run together for 50 m in the same direction and reach a point. X turns right and runs 60 m, while Y turns left and runs 40m. Then X turns left and runs 50m and stops, while Y turns right and runs 50 m and then stops. How far are the two friends from each other now?",
+      "options": [
+        {
+          "id": "a",
+          "text": "100 m"
+        },
+        {
+          "id": "b",
+          "text": "90 m"
+        },
+        {
+          "id": "c",
+          "text": "60 m"
+        },
+        {
+          "id": "d",
+          "text": "50 m"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q6",
+      "type": "single-choice",
+      "question": "A has some coins. He gives half of the coins and 2 more to B. B gives half of the coins and 2 more to C. C gives half of the coins and 2 more to D. The number of coins D has now, is the smallest two-digit number. How many coins does A have in the beginning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "76"
+        },
+        {
+          "id": "b",
+          "text": "68"
+        },
+        {
+          "id": "c",
+          "text": "60"
+        },
+        {
+          "id": "d",
+          "text": "52"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q7",
+      "type": "single-choice",
+      "question": "Which date of June 2099 among the following is Sunday?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q8",
+      "type": "single-choice",
+      "question": "On one side of a 1.01 km long road, 101 plants are planted at equal distance from each other. What is the total distance between 5 consecutive plants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "40 m"
+        },
+        {
+          "id": "b",
+          "text": "40.4 m"
+        },
+        {
+          "id": "c",
+          "text": "50 m"
+        },
+        {
+          "id": "d",
+          "text": "50.5 m"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q9",
+      "type": "single-choice",
+      "question": "An Identity Card has the number ABCDEFG, not necessarily in that order, where each letter represents a distinct digit $(1, 2, 4, 5, 7, 8, 9 \\text{ only})$. The number is divisible by 9. After deleting the first digit from the right, the resulting number is divisible by 6. After deleting two digits from the right of original number, the resulting number is divisible by 5. After deleting three digits from the right of original number, the resulting number is divisible by 4. After deleting four digits from the right of original number, the resulting number is divisible by 3. After deleting five digits from the right of original number, the resulting number is divisible by 2.\n\nWhich of the following is a possible value for the sum of the middle three digits of the number?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8"
+        },
+        {
+          "id": "b",
+          "text": "9"
+        },
+        {
+          "id": "c",
+          "text": "11"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q10",
+      "type": "single-choice",
+      "question": "There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea. In how many ways can they be arranged so that each row should contain at least one cup of coffee?",
+      "options": [
+        {
+          "id": "a",
+          "text": "18"
+        },
+        {
+          "id": "b",
+          "text": "27"
+        },
+        {
+          "id": "c",
+          "text": "54"
+        },
+        {
+          "id": "d",
+          "text": "81"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q11",
+      "type": "single-choice",
+      "question": "Consider the following statements in respect of two natural numbers p and q such that p is a prime number and q is a composite number:\n\n1. $p \\times q$ can be an odd number.\n2. $q / p$ can be a prime number.\n3. $p + q$ can be a prime number.\n\nWhich of the above statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q12",
+      "type": "single-choice",
+      "question": "What is the smallest number greater than 1000 that when divided by any one of the numbers 6, 9, 12, 15, 18 leaves a remainder of 3?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1063"
+        },
+        {
+          "id": "b",
+          "text": "1073"
+        },
+        {
+          "id": "c",
+          "text": "1083"
+        },
+        {
+          "id": "d",
+          "text": "1183"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q13",
+      "type": "single-choice",
+      "question": "Six Persons A, B, C, D, E and F are sitting equidistant form each other around a circular table (facing the centre of the table).\nConsider the Question and two statements given below:\nQuestion: Who is sitting on the immediate left of A?\n\nStatement-1: B is sitting opposite to C and D is sitting opposite to E.\nStatement -2: F is sitting on the immediate left of B.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statement-1 alone is sufficient to answer the question"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is sufficient to answer the question"
+        },
+        {
+          "id": "c",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q14",
+      "type": "single-choice",
+      "question": "Consider the Question and two Statements given below:\nQuestion: What is the age of Manisha?\n\nStatement-1: Manisha is 24 years younger than her mother.\nStatement-2: 5 years later, the ages of Manisha and her mother will be in the ratio $3: 5$.\n\nWhich one of the following is correct in respect of the Question and the Statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statements-1 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is sufficient to answer the question"
+        },
+        {
+          "id": "c",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q15",
+      "type": "single-choice",
+      "question": "X and Y run a 3 km race along a circular course of length 300m. Their speeds are in the ratio 3:2. If they start together in the same direction, how many times would the first one pass the other (the start-off is not counted as passing)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "5"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q16",
+      "type": "single-choice",
+      "question": "Five friends P. O, X, Y and Z purchased some notebooks. The relevant information is given below:\n\n1. Z purchased 8 notebooks more than X did.\n2. P and Q together purchased 21 notebooks.\n3. O purchased 5 notebooks less than P did.\n4. X and Y together purchased 28 notebooks.\n5. P purchased 5 notebooks more than X did.\n\nIf each notebook is priced 40, then what is the total cost of all the notebooks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$2,600$"
+        },
+        {
+          "id": "b",
+          "text": "$2,400$"
+        },
+        {
+          "id": "c",
+          "text": "$2,360$"
+        },
+        {
+          "id": "d",
+          "text": "$2,320$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q17",
+      "type": "single-choice",
+      "question": "What is the value of X in the sequence 20, 10, 10, 15, 30, 75, $X$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "105"
+        },
+        {
+          "id": "b",
+          "text": "120"
+        },
+        {
+          "id": "c",
+          "text": "150"
+        },
+        {
+          "id": "d",
+          "text": "225"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q18",
+      "type": "single-choice",
+      "question": "What is the number of numbers of the form $0.XY$, where $X$ and $Y$ are distinct non-zero digits?",
+      "options": [
+        {
+          "id": "a",
+          "text": "72"
+        },
+        {
+          "id": "b",
+          "text": "81"
+        },
+        {
+          "id": "c",
+          "text": "90"
+        },
+        {
+          "id": "d",
+          "text": "100"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q19",
+      "type": "single-choice",
+      "question": "Two statements followed by four conclusions are given below. You have to take the statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follow from the statements, disregarding the commonly known facts:\nStatement-1: All pen are books.\nStatement-2: No chair is a pen.\n\nConclusion-I: All chair are books.\nConclusion-II: Some chair are pens.\nConclusion-III: All book are chair.\nConclusion-IV: No chair is a book.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Conclusion-I"
+        },
+        {
+          "id": "b",
+          "text": "Only Conclusion-II"
+        },
+        {
+          "id": "c",
+          "text": "Both Conclusion-III and Conclusion-IV"
+        },
+        {
+          "id": "d",
+          "text": "None of the Conclusion follows"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q20",
+      "type": "single-choice",
+      "question": "Two candidates X and Y contested an election. 80% of voters cast their vote and there were no invalid votes. There was no NOTA (None of the above) option. X got 56% of the votes cast and won by 1440 votes. What is the total number of voters in the voters list?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15000"
+        },
+        {
+          "id": "b",
+          "text": "12000"
+        },
+        {
+          "id": "c",
+          "text": "9600"
+        },
+        {
+          "id": "d",
+          "text": "5000"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q21",
+      "type": "single-choice",
+      "question": "A person X wants to distribute some pens among six children A B C D E and F. Suppose A gets twice the number of pens received by B, three times that of C, four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number?",
+      "options": [
+        {
+          "id": "a",
+          "text": "147"
+        },
+        {
+          "id": "b",
+          "text": "150"
+        },
+        {
+          "id": "c",
+          "text": "294"
+        },
+        {
+          "id": "d",
+          "text": "300"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q22",
+      "type": "single-choice",
+      "question": "Let A, B and C represent distinct non-zero digits. Suppose x is the sum of all possible 3-digit numbers formed by A, B and C without repetition.\nConsider the following statements:\n\n1. The 4-digit least value of x is 1332.\n2. The 3-digit greatest value of x is 888\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q23",
+      "type": "single-choice",
+      "question": "Three persons A, B and C are standing in a queue not necessarily in the same order. There are 4 persons between A and B, and 7 persons between B and C. If there are 11 persons ahead of C and 13 behind A, what could be the minimum number of persons in the queue?",
+      "options": [
+        {
+          "id": "a",
+          "text": "22"
+        },
+        {
+          "id": "b",
+          "text": "28"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "38"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q24",
+      "type": "single-choice",
+      "question": "In a tournament of Chess having 150 entrants, a player is eliminated whenever he loses a match. It is given that no match results in a tie/draw. How many matches are played in the entire tournament?",
+      "options": [
+        {
+          "id": "a",
+          "text": "151"
+        },
+        {
+          "id": "b",
+          "text": "150"
+        },
+        {
+          "id": "c",
+          "text": "149"
+        },
+        {
+          "id": "d",
+          "text": "148"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q25",
+      "type": "single-choice",
+      "question": "What is the value of X in the sequence 2, 12, 36, 80, 150, $X$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "248"
+        },
+        {
+          "id": "b",
+          "text": "252"
+        },
+        {
+          "id": "c",
+          "text": "258"
+        },
+        {
+          "id": "d",
+          "text": "262"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q26",
+      "type": "single-choice",
+      "question": "Six lectures A B C D E and F, each of one hour duration, are scheduled between 8:00 am, and 2:00 p.m.\nConsider the Question and two Statements given below:\nQuestion: Which lecture is in the third period?\n\nStatement-1: Lecture F is preceded by A and followed by C\nStatement-2: There is no lecture after lecture B.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statement-1 alone is sufficient to answer the question"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is sufficient to answer the question"
+        },
+        {
+          "id": "c",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q27",
+      "type": "single-choice",
+      "question": "Consider the following statements in respect of a rectangular sheet of length 20 cm and breadth 8 cm:\n\n1. It is possible to cut the sheet exactly into 4 square sheets.\n2. It is possible to cut the sheet into 10 triangular sheets of equal area.\n\nWhich of the above statements is are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q28",
+      "type": "single-choice",
+      "question": "How many seconds in total are there in $x$ weeks, $x$ days, $x$ hours. $x$ minutes and $X$ seconds?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$11580x$"
+        },
+        {
+          "id": "b",
+          "text": "$11581x$"
+        },
+        {
+          "id": "c",
+          "text": "$694860x$"
+        },
+        {
+          "id": "d",
+          "text": "$694861x$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q29",
+      "type": "single-choice",
+      "question": "There are eight equidistant points on a circle. How many right-angled triangles can be drawn using these points as vertices and taking the diameter as one side of the triangle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "24"
+        },
+        {
+          "id": "b",
+          "text": "16"
+        },
+        {
+          "id": "c",
+          "text": "12"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q30",
+      "type": "single-choice",
+      "question": "There is a numeric lock which has a 3-digit PIN. The PIN contains digits 1 to 7. There is no repetition of digits. The digits in the PIN from left to right are in decreasing order. Any two digits in the PIN differ by at least 2. How many maximum attempts does one need to find out the PIN with certainty?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q31",
+      "type": "single-choice",
+      "question": "In the series AABABCABCDABCDE..., which letter appears at the 100th place?",
+      "options": [
+        {
+          "id": "a",
+          "text": "G"
+        },
+        {
+          "id": "b",
+          "text": "H"
+        },
+        {
+          "id": "c",
+          "text": "I"
+        },
+        {
+          "id": "d",
+          "text": "J"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q32",
+      "type": "single-choice",
+      "question": "Consider the Question Statements given below in respect of and two three cities P, Q and R in a State:\nQuestion: How far is city P from city Q?\n\nStatement-1: City Q is 18 km from city R.\nStatement-2: City P is 43 km from city R.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statement-1 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "c",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q33",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. Between 3:16 p.m. and 3:17 p.m., both hour hand and minute hand coincide.\n2. Between 4:58 p.m. and 4:59 p.m., both minute hand and second hand coincide.\n\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q34",
+      "type": "single-choice",
+      "question": "If the order of the letters in the English alphabet is reversed and each letter represents the letter whose position it occupies, then which one of the following represents 'LUCKNOW'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "OGXPMLD"
+        },
+        {
+          "id": "b",
+          "text": "OGXQMLE"
+        },
+        {
+          "id": "c",
+          "text": "OFXPMLE"
+        },
+        {
+          "id": "d",
+          "text": "OFXPMLD"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q35",
+      "type": "single-choice",
+      "question": "The letters A, B, C, D and E are arranged in such a way that there are exactly two letters between A and E. How many such arrangements are possible?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12"
+        },
+        {
+          "id": "b",
+          "text": "18"
+        },
+        {
+          "id": "c",
+          "text": "24"
+        },
+        {
+          "id": "d",
+          "text": "36"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q36",
+      "type": "single-choice",
+      "question": "A, B and C are three places such that there are three different roads from A to B, four different roads from B to C and three different roads from A to C. In how many different ways can one travel from A to C using these roads?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10"
+        },
+        {
+          "id": "b",
+          "text": "13"
+        },
+        {
+          "id": "c",
+          "text": "15"
+        },
+        {
+          "id": "d",
+          "text": "36"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q37",
+      "type": "single-choice",
+      "question": "Three Statements followed by three Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows/ follow from the Statements, disregarding the commonly known facts:\nStatement-1: Some doctors are teachers.\nStatement-2: All teachers are engineers.\nStatement-3: All engineers are scientists.\n\nConclusion-I: Some scientists are doctors.\nConclusion-II: All engineers are doctors.\nConclusion-III: Some engineers are doctors.\n\nWhich one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Conclusion-I"
+        },
+        {
+          "id": "b",
+          "text": "Only Conclusion-II"
+        },
+        {
+          "id": "c",
+          "text": "Both Conclusion-I and Conclusion-III"
+        },
+        {
+          "id": "d",
+          "text": "Both Conclusion-I and Conclusion-II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q38",
+      "type": "single-choice",
+      "question": "How many 3-digit natural numbers (without repetition of digits) are there such that each digit is odd and the number is divisible by 5?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "16"
+        },
+        {
+          "id": "d",
+          "text": "24"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q39",
+      "type": "single-choice",
+      "question": "15 x 14 x 13 x... x 3 x 2 x 1 = $3^m \\times n$\nWhere m and n are positive integers, then what is the maximum value of m?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q40",
+      "type": "single-choice",
+      "question": "There are two containers X and Y. X contains 100 ml of milk and Y contains 100 ml of water. 20 ml of milk from X is transferred to Y. After mixing well, 20 ml of the mixture in Y is transferred back to X. If m denotes the proportion of milk in X and n denotes the proportion of water in Y, then which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$m = n$"
+        },
+        {
+          "id": "b",
+          "text": "$m > n$"
+        },
+        {
+          "id": "c",
+          "text": "$m < n$"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined due to insufficient data"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q41",
+      "type": "single-choice",
+      "question": "The increase in the price of a certain item was $25\\%$. Then the price was decreased by $20\\%$ and then again increased by $10\\%$. What is the resultant increase in the price?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$5\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$10\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$12.5\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$15\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q42",
+      "type": "single-choice",
+      "question": "What is the remainder when $91 \\times 92 \\times 93 \\times 94 \\times 95 \\times 96 \\times 97 \\times 98 \\times 99$ is divided by 1261?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "1"
+        },
+        {
+          "id": "d",
+          "text": "0"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q43",
+      "type": "single-choice",
+      "question": "Eight students A, B, C, D, E, F, G and H sit around a circular table, equidistant from each other, facing the centre of the table, not necessarily in the same order. B and D sit neither adjacent to C nor opposite to C. A sits in between E and D and F sits in between B and H. Which one of the following is definitely correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B sits in between A and G"
+        },
+        {
+          "id": "b",
+          "text": "C sits opposite to G"
+        },
+        {
+          "id": "c",
+          "text": "E sits opposite to F"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q44",
+      "type": "single-choice",
+      "question": "When 70% of a number x is added to another number y, the sum becomes 165% of the value of y. When 60% of the number x is added to another number z, then the sum becomes 165% of the value of z. which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$z < x < y$"
+        },
+        {
+          "id": "b",
+          "text": "$x < y < z$"
+        },
+        {
+          "id": "c",
+          "text": "$y < x < z$"
+        },
+        {
+          "id": "d",
+          "text": "$z < y < x$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q45",
+      "type": "single-choice",
+      "question": "A bill for $1,840$ is paid in the denominations of 50, 20 and 10 notes. 50 notes in all are used. Consider the following statements:\n\n1. 25 notes of 50 are used and the remaining are in the denominations of 20 and 10.\n2. 35 notes of 20 are used and the remaining are in the denominations of 50 and 10.\n3. 20 notes of 10 are used and the remaining are in the denominations of 50 and 20.\n\nWhich of the above statements are not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q46",
+      "type": "single-choice",
+      "question": "\"Consider the Question and two Statements given below:\nQuestion: Is $x$ an integer?\n\nStatement-1: $\\frac{x}{3}$ is not an integer.\nStatement-2: $3x$ is an integer.\n\nWhich one of the following is correct in respect of the Question and the Statements?\"",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statement-1 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "c",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q47",
+      "type": "single-choice",
+      "question": "24 men and 12 women can do a piece of work in 30 days. In how many days can 12 men and 24 women do the same piece of work?",
+      "options": [
+        {
+          "id": "a",
+          "text": "30 days"
+        },
+        {
+          "id": "b",
+          "text": "more than 30 days"
+        },
+        {
+          "id": "c",
+          "text": "Less than 30 days or more than 30 days"
+        },
+        {
+          "id": "d",
+          "text": "Data is inadequate to draw any conclusion"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q48",
+      "type": "single-choice",
+      "question": "P, Q, R, S, T and U are six members of a family. R is the spouse of Q, U is the mother of T and S is the daughter of U. P's daughter is T and R's son is P. There are two couples in the family. Which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q is the grandfather of T"
+        },
+        {
+          "id": "b",
+          "text": "Q is the grandmother of T"
+        },
+        {
+          "id": "c",
+          "text": "R is the mother of P"
+        },
+        {
+          "id": "d",
+          "text": "T is the granddaughter of Q"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q49",
+      "type": "single-choice",
+      "question": "Consider the Question and two Statements given below:\nQuestion: Is Z brother of X?\n\nStatement-1: X is a brother of Y and Y is a brother of Z.\nStatement-2: X, Y and Z are siblings.\n\nWhich one of the following is correct in respect of the Question and the Statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Statement-1 alone is sufficient to answer the Questions"
+        },
+        {
+          "id": "b",
+          "text": "Statement-2 alone is sufficient to answer the Question"
+        },
+        {
+          "id": "c",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the Question"
+        },
+        {
+          "id": "d",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q50",
+      "type": "single-choice",
+      "question": "Which number amongst $2^{40}$, $3^{21}$, $4^{18}$ and $8^{12}$ is the smallest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$2^{40}$"
+        },
+        {
+          "id": "b",
+          "text": "$3^{21}$"
+        },
+        {
+          "id": "c",
+          "text": "$4^{18}$"
+        },
+        {
+          "id": "d",
+          "text": "$8^{12}$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q51",
+      "type": "single-choice",
+      "question": "The average weight of A, B, C is 40 kg, the average weight of B, D, E is 42 kg and the weight of F is equal to that of B. What is the average weight of A, B, C, D, E and F?",
+      "options": [
+        {
+          "id": "a",
+          "text": "40.5 kg"
+        },
+        {
+          "id": "b",
+          "text": "40.8 kg"
+        },
+        {
+          "id": "c",
+          "text": "41 kg"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined as data is inadequate"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q52",
+      "type": "single-choice",
+      "question": "A man started from home at 14:30 hours and drove to village, arriving there when the village clock indicated 15:15 hours. After staying for 25 minutes, he drove back by a different route of length 1.25 times the first route at a rate twice as fast reaching home at 16:00 hours. As compared to the clock at home, the village clock is",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 minutes slow"
+        },
+        {
+          "id": "b",
+          "text": "5 minutes slow"
+        },
+        {
+          "id": "c",
+          "text": "10 minutes fast"
+        },
+        {
+          "id": "d",
+          "text": "5 minutes fast"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q53",
+      "type": "single-choice",
+      "question": "A pie chart gives the expenditure on five different items A, B, C, D and E in a household. If B, C, D and E correspond to $90^\\circ$, $50^\\circ$, $45^\\circ$, and $75^\\circ$ respectively, then what is the percentage of expenditure on item A?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$\\frac{112}{9}$"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{125}{6}$"
+        },
+        {
+          "id": "c",
+          "text": "$\\frac{155}{9}$"
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{250}{9}$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q54",
+      "type": "single-choice",
+      "question": "For two or three generations past, ever-increasing number of individuals have been living as workers merely, not as human beings. An excessive amount of labor is rule today in every circle of society, with the result that man's spiritual element cannot thrive. He finds it very difficult to spend his little leisure in serious activities. He does not want to think; or he cannot even if he wants to. He seeks not Self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities. Therefore, the so-called culture of our age is dependent more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature.\n\nMan does not seek self-improvement because he",
+      "options": [
+        {
+          "id": "a",
+          "text": "is not intellectually capable"
+        },
+        {
+          "id": "b",
+          "text": "has no time to do so"
+        },
+        {
+          "id": "c",
+          "text": "is distracted by materialism"
+        },
+        {
+          "id": "d",
+          "text": "loves amusement and is mentally idle"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q55",
+      "type": "single-choice",
+      "question": "For two or three generations past, ever-increasing number of individuals have been living as workers merely, not as human beings. An excessive amount of labor is rule today in every circle of society, with the result that man's spiritual element cannot thrive. He finds it very difficult to spend his little leisure in serious activities. He does not want to think; or he cannot even if he wants to. He seeks not Self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities. Therefore, the so-called culture of our age is dependent more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature.\n\nThe passage is based on the idea that",
+      "options": [
+        {
+          "id": "a",
+          "text": "man should not work hard"
+        },
+        {
+          "id": "b",
+          "text": "the great evil of our age is overstrain"
+        },
+        {
+          "id": "c",
+          "text": "man cannot think well"
+        },
+        {
+          "id": "d",
+          "text": "man cannot care for his spiritual welfare"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q56",
+      "type": "single-choice",
+      "question": "The demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity. The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline. From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth. The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver. And since the savings rate is an important driver of growth, this should help elevate our growth rate. However, the benefits of demographic dividend depend on the quality of the working age population. And this implies bringing back the importance of education, acquisition of skills and human capital.\n\nWhich of the following would invariably happen in a country, when the demographic dividend has begun to operate?\n\n1. The number of illiterate people will decrease.\n2. The ratio of very old and very young will decrease for a while.\n3. Population growth rate will quickly stabilize.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q57",
+      "type": "single-choice",
+      "question": "The demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity. The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline. From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth. The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver. And since the savings rate is an important driver of growth, this should help elevate our growth rate. However, the benefits of demographic dividend depend on the quality of the working age population. And this implies bringing back the importance of education, acquisition of skills and human capital.\n\nWith reference to the passage, which of the following inferences can be drawn?\n\n1. Demographic dividend is an essential condition for a country to rapidly increase its economic growth rate.\n2. Promotion of higher education is an essential condition for a country for its rapid economic growth.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q58",
+      "type": "single-choice",
+      "question": "How best can the problems of floods and droughts be addressed so that the losses are minimal and the system becomes resilient? In this context, one important point that needs to be noted is that India gets \"too much' water (about 75% of annual precipitation) during 120 days (June to September) and \"too little' for the remaining 245 days. This skewed water availability has to be managed and regulated for its consumption throughout the year.\n\nWhich one of the following best reflects the practical, rational and lasting solutions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Constructing huge concrete storage tanks and canals across the country"
+        },
+        {
+          "id": "b",
+          "text": "Changing the cropping patterns and farming practices"
+        },
+        {
+          "id": "c",
+          "text": "Interlinking of rivers across the country"
+        },
+        {
+          "id": "d",
+          "text": "Buffer stocking of water through dams and recharging aquifers"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q59",
+      "type": "single-choice",
+      "question": "In some places in the world, the productivity of staples such as rice and wheat has reached a plateau. Neither new strains nor fancy agrochemicals are raising the yields. Nor is there much unfarmed land left that is suitable to be brought under the plough. If global temperature continues to rise, some places will become unsuitable for farming. Application of technology can help overcome these problems. Agricultural technology is changing fast. Much of this change is brought about by affluent farmers in the West/Americas. Techniques developed in the West are being adapted in some places to make tropical crops more productive. Technology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification. Extending to the smallholders and subsistence farmers of Africa and Asia the best of today's agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity. So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.\n\nBased on the above passage, the following assumptions have been made:\n\n1. Growing enough food for future generation will be a challenge.\n2. Corporate farming is a viable option for food security in poor countries.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q60",
+      "type": "single-choice",
+      "question": "In some places in the world, the productivity of staples such as rice and wheat has reached a plateau. Neither new strains nor fancy agrochemicals are raising the yields. Nor is there much unfarmed land left that is suitable to be brought under the plough. If global temperature continues to rise, some places will become unsuitable for farming. Application of technology can help overcome these problems. Agricultural technology is changing fast. Much of this change is brought about by affluent farmers in the West/Americas. Techniques developed in the West are being adapted in some places to make tropical crops more productive. Technology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification. Extending to the smallholders and subsistence farmers of Africa and Asia the best of today's agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity. So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.\n\nBased on the above passage, the following assumptions have been made:\n\n1. Poor countries need to bring about change in their existing farming techniques.\n2. Developed countries have better infrastructure and they waste less food.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q61",
+      "type": "single-choice",
+      "question": "In some places in the world, the productivity of staples such as rice and wheat has reached a plateau. Neither new strains nor fancy agrochemicals are raising the yields. Nor is there much unfarmed land left that is suitable to be brought under the plough. If global temperature continues to rise, some places will become unsuitable for farming. Application of technology can help overcome these problems. Agricultural technology is changing fast. Much of this change is brought about by affluent farmers in the West/Americas. Techniques developed in the West are being adapted in some places to make tropical crops more productive. Technology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification. Extending to the smallholders and subsistence farmers of Africa and Asia the best of today's agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity. So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.\n\nBased on the above passage, the following assumptions have been made:\n\n1. Development of agricultural technology is confined to developed countries.\n2. Agricultural technology is not adapted in developing countries.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q62",
+      "type": "single-choice",
+      "question": "\"In simple matters like shoe-making, we think only a specially trained person will serve our purpose, but in politics, we presume that everyone who knows how to get votes knows how to administer a State. When we are ill, we call for a trained physician, whose degree is a guarantee of specific preparation and technical competence – we do not ask for the handsomest physician, or the most eloquent one: well then, when the whole State is ill should we not look for the service and guidance of the wisest and the best?\"\n\nWhich one of the following statements best reflects the message of the author of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We assume that in a democracy, any politician is qualified to administer a State."
+        },
+        {
+          "id": "b",
+          "text": "Politicians should be selected from those trained in administration."
+        },
+        {
+          "id": "c",
+          "text": "We need to devise a method of barring incompetence from public office."
+        },
+        {
+          "id": "d",
+          "text": "As voters select their administrators, the eligibility of politicians to administer a State cannot be questioned"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q63",
+      "type": "single-choice",
+      "question": "The main threat to maintaining progress in human development comes from the increasingly evident unsustainability of production and consumption patterns. Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite. The close link between economic growth and greenhouse gas emissions needs to be served for human development to become truly sustainable. Some developed countries have begun to alleviate the worst effects by expanding recycling and investing in public transport and infrastructure. But most developing countries are hampered by the high costs and low availability of clean energy sources. Developed countries need to support developing countries' transition to sustainable human development.\n\nUnsustainability in production pattern is due to which of the following?\n\n1. Heavy dependence on fossil fuels\n2. Limited availability of resources\n3. Expansion of recycling\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q64",
+      "type": "single-choice",
+      "question": "The main threat to maintaining progress in human development comes from the increasingly evident unsustainability of production and consumption patterns. Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite. The close link between economic growth and greenhouse gas emissions needs to be served for human development to become truly sustainable. Some developed countries have begun to alleviate the worst effects by expanding recycling and investing in public transport and infrastructure. But most developing countries are hampered by the high costs and low availability of clean energy sources. Developed countries need to support developing countries' transition to sustainable human development.\n\nBased on the above passage, consider the following statements:\n\nDeveloped countries can support developing countries' transition to sustainable human development by\n\n1. making clean energy sources available at low cost\n2. providing loans for improving their public transport at nominal interest rates\n3. encouraging them to change their production and consumption patterns\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q65",
+      "type": "single-choice",
+      "question": "Natural selection cannot anticipate future environments on the earth. Therefore, the set of existing organisms can never be fully prepared for environmental catastrophes that await life. An outcome of this is the extinction of those species which cannot overcome environmental adversity. This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on). In biological evolution on the earth, extinction of species has been a major feature. The earth may presently have ten million species, yet more than 90% of species that have ever lived on the earth are now extinct. Once again, the creationist doctrines fail to satisfactorily address why a divine creator will firstly bother to create millions of species and then allow them to perish. The Darwinian explanation for extinct life is once again simple, elegant and at once convincing organisms go extinct as a function of environmental or biological assaults for which their inheritance deems them ill-equipped. Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens-this is a fact. The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data. Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas. If religion is not taken into consideration, Darwinian laws are acceptable just like the laws proposed by Copernicus, Galileo, Newton and Einstein-sets of natural laws that explain natural phenomena in the universe.\n\nAccording to the passage, natural selection cannot anticipate future environments on the earth as\n\n1. species not fully prepared to face the environmental changes that await them will face extinction\n2. all the existing species would get extinct as their genomes will not withstand biological mishaps\n3. inability of the genome to withstand environmental changes would result in extinction\n4. extinction of species is a common feature\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q66",
+      "type": "single-choice",
+      "question": "Natural selection cannot anticipate future environments on the earth. Therefore, the set of existing organisms can never be fully prepared for environmental catastrophes that await life. An outcome of this is the extinction of those species which cannot overcome environmental adversity. This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on). In biological evolution on the earth, extinction of species has been a major feature. The earth may presently have ten million species, yet more than 90% of species that have ever lived on the earth are now extinct. Once again, the creationist doctrines fail to satisfactorily address why a divine creator will firstly bother to create millions of species and then allow them to perish. The Darwinian explanation for extinct life is once again simple, elegant and at once convincing organisms go extinct as a function of environmental or biological assaults for which their inheritance deems them ill-equipped. Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens-this is a fact. The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data. Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas. If religion is not taken into consideration, Darwinian laws are acceptable just like the laws proposed by Copernicus, Galileo, Newton and Einstein-sets of natural laws that explain natural phenomena in the universe.\n\nWith reference to the passage, the following assumptions have been made:\n\n1. Only species that have the ability to overcome environmental catastrophes will survive and perpetuate.\n2. More than 90% of the species on the earth are in the danger of getting extinct due to drastic changes in the environment.\n3. Darwin's theory explains all the natural phenomena.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q67",
+      "type": "single-choice",
+      "question": "Natural selection cannot anticipate future environments on the earth. Therefore, the set of existing organisms can never be fully prepared for environmental catastrophes that await life. An outcome of this is the extinction of those species which cannot overcome environmental adversity. This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on). In biological evolution on the earth, extinction of species has been a major feature. The earth may presently have ten million species, yet more than 90% of species that have ever lived on the earth are now extinct. Once again, the creationist doctrines fail to satisfactorily address why a divine creator will firstly bother to create millions of species and then allow them to perish. The Darwinian explanation for extinct life is once again simple, elegant and at once convincing organisms go extinct as a function of environmental or biological assaults for which their inheritance deems them ill-equipped. Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens-this is a fact. The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data. Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas. If religion is not taken into consideration, Darwinian laws are acceptable just like the laws proposed by Copernicus, Galileo, Newton and Einstein-sets of natural laws that explain natural phenomena in the universe.\n\nThe passage suggests that Darwinian theory of evolution is not a theory at all because",
+      "options": [
+        {
+          "id": "a",
+          "text": "it does not satisfy the creationist doctrine"
+        },
+        {
+          "id": "b",
+          "text": "extinction is a function of environment and biological assaults"
+        },
+        {
+          "id": "c",
+          "text": "there are no evidences to refute it"
+        },
+        {
+          "id": "d",
+          "text": "existence of organisms is attributed to a creator"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q68",
+      "type": "single-choice",
+      "question": "If presents bring less thrill now that we are grown up, perhaps it is because we have too much already, or perhaps it is because we have lost the fullness of the joy of giving and with it the fullness of the joy of receiving. Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward. Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition. Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.\n\nThe author of the passage is against",
+      "options": [
+        {
+          "id": "a",
+          "text": "worrying too much about the past and future"
+        },
+        {
+          "id": "b",
+          "text": "being in the habit of thinking about presents"
+        },
+        {
+          "id": "c",
+          "text": "not being thrilled by new things"
+        },
+        {
+          "id": "d",
+          "text": "giving and receiving joy only partially"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q69",
+      "type": "single-choice",
+      "question": "If presents bring less thrill now that we are grown up, perhaps it is because we have too much already, or perhaps it is because we have lost the fullness of the joy of giving and with it the fullness of the joy of receiving. Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward. Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition. Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.\n\nWith reference to the passage, which one of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is not possible for adults to feel thrilled by presents."
+        },
+        {
+          "id": "b",
+          "text": "There can be more than one reason why adults feel less thrilled by presents."
+        },
+        {
+          "id": "c",
+          "text": "The author does not know why adults feel less thrilled by presents."
+        },
+        {
+          "id": "d",
+          "text": "Adults have less capacity to feel the joy of loving or being loved."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q70",
+      "type": "single-choice",
+      "question": "With steady economic growth, higher literacy and increasing skill levels, the number of Indian middle-class families has gone up exponentially. Direct results of the affluence have been changes in dietary patterns and energy consumption levels. People have moved to a higher protein-based diet like milk products, fish and meat, all of which need significantly more water to produce than cereal-based diets. Increasing use of electronic and electric machines/gadgets and motor vehicles needs more and more energy and generation of energy needs water.\n\nWhich one of the following statements best reflects the crux of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "People should be persuaded to continue with the mainly Indian traditional cereal-based diets."
+        },
+        {
+          "id": "b",
+          "text": "India needs to focus on developing agricultural productivity and capacity for more energy generation in the coming years."
+        },
+        {
+          "id": "c",
+          "text": "Modern technological developments result in the change of cultural and social behaviour of the people."
+        },
+        {
+          "id": "d",
+          "text": "Water management practices in India need to change dramatically in the coming years."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q71",
+      "type": "single-choice",
+      "question": "In an economic organization, allowing mankind to benefit by the productivity of machines should lead to a very good life of leisure, and much leisure is apt to be tedious except to those who have intelligent activities and interests. If a leisured population is to be happy, it must be an educated population, and must be educated with a view to enjoyment as well as to the direct usefulness of technical knowledge.\n\nWhich of the following statements best reflects the underlying tone of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only an educated population can best make use of the benefits of economic progress."
+        },
+        {
+          "id": "b",
+          "text": "All economic development should be aimed at the creation of leisure."
+        },
+        {
+          "id": "c",
+          "text": "An increase in the educated population of a country leads to an increase in the happiness of its people."
+        },
+        {
+          "id": "d",
+          "text": "Use of machines should be encouraged in order to create a large leisured population."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q72",
+      "type": "single-choice",
+      "question": "Unless the forces and tendencies which are responsible for destroying the country's environment are checked in the near future and afforestation of denuded areas is taken up on a massive scale, the harshness of the climatic conditions and soil erosion by wind and water will increase to such an extent that agriculture, which is the mainstay of our people, will gradually become impossible. The desert countries of the world and our own desert areas in Rajasthan are a grim reminder of the consequences of large-scale deforestation. Pockets of desert-like landscape are now appearing in other parts of the country including the Sutlej-Ganga Plains and Deccan Plateau. Where only a few decades back there used to be lush green forests with perennial streams and springs, there is only brown earth, bare of vegetation, without any water in the streams and springs except in the rainy season.\n\nAccording to the passage given above, deforestation and denudation will ultimately lead to which of the following?\n\n1. Depletion of soil resource\n2. Shortage of land for the common man\n3. Lack of water for cultivation\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q73",
+      "type": "single-choice",
+      "question": "To encourage research is one of the functions of a university. Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well. Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization. But where research is not original, but consists in the mere rearrangement of existing materials, where its objects is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.\n\nThe author's assumption about scientific research is that",
+      "options": [
+        {
+          "id": "a",
+          "text": "it is never very valuable"
+        },
+        {
+          "id": "b",
+          "text": "it is sometimes very valuable"
+        },
+        {
+          "id": "c",
+          "text": "it is never without some value"
+        },
+        {
+          "id": "d",
+          "text": "it is always very valuable"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q74",
+      "type": "single-choice",
+      "question": "To encourage research is one of the functions of a university. Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well. Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization. But where research is not original, but consists in the mere rearrangement of existing materials, where its objects is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.\n\nAccording to the author",
+      "options": [
+        {
+          "id": "a",
+          "text": "not many research results can be of value to an intelligent investigator"
+        },
+        {
+          "id": "b",
+          "text": "a research result is always valuable to an intelligent investigator"
+        },
+        {
+          "id": "c",
+          "text": "any research result can be of value to an intelligent investigator"
+        },
+        {
+          "id": "d",
+          "text": "a research result must always be of some value to an intelligent investigator"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q75",
+      "type": "single-choice",
+      "question": "\"The social order is a sacred right which is the basis of all other rights. Nevertheless, this right does not come from nature, and must therefore be founded on conventions.\"\n\nWith reference to the above passage which of the following statements is/are correct?\n\n1. Conventions are the sources of rights of man.\n2. Rights of man can be exercised only when there is a social order.\n\nSelect the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q76",
+      "type": "single-choice",
+      "question": "The poverty line is quite unsatisfactory when it comes to grasping the extent of poverty in India. It is not only because of its extremely narrow definition of 'who is poor' and the debatable methodology used to count the poor, but also because of a more fundamental assumption underlying it. It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power. One can better categorize it by calling it income poverty. If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it. Poverty of a life, in our view, lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances–to choose other types of living. Even the relevance of low incomes, meagre possessions, and other aspects of what are standardly seen as economic poverty relate ultimately to their role in curtailing capabilities, i.e., their role in severely restricting the choices people have to lead variable and valued lives.\n\nWhy is the methodology adopted in India to count the 'poor' debatable?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is some confusion regarding what should constitute the 'poverty line'."
+        },
+        {
+          "id": "b",
+          "text": "There are wide diversities in the condition of the rural and urban poor."
+        },
+        {
+          "id": "c",
+          "text": "There is no uniform global standard for measuring income poverty."
+        },
+        {
+          "id": "d",
+          "text": "It is based on the proposition of poverty as meagre income or buying capacity."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q77",
+      "type": "single-choice",
+      "question": "The poverty line is quite unsatisfactory when it comes to grasping the extent of poverty in India. It is not only because of its extremely narrow definition of 'who is poor' and the debatable methodology used to count the poor, but also because of a more fundamental assumption underlying it. It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power. One can better categorize it by calling it income poverty. If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it. Poverty of a life, in our view, lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances–to choose other types of living. Even the relevance of low incomes, meagre possessions, and other aspects of what are standardly seen as economic poverty relate ultimately to their role in curtailing capabilities, i.e., their role in severely restricting the choices people have to lead variable and valued lives.\n\nWhat does the author mean by 'poverty of a life'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All deprivations in a human life which stem not only from lack of income but lack of real opportunities"
+        },
+        {
+          "id": "b",
+          "text": "Impoverished state of poor people in rural and urban areas"
+        },
+        {
+          "id": "c",
+          "text": "Missed opportunities in diverse personal circumstances"
+        },
+        {
+          "id": "d",
+          "text": "Material as well as non-material deprivations in a human life which restrict human choices permanently."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q78",
+      "type": "single-choice",
+      "question": "The poverty line is quite unsatisfactory when it comes to grasping the extent of poverty in India. It is not only because of its extremely narrow definition of 'who is poor' and the debatable methodology used to count the poor, but also because of a more fundamental assumption underlying it. It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power. One can better categorize it by calling it income poverty. If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it. Poverty of a life, in our view, lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances–to choose other types of living. Even the relevance of low incomes, meagre possessions, and other aspects of what are standardly seen as economic poverty relate ultimately to their role in curtailing capabilities, i.e., their role in severely restricting the choices people have to lead variable and valued lives.\n\nWhy is income poverty only one measure of counting the 'poor'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It talks of only one kind of deprivation ignoring all others."
+        },
+        {
+          "id": "b",
+          "text": "Other deprivations in a human life have nothing to do with lack of purchasing power."
+        },
+        {
+          "id": "c",
+          "text": "Income poverty is not a permanent condition, it changes from time to time."
+        },
+        {
+          "id": "d",
+          "text": "Income poverty restricts human choices only at a point of time."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q79",
+      "type": "single-choice",
+      "question": "The majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others. They permit the newspapers and the gossiping neighbours to do their thinking for them. Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them. If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.\n\nWhat is the main idea of the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "People should not be influenced by the opinions of others."
+        },
+        {
+          "id": "b",
+          "text": "People should accumulate as much money as they can."
+        },
+        {
+          "id": "c",
+          "text": "People should neither give nor accept the opinions."
+        },
+        {
+          "id": "d",
+          "text": "People will succeed in any undertaking if they do not accept any opinion at all"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2022_csat_q80",
+      "type": "single-choice",
+      "question": "The majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others. They permit the newspapers and the gossiping neighbours to do their thinking for them. Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them. If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.\n\nWhich one of the following is implied by the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Most of the people do not accumulate money for their needs."
+        },
+        {
+          "id": "b",
+          "text": "Most of the people never fail to accumulate money for their needs."
+        },
+        {
+          "id": "c",
+          "text": "There are people who fail to accumulate money for their needs."
+        },
+        {
+          "id": "d",
+          "text": "There is no need to accumulate money."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

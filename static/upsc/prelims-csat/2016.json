@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2016,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2016_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_csat_q1",
+      "type": "single-choice",
+      "question": "A person X was driving in a place where all roads ran either north-south or east-west, forming a grid. Roads are at a distance of 1 km from each other in a parallel. He started at the intersection of two roads, drove 3 km north, 3 km west and 4 km south. Which further route could bring him back to his starting point, if the same route is not repeated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 km east, then 2 km south"
+        },
+        {
+          "id": "b",
+          "text": "3 km east, then 1 km north"
+        },
+        {
+          "id": "c",
+          "text": "1 km north, then 2 km west"
+        },
+        {
+          "id": "d",
+          "text": "3 km south, then 1 km north"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q2",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. Either A and B are of the same age or A is older than B.\n2. Either C and D are of the same age or D is older than C.\n3. B is older than C.\n\nWhich of the following conclusions can be drawn from the above statement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A is older than B"
+        },
+        {
+          "id": "b",
+          "text": "B and D are of the same age"
+        },
+        {
+          "id": "c",
+          "text": "D is older than C"
+        },
+        {
+          "id": "d",
+          "text": "A is older than C"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q3",
+      "type": "single-choice",
+      "question": "The sum of the ages of 5 members comprising a family, 3 years ago was 80 years. The average age of the family today is the same as it was 3 years ago, because of an addition of a baby during the intervening period. How old is the baby?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6 months"
+        },
+        {
+          "id": "b",
+          "text": "1 year"
+        },
+        {
+          "id": "c",
+          "text": "2 years"
+        },
+        {
+          "id": "d",
+          "text": "2 years and 6 months"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q4",
+      "type": "single-choice",
+      "question": "A cube has all its faces painted with different colours. It is cut into smaller cubes of equal sizes such that the side of the small cube is one-fourth the big cube. The number of small cubes with only one of the sides painted is",
+      "options": [
+        {
+          "id": "a",
+          "text": "32"
+        },
+        {
+          "id": "b",
+          "text": "24"
+        },
+        {
+          "id": "c",
+          "text": "16"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q5",
+      "type": "single-choice",
+      "question": "A person is standing on the first step from the bottom of a. If he has to climb 4 more steps to reach exactly the middle step, how many steps does the stair have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8"
+        },
+        {
+          "id": "b",
+          "text": "9"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "11"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q6",
+      "type": "single-choice",
+      "question": "AB is a vertical trunk of a huge tree with A being the point where the base of the trunk touches the ground. Due to a cyclone, the trunk has been broken at C which is at a height of 12 meters, broken part is partially attached to the vertical portion of the trunk at C. If the end of the broken part B touches the ground at D which is at a distance of 5 meters from A, then the original height of the trunk is",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 m"
+        },
+        {
+          "id": "b",
+          "text": "25 m"
+        },
+        {
+          "id": "c",
+          "text": "30 m"
+        },
+        {
+          "id": "d",
+          "text": "35 m"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q7",
+      "type": "single-choice",
+      "question": "An agricultural field is in the form of a rectangle having length $X1$ meters and breadth $X2$ meters ($X1$ and $X2$ are variable). If $X1 + X2 = 40$ meters, then the area of the agricultural field will not exceed which one of the following values?",
+      "options": [
+        {
+          "id": "a",
+          "text": "400 sq m"
+        },
+        {
+          "id": "b",
+          "text": "300 sq m"
+        },
+        {
+          "id": "c",
+          "text": "200 sq m"
+        },
+        {
+          "id": "d",
+          "text": "80 sq m"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q8",
+      "type": "single-choice",
+      "question": "If R and S are different integers both divisible by 5, then which of the following is not necessarily true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "R – S is divisible by 5"
+        },
+        {
+          "id": "b",
+          "text": "R + S s divisible by 10"
+        },
+        {
+          "id": "c",
+          "text": "R × S is divisible by 25"
+        },
+        {
+          "id": "d",
+          "text": "R²× S² is divisible by 5"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q9",
+      "type": "single-choice",
+      "question": "Anita’s mathematics test had 70 problems carrying equal marks i.e., 10 arithmetic, 30 algebra and 30 geometry. Although she answered 70% of the arithmetic, 40% of the algebra and 60% of the geometry problems correctly, she did not pass the test because she got less than 60% marks. The number of more questions she would have to answer correctly to earn a 60% passing marks is",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q10",
+      "type": "single-choice",
+      "question": "A person walks 12 km due north, then 15 km due east, after that 19 km due west and then 15 km due south. How far is the from the starting point?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 km"
+        },
+        {
+          "id": "b",
+          "text": "9 km"
+        },
+        {
+          "id": "c",
+          "text": "37 km"
+        },
+        {
+          "id": "d",
+          "text": "61 km"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q11",
+      "type": "single-choice",
+      "question": "Five people A, B, C, D, and E are seated at a round table. Every chair is spaced equidistant from adjacent chairs.\ni. C is seated next to A.\nii. A is seated two seats from D.\niii. B is not seated next to A.\n\nOn the basis of the above information, which of the following must be true?\n\n1. D is seated next to B.\n2. E is seated next to A.\n3. D and C are separated by two seats.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2 nor 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q12",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. The rate of population growth is increasing in the country.\n2. The death rate is declining faster in the country compared to birth rate.\n3. The birth rate is declining faster in the country compared to death rate.\n4. Rural-urban migration is taking place regularly in the country.\n\nWhich one of the following conclusions may be true in the light of the above facts?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The rate of population growth is increasing due to rural-urban migration."
+        },
+        {
+          "id": "b",
+          "text": "The rate of population growth is increasing due to decline in death rate only."
+        },
+        {
+          "id": "c",
+          "text": "The rate of population growth is increasing due to increase in birth rate only."
+        },
+        {
+          "id": "d",
+          "text": "The rate of population growth is increasing due to faster decline in death rate than in birth rate."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q13",
+      "type": "single-choice",
+      "question": "In a question paper there are five questions to be attempted and answer to each question has two choices – True (T) or False (F). It is given that no two candidates have given the answer to the five questions in an identical sequence. For this to happen the maximum number of candidates is $2^5$.",
+      "options": [
+        {
+          "id": "a",
+          "text": "10"
+        },
+        {
+          "id": "b",
+          "text": "18"
+        },
+        {
+          "id": "c",
+          "text": "26"
+        },
+        {
+          "id": "d",
+          "text": "32"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q14",
+      "type": "single-choice",
+      "question": "A person allows a 10% discount for cash payment from the marked price of a toy and still he makes a 10% gain. What is the cost price of the toy which is marked Rs. 770?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 610"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 620"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 630"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 640"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q15",
+      "type": "single-choice",
+      "question": "A round archery target of diameter 1 m is marked with four scoring regions from the centre outwards as red, blue, yellow and white. The radius of the red band is 0.2 m. The width of all the remaining bands is equal. If archers throw arrows towards the target, what is the probability that the arrows fall in the red region of the archery target?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0.40"
+        },
+        {
+          "id": "b",
+          "text": "0.20"
+        },
+        {
+          "id": "c",
+          "text": "0.16"
+        },
+        {
+          "id": "d",
+          "text": "0.04"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q16",
+      "type": "single-choice",
+      "question": "There are five hobby clubs in a college – photography, yachting, chess, electronics and gardening. The gardening group meets every second day, the electronics group meets every third day, the chess group meets every fourth day, the yachting group meets every fifth day and the photography group meets every sixth day. How many times do all the five groups meet on the same day within 180 days?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "18"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q17",
+      "type": "single-choice",
+      "question": "A military code writes SYSTEM as SYSMET and NEARER as AENRER. Using the same code, FRACTION can be written as",
+      "options": [
+        {
+          "id": "a",
+          "text": "CARFTION"
+        },
+        {
+          "id": "b",
+          "text": "FRACNOIT"
+        },
+        {
+          "id": "c",
+          "text": "NOITCARF"
+        },
+        {
+          "id": "d",
+          "text": "CARFNOIT"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q18",
+      "type": "single-choice",
+      "question": "A class starts at 11:00 am and lasts till 2:27 pm. Four periods of equal duration are held during this interval. After every period, a rest of 5 minutes is given to the students. The exact duration of each period is",
+      "options": [
+        {
+          "id": "a",
+          "text": "48 minutes"
+        },
+        {
+          "id": "b",
+          "text": "50 minutes"
+        },
+        {
+          "id": "c",
+          "text": "51 minutes"
+        },
+        {
+          "id": "d",
+          "text": "53 minutes"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q19",
+      "type": "single-choice",
+      "question": "Consider the following statement:\n“We shall go either for a picnic or for trekking”. Which of the following, if true, would falsify this claim?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We go for a picnic but not for trekking."
+        },
+        {
+          "id": "b",
+          "text": "Activities such as picnic and trekking are encouraged by the health authorities."
+        },
+        {
+          "id": "c",
+          "text": "We go for trekking and not for picnic."
+        },
+        {
+          "id": "d",
+          "text": "We do not go either for picnic or for trekking."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q20",
+      "type": "single-choice",
+      "question": "There are some nectar-filled flowers on a tree and some bees are hovering on it. If one bee lands on each, flower, one bee will be left out. If two bees land on each flower, one flower will be left out. The number of flowers and bees respectively are",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 and 4"
+        },
+        {
+          "id": "b",
+          "text": "3 and 2"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "4 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q21",
+      "type": "single-choice",
+      "question": "30 g of sugar was mixed in 180 ml water in a vessel A, 40 g of sugar was mixed in 280 ml of water in vessel B and 20 g of sugar was mixed in 100 ml of water in vessel C. The solution in vessel B is",
+      "options": [
+        {
+          "id": "a",
+          "text": "sweeter than that in C."
+        },
+        {
+          "id": "b",
+          "text": "sweeter than that in A."
+        },
+        {
+          "id": "c",
+          "text": "as sweet as that in C."
+        },
+        {
+          "id": "d",
+          "text": "less sweet than that in C."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q22",
+      "type": "single-choice",
+      "question": "A daily train is to be introduced between station A and station B starting from each end at 6 AM and the journey is to be completed in 42 hours. What is the number of trains needed in order to maintain the shuttle service?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q23",
+      "type": "single-choice",
+      "question": "In a class, there are 18 very tall boys. If these constitute threefourths of the boys and the total number of boys is two-thirds of the total number of students in the class, what is the number of girls in the class?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "18"
+        },
+        {
+          "id": "d",
+          "text": "21"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q24",
+      "type": "single-choice",
+      "question": "Four friends A, B, C, and D need to cross a bridge. A maximum of two persons can cross it at a time. It is night and they just have one lamp. Persons that cross the bridge must carry the lamp to find the way. A pair must walk together at the speed of the slower person. After crossing the bridge, the person having faster speed in the pair will return with the lamp each time to accompany another person in the group. Finally, the lamp has to be returned at the original place and the person who returns the lamp has to cross the bridge again without lamp. To cross the bridge, the time taken by them is as follows:\nA: 1 minute, B: 2 minutes, C: 7 minutes and D: 10 minutes.\n\nWhat is the total minimum time required by all the friends to cross the bridge?",
+      "options": [
+        {
+          "id": "a",
+          "text": "23 minutes"
+        },
+        {
+          "id": "b",
+          "text": "22 minutes"
+        },
+        {
+          "id": "c",
+          "text": "21 minutes"
+        },
+        {
+          "id": "d",
+          "text": "20 minutes"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q25",
+      "type": "single-choice",
+      "question": "A and B walk around a circular park. They start at 8 am from the same point in the opposite directions. A and B walk at a speed of 2 rounds per hour and 3 rounds per hour respectively. How many times shall they cross each other after 8:00 am and before 9:30 am?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q26",
+      "type": "single-choice",
+      "question": "In a race, a competitor has to collect 6 apples which are kept in a straight line on a track and a bucket is placed at the beginning of the track which is a starting point. The condition is that the competitor can pick only one apple at a time, run back with it and drop it in the bucket. If he has to drop all the apples in the bucket, how much total distance he has to run if the bucket is 5 meters from the first apple and all other apples are placed 3 meters apart?",
+      "options": [
+        {
+          "id": "a",
+          "text": "40 m"
+        },
+        {
+          "id": "b",
+          "text": "50 m"
+        },
+        {
+          "id": "c",
+          "text": "75 m"
+        },
+        {
+          "id": "d",
+          "text": "150 m"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q27",
+      "type": "single-choice",
+      "question": "In aid of charity, every student in a class contributes as many rupees as the number of students in that class. With the additional contribution of Rs. 2 by one student only, the total collection is Rs. 443. Then how many students are there in the class?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12"
+        },
+        {
+          "id": "b",
+          "text": "21"
+        },
+        {
+          "id": "c",
+          "text": "43"
+        },
+        {
+          "id": "d",
+          "text": "45"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q28",
+      "type": "single-choice",
+      "question": "There were 50 faculty members comprising 30 males and the rest of females. No male faculty member knew music, but many of the female faculty members did. The Head of the institution invited six faculty members to a tea party by draw of lots. At the party it was discovered that no member knew music. The conclusion is that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "the party comprised male faculty members only."
+        },
+        {
+          "id": "b",
+          "text": "the party comprised only those female faculty members who could not give renderings in music."
+        },
+        {
+          "id": "c",
+          "text": "the party comprised both male and female faculty members."
+        },
+        {
+          "id": "d",
+          "text": "nothing can be said about the gender composition of the party."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q29",
+      "type": "single-choice",
+      "question": "The monthly average salary paid to all the employees of a company was Rs. 5000. The monthly average salary paid to male and female employees was Rs. 5200 and Rs. 4200 respectively. Then the percentage of males employed in the company is",
+      "options": [
+        {
+          "id": "a",
+          "text": "$75\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$80\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$85\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$90\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q30",
+      "type": "single-choice",
+      "question": "Four-digit numbers are to be formed using the digits 1, 2, 3 and 4; and none of these four digits are repeated in any manner. Further,\n\n1. 2 and 3 are not to immediately follow each other.\n2. 1 is not to be immediately followed by 3.\n3. 4 is not to appear at the last place.\n4. 1 is not to appear at the first place.\n\nHow many different numbers can be formed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q31",
+      "type": "single-choice",
+      "question": "A ate grapes and pineapple; B ate grapes and oranges; C ate oranges, pineapple and apple; D ate grapes, apple and pineapple. After taking of the above facts, its can be said that the cause of sickness was:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apple"
+        },
+        {
+          "id": "b",
+          "text": "Pineapple"
+        },
+        {
+          "id": "c",
+          "text": "Grapes"
+        },
+        {
+          "id": "d",
+          "text": "Oranges"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q32",
+      "type": "single-choice",
+      "question": "Ram and Shyam work on a job together for four days and complete 60% of it. Ram takes leave then and Shyam works for eight more days to complete the job. How long would Ram take to complete the entire job alone?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6 days"
+        },
+        {
+          "id": "b",
+          "text": "8 days"
+        },
+        {
+          "id": "c",
+          "text": "10 days"
+        },
+        {
+          "id": "d",
+          "text": "11 days"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q33",
+      "type": "single-choice",
+      "question": "A cylindrical overhead tank of radius 2 m and height 7 m is to be filled from an underground tank of size 5.5 m × 6 m. How much portion of the underground tank is still filled with water after filling the overhead tank completely?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$\\frac{1}{3}$"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{1}{2}$"
+        },
+        {
+          "id": "c",
+          "text": "$\\frac{1}{4}$"
+        },
+        {
+          "id": "d",
+          "text": "$\\frac{1}{6}$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q34",
+      "type": "single-choice",
+      "question": "A piece of tin is in the form of a rectangle having length 12 cm and width 8 cm. This is used to construct a closed cube. The side of the cube is",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 cm"
+        },
+        {
+          "id": "b",
+          "text": "3 cm"
+        },
+        {
+          "id": "c",
+          "text": "4 cm"
+        },
+        {
+          "id": "d",
+          "text": "6 cm"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q35",
+      "type": "single-choice",
+      "question": "The average monthly income of a person in a certain family of 5 is Rs. 10,000. What will be the average monthly income of a person in the same family if the income of one person increased by Rs. 1, 20,000 per year?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 12,000"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 16,000"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 20,000"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 34,000"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q36",
+      "type": "single-choice",
+      "question": "W can do $25\\%$ of a work in 30 days, X can do $\\frac{1}{4}$ of the work in 10 days, Y can do $40\\%$ of the work in 40 days and Z can do $\\frac{1}{3}$ of the work in 13 days. Who will complete the work first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "W"
+        },
+        {
+          "id": "b",
+          "text": "X"
+        },
+        {
+          "id": "c",
+          "text": "Y"
+        },
+        {
+          "id": "d",
+          "text": "Z"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q37",
+      "type": "single-choice",
+      "question": "There is an order of 19000 quantities of a particular product from a customer. The firm produces 1000 quantity of that product per day out of which 5% are unfit for sale. In how many days will the order be completed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "18"
+        },
+        {
+          "id": "b",
+          "text": "19"
+        },
+        {
+          "id": "c",
+          "text": "20"
+        },
+        {
+          "id": "d",
+          "text": "22"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q38",
+      "type": "single-choice",
+      "question": "In a class of 60 students, where the number of girls is twice that of boys, Kamal, a boy, ranked seventeenth from the top. If there are 9 girls ahead of Kamal, the number of boys in rank after him is",
+      "options": [
+        {
+          "id": "a",
+          "text": "13"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q39",
+      "type": "single-choice",
+      "question": "A person climbs a hill in a straight path from point ‘O’ on the ground in the direction of north-east and reaches a point ‘A’ after travelling a distance of 5 km. Then, from the point ‘A’ he moves to point ‘B’ in the direction of north-west. Let the distance AB be 12 km. Now, how far is the persons away from the starting point ‘O’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7 km"
+        },
+        {
+          "id": "b",
+          "text": "13 km"
+        },
+        {
+          "id": "c",
+          "text": "17 km"
+        },
+        {
+          "id": "d",
+          "text": "11 km"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q40",
+      "type": "single-choice",
+      "question": "The total emoluments of two persons are the same, but one gets allowances to the extent of $65\\%$ of his basic pay and the other gets allowances to the extent of $80\\%$ of his basic pay. The ratio of the basic pay of the former to the basic pay of the latter is",
+      "options": [
+        {
+          "id": "a",
+          "text": "$16: 13$"
+        },
+        {
+          "id": "b",
+          "text": "$5: 4$"
+        },
+        {
+          "id": "c",
+          "text": "$7: 5$"
+        },
+        {
+          "id": "d",
+          "text": "$12: 11$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q41",
+      "type": "single-choice",
+      "question": "How many numbers are there between 100 and 300 which either begin with or end with 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "110"
+        },
+        {
+          "id": "b",
+          "text": "111"
+        },
+        {
+          "id": "c",
+          "text": "112"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q42",
+      "type": "single-choice",
+      "question": "Two numbers X and Y are respectively 20% and 28% less than a third number Z. By what percentage is the number Y less than the numbers X?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$12\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$10\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$9\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$8\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q43",
+      "type": "single-choice",
+      "question": "In the last decade, the banking sector has been restructured with a high degree of automation and products that mainly serve middle-class and upper middle-class society. Today there is a need for a new agenda for the banking and non-banking financial services that does not exclude the common man.\n\nWhich one of the following is the message that is essentially implied in the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Need for more automation and more produces of banks."
+        },
+        {
+          "id": "b",
+          "text": "Need for a radical restructuring of our entire public finance system."
+        },
+        {
+          "id": "c",
+          "text": "Need to integrate banking and non-banking institutions."
+        },
+        {
+          "id": "d",
+          "text": "Need to promote financial inclusion."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q44",
+      "type": "single-choice",
+      "question": "Accountability, or the lack of it, in governance generally, and civil services, in particular, is a major factor underlying the deficiencies in governance and public administration. Designing an effective framework for accountability has been a key element of the reform agenda. A fundamental issue is whether civil services should be accountable to the political executive of the day or to society at large. In other words, how should internal and external accountability be reconciled? Internal accountability is sought to be achieved by internal performance monitoring, official supervision by bodies like the Central Vigilance Commission and Comptroller and Auditor General, and judicial review of executive decisions. Articles 311 and 312 of the Indian Constitution provide job security and safeguards to the civil services, especially the All India Services.The framers of the Constitution had envisaged that provision of these safeguards would result in a civil service that is not totally subservient to the political executive but will have the strength to function in larger public interest. The need to balance internal and external accountability is thus built into the Constitution. The issue is where to draw the line.\nOver the years, the emphasis seems to have tilted in favour of greater internal accountability of the civil services at large through the election process. This system for seeking accountability to society has not worked out and has led to several adverse consequences for governance. Some special measures can be considered for improving accountability in civil services. Provisions of Articles 311 and 312 should be reviewed, and laws and regulations framed to ensure external accountability of civil services. The proposed Civil Services Bill seeks to address some of these requirements. The respective roles of professional civil services and the political executive should be defined so that professional managerial functions and management of civil services are depoliticized. For this purpose, effective statutory civil service boards should be created at the centre and in the states. Decentralization and devolution of authority to bring government and decision-making closer to the people also help enhance accountability.\n\nAccording to the passage, which of the following factor/factors led to the adverse consequences for governance/public administration?\n\n1. Inability of civil services to strike a balance between internal and external accountabilities.\n2. Lack of sufficient professional training to the officers of All India Services.\n3. Lack of proper service benefits in civil services.\n4. Lack of constitutional provisions to define the respective roles of professional civil services vis-à-vis political executive in this context.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q45",
+      "type": "single-choice",
+      "question": "Accountability, or the lack of it, in governance generally, and civil services, in particular, is a major factor underlying the deficiencies in governance and public administration. Designing an effective framework for accountability has been a key element of the reform agenda. A fundamental issue is whether civil services should be accountable to the political executive of the day or to society at large. In other words, how should internal and external accountability be reconciled? Internal accountability is sought to be achieved by internal performance monitoring, official supervision by bodies like the Central Vigilance Commission and Comptroller and Auditor General, and judicial review of executive decisions. Articles 311 and 312 of the Indian Constitution provide job security and safeguards to the civil services, especially the All India Services.The framers of the Constitution had envisaged that provision of these safeguards would result in a civil service that is not totally subservient to the political executive but will have the strength to function in larger public interest. The need to balance internal and external accountability is thus built into the Constitution. The issue is where to draw the line.\nOver the years, the emphasis seems to have tilted in favour of greater internal accountability of the civil services at large through the election process. This system for seeking accountability to society has not worked out and has led to several adverse consequences for governance. Some special measures can be considered for improving accountability in civil services. Provisions of Articles 311 and 312 should be reviewed, and laws and regulations framed to ensure external accountability of civil services. The proposed Civil Services Bill seeks to address some of these requirements. The respective roles of professional civil services and the political executive should be defined so that professional managerial functions and management of civil services are depoliticized. For this purpose, effective statutory civil service boards should be created at the centre and in the states. Decentralization and devolution of authority to bring government and decision-making closer to the people also help enhance accountability.\n\nAccording to the passage, which one of the following is not a means of enhancing internal accountability of civil services?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Better job security and safeguards."
+        },
+        {
+          "id": "b",
+          "text": "Supervision by Central Vigilance Commission."
+        },
+        {
+          "id": "c",
+          "text": "Judicial review of executive decisions."
+        },
+        {
+          "id": "d",
+          "text": "Seeking accountability through enhanced participation by people in decision making process."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q46",
+      "type": "single-choice",
+      "question": "Accountability, or the lack of it, in governance generally, and civil services, in particular, is a major factor underlying the deficiencies in governance and public administration. Designing an effective framework for accountability has been a key element of the reform agenda. A fundamental issue is whether civil services should be accountable to the political executive of the day or to society at large. In other words, how should internal and external accountability be reconciled? Internal accountability is sought to be achieved by internal performance monitoring, official supervision by bodies like the Central Vigilance Commission and Comptroller and Auditor General, and judicial review of executive decisions. Articles 311 and 312 of the Indian Constitution provide job security and safeguards to the civil services, especially the All India Services.The framers of the Constitution had envisaged that provision of these safeguards would result in a civil service that is not totally subservient to the political executive but will have the strength to function in larger public interest. The need to balance internal and external accountability is thus built into the Constitution. The issue is where to draw the line.\nOver the years, the emphasis seems to have tilted in favour of greater internal accountability of the civil services at large through the election process. This system for seeking accountability to society has not worked out and has led to several adverse consequences for governance. Some special measures can be considered for improving accountability in civil services. Provisions of Articles 311 and 312 should be reviewed, and laws and regulations framed to ensure external accountability of civil services. The proposed Civil Services Bill seeks to address some of these requirements. The respective roles of professional civil services and the political executive should be defined so that professional managerial functions and management of civil services are depoliticized. For this purpose, effective statutory civil service boards should be created at the centre and in the states. Decentralization and devolution of authority to bring government and decision-making closer to the people also help enhance accountability.\n\nWhich one of the following is the essential message implied by this passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Civil services are not accountable to the society they are serving."
+        },
+        {
+          "id": "b",
+          "text": "Educated and enlightened people are not taking up political leadership."
+        },
+        {
+          "id": "c",
+          "text": "The framers of the constitution did not envisage the problems being encountered by the civil services."
+        },
+        {
+          "id": "d",
+          "text": "There is a need and scope for reforms to improve the accountability of civil services"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q47",
+      "type": "single-choice",
+      "question": "Accountability, or the lack of it, in governance generally, and civil services, in particular, is a major factor underlying the deficiencies in governance and public administration. Designing an effective framework for accountability has been a key element of the reform agenda. A fundamental issue is whether civil services should be accountable to the political executive of the day or to society at large. In other words, how should internal and external accountability be reconciled? Internal accountability is sought to be achieved by internal performance monitoring, official supervision by bodies like the Central Vigilance Commission and Comptroller and Auditor General, and judicial review of executive decisions. Articles 311 and 312 of the Indian Constitution provide job security and safeguards to the civil services, especially the All India Services.The framers of the Constitution had envisaged that provision of these safeguards would result in a civil service that is not totally subservient to the political executive but will have the strength to function in larger public interest. The need to balance internal and external accountability is thus built into the Constitution. The issue is where to draw the line.\nOver the years, the emphasis seems to have tilted in favour of greater internal accountability of the civil services at large through the election process. This system for seeking accountability to society has not worked out and has led to several adverse consequences for governance. Some special measures can be considered for improving accountability in civil services. Provisions of Articles 311 and 312 should be reviewed, and laws and regulations framed to ensure external accountability of civil services. The proposed Civil Services Bill seeks to address some of these requirements. The respective roles of professional civil services and the political executive should be defined so that professional managerial functions and management of civil services are depoliticized. For this purpose, effective statutory civil service boards should be created at the centre and in the states. Decentralization and devolution of authority to bring government and decision-making closer to the people also help enhance accountability.\n\nWith reference to the passage, the following assumptions have been made:\n\n1. Political executive is an obstacle to the accountability of the civil services to society.\n2. In the present framework of Indian polity, the political executive is no longer accountable to the society.\n\nWhich of these assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q48",
+      "type": "single-choice",
+      "question": "Consider the given information and answer the three items that follow.\nWhen three friends A, B and C met, it was found that each of them wore an outer garment of a different colour. In random order, the garments are: jacket, sweater and tie; and the colours are: blue, white and black. Their surnames in random order are: Ribeiro, Kumar and Singh. Further, we know that:\n\n1. neither B nor Ribeiro wore a white sweater.\n2. C wore a tie.\n3. Singh’s garment was not white.\n4. Kumar does not wear a jacket.\n5. Ribeiro does not like to wear the black colour.\n6. Each of the friends wore only one outer garment of only one colour.\n\nWhat is the colour of the tie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Black"
+        },
+        {
+          "id": "b",
+          "text": "Blue"
+        },
+        {
+          "id": "c",
+          "text": "White"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q49",
+      "type": "single-choice",
+      "question": "Consider the given information and answer the three items that follow.\nWhen three friends A, B and C met, it was found that each of them wore an outer garment of a different colour. In random order, the garments are: jacket, sweater and tie; and the colours are: blue, white and black. Their surnames in random order are: Ribeiro, Kumar and Singh. Further, we know that:\n\n1. neither B nor Ribeiro wore a white sweater.\n2. C wore a tie.\n3. Singh’s garment was not white.\n4. Kumar does not wear a jacket.\n5. Ribeiro does not like to wear the black colour.\n6. Each of the friends wore only one outer garment of only one colour.\n\nWhat is C’s surname?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ribeiro"
+        },
+        {
+          "id": "b",
+          "text": "Kumar"
+        },
+        {
+          "id": "c",
+          "text": "Singh"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q50",
+      "type": "single-choice",
+      "question": "Consider the given information and answer the three items that follow.\nWhen three friends A, B and C met, it was found that each of them wore an outer garment of a different colour. In random order, the garments are: jacket, sweater and tie; and the colours are: blue, white and black. Their surnames in random order are: Ribeiro, Kumar and Singh. Further, we know that:\n\n1. neither B nor Ribeiro wore a white sweater.\n2. C wore a tie.\n3. Singh’s garment was not white.\n4. Kumar does not wear a jacket.\n5. Ribeiro does not like to wear the black colour.\n6. Each of the friends wore only one outer garment of only one colour.\n\nWho wore the sweater?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q51",
+      "type": "single-choice",
+      "question": "By killing transparency and competition, crony capitalism is harmful to free enterprise, opportunity and economic growth. Crony capitalism, where rich and the influential are alleged to have received land and natural resources and various licences in return for payoffs to venal politicians, is now a major issue to be tackled. One of the greatest dangers to growth of developing economics like India is the middleincome trap where crony capitalism creates oligarchies that slow down the growth.\n\nWhich among the following is the most logical corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Launching more welfare schemes and allocating more finances for the current schemes are urgently needed."
+        },
+        {
+          "id": "b",
+          "text": "Efforts should be made to push up economic growth by other means and provide licences to the poor."
+        },
+        {
+          "id": "c",
+          "text": "Greater transparency in the functioning of the government and promoting the financial inclusion are needed at present."
+        },
+        {
+          "id": "d",
+          "text": "We should concentrate more on developing manufacturing sector than service sector."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q52",
+      "type": "single-choice",
+      "question": "Historically, the biggest challenge to world agriculture has been to achieve a balance between demand for and supply of food. At the level of individual countries, the demand-supply balance can be a critical policy issue for a closed economy, especially if it is a populous economy and its domestic agriculture is not growing sufficiently enough to ensure food supplies, on an enduring basis; it is not so much and not always, of a constraint for an open, and growing economy, which has adequate exchange surpluses to buy food abroad. For the world as a whole, supply-demand balance is always an inescapable prerequisite for warding off hunger and starvation. However, global availability of adequate supply does not necessarily mean that food would automatically move from countries of surplus to countries of deficit if the latter lack in purchasing power. The uneven distribution of hunger, starvation, under or malnourishment, etc., at the worldlevel, thus owes itself to the presence of empty-pocket hungry mouths, overwhelmingly confined to the underdeveloped economies. Inasmuch as ‘a two-square meal’ is of elemental significance to basic human existence, the issue of worldwide supply of food has been gaining significance, in recent times, both because the quantum and the composition of demand has been undergoing big changes, and because, in recent years, the capabilities of individual countries to generate uninterrupted chain of food supplies have come under strain. Food production, marketing and prices, especially price-affordability by the poor in the developing world, have become global issues that need global thinking and global solutions.\n\nThe issue of worldwide supply of food has gained importance mainly because of:\n\n1. overgrowth of the population worldwide.\n2. sharp decline in the area of food production.\n3. limitation in the capabilities for sustained supply of food.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q53",
+      "type": "single-choice",
+      "question": "Historically, the biggest challenge to world agriculture has been to achieve a balance between demand for and supply of food. At the level of individual countries, the demand-supply balance can be a critical policy issue for a closed economy, especially if it is a populous economy and its domestic agriculture is not growing sufficiently enough to ensure food supplies, on an enduring basis; it is not so much and not always, of a constraint for an open, and growing economy, which has adequate exchange surpluses to buy food abroad. For the world as a whole, supply-demand balance is always an inescapable prerequisite for warding off hunger and starvation. However, global availability of adequate supply does not necessarily mean that food would automatically move from countries of surplus to countries of deficit if the latter lack in purchasing power. The uneven distribution of hunger, starvation, under or malnourishment, etc., at the worldlevel, thus owes itself to the presence of empty-pocket hungry mouths, overwhelmingly confined to the underdeveloped economies. Inasmuch as ‘a two-square meal’ is of elemental significance to basic human existence, the issue of worldwide supply of food has been gaining significance, in recent times, both because the quantum and the composition of demand has been undergoing big changes, and because, in recent years, the capabilities of individual countries to generate uninterrupted chain of food supplies have come under strain. Food production, marketing and prices, especially price-affordability by the poor in the developing world, have become global issues that need global thinking and global solutions.\n\nAccording to the above passage, which of the following are the fundamental solutions for the world food security problem?\n\n1. Setting up more agro-based industries.\n2. Improving the price affordability by the poor.\n3. Regulating the conditions of marketing.\n4. Providing food subsidy to one and all.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q54",
+      "type": "single-choice",
+      "question": "Historically, the biggest challenge to world agriculture has been to achieve a balance between demand for and supply of food. At the level of individual countries, the demand-supply balance can be a critical policy issue for a closed economy, especially if it is a populous economy and its domestic agriculture is not growing sufficiently enough to ensure food supplies, on an enduring basis; it is not so much and not always, of a constraint for an open, and growing economy, which has adequate exchange surpluses to buy food abroad. For the world as a whole, supply-demand balance is always an inescapable prerequisite for warding off hunger and starvation. However, global availability of adequate supply does not necessarily mean that food would automatically move from countries of surplus to countries of deficit if the latter lack in purchasing power. The uneven distribution of hunger, starvation, under or malnourishment, etc., at the worldlevel, thus owes itself to the presence of empty-pocket hungry mouths, overwhelmingly confined to the underdeveloped economies. Inasmuch as ‘a two-square meal’ is of elemental significance to basic human existence, the issue of worldwide supply of food has been gaining significance, in recent times, both because the quantum and the composition of demand has been undergoing big changes, and because, in recent years, the capabilities of individual countries to generate uninterrupted chain of food supplies have come under strain. Food production, marketing and prices, especially price-affordability by the poor in the developing world, have become global issues that need global thinking and global solutions.\n\nAccording to the above passage, which of the following helps/help in reducing hunger and starvation in the developing economics?\n\n1. Balancing demand and supply of food.\n2. Increasing imports of food.\n3. Increasing purchasing power of the poor.\n4. Changing the food consumption patterns and practices.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q55",
+      "type": "single-choice",
+      "question": "Historically, the biggest challenge to world agriculture has been to achieve a balance between demand for and supply of food. At the level of individual countries, the demand-supply balance can be a critical policy issue for a closed economy, especially if it is a populous economy and its domestic agriculture is not growing sufficiently enough to ensure food supplies, on an enduring basis; it is not so much and not always, of a constraint for an open, and growing economy, which has adequate exchange surpluses to buy food abroad. For the world as a whole, supply-demand balance is always an inescapable prerequisite for warding off hunger and starvation. However, global availability of adequate supply does not necessarily mean that food would automatically move from countries of surplus to countries of deficit if the latter lack in purchasing power. The uneven distribution of hunger, starvation, under or malnourishment, etc., at the worldlevel, thus owes itself to the presence of empty-pocket hungry mouths, overwhelmingly confined to the underdeveloped economies. Inasmuch as ‘a two-square meal’ is of elemental significance to basic human existence, the issue of worldwide supply of food has been gaining significance, in recent times, both because the quantum and the composition of demand has been undergoing big changes, and because, in recent years, the capabilities of individual countries to generate uninterrupted chain of food supplies have come under strain. Food production, marketing and prices, especially price-affordability by the poor in the developing world, have become global issues that need global thinking and global solutions.\n\nAccording to the above passage, the biggest challenge to world agriculture is",
+      "options": [
+        {
+          "id": "a",
+          "text": "to find sufficient land for agriculture and to expand food processing industries."
+        },
+        {
+          "id": "b",
+          "text": "to eradicate hunger in underdeveloped countries."
+        },
+        {
+          "id": "c",
+          "text": "to achieve a balance between the production of food and non-food items."
+        },
+        {
+          "id": "d",
+          "text": "to achieve a balance between demand for and supply of food."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q56",
+      "type": "single-choice",
+      "question": "An increase in human-made carbon dioxide in the atmosphere could initiate a chain reaction between plants and microorganisms that would unsettle one of the largest carbon reservoirs on the planet – soil. In a study, it was found that the soil, which contains twice the amount of carbon present in all plants and Earth’s atmosphere combined, could become increasingly volatile as people add more carbon dioxide to the atmosphere. This is largely because of increased plant growth. Although a greenhouse gas and a pollutant, carbon dioxide also supports plant growth. As trees and other vegetation flourish in a carbon dioxide-rich future, their roots could stimulate microbial activity in soil that may in turn accelerate the decomposition of soil carbon and its release into the atmosphere as carbon dioxide\n\nWhich among the following is the most logical corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon dioxide is essential for the survival of microorganisms and plants."
+        },
+        {
+          "id": "b",
+          "text": "Humans are solely responsible for the release of carbon dioxide into the atmosphere."
+        },
+        {
+          "id": "c",
+          "text": "Microorganisms and soil carbon are mainly responsible for the increased plant growth."
+        },
+        {
+          "id": "d",
+          "text": "Increasing green cover could trigger the release of carbon trapped in soil."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q57",
+      "type": "single-choice",
+      "question": "There are five persons in a group – P, Q, R, S, and T. The group has one doctor, one lawyer and one artist. P and S are unmarried students. T is a man married to one of the group members. Q is the brother of P and is neither doctor nor artist. R is not doctor.\n\nWho is the lawyer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$P$"
+        },
+        {
+          "id": "b",
+          "text": "$Q$"
+        },
+        {
+          "id": "c",
+          "text": "$R$"
+        },
+        {
+          "id": "d",
+          "text": "$S$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q58",
+      "type": "single-choice",
+      "question": "There are five persons in a group – P, Q, R, S, and T. The group has one doctor, one lawyer and one artist. P and S are unmarried students. T is a man married to one of the group members. Q is the brother of P and is neither doctor nor artist. R is not doctor.\n\nWho of the following is definitely a man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$P$"
+        },
+        {
+          "id": "b",
+          "text": "$S$"
+        },
+        {
+          "id": "c",
+          "text": "$Q$"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q59",
+      "type": "single-choice",
+      "question": "There are five persons in a group – P, Q, R, S, and T. The group has one doctor, one lawyer and one artist. P and S are unmarried students. T is a man married to one of the group members. Q is the brother of P and is neither doctor nor artist. R is not doctor.\n\nWho is the spouse of R?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$P$"
+        },
+        {
+          "id": "b",
+          "text": "$T$"
+        },
+        {
+          "id": "c",
+          "text": "$Q$"
+        },
+        {
+          "id": "d",
+          "text": "$S$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q60",
+      "type": "single-choice",
+      "question": "There are five persons in a group – P, Q, R, S, and T. The group has one doctor, one lawyer and one artist. P and S are unmarried students. T is a man married to one of the group members. Q is the brother of P and is neither doctor nor artist. R is not doctor.\n\nWho is the doctor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "T"
+        },
+        {
+          "id": "b",
+          "text": "P"
+        },
+        {
+          "id": "c",
+          "text": "Q"
+        },
+        {
+          "id": "d",
+          "text": "R"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q61",
+      "type": "single-choice",
+      "question": "There are five persons in a group – P, Q, R, S, and T. The group has one doctor, one lawyer and one artist. P and S are unmarried students. T is a man married to one of the group members. Q is the brother of P and is neither doctor nor artist. R is not doctor.\n\nWho is the artist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$P$"
+        },
+        {
+          "id": "b",
+          "text": "$Q$"
+        },
+        {
+          "id": "c",
+          "text": "$R$"
+        },
+        {
+          "id": "d",
+          "text": "$T$"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q62",
+      "type": "single-choice",
+      "question": "All humans digest mother’s milk as infants, but until cattle began, being domesticated 10,000 years ago, children once weaned no longer needed to digest milk. As a result, they stopped making the enzyme lactase, which breaks down the sugar lactose into simple sugars. After humans began herding cattle, it because tremendously advantageous to digest milk, and lactose tolerance evolved independently among cattle herders in Europe. the middle East and Africa. Groups not dependent on cattle, such as the Chinese and Thai, remain lactose intolerant.\n\nWhich among the following is the most logical assumption that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "About 10,000 years ago, the domestication of animals took place in some parts of the word."
+        },
+        {
+          "id": "b",
+          "text": "A permanent change in the food habits of a community can bring about a genetic change in its members."
+        },
+        {
+          "id": "c",
+          "text": "Lactose tolerant people only are capable of getting simple sugars in their bodies."
+        },
+        {
+          "id": "d",
+          "text": "People who are not lactose tolerant cannot digest any dairy product."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q63",
+      "type": "single-choice",
+      "question": "Safe and sustainable sanitation in slums has immeasurable benefits to women and girls in terms of their health, safety, privacy and dignity. However, women do not feature in most of the schemes and policies on urban sanitation. The fact that even now the manual scavenging exists, only goes to show that not enough has been done to promote pourflush toilets and discontinue the use of dry latrines. A more sustained and rigorous campaign needs to be launched towards the right to sanitation on a very large scale. This should primarily focus on the abolition of manual scavenging.\n\nWith reference to the above passage,consider the following statements:\n\n1. Urban sanitation problems can be fully solved by the abolition of manual scavenging only.\n2. There is a need to promote greater awareness on safe sanitation practices in urban areas.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q64",
+      "type": "single-choice",
+      "question": "About 15 per cent of global greenhouse gas emissions come from agricultural practices. This includes nitrous oxide from fertilizers; methane from livestock, rice production, and manure storage; and carbon dioxide (CO2) from burning biomass, but this excludes CO2 emissions from soil management practices, savannah burning and deforestation. Forestry, land use, and land-use change account for another 17 per cent of greenhouse gas emissions each year, three quarters of which come from tropical deforestation. The remainder is largely from draining and burning tropical peatland. About the same amount of carbon is stored in the world’s peatlands as is stored in the Amazon rainforest.\n\nWhich among the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Organic farming should immediately replace mechanised and chemical dependant agricultural practices all over the word."
+        },
+        {
+          "id": "b",
+          "text": "It is imperative for us to modify our land use practices in order to mitigate climate change."
+        },
+        {
+          "id": "c",
+          "text": "There are no technological solutions to the problem of greenhouse gas emissions."
+        },
+        {
+          "id": "d",
+          "text": "Tropical areas are the chief sites of carbon sequestration."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q65",
+      "type": "single-choice",
+      "question": "“The conceptual difficulties in National Income comparisons between underdeveloped and industrialised countries are particularly serious because a part of the national output in various underdeveloped countries is produced without passing through the commercial channels”.\n\nIn the above statement, the author implies that:",
+      "options": [
+        {
+          "id": "a",
+          "text": "the entire national output,produced and consumed in industrialized countries passes through commercial channels."
+        },
+        {
+          "id": "b",
+          "text": "the existence of a noncommercialized sector in different underdeveloped countries renders the national income comparisons over countries difficult."
+        },
+        {
+          "id": "c",
+          "text": "no part of national output should be produced and consumed without passing through commercial channels."
+        },
+        {
+          "id": "d",
+          "text": ".a part of the national output being produced and consumed without passing through commercial channels is a sign of under-development."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q66",
+      "type": "single-choice",
+      "question": "The nature of the legal imperatives in any given state corresponds to the effective demands that state encounters, and that these, in their turn, depend, in a general way, upon the manner in which economic power is distributed in the society which the state controls.\n\nThe statement refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "the antithesis of Politics and Economics."
+        },
+        {
+          "id": "b",
+          "text": "the interrelationship of Politics and Economics."
+        },
+        {
+          "id": "c",
+          "text": "the predominance of Economics over Politics."
+        },
+        {
+          "id": "d",
+          "text": "the predominance of Politics over Economics."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q67",
+      "type": "single-choice",
+      "question": "As we look to 2050, when we will need to feed two billion more people, the question of which diet is best has taken on new urgency. The foods we choose to eat in the coming decades will have dramatic ramifications for the planet. Simply put, a diet that revolves around meant and dairy, a way of eating that is on the rise throughout the developing world, will take a greater toll on the world’s resources than one that revolves around unrefined grains, nuts, fruits and vegetables.\n\nWhat is the critical message conveyed by the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Our increasing demand for foots sourced from animals puts a greater burden on our natural resources."
+        },
+        {
+          "id": "b",
+          "text": "Diets based on grains, nuts, fruits and vegetables are best suited for health in developing countries."
+        },
+        {
+          "id": "c",
+          "text": "Human beings change their food habits from time to time irrespective of the health concerns."
+        },
+        {
+          "id": "d",
+          "text": "From a global perspective, we still do not know which type of diet is best for us."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q68",
+      "type": "single-choice",
+      "question": "We are witnessing a dangerous dwindling of biodiversity in our food supply. The green revolution is a mixed blessing. Over time farmers have come to rely heavily on broadly adapted, high-yield crops to the exclusion of varieties adapted to the local conditions. Monocropping vast fields with the same genetically uniform seeds helps boost yield and meet immediate hunger needs. Yet high-yield varieties are also genetically weaker crops that require expensive chemical fertilizers and toxic pesticides. In our focus on increasing the amount of food we produce today, we have accidentally put ourselves at risk for food shortages in the future.\n\nWhich among the following is the most logical and critical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In our agricultural practices, we have become heavily dependent on expensive chemical fertilizers and toxic pesticides only due to green revolution."
+        },
+        {
+          "id": "b",
+          "text": "Monocropping vast fields with high-yield varieties is possible due to green revolution."
+        },
+        {
+          "id": "c",
+          "text": "Monocropping with high-yield varieties is the only way to ensure food security to millions."
+        },
+        {
+          "id": "d",
+          "text": "Green revolution can pose a threat to biodiversity in food supply and food security in the long run."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q69",
+      "type": "single-choice",
+      "question": "Biomass as fuel for power, heat, and transport has the highest mitigation potential of all renewable sources. It comes from agriculture and forest residues as well as from energy crops. The biggest challenge in using biomass residues is a long term reliable supply delivered to the power plant at reasonable costs; the key problems are logistical constraints and the costs of fuel collection. Energy crops, if not managed properly, compete with food production and may have undesirable impacts on food prices. Biomass production is also sensitive to the physical impacts of a changing climate. Projections of the future role of biomass are probably overestimated, given the limits to the sustainable biomass supply, unless breakthrough technologies substantially increase productivity. Climate-energy models project that biomass use could increase nearly four-fold to around 150–200 exajoules, almost a quarter of world primary energy in 2050. However, the maximum sustainable technical potential of biomass resources (both residues and energy crops) without disruption of food and forest resources ranges from 80–170 petajoules a year by 2050, and only part of this is realistically and economically feasible. In addition, some climate models rely on biomass based carbon capture and storage, an unproven technology, to achieve negative emissions and to buy some time during the first half of the century. Some liquid biofuels such as com-based ethanol, mainly for transport, may aggravate rather than ameliorate carbon emissions on a life-cycle basis. Second-generation biofuels, based on lignocellulosic feedstocks - such as straw, bagasse, grass and wood - hold the promise of sustainable production that is high-yielding and emit low levels of greenhouse gases, but these are still in the R and D stages.\n\nWhich of the following can lead to food security problems?\n\n1. Using agricultural and forest residues as feedstock for power generation.\n2. Using biomass for carbon capture and storage.\n3. Promoting the cultivation of energy crops.\n\nSelect the correct answer using the code is given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q70",
+      "type": "single-choice",
+      "question": "Biomass as fuel for power, heat, and transport has the highest mitigation potential of all renewable sources. It comes from agriculture and forest residues as well as from energy crops. The biggest challenge in using biomass residues is a long term reliable supply delivered to the power plant at reasonable costs; the key problems are logistical constraints and the costs of fuel collection. Energy crops, if not managed properly, compete with food production and may have undesirable impacts on food prices. Biomass production is also sensitive to the physical impacts of a changing climate. Projections of the future role of biomass are probably overestimated, given the limits to the sustainable biomass supply, unless breakthrough technologies substantially increase productivity. Climate-energy models project that biomass use could increase nearly four-fold to around 150–200 exajoules, almost a quarter of world primary energy in 2050. However, the maximum sustainable technical potential of biomass resources (both residues and energy crops) without disruption of food and forest resources ranges from 80–170 petajoules a year by 2050, and only part of this is realistically and economically feasible. In addition, some climate models rely on biomass based carbon capture and storage, an unproven technology, to achieve negative emissions and to buy some time during the first half of the century. Some liquid biofuels such as com-based ethanol, mainly for transport, may aggravate rather than ameliorate carbon emissions on a life-cycle basis. Second-generation biofuels, based on lignocellulosic feedstocks - such as straw, bagasse, grass and wood - hold the promise of sustainable production that is high-yielding and emit low levels of greenhouse gases, but these are still in the R and D stages.\n\nIn the context of using biomass, which of the following is/are the characteristic/characteristics of the sustainable production of biofuel?\n\n1. Biomass as a fuel for power generation could meet all the primary energy requirements of the world by 2050.\n2. Biomass as a fuel for power generation does not necessarily disrupt food and forest resources.\n3. Biomass as a fuel for power generation could help in achieving negative emissions, given certain nascent technologies.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q71",
+      "type": "single-choice",
+      "question": "Biomass as fuel for power, heat, and transport has the highest mitigation potential of all renewable sources. It comes from agriculture and forest residues as well as from energy crops. The biggest challenge in using biomass residues is a long term reliable supply delivered to the power plant at reasonable costs; the key problems are logistical constraints and the costs of fuel collection. Energy crops, if not managed properly, compete with food production and may have undesirable impacts on food prices. Biomass production is also sensitive to the physical impacts of a changing climate. Projections of the future role of biomass are probably overestimated, given the limits to the sustainable biomass supply, unless breakthrough technologies substantially increase productivity. Climate-energy models project that biomass use could increase nearly four-fold to around 150–200 exajoules, almost a quarter of world primary energy in 2050. However, the maximum sustainable technical potential of biomass resources (both residues and energy crops) without disruption of food and forest resources ranges from 80–170 petajoules a year by 2050, and only part of this is realistically and economically feasible. In addition, some climate models rely on biomass based carbon capture and storage, an unproven technology, to achieve negative emissions and to buy some time during the first half of the century. Some liquid biofuels such as com-based ethanol, mainly for transport, may aggravate rather than ameliorate carbon emissions on a life-cycle basis. Second-generation biofuels, based on lignocellulosic feedstocks - such as straw, bagasse, grass and wood - hold the promise of sustainable production that is high-yielding and emit low levels of greenhouse gases, but these are still in the R and D stages.\n\nWhat is/are the present constraints/constraints in using biomass as fuel for power generation?\n\n1. Lack of sustainable supply of biomass.\n2. Biomass production competes with food production.\n3. Bio-energy may not always be low carbon on a life-cycle basis.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q72",
+      "type": "single-choice",
+      "question": "Biomass as fuel for power, heat, and transport has the highest mitigation potential of all renewable sources. It comes from agriculture and forest residues as well as from energy crops. The biggest challenge in using biomass residues is a long term reliable supply delivered to the power plant at reasonable costs; the key problems are logistical constraints and the costs of fuel collection. Energy crops, if not managed properly, compete with food production and may have undesirable impacts on food prices. Biomass production is also sensitive to the physical impacts of a changing climate. Projections of the future role of biomass are probably overestimated, given the limits to the sustainable biomass supply, unless breakthrough technologies substantially increase productivity. Climate-energy models project that biomass use could increase nearly four-fold to around 150–200 exajoules, almost a quarter of world primary energy in 2050. However, the maximum sustainable technical potential of biomass resources (both residues and energy crops) without disruption of food and forest resources ranges from 80–170 petajoules a year by 2050, and only part of this is realistically and economically feasible. In addition, some climate models rely on biomass based carbon capture and storage, an unproven technology, to achieve negative emissions and to buy some time during the first half of the century. Some liquid biofuels such as com-based ethanol, mainly for transport, may aggravate rather than ameliorate carbon emissions on a life-cycle basis. Second-generation biofuels, based on lignocellulosic feedstocks - such as straw, bagasse, grass and wood - hold the promise of sustainable production that is high-yielding and emit low levels of greenhouse gases, but these are still in the R and D stages.\n\nWith reference to the passage, following assumptions have been made:\n\n1. Some climate-energy models suggest that the use of biomass as a fuel for power generation helps in mitigating greenhouse gas emissions.\n2. It is not possible to use biomass as a fuel for power generation without disrupting food and forest resources.\n\nWhich of these assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q73",
+      "type": "single-choice",
+      "question": "Understanding of the role of biodiversity in the hydrological cycle enables better policymaking. The term biodiversity refers to the variety of plants, animals, microorganisms, and the ecosystems in which they occur. Water and biodiversity are interdependent. In reality, the hydrological cycle decides how biodiversity functions. In turn, vegetation and soil drive the movement of water. Every glass of water we drink has, at least in part, passed through fish, trees, bacteria, soil and other organisms. Passing through these ecosystems, it is cleansed and made, fit for consumption. The supply of water is a critical service that the environment provides.\n\nWhich among the following is the most critical inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biodiversity sustains the ability of nature to recycle water."
+        },
+        {
+          "id": "b",
+          "text": "We cannot get potable water without the existence of living organism."
+        },
+        {
+          "id": "c",
+          "text": "Plants, animals and microorganisms continuously interact among themselves."
+        },
+        {
+          "id": "d",
+          "text": "Living organisms could not have come into existence without hydrological cycle."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q74",
+      "type": "single-choice",
+      "question": "To understand the nature and quantity of Government for man, it is necessary to attend to his character. As nature created him for social life, she fitted him for the station she intended. In all cases she made his natural wants greater than his individual powers. No one man is capable, without the aid of society, of supplying his own wants; and those wants, acting upon every individual, impel the whole of them into society.\n\nWhich among the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nature has created a great diversity in human society."
+        },
+        {
+          "id": "b",
+          "text": "Any given human society is always short of its wants."
+        },
+        {
+          "id": "c",
+          "text": "Social life is a specific characteristic of man."
+        },
+        {
+          "id": "d",
+          "text": "Diverse natural wants forced man towards social systems."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q75",
+      "type": "single-choice",
+      "question": "Climate adaptation may be rendered ineffective if policies are not designed in the context of other development concerns. For instance, a comprehensive strategy that seeks to improve food security in the context of climate change may include a set of coordinated measures related to agricultural extension, crop diversification, integrated water and pest management and agricultural information services. Some of these measures may have to do with climate changes and others with economic development.\n\nWhat is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is difficult to pursue climate adaptation in the developing countries."
+        },
+        {
+          "id": "b",
+          "text": "Improving food security is a far more complex issue than climate adaptation."
+        },
+        {
+          "id": "c",
+          "text": "Every developmental activity is directly or indirectly linked to climate adaptation."
+        },
+        {
+          "id": "d",
+          "text": "Climate adaptation should be examined in tandem with other economic development options."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q76",
+      "type": "single-choice",
+      "question": "In general, religious traditions stress our duty to god, or to some universal ethical principle. Our duties to one another derive from these. The religious concept rights is primarily derived from our relationshithis divinity or principle and the implication it has on our other relationships. This correspondence between rights and duties is critical to any further understanding of justice. But, for justice to be practiced; virtue, rights and duties cannot remain formal abstractions. They must be grounded in a community (common unity) bound together by a sense of common union (communion). Even as a personal virtue, this solidarity is essential to the practice and understanding of justice.\n\nWhich one of the following is the crux of this passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Our duties to one another derive from our religious traditions."
+        },
+        {
+          "id": "b",
+          "text": "Having relationship to the divine principle is a great virtue."
+        },
+        {
+          "id": "c",
+          "text": "Balance between rights and duties is crucial to the delivery of justice in a society."
+        },
+        {
+          "id": "d",
+          "text": "Religious concept of rights is primarily derived from our relationship to god."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q77",
+      "type": "single-choice",
+      "question": "In general, religious traditions stress our duty to god, or to some universal ethical principle. Our duties to one another derive from these. The religious concept rights is primarily derived from our relationshithis divinity or principle and the implication it has on our other relationships. This correspondence between rights and duties is critical to any further understanding of justice. But, for justice to be practiced; virtue, rights and duties cannot remain formal abstractions. They must be grounded in a community (common unity) bound together by a sense of common union (communion). Even as a personal virtue, this solidarity is essential to the practice and understanding of justice.\n\nWith reference to the passage, the following assumptions have been made:\n\n1. Human relationships are derived from their religious traditions.\n2. Human beings can be duty bound only if they believe in god.\n3. Religious traditions are essential to practice and understand justice.\n\nWhich of these assumption(s) is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q78",
+      "type": "single-choice",
+      "question": "Six boxes A, B, C, D, E and F have been painted with six different colours viz., violet, indigo, blue, green, yellow and orange and arranged from left to right (not necessarily either ker painted with the colours in the same order). Each box contains a ball of any one of the following six games: cricket, hockey, tennis, golf, football and volleyball (not necessarily in the same order). The golf ball is in violet box and is not in the box D. The box A which contains tennis ball is orange in colour and is at the extreme right. The hockey ball is neither in box D nor in box E. The box C having cricket ball is painted green. The hockey ball is neither in the box painted blue nor in the box painted yellow. The box C is fifth from right and next to box B. The box B contains volleyball. The box containing the hockey ball is between the boxes containing golf ball and volleyball.\n\nWhich of the following statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D is painted yellow"
+        },
+        {
+          "id": "b",
+          "text": "F is painted indigo"
+        },
+        {
+          "id": "c",
+          "text": "B is painted blue"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q79",
+      "type": "single-choice",
+      "question": "Six boxes A, B, C, D, E and F have been painted with six different colours viz., violet, indigo, blue, green, yellow and orange and arranged from left to right (not necessarily either ker painted with the colours in the same order). Each box contains a ball of any one of the following six games: cricket, hockey, tennis, golf, football and volleyball (not necessarily in the same order). The golf ball is in violet box and is not in the box D. The box A which contains tennis ball is orange in colour and is at the extreme right. The hockey ball is neither in box D nor in box E. The box C having cricket ball is painted green. The hockey ball is neither in the box painted blue nor in the box painted yellow. The box C is fifth from right and next to box B. The box B contains volleyball. The box containing the hockey ball is between the boxes containing golf ball and volleyball.\n\nThe football is in the box of which colour?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yellow"
+        },
+        {
+          "id": "b",
+          "text": "Indigo"
+        },
+        {
+          "id": "c",
+          "text": "Cannot be determined as data are inadequate"
+        },
+        {
+          "id": "d",
+          "text": "Blue"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2016_csat_q80",
+      "type": "single-choice",
+      "question": "Six boxes A, B, C, D, E and F have been painted with six different colours viz., violet, indigo, blue, green, yellow and orange and arranged from left to right (not necessarily either ker painted with the colours in the same order). Each box contains a ball of any one of the following six games: cricket, hockey, tennis, golf, football and volleyball (not necessarily in the same order). The golf ball is in violet box and is not in the box D. The box A which contains tennis ball is orange in colour and is at the extreme right. The hockey ball is neither in box D nor in box E. The box C having cricket ball is painted green. The hockey ball is neither in the box painted blue nor in the box painted yellow. The box C is fifth from right and next to box B. The box B contains volleyball. The box containing the hockey ball is between the boxes containing golf ball and volleyball.\n\nWhich one of the following boxes contains the golf ball?",
+      "options": [
+        {
+          "id": "a",
+          "text": "F"
+        },
+        {
+          "id": "b",
+          "text": "E"
+        },
+        {
+          "id": "c",
+          "text": "D"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper III · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "GS3",
+    "section": "mains-gs3",
+    "sourceId": "upsc_2025_mains_gs3",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_gs3_q1",
+      "type": "fill-blank",
+      "question": "What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q2",
+      "type": "fill-blank",
+      "question": "Explain the factors influencing the decision of the farmers on the selection of high value crops in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q3",
+      "type": "fill-blank",
+      "question": "Elaborate the scope and significance of supply chain management of agricultural commodities in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q4",
+      "type": "fill-blank",
+      "question": "The fusion energy programme in India has steadily evolved over the past few decades. Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q5",
+      "type": "fill-blank",
+      "question": "How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q6",
+      "type": "fill-blank",
+      "question": "What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q7",
+      "type": "fill-blank",
+      "question": "Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q8",
+      "type": "fill-blank",
+      "question": "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q9",
+      "type": "fill-blank",
+      "question": "The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by\n2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q10",
+      "type": "fill-blank",
+      "question": "Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q11",
+      "type": "fill-blank",
+      "question": "Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q12",
+      "type": "fill-blank",
+      "question": "Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q13",
+      "type": "fill-blank",
+      "question": "Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q14",
+      "type": "fill-blank",
+      "question": "How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q15",
+      "type": "fill-blank",
+      "question": "India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q16",
+      "type": "fill-blank",
+      "question": "Mineral resources are fundamental to the country's economy and these are a exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q17",
+      "type": "fill-blank",
+      "question": "Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q18",
+      "type": "fill-blank",
+      "question": "What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q19",
+      "type": "fill-blank",
+      "question": "Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_gs3_q20",
+      "type": "fill-blank",
+      "question": "How can Artificial Intelligence (AI) and drones be effectively used along with GIS and RS techniques in agriculture?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    }
+  ]
+}

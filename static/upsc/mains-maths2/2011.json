@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2011",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2011,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2011_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2011_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Show that the set $G=\\{f_1,f_2,f_3,f_4,f_5,f_6\\}$ of six transformations on the set of complex numbers defined by $f_1(z)=z$, $f_2(z)=1-z$, $f_3(z)=\\frac{z}{z-1}$, $f_4(z)=\\frac{1}{z}$, $f_5(z)=\\frac{1}{1-z}$ and $f_6(z)=\\frac{z-1}{z}$ is a non-abelian group of order $6$ with respect to composition of mappings.\n(b) Let $S=(0, 1]$ and let $f$ be defined by $f(x)=\\frac{1}{x}$ where $0<x\\le 1$ in $\\mathbb{R}$. Is $f$ uniformly continuous on $S$? Justify your answer.\n(c) If $f(z)=u+iv$ is an analytic function of $z=x+iy$ and $u-v=\\frac{e^{y}-\\cos x+\\sin x}{\\cosh y-\\cos x}$, find $f(z)$ subject to the condition $f\\left(\\frac{\\pi}{2}\\right)=\\frac{3-i}{2}$.\n(d) Solve by the simplex method the following linear programming problem: maximize $Z=5x_1+3x_2$ subject to $3x_1+5x_2\\le 15$, $5x_1+2x_2\\le 10$ and $x_1,x_2\\ge 0$.\n(e) (i) Prove that a group of prime order is abelian.\n(ii) How many generators are there of the cyclic group $(G,\\cdot)$ of order $8$?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Give an example of a group $G$ in which every proper subgroup is cyclic but the group itself is not cyclic.\n(b) Let $f_n(x)=nx(1-x)^n$ for $x\\in[0, 1]$. Examine the uniform convergence of the sequence $\\{f_n(x)\\}$ on the interval $[0, 1]$.\n(c) If the function $f(z)$ is analytic and one-valued in the disc $|z-a|<R$, prove that for $0<r<R$, $f'(a)=\\frac{1}{\\pi r}\\int_{0}^{2\\pi} P(\\theta)e^{-i\\theta}\\,d\\theta$, where $P(\\theta)$ is the real part of $f(a+re^{i\\theta})$.\n(d) Find the shortest distance from the origin $(0, 0)$ to the hyperbola $x^{2}+8xy+7y^{2}=225$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $F$ be the set of all real-valued continuous functions defined on the closed interval $[0, 1]$. Prove that $(F,+,\\cdot)$ is a commutative ring with unity with respect to addition and multiplication of functions defined pointwise by $(f+g)(x)=f(x)+g(x)$ and $(f\\cdot g)(x)=f(x)\\cdot g(x)$ for $x\\in[0, 1]$, where $f,g\\in F$.\n(b) Show that the series for which the sum of the first $n$ terms is $f_n(x)=\\frac{nx}{1+n^{2}x^{2}}$ for $0\\le x\\le 1$ cannot be differentiated term by term at $x=0$. What happens at points where $x\\neq 0$?\n(c) Evaluate the integral $\\int_{0}^{1}\\frac{dx}{(x^{2}-x^{3})^{1/3}}$ by the method of contour integration.\n(d) Find the Laurent series expansion of the function $f(z)=\\frac{1}{1-z^{2}}$ with centre at the point $z=1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Let $a$ and $b$ be elements of a group with $a^{2}=e$, $b^{6}=e$ and $ab=b^{4}a$. Find the order of the product $ab$, and express its inverse in each of the forms $a^{m}b^{n}$ and $b^{m}a^{n}$.\n(b) Show that if $S(x)=\\sum_{n=1}^{\\infty}\\frac{1}{n^{3}+n^{4}x^{2}}$, then its derivative is $S'(x)=-2x\\sum_{n=1}^{\\infty}\\frac{1}{n^{2}(1+nx^{2})^{2}}$ for all real $x$.\n(c) Write down the dual of the following linear programming problem and hence solve it by the graphical method: minimize $Z=6x_1+4x_2$ subject to $2x_1+x_2\\ge 1$, $3x_1+4x_2\\ge 1.5$ and $x_1,x_2\\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the partial differential equation $(D^{2}-D'^{2}+D+3D'-2)z=e^{x-y}-x^{2}y$.\n(b) Solve the partial differential equation $(x+2z)\\frac{\\partial z}{\\partial x}+(4zx-y)\\frac{\\partial z}{\\partial y}=2x^{2}+y$.\n(c) Calculate the definite integral $\\int_{2}^{10}\\frac{dx}{1+x}$ uthree places of decimal by dividing the range into eight equal parts and using Simpson's one-third rule.\n(d) (i) Convert the decimal number $(3205)_{10}$ to base $8$.\n(ii) Let $A$ be an arbitrary but fixed Boolean algebra with operations $\\wedge$, $\\vee$ and complement $'$, and with zero and unit elements denoted by $0$ and $1$ respectively. If $x,y\\in A$ satisfy $x\\wedge y=0$ and $x\\vee y=1$, prove that $y=x'$.\n(e) Let $a$ be the radius of the base of a right circular cone of height $h$ and mass $M$. Find the moment of inertia of the cone about a line through the vertex and perpendicular to the axis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Find the surface satisfying $\\frac{\\partial^{2}z}{\\partial x^{2}}=6x+2$ and touching the surface $z=x^{3}+y^{3}$ along its section by the plane $x+y+1=0$.\n(b) Solve Laplace's equation $\\frac{\\partial^{2}u}{\\partial x^{2}}+\\frac{\\partial^{2}u}{\\partial y^{2}}=0$ for $0\\le x\\le a$ and $0\\le y\\le b$, subject to the boundary conditions $u(0,y)=0$, $u(x,0)=0$, $u(x,b)=0$ and $\\frac{\\partial u}{\\partial x}(a,y)=T\\sin^{3}\\frac{\\pi y}{a}$.\n(c) Obtain the temperature distribution $y(x,t)$ in a uniform bar of unit length whose one end is kept at $10^{\\circ}\\mathrm{C}$ and the other end is insulated, given that $y(x,0)=1-x$ for $0<x<1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) A solid of revolution is formed by rotating about the $x$-axis the area between the $x$-axis, the lines $x=0$ and $x=1$, and a curve through the tabulated points $x=0.00, 0.25, 0.50, 0.75, 1$ with corresponding $y=1, 0.9896, 0.9589, 0.9089, 0.8415$. Find the volume of the solid.\n(b) Find a logic circuit that represents the Boolean function $f(x,y,z)$ given by the truth table with $f=1$ only when $(x,y,z)=(1, 1,1)$ or $(0, 1,1)$, and $f=0$ for all other binary triples. Also find an equivalent simpler circuit.\n(c) Draw a flowchart for Lagrange interpolation formula and describe the main computational steps of the method.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) The ends of a heavy rod of length $2a$ are rigidly attached to two light rings which can respectively slide on the thin smooth fixed horizontal and vertical wires $O_x$ and $O_y$. The rod starts at an angle $\\alpha$ to the horizon with angular velocity $\\left(\\frac{3g(1-\\sin\\alpha)}{2a}\\right)^{1/2}$ and moves downwards. Show that it will strike the horizontal wire at the end of time $-2\\left(\\frac{a}{3g}\\right)^{1/2}\\log\\left[\\tan\\left(\\frac{\\pi}{8}-\\frac{\\alpha}{4}\\right)\\cot\\frac{\\pi}{8}\\right]$.\n(b) An infinite row of equidistant rectilinear vortices lies at mutual distance $a$. The vortices have the same numerical strength $K$ but are alternately of opposite signs. Find the complex function that determines the velocity potential and the stream function.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

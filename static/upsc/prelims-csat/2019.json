@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2019,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2019_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_csat_q1",
+      "type": "single-choice",
+      "question": "Rakesh had money to buy 8 mobile handsets of a specific company. But the retailer offered a very good discount on that particular handset. Rakesh could buy 10 mobile handsets with the amount he had. What was the discount the retailer offered?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$15\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$20\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$25\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$30\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q2",
+      "type": "single-choice",
+      "question": "If \\$ means ‘divided by’; @ means ‘multiplied by’; # means ‘minus’, then the value of \\$10\\#5@1\\5 is",
+      "options": [
+        {
+          "id": "a",
+          "text": "0"
+        },
+        {
+          "id": "b",
+          "text": "1"
+        },
+        {
+          "id": "c",
+          "text": "2"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q3",
+      "type": "single-choice",
+      "question": "Each face of a cube can be painted in black or white colours. In how many different ways can the cube be painted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "11"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q4",
+      "type": "single-choice",
+      "question": "Rakesh and Rajesh together bought 10 balls and 10 rackets. Rakesh spent Rs. 1300 and Rajesh spent Rs. 1500. If each racket costs three times a ball does, then what is the price of a racket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 70"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 90"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 210"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 240"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q5",
+      "type": "single-choice",
+      "question": "If every alternative letter of the English alphabet from B onwards (including B) is written in lower case (small letters) and the remaining letters are capitalized, then how is the first month of the second half of the year written?\n\nHow is the first month of the second half of the year written?",
+      "options": [
+        {
+          "id": "a",
+          "text": "JuLY"
+        },
+        {
+          "id": "b",
+          "text": "jULy"
+        },
+        {
+          "id": "c",
+          "text": "jUly"
+        },
+        {
+          "id": "d",
+          "text": "jUIY"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q6",
+      "type": "single-choice",
+      "question": "Suppose you have a sufficient amount of rupee currency in three denominations Rs. 1, Rs. 10, and Rs. 50. In how many different ways can you pay a bill of 107?",
+      "options": [
+        {
+          "id": "a",
+          "text": "16"
+        },
+        {
+          "id": "b",
+          "text": "17"
+        },
+        {
+          "id": "c",
+          "text": "18"
+        },
+        {
+          "id": "d",
+          "text": "19"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q7",
+      "type": "single-choice",
+      "question": "The ratio of a two-digit natural number to a number formed by reversing its digits is $4 : 7$. The number of such pairs is",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q8",
+      "type": "single-choice",
+      "question": "How many triplets $(x, y, z)$ satisfy the equation $x + y + z = 6$, where $x, y$, and $z$ are natural numbers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "10"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q9",
+      "type": "single-choice",
+      "question": "Consider the following Statements and Conclusions:\n\nStatements-1: Some rats are cats.\nStatements-2: Some cats are dogs.\nStatements-3: No dog is a cow.\n\nConclusions-I: No cow is a cat.\nConclusions-II: No dog is a rat.\nConclusions-III: Some cats are rats.\n\nWhich of the above conclusions is/are drawn from the statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I, II and III"
+        },
+        {
+          "id": "b",
+          "text": "Only I and II"
+        },
+        {
+          "id": "c",
+          "text": "Only III"
+        },
+        {
+          "id": "d",
+          "text": "Only II and III"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q10",
+      "type": "single-choice",
+      "question": "Seeta and Geeta go for a swim after a gap of every 2 days and every 3 days respectively. If on 1st January both of them went for a swim together, when will they go together next?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7th January"
+        },
+        {
+          "id": "b",
+          "text": "8th January"
+        },
+        {
+          "id": "c",
+          "text": "12th January"
+        },
+        {
+          "id": "d",
+          "text": "13th January"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q11",
+      "type": "single-choice",
+      "question": "Raju has Rs. 9000 with him and he wants to buy a mobile handset; but he finds that he has only 75% of the amount required to buy the handset. Therefore, he borrows Rs. 2000 from a friend. Then",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raju still does not have enough amount to buy the handset."
+        },
+        {
+          "id": "b",
+          "text": "Raju has exactly the same amount as required to buy the handset."
+        },
+        {
+          "id": "c",
+          "text": "Raju has enough amount to buy the handset and he will have 500 with him after buying the handset."
+        },
+        {
+          "id": "d",
+          "text": "Raju has enough amount to buy the handset and he will have 1000 with him after buying the handset."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q12",
+      "type": "single-choice",
+      "question": "The average marks of 100 students are given to be 40. It was found later that marks of one student were 53, which were misread as 83. The corrected mean marks are:",
+      "options": [
+        {
+          "id": "a",
+          "text": "39"
+        },
+        {
+          "id": "b",
+          "text": "39.7"
+        },
+        {
+          "id": "c",
+          "text": "40"
+        },
+        {
+          "id": "d",
+          "text": "40.3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q13",
+      "type": "single-choice",
+      "question": "A five-storeyed building with floors from I to V is painted using four different colours and only one colour is used to paint a floor. Consider the following statements:\n\n1. The middle three floors are painted in different colours.\n2. The second (II) and the fourth (IV) floors are painted in different colours.\n3. The first (I) and the fifth (V) floors are painted red.\n\nTo ensure that any two consecutive floors have different colours:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only statement 2 is sufficient."
+        },
+        {
+          "id": "b",
+          "text": "Only statement 3 is sufficient."
+        },
+        {
+          "id": "c",
+          "text": "Statement 1 is not sufficient, but statement 1 along with statement 2 is sufficient."
+        },
+        {
+          "id": "d",
+          "text": "Statement 3 is not sufficient, but statement 3 along with statement 2 is sufficient."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q14",
+      "type": "single-choice",
+      "question": "In a group of 15 people; 7 can read French, 8 can read English while 3 of them can read neither of these two languages. The number of people who can read exactly one language is",
+      "options": [
+        {
+          "id": "a",
+          "text": "10"
+        },
+        {
+          "id": "b",
+          "text": "9"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q15",
+      "type": "single-choice",
+      "question": "Ena was born 4 years after her parents’ marriage. Her mother is three years younger than her father and 24 years older than Ena, who is 13 years old. At what age did Ena’s father get married?",
+      "options": [
+        {
+          "id": "a",
+          "text": "22 years"
+        },
+        {
+          "id": "b",
+          "text": "23 years"
+        },
+        {
+          "id": "c",
+          "text": "24 years"
+        },
+        {
+          "id": "d",
+          "text": "25 years"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q16",
+      "type": "single-choice",
+      "question": "Consider the following sequence that follows some arrangement:\n$c\\_accaa\\_aa\\_bc\\_b$\nThe letters that appear in the gaps are",
+      "options": [
+        {
+          "id": "a",
+          "text": "$abba$"
+        },
+        {
+          "id": "b",
+          "text": "$cbbb$"
+        },
+        {
+          "id": "c",
+          "text": "$bbbb$"
+        },
+        {
+          "id": "d",
+          "text": "$cccc$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q17",
+      "type": "single-choice",
+      "question": "A solid cube is painted yellow, blue and black such that opposite faces are of same colour. The cube is then cut into 36 cubes of two different sizes such that 32 cubes are small and the other four cubes are big. None of the faces of the bigger cubes is painted blue. How many cubes have only one face painted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "10"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q18",
+      "type": "single-choice",
+      "question": "An 8-digit number 4252746B leaves remainder ‘0’ when divided by 3. How many values of B are possible?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q19",
+      "type": "single-choice",
+      "question": "Sunita cuts a sheet of paper into three pieces. Length of first piece is equal to the average of the three single digit odd prime numbers. Length of the second piece is equal to that of the first plus one-third the length of the third. The third piece is as long as the other two pieces together. The length of the original sheet of paper is\n\nWhat is the length of the original sheet of paper?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13 units"
+        },
+        {
+          "id": "b",
+          "text": "15 units"
+        },
+        {
+          "id": "c",
+          "text": "16 units"
+        },
+        {
+          "id": "d",
+          "text": "30 units"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q20",
+      "type": "single-choice",
+      "question": "What is X in the sequence 4, 196, 16, 144, 36, 100, 64, X?",
+      "options": [
+        {
+          "id": "a",
+          "text": "48"
+        },
+        {
+          "id": "b",
+          "text": "64"
+        },
+        {
+          "id": "c",
+          "text": "125"
+        },
+        {
+          "id": "d",
+          "text": "256"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q21",
+      "type": "single-choice",
+      "question": "All members of a club went to Mumbai and stayed in a hotel. On the first day, $80\\%$ went for shopping and $50\\%$ went for sightseeing, whereas $10\\%$ took a rest in the hotel.\n\nWhich of the following conclusion(s) can be drawn from the above data?\n\n1. $40\\%$of members went for shopping as well as sightseeing.\n2. $20\\%$of members went for only shopping.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q22",
+      "type": "single-choice",
+      "question": "If x is greater than or equal to 25 and y is less than or equal to 40, then which one of the following is always correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "x is greater than y"
+        },
+        {
+          "id": "b",
+          "text": "$(y – x)$ is greater than 15"
+        },
+        {
+          "id": "c",
+          "text": "$(y – x)$ is less than or equal to 15"
+        },
+        {
+          "id": "d",
+          "text": "$(x + y)$ is greater than or equal to 65"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q23",
+      "type": "single-choice",
+      "question": "A and B are two heavy steel blocks. If B is placed on the top of A, the weight increases by $60\\%$. How much weight will reduce with respect to the total weight of A and B, if B is removed from the top of A?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$60\\%$"
+        },
+        {
+          "id": "b",
+          "text": "$45.5\\%$"
+        },
+        {
+          "id": "c",
+          "text": "$40\\%$"
+        },
+        {
+          "id": "d",
+          "text": "$37.5\\%$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q24",
+      "type": "single-choice",
+      "question": "What is X in the sequence 132, 129, 124, 117, 106, 93, $X$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "74"
+        },
+        {
+          "id": "b",
+          "text": "75"
+        },
+        {
+          "id": "c",
+          "text": "76"
+        },
+        {
+          "id": "d",
+          "text": "77"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q25",
+      "type": "single-choice",
+      "question": "In 2002, Meenu’s age was one-third of the age of Meera, whereas in 2010, Meenu’s age was half the age of Meera. What is Meenu’s year of birth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1992"
+        },
+        {
+          "id": "b",
+          "text": "1994"
+        },
+        {
+          "id": "c",
+          "text": "1996"
+        },
+        {
+          "id": "d",
+          "text": "1998"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q26",
+      "type": "single-choice",
+      "question": "When a runner was crossing the 12 km mark, she was informed that she had completed only 80% of the race. How many kilometers was the runner supposed to run in this event?",
+      "options": [
+        {
+          "id": "a",
+          "text": "14"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "16"
+        },
+        {
+          "id": "d",
+          "text": "16.5"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q27",
+      "type": "single-choice",
+      "question": "Mr ‘X’ has three children. The birthday of the first child falls on the 5th Monday of April, that of the second one falls on the 5th Thursday of November. On which day is the birthday of his third child, which falls on 20th December?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monday"
+        },
+        {
+          "id": "b",
+          "text": "Thursday"
+        },
+        {
+          "id": "c",
+          "text": "Saturday"
+        },
+        {
+          "id": "d",
+          "text": "Sunday"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q28",
+      "type": "single-choice",
+      "question": "If the numerator and denominator of a proper fraction are increased by the same positive quantity which is greater than zero, the resulting fraction is",
+      "options": [
+        {
+          "id": "a",
+          "text": "always less than the original fraction"
+        },
+        {
+          "id": "b",
+          "text": "always greater than the original fraction"
+        },
+        {
+          "id": "c",
+          "text": "always equal to the original fraction"
+        },
+        {
+          "id": "d",
+          "text": "such that nothing can be claimed definitely"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q29",
+      "type": "single-choice",
+      "question": "P, Q and R are three towns. The distance between P and Q is 60 km, whereas the distance between P and R is 80 km. Q is in the West of P and R is in the South of P. What is the distance between Q and R?",
+      "options": [
+        {
+          "id": "a",
+          "text": "140 km"
+        },
+        {
+          "id": "b",
+          "text": "130 km"
+        },
+        {
+          "id": "c",
+          "text": "110 km"
+        },
+        {
+          "id": "d",
+          "text": "100 km"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q30",
+      "type": "single-choice",
+      "question": "X, Y, and Z are three contestants in a race of 1000 m. Assume that all run with different uniform speeds. X gives Y a start of 40 m and X gives Z a start of 64 m. If Y and Z were to compete in a race of 1000 m, how many meters start will Y give to Z?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20"
+        },
+        {
+          "id": "b",
+          "text": "25"
+        },
+        {
+          "id": "c",
+          "text": "30"
+        },
+        {
+          "id": "d",
+          "text": "35"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q31",
+      "type": "single-choice",
+      "question": "The number of parallelograms that can be formed from a set of four parallel lines intersecting another set of four parallel lines, is",
+      "options": [
+        {
+          "id": "a",
+          "text": "18"
+        },
+        {
+          "id": "b",
+          "text": "24"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "36"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q32",
+      "type": "single-choice",
+      "question": "Which year has the same calendar as that of 2009?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2018"
+        },
+        {
+          "id": "b",
+          "text": "2017"
+        },
+        {
+          "id": "c",
+          "text": "2016"
+        },
+        {
+          "id": "d",
+          "text": "2015"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q33",
+      "type": "single-choice",
+      "question": "In the sequence 1, 5, 7, 3, 5, 7, 4, 3, 5, 7, how many such 5s are there which are not immediately preceded by 3 but are immediately followed by 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q34",
+      "type": "single-choice",
+      "question": "A printer numbers the pages of a book starting with 1 and uses 3089 digits in all. How many pages does the book have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1040"
+        },
+        {
+          "id": "b",
+          "text": "1048"
+        },
+        {
+          "id": "c",
+          "text": "1049"
+        },
+        {
+          "id": "d",
+          "text": "1050"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q35",
+      "type": "single-choice",
+      "question": "In a conference, out of a total of 100 participants, 70 are Indians. If 60 of the total participants are vegetarian, then which of the following statements is/are correct?\n\n1. At least 30 Indian participants are vegetarian.\n2. At least 10 Indian participants are non-vegetarian.\n\nSelect the correct answer using the codes given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 & 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q36",
+      "type": "single-choice",
+      "question": "A started from his house and walked 20 m towards East, where his friend ‘B’ joined him. They together walked 10 m in the same direction. Then ‘A’ turned left while ‘B’ turned right and travelled 2 m and 8 m respectively. Again ‘B’ turned left to travel 4 m followed by 5 m to his right to reach his office. ‘A’ turned right and travelled 12 m to reach his office. What is the shortest distance between the two offices?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15 m"
+        },
+        {
+          "id": "b",
+          "text": "17 m"
+        },
+        {
+          "id": "c",
+          "text": "19 m"
+        },
+        {
+          "id": "d",
+          "text": "20 m"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q37",
+      "type": "single-choice",
+      "question": "A family has two children along with their parents. The average of the weights of the children and their mother is 50 kg. The average of the weights of the children and their father is 52 kg. If the weight of the father is 60 kg, then what is the weight of the mother?",
+      "options": [
+        {
+          "id": "a",
+          "text": "48 kg"
+        },
+        {
+          "id": "b",
+          "text": "50 kg"
+        },
+        {
+          "id": "c",
+          "text": "52 kg"
+        },
+        {
+          "id": "d",
+          "text": "54 kg"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q38",
+      "type": "single-choice",
+      "question": "A joint family consists of seven members A, B, C, D, E, F, and G with three females. G is a widow and sister-in-law of D’s father F. B and D are siblings, and A is the daughter of B. C is cousin of B. Who is E?\n\n1. Wife of F\n2. Grandmother of A\n3. Aunt of C\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q39",
+      "type": "single-choice",
+      "question": "Number 136 is added to $5B7$ and the sum obtained is $7A3$, where $A$ and $B$ are integers. It is given that $7A3$ is exactly divisible by 3. The only possible value of $B$ is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "7"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q40",
+      "type": "single-choice",
+      "question": "A wall clock moves 10 minutes fast in every 24 hours. The clock was set right to show the correct time at 8:00 a.m. on Monday. When the clock shows the time 6:00 p.m. on Wednesday, what is the correct time?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5:36 pm"
+        },
+        {
+          "id": "b",
+          "text": "5:30 pm"
+        },
+        {
+          "id": "c",
+          "text": "5:24 pm"
+        },
+        {
+          "id": "d",
+          "text": "5:18 pm"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q41",
+      "type": "single-choice",
+      "question": "Consider two statements S1 and S2 followed by a question:\n\nS1: $p$ and $q$ both are prime numbers.\nS2: $p + q$ is an odd integer.\n\nQuestion: Is $pq$ an odd integer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S1 alone is sufficient to answer the question"
+        },
+        {
+          "id": "b",
+          "text": "S2 alone is sufficient to answer the question"
+        },
+        {
+          "id": "c",
+          "text": "Both S1 and S2 taken together are not sufficient to answer the question"
+        },
+        {
+          "id": "d",
+          "text": "Both S1 and S2 are necessary to answer the question"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q42",
+      "type": "single-choice",
+      "question": "In a school, 60% of students play cricket. A student who does not play cricket plays football. Every football player has got a two-wheeler.\n\nWhich of the following conclusions cannot be drawn from the above data?\n\n1. 60% of the students do not have two-wheelers.\n2. No cricketer has a two-wheeler.\n3. Cricket players do not play football.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q43",
+      "type": "single-choice",
+      "question": "In a school every student is assigned a unique identification number. A student is a football player if and only if the identification number is divisible by 4, whereas a student is a cricketer if and only if the identification number is divisible by 6. If every number from 1 to 100 is assigned to a student, then how many of them play cricket as well as football?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q44",
+      "type": "single-choice",
+      "question": "In an examination, A has scored 20 marks more than B. If B has scored $5\\%$ less marks than A, how much has B scored?",
+      "options": [
+        {
+          "id": "a",
+          "text": "360"
+        },
+        {
+          "id": "b",
+          "text": "380"
+        },
+        {
+          "id": "c",
+          "text": "400"
+        },
+        {
+          "id": "d",
+          "text": "420"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q45",
+      "type": "single-choice",
+      "question": "The number of times the digit 5 will appear while writing the integers from 1 to 1000 is",
+      "options": [
+        {
+          "id": "a",
+          "text": "269"
+        },
+        {
+          "id": "b",
+          "text": "271"
+        },
+        {
+          "id": "c",
+          "text": "300"
+        },
+        {
+          "id": "d",
+          "text": "302"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q46",
+      "type": "single-choice",
+      "question": "Food varieties extinction is happening all over the world — and it is happening fast. For example, of the 7,000 apple varieties that were grown during the nineteenth century, fewer than a hundred remain. In the Philippines, thousands of varieties of rice once thrived; now only ua hundred are grown there. In China, 90 percent of the wheat varieties cultivated just a century ago have disappeared. Farmers in the past painstakingly bred and developed crops well suited to the peculiarities of their local climate and environment. In the recent past, our heavy dependence on a few high yielding varieties and technology-driven production and distribution of food is causing the dwindling of diversity in food crops. If some mutating crop disease or future climate change decimates the few crop plants we have come to depend on to feed our growing population, we might desperately need some of those varieties we have let go extinct.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. Humans have been the main reason for the large scale extinction of plant species.\n2. Consumption of food mainly from locally cultivated crops ensures crop diversity.\n3. The present style of production and distribution of food will finally lead to the problem of food scarcity in the near future.\n4. Our food security may depend on our ability to preserve the locally cultivated varieties of crops.\n\nWhich of the above assumptions are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q47",
+      "type": "single-choice",
+      "question": "A majority of the TB infected in India are poor and lack sufficient nutrition, suitable housing, and have little understanding of prevention. TB then devastates families, makes the poor poorer, particularly affects women and children, and leads to ostracisation and loss of employment. The truth is that even if TB does not kill them, hunger and poverty will. Another truth is that deep-seated stigma, lack of counselling, expensive treatment, and lack of adequate support from providers and family, coupled with torturous side effects, demotivate patients to continue treatment — with disastrous health consequences.\n\nWhich one of the following is the most logical, rational, and crucial message conveyed by the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "TB is not a curable disease in Indian circumstances."
+        },
+        {
+          "id": "b",
+          "text": "Curing TB requires more than diagnosis and medical treatment."
+        },
+        {
+          "id": "c",
+          "text": "Government’s surveillance mechanism is deficient; and poor people have no access to treatment."
+        },
+        {
+          "id": "d",
+          "text": "India will be free from diseases like TB only when its poverty alleviation programmes are effectively and successfully implemented."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q48",
+      "type": "single-choice",
+      "question": "The interests of working and poor people have historically been neglected in the planning of our cities. Our cities are increasingly intolerant, unsafe and unlivable places for large numbers of citizens and yet we continue to plan via the old ways — the static Development Plan — that draws exclusively from technical expertise, distanced from people’s live experiences and needs, and actively excluding large number of people, places, activities and practices that are an integral part of the city.\n\nThe passage seems to argue",
+      "options": [
+        {
+          "id": "a",
+          "text": "against the monopoly of builders and the interests of elite groups."
+        },
+        {
+          "id": "b",
+          "text": "against the need for global and smart cities."
+        },
+        {
+          "id": "c",
+          "text": "in favour of planning cities mainly for working class and poor people."
+        },
+        {
+          "id": "d",
+          "text": "in favour of participation of peoples’ groups in city planning."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q49",
+      "type": "single-choice",
+      "question": "Temperatures have risen nearly five times as rapidly on the Western Antarctic Peninsula than the global average over the past five decades. Researchers have now found that melting glaciers are causing a loss of species diversity among benthos in the coastal waters off the Antarctic Peninsula, impacting an entire seafloor ecosystem. They believe increased levels of suspended sediment in water to be the cause of the dwindling biodiversity in the coastal region.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. Regions of glaciers warm faster than other regions due to global warming.\n2. Global warming can lead to seafloor sedimentation in some areas.\n3. Melting glaciers can reduce marine biodiversity in some areas.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q50",
+      "type": "single-choice",
+      "question": "Six students A, B, C, D, E, and F appeared in several tests. Either C or F scores the highest. Whenever C scores the highest, then E scores the least. Whenever F scores the highest, B scores the least. In all the tests they got different marks; D scores higher than A, but they are close competitors; A scores higher than B; C scores higher than A.\n\nIf E is ranked third, then which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "E gets more marks than C"
+        },
+        {
+          "id": "b",
+          "text": "C gets more marks than E"
+        },
+        {
+          "id": "c",
+          "text": "A is ranked fourth"
+        },
+        {
+          "id": "d",
+          "text": "D is ranked fifth"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q51",
+      "type": "single-choice",
+      "question": "Six students A, B, C, D, E, and F appeared in several tests. Either C or F scores the highest. Whenever C scores the highest, then E scores the least. Whenever F scores the highest, B scores the least. In all the tests they got different marks; D scores higher than A, but they are close competitors; A scores higher than B; C scores higher than A.\n\nIf F stands second in the ranking, then the position of B is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Third"
+        },
+        {
+          "id": "b",
+          "text": "Fourth"
+        },
+        {
+          "id": "c",
+          "text": "Fifth"
+        },
+        {
+          "id": "d",
+          "text": "Sixth"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q52",
+      "type": "single-choice",
+      "question": "Six students A, B, C, D, E, and F appeared in several tests. Either C or F scores the highest. Whenever C scores the highest, then E scores the least. Whenever F scores the highest, B scores the least. In all the tests they got different marks; D scores higher than A, but they are close competitors; A scores higher than B; C scores higher than A.\n\nIf B scores the least, the rank of C will be",
+      "options": [
+        {
+          "id": "a",
+          "text": "Second"
+        },
+        {
+          "id": "b",
+          "text": "Third"
+        },
+        {
+          "id": "c",
+          "text": "Fourth"
+        },
+        {
+          "id": "d",
+          "text": "Second or third"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q53",
+      "type": "single-choice",
+      "question": "India has banking correspondents, who help bring people in the hinterland into the banking fold. For them to succeed, banks cannot crimp on costs. They also cannot afford to ignore investing in financial education and literacy. Banking correspondents are way too small to be viewed as a systemic risk. Yet India’s banking regulator has restricted them to serving only one bank, perhaps to prevent arbitrage. Efforts at banking outreach may succeed only if there are better incentives at work for such last-mile workers and also those providers who ensure not just basic bank accounts but also products such as accident and life insurance and micro pension schemes.\n\nWhich one of the following is the most logical, rational, and crucial inference that can be derived from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Efforts to bring people in India’s hinterland into the banking system are not successful."
+        },
+        {
+          "id": "b",
+          "text": "For meaningful financial inclusion, India’s banking system needs more number of banking correspondents and other such last-mile workers."
+        },
+        {
+          "id": "c",
+          "text": "Meaningful financial inclusion in India requires that banking correspondents have diverse skills."
+        },
+        {
+          "id": "d",
+          "text": "Better banking outreach would be impossible unless each banking correspondent is allowed to serve a number of banks."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q54",
+      "type": "single-choice",
+      "question": "Climate change may actually benefit some plants by lengthening growing seasons and increasing carbon dioxide. Yet other effects of a warmer world, such as more pests, droughts, and flooding, will be less benign. How will the world adapt? Researchers project that by 2050, suitable croplands for four commodities — maize, potatoes, rice, and wheat — will shift, in some cases pushing farmers to plant new crops. Some farmlands may benefit from warming, but others won’t. Climate alone does not dictate yields; political shifts, global demand, and agricultural practices will influence how farms fare in the future.\n\nWhich one of the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Farmers who modernize their methods and diversify their fields will be in an advantageous position in future."
+        },
+        {
+          "id": "b",
+          "text": "Climate change will adversely affect crop diversity."
+        },
+        {
+          "id": "c",
+          "text": "Shifting major crops to new croplands will lead to a great increase in the total area under cultivation and thus an increase in overall agricultural production."
+        },
+        {
+          "id": "d",
+          "text": "Climate change is the most important factor affecting the agricultural economy in the future."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q55",
+      "type": "single-choice",
+      "question": "India’s economic footprint, given its population, still remains small compared to the US, the European Union or China. It has much to learn from other economies, yet must implement solutions that fit its unique circumstances. India especially needs an effective long-term regulatory system based on collaboration rather than the current top-down approach. Regulations seek desirable outcomes yet are repeatedly used as political tools to push one agenda or another. Often, regulations fail to consider impacts on jobs and economic growth — or less restrictive alternatives. Regulations may be used to protect local markets at the expense of more widely shared prosperity in the future. Additionally, regulations inevitably result in numerous unintended consequences. In today’s hyper-competitive global economy, regulations need to be viewed as ‘weapons’ that seek cost-justified social and environmental benefits while improving the economic well-being of most citizens.\n\nOn the basis of the above passage, the following assumptions have been made:\n\nIn today’s global economy,\n\n1. regulations are not effectively used to protect local markets.\n2. Social and environmental concerns are generally ignored by the governments across the world while implementing the regulations.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q56",
+      "type": "single-choice",
+      "question": "India’s economic footprint, given its population, still remains small compared to the US, the European Union or China. It has much to learn from other economies, yet must implement solutions that fit its unique circumstances. India especially needs an effective long-term regulatory system based on collaboration rather than the current top-down approach. Regulations seek desirable outcomes yet are repeatedly used as political tools to push one agenda or another. Often, regulations fail to consider impacts on jobs and economic growth — or less restrictive alternatives. Regulations may be used to protect local markets at the expense of more widely shared prosperity in the future. Additionally, regulations inevitably result in numerous unintended consequences. In today’s hyper-competitive global economy, regulations need to be viewed as ‘weapons’ that seek cost-justified social and environmental benefits while improving the economic well-being of most citizens.\n\nWhich one of the following is the most logical, rational and crucial inference that can be derived from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A better regulatory system will help India achieve the size of economy appropriate to its population."
+        },
+        {
+          "id": "b",
+          "text": "In a competitive global economy, India must use regulations strategically."
+        },
+        {
+          "id": "c",
+          "text": "Regulations in India do not favour its integration with today’s hyper competitive global economy."
+        },
+        {
+          "id": "d",
+          "text": "Job creation and economic growth should be dominant considerations in developing India’s regulatory system."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q57",
+      "type": "single-choice",
+      "question": "Inequality is visible, even statistically measurable in many instances, but the economic power that drives it is invisible and not measurable. Like the force of gravity, power is the organising principle of inequality, be it of income, or wealth, gender, race, religion and region. Its effects are seen in a pervasive manner in all spheres, but the ways in which economic power pulls and tilts visible economic variables remain invisibly obscure.\n\nBased on the above passage, the following assumptions have been made:\n\n1. Economic power is the only reason for the existence of inequality in a society.\n2. Inequality of different kinds, of income, wealth, etc. reinforces power.\n3. Economic power can be analysed more through its effects than by direct empirical methods.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q58",
+      "type": "single-choice",
+      "question": "Education plays a great transformative role in life, particularly so in this rapidly changing and globalizing world. Universities are the custodians of the intellectual capital and promoters of culture and specialized knowledge. Culture is an activity of thought, and receptiveness to beauty and human feelings. A merely well-informed man is only a bore on God’s earth. What we should aim at is producing men who possess both culture and expert knowledge. Their expert knowledge will give them a firm ground to start from and their culture will lead them as deep as philosophy and as high as art. Together it will impart meaning to human existence.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. A society without well-educated people cannot be transformed into a modern society.\n2. Without acquiring culture, a person’s education is not complete.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q59",
+      "type": "single-choice",
+      "question": "A bat’s wings may look like sheets of skin. But underneath, a bat has the same five fingers as an orangutan or a human, as well as a wrist connected to the same cluster of wrist bones connected to the same long bones of the arm. What can be more curious than that the hand of a man, formed for grasping, that of a mole for digging, the leg of the horse, the paddle of the porpoise, and the wing of the bat, should all be constructed on the same pattern?\n\nWhich one of the following is the most logical, scientific and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Different species having similar structures of hands is an example of biodiversity."
+        },
+        {
+          "id": "b",
+          "text": "Limbs being used by different species for different kinds of work is an example of biodiversity."
+        },
+        {
+          "id": "c",
+          "text": "Man and the aforementioned animals having similar structures of limbs is an example of coincidence in evolution."
+        },
+        {
+          "id": "d",
+          "text": "Man and the aforementioned animals have a shared evolutionary history."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q60",
+      "type": "single-choice",
+      "question": "Political theorists, no doubt have to take the history of injustice, for example, untouchability, seriously. The concept historical injustice takes note of a variety of historical wrongs that continue into the present in some form or the other and tend to resist repair. Two reasons might account for resistance to repair. One, not only are the roots of injustice buried deep in history, injustice itself constitutes economic structures of exploitation, ideologies of discrimination and modes of representation. Two, the category of historical injustice generally extends across a number of wrongs such as economic deprivation, social discrimination and lack of recognition. This category is complex, not only because of the overlap between a number of wrongs, but because one or the other wrong, generally discrimination, tends to acquire partial autonomy from others. This is borne out by the history of repair in India.\n\nBased on the above passage, the following assumptions have been made:\n\n1. Removal of economic discrimination leads to removal of social discrimination.\n2. Democratic polity is the best way to repair historical wrongs.\n\nWhich of the above assumptions is/ are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q61",
+      "type": "single-choice",
+      "question": "Political theorists, no doubt have to take the history of injustice, for example, untouchability, seriously. The concept historical injustice takes note of a variety of historical wrongs that continue into the present in some form or the other and tend to resist repair. Two reasons might account for resistance to repair. One, not only are the roots of injustice buried deep in history, injustice itself constitutes economic structures of exploitation, ideologies of discrimination and modes of representation. Two, the category of historical injustice generally extends across a number of wrongs such as economic deprivation, social discrimination and lack of recognition. This category is complex, not only because of the overlap between a number of wrongs, but because one or the other wrong, generally discrimination, tends to acquire partial autonomy from others. This is borne out by the history of repair in India.\n\nWhat is the main idea that we can infer from the passage?\n\n1. Untouchability in India has not been taken seriously by political theorists.\n2. Historical injustice is inevitable in any society and is always beyond repair.\n3. Social discrimination and deprivation have their roots in bad economies.\n4. It is difficult, if not impossible, to repair every manifestation of historical injustice.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Untouchability in India has not been taken seriously by political theorists."
+        },
+        {
+          "id": "b",
+          "text": "Historical injustice is inevitable in any society and is always beyond repair."
+        },
+        {
+          "id": "c",
+          "text": "Social discrimination and deprivation have their roots in bad economies."
+        },
+        {
+          "id": "d",
+          "text": "It is difficult, if not impossible, to repair every manifestation of historical injustice."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q62",
+      "type": "single-choice",
+      "question": "With the digital phenomenon restructuring most social sectors, it is little surprise that global trade negotiations are now eyeing the digital area in an attempt to pre-emptively colonise it. Big Data is freely collected or mined from developing countries, and converted into digital intelligence in developed countries. This intelligence begins to control different sectors and extract monopoly rents. A large foreign company providing cab service, for instance, is not a network of cars and drivers; it is digital intelligence about commuting, public transport, roads, traffic, city events, personal behavioural characteristics of commuters and drivers and so on.\n\nWhich one of the following is the most logical and rational corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Globalization is not in the interests of India as it undermines its socio-economic structures."
+        },
+        {
+          "id": "b",
+          "text": "India should be careful to protect its digital sovereignty in global trade talks."
+        },
+        {
+          "id": "c",
+          "text": "India should charge monopoly rents from multinational companies in exchange for Big Data."
+        },
+        {
+          "id": "d",
+          "text": "The loss of Big Data from India is proportional to the degree/value of its foreign trade."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q63",
+      "type": "single-choice",
+      "question": "With the digital phenomenon restructuring most social sectors, it is little surprise that global trade negotiations are now eyeing the digital area in an attempt to pre-emptively colonise it. Big Data is freely collected or mined from developing countries, and converted into digital intelligence in developed countries. This intelligence begins to control different sectors and extract monopoly rents. A large foreign company providing cab service, for instance, is not a network of cars and drivers; it is digital intelligence about commuting, public transport, roads, traffic, city events, personal behavioural characteristics of commuters and drivers and so on.\n\nWhich of the following is most definitively implied by the above passage?\n\n.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Big Data is the key resource in the digital space."
+        },
+        {
+          "id": "b",
+          "text": "Big economies create Big Data."
+        },
+        {
+          "id": "c",
+          "text": "Access to Big Data is the prerogative of developed countries."
+        },
+        {
+          "id": "d",
+          "text": "Access to and possession of Big Data is a characteristic of developed countries"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q64",
+      "type": "single-choice",
+      "question": "The rural poor across the world, including India, have contributed little to human-induced climate change, yet they are on the frontline in coping with its effects. Farmers can no longer rely on historical averages for rainfall and temperature, and the more frequent and extreme weather events, such as droughts and floods, can spell disaster. And there are new threats, such as sea level rise and the impact of melting glaciers on water supply. How significant are small farms? As many as two billion people worldwide depend on them for their food and livelihood. Small-holder farmers in India produce 41 percent of the country’s food grains, and other food items that contribute to local and national food security.\n\nWhat is the most logical and rational corollary to the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Supporting small farmers is an important part of any agenda regarding environmentally sustainable development."
+        },
+        {
+          "id": "b",
+          "text": "Poor countries have little role to play in the mitigation of global warming."
+        },
+        {
+          "id": "c",
+          "text": "Due to a large number of farmer households, India will not have food security problems in the foreseeable future."
+        },
+        {
+          "id": "d",
+          "text": "Only small-holder farmers in India can ensure food security."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q65",
+      "type": "single-choice",
+      "question": "The rural poor across the world, including India, have contributed little to human-induced climate change, yet they are on the frontline in coping with its effects. Farmers can no longer rely on historical averages for rainfall and temperature, and the more frequent and extreme weather events, such as droughts and floods, can spell disaster. And there are new threats, such as sea level rise and the impact of melting glaciers on water supply. How significant are small farms? As many as two billion people worldwide depend on them for their food and livelihood. Small-holder farmers in India produce 41 percent of the country’s food grains, and other food items that contribute to local and national food security.\n\nThe above passage implies that\n\n1. There is a potential problem of food insecurity in India.\n2. India will have to strengthen its disaster management capabilities.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q66",
+      "type": "single-choice",
+      "question": "Soil, in which nearly all our food grows, is a living resource that takes years to form. Yet it can vanish in minutes. Each year 75 billion tonnes of fertile soil is lost to erosion. That is alarming — and not just for food producers. Soil can trap huge quantities of carbon dioxide in the form of organic carbon and prevent it from escaping into the atmosphere.\n\nBased on the above passage, the following assumptions have been made:\n\n1. Large-scale soil erosion is a major reason for widespread food insecurity in the world.\n2. Soil erosion is mainly anthropogenic.\n3. Sustainable management of soils helps in combating climate change.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q67",
+      "type": "single-choice",
+      "question": "Around 56 million years ago, the Atlantic Ocean had not fully opened and animals, perhaps including our primate ancestors, could walk from Asia to North America through Europe and across Greenland. Earth was warmer than it is today, but as the Palaeocene epoch gave way to the Eocene, it was about to get much warmer still — rapidly and radically. The cause was a massive geologically sudden release of carbon. During this period called Palaeocene — Eocene Thermal Maximum or PETM, the carbon injected into the atmosphere was roughly the amount that would be injected today if humans burned all the Earth’s reserves of coal, oil and natural gas. The PETM lasted for about 1, 50,000 years, until the excess carbon was reabsorbed. It brought on drought, floods, insect plagues and a few extinctions. Life on Earth survived — indeed, it prospered — but it was drastically different.\n\nBased on the above passage, the following assumptions have been made:\n\n1. Global warming has a bearing on the planet’s biological evolution.\n2. Separation of land masses causes the release of huge quantities of carbon into the atmosphere.\n3. Increased warming of Earth’s atmosphere can change the composition of its flora and fauna.\n4. The present man-made global warming will finally lead to conditions similar to those that happened 56 million years ago.\n\nWhich of the assumptions given above are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q68",
+      "type": "single-choice",
+      "question": "A vast majority of Indians are poor, with barely 10 per cent employed in the organised sector. We are convinced that vigorous economic growth is generating substantial employment. But this is not so. When our economy was growing at 3 per cent per year, employment in the organised sector was growing at 2 per cent per year. As the economy began to grow at 7-8 per cent per year, the rate of growth of employment in the organised sector actually declined to 1 per cent per year.\"\n\nThe above passage seems to imply that:\n\n1. most of modern economic growth is based on technological progress.\n2. much of modern Indian economy does not nurture sufficient symbiotic relationship with labour-intensive, natural resource-based livelihoods.\n3. service sector in India is not very labour-intensive.\n4. literate rural population is not willing to enter organised sector.\n\nWhich of the statements given above are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q69",
+      "type": "single-choice",
+      "question": "In a study, scientists compared the microbiomes of poorly nourished and well nourished infants and young children. Gut microbes were isolated from faecal samples of malnourished and healthy children. The microbiome was ‘immature” and less diverse in malnourished children compared to the better developed “mature” microbiome found in healthy children of the same age. According to some studies, the chemical composition of mother’s milk has shown the presence of a modified sugar (sialylated oligosaccharides). This is not utilized by the baby for its own nutrition. However, the bacteria constituting the infant’s microbiome thrive on this sugar which serves as their food. Malnourished mothers have low levels of this sugar in their milk. Consequently, the microbiomes of their infants fail to mature. That in turn, leads to malnourished babies.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. Processed probiotic foods are a solution to treat the children suffering from malnutrition due to immature gut bacteria composition.\n2. The babies of malnourished mothers generally tend to be malnourished.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q70",
+      "type": "single-choice",
+      "question": "In a study, scientists compared the microbiomes of poorly nourished and well nourished infants and young children. Gut microbes were isolated from faecal samples of malnourished and healthy children. The microbiome was ‘immature” and less diverse in malnourished children compared to the better developed “mature” microbiome found in healthy children of the same age. According to some studies, the chemical composition of mother’s milk has shown the presence of a modified sugar (sialylated oligosaccharides). This is not utilized by the baby for its own nutrition. However, the bacteria constituting the infant’s microbiome thrive on this sugar which serves as their food. Malnourished mothers have low levels of this sugar in their milk. Consequently, the microbiomes of their infants fail to mature. That in turn, leads to malnourished babies.\n\nWhich one of the following is the most logical, rational and crucial inference that can be derived from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If malnourished condition in children is caused by gut bacteria, it cannot be treated."
+        },
+        {
+          "id": "b",
+          "text": "The guts of malnourished babies should be inoculated with mature microbiomes."
+        },
+        {
+          "id": "c",
+          "text": "Babies of malnourished mothers should be fed with dairy milk fortified with sialylated oligosaccharides instead of mother’s milk."
+        },
+        {
+          "id": "d",
+          "text": "Research on benign effects of gut bacteria on nutrition has policy implications."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q71",
+      "type": "single-choice",
+      "question": "What stands in the way of the widespread and careful adoption of ‘Genetic Modification (GM)’ technology is an ‘Intellectual Property Rights’ regime that seeks to create private monopolies for such technologies. If GM technology is largely corporate-driven, it seeks to maximize profits and that too in the short run. That is why corporations make major investments for herbicide-tolerant and pest-resistant crops. Such properties have only a short window, as soon enough, pests and weeds will evolve to overcome such resistance. This suits the corporations. The National Farmers Commission pointed out that priority must be given in genetic modification to the incorporation of genes that can help impart resistance to drought, salinity, and other stresses.\"\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. The issue of the effects of natural calamities on agriculture is not given due consideration by GM technology companies.\n2. In the long run, GM technology will not be able to solve agricultural problems arising due to global warming.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q72",
+      "type": "single-choice",
+      "question": "What stands in the way of the widespread and careful adoption of ‘Genetic Modification (GM)’ technology is an ‘Intellectual Property Rights’ regime that seeks to create private monopolies for such technologies. If GM technology is largely corporate-driven, it seeks to maximize profits and that too in the short run. That is why corporations make major investments for herbicide-tolerant and pest-resistant crops. Such properties have only a short window, as soon enough, pests and weeds will evolve to overcome such resistance. This suits the corporations. The National Farmers Commission pointed out that priority must be given in genetic modification to the incorporation of genes that can help impart resistance to drought, salinity, and other stresses.\"\n\nWhich one of the following is the most logical, rational and crucial message conveyed by the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Public research institutions should take the lead in GM technology and prioritise the technology agenda."
+        },
+        {
+          "id": "b",
+          "text": "Developing countries should raise this issue in WTO and ensure the abolition of Intellectual Property Rights."
+        },
+        {
+          "id": "c",
+          "text": "Private corporations should not be allowed to do agribusiness in India, particularly the seed business."
+        },
+        {
+          "id": "d",
+          "text": "Present Indian circumstances do not favour the cultivation of genetically modified crops."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q73",
+      "type": "single-choice",
+      "question": "Read the following statements S1 and S2 and answer the two items that follow:\n\nS1: Twice the weight of Sohan is less than the weight of Mohan or that of Rohan.\nS2: Twice the weight of Rohan is greater than the weight of Mohan or that of Sohan.\n\nBased on the above, which one of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weight of Mohan is least"
+        },
+        {
+          "id": "b",
+          "text": "Weight of Sohan is least"
+        },
+        {
+          "id": "c",
+          "text": "Weight of Rohan is least"
+        },
+        {
+          "id": "d",
+          "text": "‘Whose weight is least’ cannot be determined"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q74",
+      "type": "single-choice",
+      "question": "Read the following statements S1 and S2 and answer the two items that follow:\n\nS1: Twice the weight of Sohan is less than the weight of Mohan or that of Rohan.\nS2: Twice the weight of Rohan is greater than the weight of Mohan or that of Sohan.\n\nWhich one of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weight of Mohan is greatest"
+        },
+        {
+          "id": "b",
+          "text": "Weight of Sohan is greatest"
+        },
+        {
+          "id": "c",
+          "text": "Weight of Rohan is greatest"
+        },
+        {
+          "id": "d",
+          "text": "‘Whose weight is greatest’ cannot be determined"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q75",
+      "type": "single-choice",
+      "question": "A research team examined a long-term owl roost. Owls prey on small mammals and the excreted remains of those meals that accumulated over time provide us an insight into the composition and structure of small mammals over the past millennia. The research suggested that when the Earth went through a period of rapid warming about 13,000 years ago, the small mammal community was stable and resilient. But, from the last quarter of the nineteenth century, human-made changes to the environment had caused an enormous drop in biomass and energy flow. This dramatic decline in energy flow means modern ecosystems are not adapting as easily as they did in the past.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. Global warming is a frequently occurring natural phenomenon.\n2. The impending global warming will not adversely affect small mammals.\n3. Humans are responsible for the loss of the Earth’s natural resilience.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q76",
+      "type": "single-choice",
+      "question": "Most invasive species are neither terribly successful nor very harmful. Britain’s invasive plants are not widespread, not spreading especially quickly, and often less of a nuisance than vigorous natives such as bracken. The arrival of new species almost always increases biological diversity in a region; in many cases, a flood of newcomers drives no native species to extinction. One reason is that invaders tend to colonise disturbed habitats like polluted lakes and post-industrial wasteland, where little else lives. They are nature’s opportunists.\n\nWhich one of the following is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Invasive species should be used to rehabilitate desert areas and wastelands of a country."
+        },
+        {
+          "id": "b",
+          "text": "Laws against the introduction of foreign plants are unnecessary."
+        },
+        {
+          "id": "c",
+          "text": "Sometimes, the campaigns against foreign plants are pointless."
+        },
+        {
+          "id": "d",
+          "text": "Foreign plants should be used to increase the biodiversity of a country."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q77",
+      "type": "single-choice",
+      "question": "Low-end IoT (Internet of Things) devices are cheap commodity items; addressing security would add to the cost. This class of items is proliferating with new applications; many home appliances, thermostats, security and monitoring devices, and personal convenience devices are part of the IoT. So are fitness trackers, certain medical implants, and computer-like devices in automobiles. The IoT is expected to expand exponentially — but new security challenges are daunting.\n\nWhich one of the following statements is the most logical and rational inference that can be made from the above passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Development of enabling technologies in India can be a big boost to its manufacturing sector."
+        },
+        {
+          "id": "b",
+          "text": "India is not yet fully ready to adopt IoT in view of the imminent security challenges."
+        },
+        {
+          "id": "c",
+          "text": "Life becomes more comfortable with the development of cheap low-end IoT devices."
+        },
+        {
+          "id": "d",
+          "text": "As we go digital, we must recognize the huge threat to Internet security from some IoT devices."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q78",
+      "type": "single-choice",
+      "question": "Access to schooling for those coming of school age is close to universal, but access to quality exhibits a sharp gradient with socio-economic status. Quotas for the weaker sections in private schools is a provision introduced by the Right of Children to Free and Compulsory Education Act, 2009. The quotas have imposed a debate on issues of social integration and equity in education that private actors had escaped by and large. The idea of an egalitarian education system with equality of opportunity as its primary goal appears to be outside the space that private school principals inhabit. Therefore, the imposition of the quotas has led to resistance, sometimes justified.\n\nWith reference to the above passage, the following assumptions have been made:\n\n1. Making equality of opportunity a reality is the fundamental goal of the Indian education system.\n2. The present Indian school system is unable to provide egalitarian education.\n3. Abolition of private schools and establishment of more government schools is the only way to ensure egalitarian education.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q79",
+      "type": "single-choice",
+      "question": "A changing climate, and the eventual efforts of governments (however reluctant) to deal with it, could have a big impact on investors’ returns. Companies that produce or use large amounts of fossil fuels will face higher taxes and regulatory burdens. Some energy producers may find it impossible to exploit their known reserves, and be left with “stranded assets” — deposits of oil and coal that have to be left in the ground. Other industries could be affected by the economic damage caused by more extreme weather — storms, floods, heat waves and droughts.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. Governments and companies need to be adequately prepared to face climate change.\n2. Extreme weather events will reduce the economic growth of governments and companies in future.\n3. Ignoring climate change is a huge risk for investors.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2019_csat_q80",
+      "type": "single-choice",
+      "question": "Diarrhoeal deaths among Indian children are mostly due to food and water contamination. Use of contaminated groundwater and unsafe chemicals in agriculture, poor hygiene in storage and handling of food items to food cooked and distributed in unhygienic surroundings; there are myriad factors that need regulation and monitoring. People need to have awareness of adulteration and ways of complaining to the relevant authorities. Surveillance of food-borne diseases involves a number of government agencies and entails good training of inspection staff. Considering the proportion of the urban population that depends on street food for its daily meals, investing in training and education of street vendors is of great significance.\n\nOn the basis of the above passage, the following assumptions have been made:\n\n1. Food safety is a complex issue that calls for a multipronged solution.\n2. Great investments need to be made in developing the manpower for surveillance and training.\n3. India needs to make sufficient legislation to govern the food processing industry.\n\nWhich of the above assumptions is/are valid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2025_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $H$ and $K$ be two subgroups of a group $G$ such that $o(H) > \\sqrt{o(G)}$ and $o(K) > \\sqrt{o(G)}$. Show that $H \\cap K \\ne \\{e\\}$, where $e$ is the identity element. Here $o(H)$, $o(K)$ and $o(G)$ denote the order of $H$, $K$ and $G$ respectively.\n(b) Let $G = \\{e, x, x^2, y, yx, yx^2\\}$ be a non-Abelian group with $o(x) = 3$ and $o(y) = 2$. Show that $xy = yx^2$ (where $e$ is the identity element of $G$ and $o(x)$, $o(y)$ denote the order of the elements $x$, $y$ respectively).\n(c) Examine whether the series $\\sum_{n=1}^{\\infty} \\frac{(-1)^{n-1}}{n}$ is absolutely or conditionally convergent.\n(d) Expand $f(z) = \\frac{1}{(z+1)(z+3)}$ in a Laurent series valid for $1 < |z| < 3$.\n(e) How many basic solutions are there for the following system of equations? $2x_1 - x_2 + 3x_3 + x_4 = 6$, $4x_1 - 2x_2 - x_3 + 2x_4 = 10$. Find all of them. Furthermore, find the number of basic solutions which are feasible/non-feasible/non-degenerate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Define Cauchy sequence and prove that every convergent sequence of real numbers is a Cauchy sequence. What is the importance of Cauchy condition?\n(b) Show that $3$ is an irreducible element in the integral domain $\\mathbb{Z}[i]$.\n(c) Use the method of contour integration to prove that $\\int_{-\\infty}^{\\infty} \\frac{x^2 - x + 2}{x^4 + 10x^2 + 9}\\, dx = \\frac{5\\pi}{12}$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the integral $\\oint_C \\frac{e^z}{z^2 (z+1)^3}\\, dz$, $C: |z| = 2$.\n(b) Show that the volume of the greatest rectangular parallelepiped that can be inscribed in the ellipsoid $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2} = 1$ is $\\frac{8abc}{3\\sqrt{3}}$.\n(c) Apply the principle of duality to solve the following linear programming problem: Maximize $Z = 3x_1 + 4x_2$ subject to the constraints $x_1 - x_2 \\le 1$, $x_1 + x_2 \\ge 4$, $x_1 - 3x_2 \\le 3$, $x_1, x_2 \\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Examine whether the mapping $\\phi: \\mathbb{Z}[x] \\to \\mathbb{Z}$ defined by $\\phi(f(x)) = f(0)$, for $f(x) \\in \\mathbb{Z}[x]$, is a homomorphism. Deduce that the ideal $\\langle x\\rangle$ is a prime ideal in $\\mathbb{Z}[x]$, but not a maximal ideal in $\\mathbb{Z}[x]$.\n(b) Prove that every continuous function is Riemann integrable.\n(c) The following table shows all the necessary information on the available supply to each warehouse, the requirement of each market and the unit transportation cost from each warehouse to each market. Warehouses $A,B,C$ to markets $I,II,III,IV$ with costs $A=(5, 2,4, 3)$, $B=(4, 8,1, 6)$, $C=(4, 6,7, 5)$; supply $22, 15,8$; requirement $7, 12,17, 9$. The shipping clerk has worked out the following schedule from experience: $12$ units from $A$ to $II$, $1$ unit from $A$ to $III$, $9$ units from $A$ to $IV$, $15$ units from $B$ to $III$, $7$ units from $C$ to $I$ and $1$ unit from $C$ to $III$. Find the optimal schedule and minimum total shipping cost.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Find the solution of the equation $(D^2 + DD - 2D'^2)z = y\\sin x$, where $D \\equiv \\frac{\\partial}{\\partial x}$ and $D' \\equiv \\frac{\\partial}{\\partial y}$.\n(b) Solve the following system of linear equations by Gauss-Seidel method: $10x + 2y + z = 9$, $2x + 20y - 2z = -44$, $-2x + 3y + 10z = 22$.\n(c) (i) Convert the number $(3479)_{10}$ into binary system and the number $(7\\mathrm{AE}\\cdot 9\\mathrm{F})_{16}$ into decimal system.\n(ii) Determine the truth table for the Boolean function $F(x, y, z) = (x + y + z')(x' + y')$. Also derive the full disjunctive normal form of $F(x, y, z)$ from the truth table.\n(d) A bead of mass $m$ slides on a frictionless wire in the shape of a cycloid given by $x = a(\\theta - \\sin\\theta)$, $y = a(1 + \\cos\\theta)$, $0 \\le \\theta \\le 2\\pi$. Find the Lagrangian function. Hence show that the equation of motion can be written as $\\frac{d^2 u}{dt^2} + \\frac{g}{4a} u = 0$, where $u = \\cos\\left(\\frac{\\theta}{2}\\right)$.\n(e) A source and a sink of equal strength are placed at points $\\left(\\pm\\frac{a}{2}, 0\\right)$ within a fixed circular boundary $x^2 + y^2 = a^2$. Show that the streamlines are given by $\\left(r^2 - \\frac{a^2}{4}\\right)(r^2 - 4a^2) - 4a^2 y^2 = ky(r^2 - a^2)$, where $k$ is a constant and $r^2 = x^2 + y^2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve $\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = 0$ for a rectangular plate subject to the boundary conditions $u(0, y) = 0$, $u(a, y) = 0$, $u(x, 0) = 0$, $u(x, b) = f(x)$.\n(b) Simplify the Boolean function $F(x, y, z) = xy z + x' y z + x y' z + x y z'$ and also draw the corresponding GATE network.\n(c) Calculate the moment of inertia of a uniform solid cylinder of mass $M$, radius $R$ and length $L$ with respect to a set of axes passing through the centre of the cylinder, where $z$-axis is the axis of the cylinder and $\\rho$ is the constant density at any point of the cylinder. Also find $\\frac{L}{R}$ for which the moment of inertia about $x$- or $y$-axis will be minimum for a given mass of the cylinder.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the complete integral of $z(p^2 - q^2) = x - y$; $p \\equiv \\frac{\\partial z}{\\partial x}$, $q \\equiv \\frac{\\partial z}{\\partial y}$.\n(b) Find the unique polynomial of degree $2$ or less which fits the following data: $x = 0, 1, 3$ and $f(x) = 1, 3, 55$. Also obtain the bound on the truncation error.\n(c) Show that for an incompressible steady flow with constant viscosity, the velocity components $u(y) = \\left(\\frac{U}{h}\\right)y - \\frac{hy}{2\\mu}\\frac{dp}{dx}\\left(1 - \\frac{y}{h}\\right)$, $v = 0 = w$, with $p = p(x)$, satisfy the equation of motion in the absence of body force. Given that $U$, $h$ and $\\frac{dp}{dx}$ are constants.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Find the characteristics of the partial differential equation $p^2 + q^2 = 2$; $p \\equiv \\frac{\\partial z}{\\partial x}$, $q \\equiv \\frac{\\partial z}{\\partial y}$, and determine the integral surface which passes through $x = 0$, $z = y$.\n(b) Find the constant $p$ and error term for the quadrature formula $\\int_{x_0}^{x_1} f(x)\\, dx = \\frac{h}{2}(f_0 + f_1) + p h^2 (f_0' - f_1')$, where $x_0 + h = x_1$, $f_0 = f(x_0)$, $f_1 = f(x_1)$ and prime $(')$ represents derivative with respect to $x$. Hence deduce the composite rule for integrating $\\int_a^b f(x)\\, dx$, $a = x_0 < x_1 < \\cdots < x_N = b$.\n(c) (i) A particle of mass $m$ moves in a force field of potential $V(r) = -\\frac{k\\cos\\theta}{r^2}$, $k$ constant. Find the Hamiltonian and the Hamilton's equations in spherical polar coordinates $(r, \\theta, \\phi)$.\n(ii) Consider the Lagrangian $L = m\\dot{x}\\dot{y} - m\\omega_0^2 xy$, where $m$ and $\\omega_0$ are constants. Find the Hamiltonian and Hamilton's equations of motion. Identify the system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper II",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

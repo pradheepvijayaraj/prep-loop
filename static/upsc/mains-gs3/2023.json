@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper III · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "GS3",
+    "section": "mains-gs3",
+    "sourceId": "upsc_2023_mains_gs3",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_gs3_q1",
+      "type": "fill-blank",
+      "question": "Faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs. Comment on the present policies of the Government in this regard.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q2",
+      "type": "fill-blank",
+      "question": "What is the status of digitalization in the Indian economy? Examine the problems faced in this regard and suggest improvements.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q3",
+      "type": "fill-blank",
+      "question": "How does e-Technology help farmers in production and marketing of agricultural produce? Explain it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q4",
+      "type": "fill-blank",
+      "question": "State the objectives and measures of land reforms in India. Discuss how land ceiling policy on landholding can be considered as an effective reform under economic criteria.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q5",
+      "type": "fill-blank",
+      "question": "Introduce the concept Artificial Intelligence (AI). How does AI help clinical diagnosis? Do you perceive any threat to privacy of the individual in the use of AI in healthcare?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q6",
+      "type": "fill-blank",
+      "question": "Discuss several ways in which microorganisms can help in meeting the current fuel shortage.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q7",
+      "type": "fill-blank",
+      "question": "Dam failures are always catastrophic, especially on the downstream side, resulting in a colossal loss of life and property. Analyze the various causes of dam failures. Give two examples of large dam failures.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q8",
+      "type": "fill-blank",
+      "question": "What is oil pollution? What are its impacts on the marine ecosystem? In what way is oil pollution particularly harmful for a country like India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q9",
+      "type": "fill-blank",
+      "question": "Winning of 'Hearts and Minds' in terrorism-affected areas is an essential step in restoring the trust of the population. Discuss the measures adopted by the Government in this regard.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q10",
+      "type": "fill-blank",
+      "question": "The use of unmanned aerial vehicles (UAVs) by our adversaries across the borders to ferry arms / ammunitions, drugs, etc., is a serious threat to the internal security. Comment on the measures being taken to tackle this threat.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q11",
+      "type": "fill-blank",
+      "question": "Most of the unemployment in India is structural in nature. Examine the methodology adopted to compute unemployment in the country and suggest improvements.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q12",
+      "type": "fill-blank",
+      "question": "Distinguish between 'care economy' and 'monetized economy'. How can the care economy be brought into monetized economy through women empowerment?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q13",
+      "type": "fill-blank",
+      "question": "Explain the changes in cropping patterns in India in the context of changes in consumption patterns and marketing conditions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q14",
+      "type": "fill-blank",
+      "question": "What are the direct and indirect subsidies provided to the farm sector in India? Discuss the issues raised by the World Trade Organization (WTO) in relation to agricultural subsidies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q15",
+      "type": "fill-blank",
+      "question": "The adoption of electric vehicles is rapidly growing worldwide. How do electric vehicles contribute to reducing carbon emissions and what are the key benefits they offer compared to traditional combustion engine vehicles?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q16",
+      "type": "fill-blank",
+      "question": "What is the main task of India's third moon mission which could not be achieved in its earlier mission? List the countries that have achieved this task. Introduce the subsystems in the spacecraft launched and explain the role of the Virtual Launch Control Centre at the Vikram Sarabhai Space Centre which contributed to the successful launch from Sriharikota.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q17",
+      "type": "fill-blank",
+      "question": "Comment on the National Wetland Conservation Programme initiated by the Government of India and name a few of India's wetlands of international importance included in the Ramsar Sites.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q18",
+      "type": "fill-blank",
+      "question": "The Intergovernmental Panel on Climate Change (IPCC) has predicted a global sea level rise of about one metre by AD\n2100. What would be its impact in India and the other countries in the Indian Ocean region?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q19",
+      "type": "fill-blank",
+      "question": "What are the internal security challenges being faced by India? Give out the role of Central Intelligence and Investigative Agencies tasked to counter such threats.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_gs3_q20",
+      "type": "fill-blank",
+      "question": "Give out the major sources of terror funding in India and measures required to be taken to control the same.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains GS Paper III",
+        "descriptive"
+      ]
+    }
+  ]
+}

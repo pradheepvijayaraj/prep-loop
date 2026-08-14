@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2018_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $A$ be a $3\\times 2$ matrix and $B$ a $2\\times 3$ matrix. Show that $C=A\\cdot B$ is a singular matrix.\n(b) Express basis vectors $e_1=(1, 0)$ and $e_2=(0, 1)$ as linear combinations of $\\alpha_1=(2,-1)$ and $\\alpha_2=(1, 3)$.\n(c) Determine if $\\lim_{z\\to 1}(1-z)\\tan\\frac{\\pi z}{2}$ exists or not. If the limit exists, then find its value.\n(d) Find the limit $\\lim_{n\\to\\infty}\\frac{1}{n^2}\\sum_{r=0}^{n-1}\\sqrt{n^2-r^2}$.\n(e) Find the projection of the straight line $\\frac{x-1}{2}=\\frac{y-1}{3}=\\frac{z+1}{-1}$ on the plane $x+y+2z=6$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Show that if $A$ and $B$ are similar $n\\times n$ matrices, then they have the same eigenvalues.\n(b) Find the shortest distance from the point $(1, 0)$ to the parabola $y^2=4x$.\n(c) The ellipse $\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$ revolves about the $x$-axis. Find the volume of the solid of revolution.\n(d) Find the shortest distance between the lines $a_1x+b_1y+c_1z+d_1=0$, $a_2x+b_2y+c_2z+d_2=0$ and the $z$-axis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) For the system of linear equations $x+3y-2z=-1$, $5y+3z=-8$, $x-2y-5z=7$, determine which of the following statements are true and which are false: (i) The system has no solution.\n(ii) The system has a unique solution.\n(iii) The system has infinitely many solutions.\n(b) Let $f(x,y)=xy^2$ if $y>0$ and $f(x,y)=-xy^2$ if $y\\le 0$. Determine which of $\\frac{\\partial f}{\\partial x}(0, 1)$ and $\\frac{\\partial f}{\\partial y}(0, 1)$ exists and which does not exist.\n(c) Find the equations to the generating lines of the paraboloid $(x+y+z)(2x+y-z)=6z$ which pass through the point $(1, 1,1)$.\n(d) Find the equation of the sphere in $xyz$-plane passing through the points $(0, 0,0)$, $(0, 1,-1)$, $(-1, 2,0)$ and $(1, 2,3)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Find the maximum and the minimum values of $x^4-5x^2+4$ on the interval $[2, 3]$.\n(b) Evaluate the integral $\\int_0^a\\int_{x/a}^{x}\\frac{x\\,dy\\,dx}{x^2+y^2}$.\n(c) Find the equation of the cone with $(0, 0,1)$ as the vertex and $2x^2-y^2=4$, $z=0$ as the guiding curve.\n(d) Find the equation of the plane parallel to $3x-y+3z=8$ and passing through the point $(1, 1,1)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section A"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve $y''-y=x^2 e^{2x}$.\n(b) Find the angle between the tangent at a general point of the curve whose equations are $x=3t$, $y=3t^2$, $z=3t^3$ and the line $y=z-x=0$.\n(c) Solve $y'''-6y''+12y'-8y=12e^{2x}+27e^{-x}$.\n(d) (i) Find the Laplace transform of $f(t)=\\frac{1}{\\sqrt{t}}$.\n(ii) Find the inverse Laplace transform of $\\frac{5s^2+3s-16}{(s-1)(s-2)(s+3)}$.\n(e) A particle projected from a given point on the ground just clears a wall of height $h$ at a distance $d$ from the point of projection. If the particle moves in a vertical plane and if the horizontal range is $R$, find the elevation of the projection.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve $\\bigl(\\frac{dy}{dx}\\bigr)^2 y+2\\frac{dy}{dx}x-y=0$.\n(b) A particle moving with simple harmonic motion in a straight line has velocities $v_1$ and $v_2$ at distances $x_1$ and $x_2$ respectively from the centre of its path. Find the period of its motion.\n(c) Solve $y''+16y=32\\sec 2x$.\n(d) If $S$ is the surface of the sphere $x^2+y^2+z^2=a^2$, then evaluate the surface integral of $(x+z)\\,dy\\,dz+(y+z)\\,dz\\,dx+(x+y)\\,dx\\,dy$ over $S$ using Gauss divergence theorem.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) Solve $(1+x)^2 y''+(1+x)y'+y=4\\cos(\\log(1+x))$.\n(b) Find the curvature and torsion of the curve $\\vec{r}=a(u-\\sin u)\\hat{i}+a(1-\\cos u)\\hat{j}+bu\\,\\hat{k}$.\n(c) Solve the initial value problem $y''-5y'+4y=e^{2t}$, $y(0)=\\frac{19}{12}$, $y'(0)=\\frac{8}{3}$.\n(d) Find $\\alpha$ and $\\beta$ such that $x^\\alpha y^\\beta$ is an integrating factor of $(4y^2+3xy)\\,dx-(3xy+2x^2)\\,dy=0$ and solve the equation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Let $\\vec{v}=v_1\\hat{i}+v_2\\hat{j}+v_3\\hat{k}$. Show that $\\mathrm{curl}(\\mathrm{curl}\\,\\vec{v})=\\mathrm{grad}(\\mathrm{div}\\,\\vec{v})-\\nabla^2\\vec{v}$.\n(b) Evaluate the line integral $\\int_C -y^3\\,dx+x^3\\,dy+z^3\\,dz$ using Stokes' theorem. Here $C$ is the intersection of the cylinder $x^2+y^2=1$ and the plane $x+y+z=1$. The orientation on $C$ corresponds to counterclockwise motion in the $xy$-plane.\n(c) Let $\\vec{F}=xy^2\\hat{i}+(y+x)\\hat{j}$. Integrate $(\\nabla\\times\\vec{F})\\cdot\\hat{k}$ over the region in the first quadrant bounded by the curves $y=x^2$ and $y=x$ using Green's theorem.\n(d) Find $f(y)$ such that $(2xe^y+3y^2)\\,dy+(3x^2+f(y))\\,dx=0$ is exact and hence solve.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mathematics Optional Paper I",
+        "descriptive",
+        "Section B"
+      ]
+    }
+  ]
+}

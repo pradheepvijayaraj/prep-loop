@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2012",
+    "exam": "UPSC CSE",
+    "totalQuestions": 5,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2012,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2012_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2012_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Indian women in international sports.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Cultivation of organic foods.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Foreign Direct Investment in retail — boon or bane?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "How effective are our systems and institutions in dealing with disasters?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Food security — legislation and implementation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Mains Essay",
+        "descriptive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2818 @@
+{
+  "metadata": {
+    "name": "Prelims CSAT (GS Paper II) · 2026",
+    "exam": "UPSC CSE",
+    "totalQuestions": 80,
+    "difficulty": "hard",
+    "defaultDuration": 7200,
+    "year": 2026,
+    "stage": "Prelims",
+    "paper": "CSAT",
+    "section": "prelims-csat",
+    "sourceId": "upsc_2026_csat",
+    "practiceMode": "mcq",
+    "contentVersion": 44
+  },
+  "questions": [
+    {
+      "id": "upsc_2026_csat_q1",
+      "type": "single-choice",
+      "question": "The class average $x$ in a test increases by 4 when the score of a student is rectified, whose corrected score is 100 instead of 0. Later, the score of another student was found to have been recorded as 81 in place of 56. If there are no other corrections and the final corrected average is $y$, then $y - x$ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q2",
+      "type": "single-choice",
+      "question": "If $x$ and $y$ are integers, then is $x$ even?\nStatement I:\n$x^2 y^2$ is even.\nStatement II:\n$1 + x^2 + y^2$ is odd.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement"
+        },
+        {
+          "id": "b",
+          "text": "Select this option if the question can be answered using either statement alone"
+        },
+        {
+          "id": "c",
+          "text": "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone"
+        },
+        {
+          "id": "d",
+          "text": "Select this option if the question cannot be answered even using any of the statements"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q3",
+      "type": "single-choice",
+      "question": "If $x$, $y$ and $z$ are integers, each greater than 1, then is $x$ a prime number?\nStatement I:\n$xy^2 = 116$\nStatement II:\n$xz = 261$",
+      "options": [
+        {
+          "id": "a",
+          "text": "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement"
+        },
+        {
+          "id": "b",
+          "text": "Select this option if the question can be answered using either statement alone"
+        },
+        {
+          "id": "c",
+          "text": "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone"
+        },
+        {
+          "id": "d",
+          "text": "Select this option if the question cannot be answered even using any of the statements"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q4",
+      "type": "single-choice",
+      "question": "For two distinct real numbers $x$ and $y$, which of them is bigger?\nStatement I:\n$x^2 < y < 1$\nStatement II:\n$y < \\sqrt{x} < 1$",
+      "options": [
+        {
+          "id": "a",
+          "text": "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement"
+        },
+        {
+          "id": "b",
+          "text": "Select this option if the question can be answered using either statement alone"
+        },
+        {
+          "id": "c",
+          "text": "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone"
+        },
+        {
+          "id": "d",
+          "text": "Select this option if the question cannot be answered even using any of the statements"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q5",
+      "type": "single-choice",
+      "question": "The weight of $X$, in kg, is denoted by $X$. The weights of $A$, $B$, $C$, $D$, $P$, $Q$, $R$ and $S$ are measured. Given:\n$$A + B + C + D = 17$$\n$$A + C = 6$$\n$$P + Q + S + D = 15$$\n$$P + Q + R + B = 17$$\n$$P = R \\text{ and } Q = S$$\n\nWhich one of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$B$ and $D$ together weigh less than the total weight of $P$ and $Q$."
+        },
+        {
+          "id": "b",
+          "text": "$P$ and $Q$ together weigh more than the total weight of $A$ and $C$."
+        },
+        {
+          "id": "c",
+          "text": "$P$ weighs more than $Q$."
+        },
+        {
+          "id": "d",
+          "text": "$Q$ weighs more than $P$."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q6",
+      "type": "single-choice",
+      "question": "In a recruitment process, the selection of candidates is based on their performance in three components. The weightages of the components 1, 2 and 3 are 0.2, 0.3 and 0.5, respectively. Use the data given below and find the cutoff score if exactly three candidates are to be selected:\n\n| Candidate | Score in component 1 | Score in component 2 | Score in component 3 |\n|---|---|---|---|\n| 1 | 5 | 4 | 6 |\n| 2 | 4 | 6 | 5 |\n| 3 | 3 | 2 | 8 |\n| 4 | 9 | 4 | 3 |\n| 5 | 8 | 8 | 2 |",
+      "options": [
+        {
+          "id": "a",
+          "text": "5.1"
+        },
+        {
+          "id": "b",
+          "text": "5.2"
+        },
+        {
+          "id": "c",
+          "text": "5.3"
+        },
+        {
+          "id": "d",
+          "text": "5.4"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q7",
+      "type": "single-choice",
+      "question": "If $x$ and $y$ are two digits and the number $4x5y790$ is divisible by 11, then what is the remainder, if $x+y$ is divided by 11?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q8",
+      "type": "single-choice",
+      "question": "In an objective type question paper, 5 marks are awarded for a correct answer and 2 marks are deducted for a wrong answer. A student attempted all the questions and got a score of 69. Had he been awarded 4 marks for a correct answer and 1 mark deducted for a wrong answer, he would have scored 84. How many questions were there in the question paper?",
+      "options": [
+        {
+          "id": "a",
+          "text": "99"
+        },
+        {
+          "id": "b",
+          "text": "81"
+        },
+        {
+          "id": "c",
+          "text": "84"
+        },
+        {
+          "id": "d",
+          "text": "79"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q9",
+      "type": "single-choice",
+      "question": "$X$ is a collection of certain odd numbers whereas $Y$ is a collection of certain even numbers. $T$ consists of the numbers all of which are either from $X$ or from $Y$. Is every number of $T$ from $Y$?\nStatement I:\nThe sum of any two numbers belonging to $T$ is even.\nStatement II:\nIf both $p$ and $q$ are picked from $T$, then $(p - 1)q$ is even.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement"
+        },
+        {
+          "id": "b",
+          "text": "Select this option if the question can be answered using either statement alone"
+        },
+        {
+          "id": "c",
+          "text": "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone"
+        },
+        {
+          "id": "d",
+          "text": "Select this option if the question cannot be answered even using any of the statements"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q10",
+      "type": "single-choice",
+      "question": "Consider the following statements:\nEvery red is blue. Every blue is green. Every green is yellow.\n\nWhich of the following statements denoted by $P$, $Q$ and $R$ are correct?\n$P$. Every blue is yellow.\n$Q$. Every red is green.\n$R$. Every red is yellow.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "$P$ and $Q$ only"
+        },
+        {
+          "id": "b",
+          "text": "$Q$ and $R$ only"
+        },
+        {
+          "id": "c",
+          "text": "$P$ and $R$ only"
+        },
+        {
+          "id": "d",
+          "text": "$P$, $Q$ and $R$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q11",
+      "type": "single-choice",
+      "question": "The ratio of male to female workers in two companies $A$ and $B$ is $13 : 10$ and $7 : 5$, respectively. If both the companies have the same number of female workers, then what is the ratio of the total number of workers in $A$ to those in $B$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$24 : 23$"
+        },
+        {
+          "id": "b",
+          "text": "$23 : 24$"
+        },
+        {
+          "id": "c",
+          "text": "$18 : 17$"
+        },
+        {
+          "id": "d",
+          "text": "$27 : 18$"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q12",
+      "type": "single-choice",
+      "question": "The top of a table is rectangular and its dimensions are $6' \\times 10'$. Two rectangular portions of the table top are painted in blue colour; both these portions have dimensions $2.5' \\times 8'$ and each of them has exactly two sides common with two edges of the table top. If the table is fixed to the ground and the remaining portion of the table top is painted in white, how many different patterns are possible when observed from above?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q13",
+      "type": "single-choice",
+      "question": "The digit in the unit place of the number $6^{129} \\times 7^{307}$ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q14",
+      "type": "single-choice",
+      "question": "A toy $T$ jumps forward or backward. In each forward jump, it moves $5'$ forward whereas in each backward jump, it moves $2'$ backward. If in 31 jumps, $T$ moves exactly $15'$ forward, then what is the difference of the number of forward and backward jumps?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "7"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "9"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q15",
+      "type": "single-choice",
+      "question": "How many words can one form by shuffling the letters of the word QUEUE, if Q is always followed by U? The words thus formed need not necessarily have any meaning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q16",
+      "type": "single-choice",
+      "question": "Match List-I with List-II and select the answer using the code given below the Lists:\n\n**List-I (Relationship category)**\nA. Between cricket captain and team members\nB. Between judge and lawyers in court\nC. Between Vice Chancellor and Deputy Registrar\nD. Between peers and coworkers\n\n**List-II (Communication type)**\n1. Informal and firm\n2. Informal and open-ended\n3. Formal and open-ended\n4. Formal and firm\n\nCode:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A-1, B-3, C-4, D-2"
+        },
+        {
+          "id": "b",
+          "text": "A-1, B-4, C-3, D-2"
+        },
+        {
+          "id": "c",
+          "text": "A-2, B-4, C-3, D-1"
+        },
+        {
+          "id": "d",
+          "text": "A-2, B-3, C-4, D-1"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q17",
+      "type": "single-choice",
+      "question": "A person facing the East travels 4 km straight and then turns right and travels 3 km, then further turns left and travels 2 km and finally turns left and travels 3 km. The minimum distance between the final point and the initial point, and the direction in which the person is facing at the final point are, respectively",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 km, East"
+        },
+        {
+          "id": "b",
+          "text": "6 km, East"
+        },
+        {
+          "id": "c",
+          "text": "8 km, North"
+        },
+        {
+          "id": "d",
+          "text": "6 km, North"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q18",
+      "type": "single-choice",
+      "question": "There are two chemicals which do not react with each other. A container contains 10 litres of the chemical $A$. One litre of this chemical is removed from it and one litre of the chemical $B$ is poured. Then one litre of the mixture is removed from the container and one litre of $B$ is poured. If this process of replacing one litre of the mixture by one litre of $B$ is performed once more, then what is the volume of $B$ that is present in the container approximately (in percentage)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "25"
+        },
+        {
+          "id": "b",
+          "text": "27"
+        },
+        {
+          "id": "c",
+          "text": "29"
+        },
+        {
+          "id": "d",
+          "text": "31"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q19",
+      "type": "single-choice",
+      "question": "What is the minimum number of times one needs to measure to get 298 litres of water from a tank, if the measuring cylinders have capacities 1 litre, 6 litres, 25 litres and 100 litres?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "13"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q20",
+      "type": "single-choice",
+      "question": "A shopkeeper employs a delivery boy and gives him a motorcycle for home delivery. For every delivery, the boy is given ₹ 5. At the end of the day, he also gets ₹ 2 for every kilometre of the distance covered in the day. The boy wants to earn more than ₹ 500 a day, but does not want to travel more than 100 km. Which of the following numbers of deliveries would definitely meet his target?",
+      "options": [
+        {
+          "id": "a",
+          "text": "80"
+        },
+        {
+          "id": "b",
+          "text": "85"
+        },
+        {
+          "id": "c",
+          "text": "90"
+        },
+        {
+          "id": "d",
+          "text": "The question cannot be answered due to insufficient data"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q21",
+      "type": "single-choice",
+      "question": "The speed of a train $T$ is 100 km per hour and the speed of a person $P$ is 4 km per hour. $T$ crosses $P$ in 15 seconds, if $P$ travels along the direction of motion of $T$. If $P$ travels along the opposite direction of $T$, then in how much time does $T$ cross $P$, in seconds, approximately?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13.51"
+        },
+        {
+          "id": "b",
+          "text": "13.65"
+        },
+        {
+          "id": "c",
+          "text": "13.85"
+        },
+        {
+          "id": "d",
+          "text": "14.05"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q22",
+      "type": "single-choice",
+      "question": "Consider the following three statements, namely S1, S2 and S3:\n\nS1. Protecting the environment is an existential exigency for humans, given the impact of environmental degradation on climate change.\n\nS2. Scientific consensus has not been achieved with regard to the extent of the contribution of human intervention to climate change.\n\nS3. Environmental activism includes climate alarmism and other extremist points of view that often become the focus of climate change deniers.\n\nWhich of the following relationships based on the statements given above is/are correct?\n\n1. S3 is a counterpoint to S1\n2. S3 is unconnected to S1 and S2\n3. S2 could be the reason for S3\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q23",
+      "type": "single-choice",
+      "question": "In a sequence of numbers, each number other than the first two is the sum of the two immediately preceding numbers from it. If the first two numbers in the sequence are 4 and 7, then the sixth number is",
+      "options": [
+        {
+          "id": "a",
+          "text": "29"
+        },
+        {
+          "id": "b",
+          "text": "37"
+        },
+        {
+          "id": "c",
+          "text": "43"
+        },
+        {
+          "id": "d",
+          "text": "47"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q24",
+      "type": "single-choice",
+      "question": "Eight persons $P$, $Q$, $R$, $S$, $T$, $U$, $V$ and $W$ sit around a round table in eight different seats placed with equal distance between any two consecutive seats. Both $P$ and $R$ are adjacent to $Q$. Both $T$ and $R$ are adjacent to $S$. Both $U$ and $W$ are adjacent to $V$. $S$ and $W$ are on opposite chairs. If while going in the clockwise direction around the table from $P$, one meets $R$ before $T$, then how many persons shall $Q$ cross while moving in the clockwise direction around the table before meeting $W$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "2"
+        },
+        {
+          "id": "d",
+          "text": "1"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q25",
+      "type": "single-choice",
+      "question": "If ZERO is encoded as ADSN, then how do you encode STOP?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SPOT"
+        },
+        {
+          "id": "b",
+          "text": "TSPO"
+        },
+        {
+          "id": "c",
+          "text": "TSOP"
+        },
+        {
+          "id": "d",
+          "text": "POST"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q26",
+      "type": "single-choice",
+      "question": "Two identical straight rods are painted in five distinct colours so that each of them gets divided into five equal parts along the length. In one of them, the portions are marked $P1$, $P2$, $P3$, $P4$ and $P5$ (not necessarily in that order) whereas in the other, they are marked $Q1$, $Q2$, $Q3$, $Q4$ and $Q5$ (not necessarily in that order). When the rods are kept parallel to each other side by side, $P1$ and $Q3$ match, $P4$ matches $Q1$ or $Q2$, and $Q4$ matches $P3$ or $P5$. If $Q3$ and $Q5$ are adjacent, which of the following is/are possible?\nI. $Q3$ is marked at the middle portion of the straight rod.\nII. $P2$ is marked at one of the extreme portions of the straight rod.\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q27",
+      "type": "single-choice",
+      "question": "$P$ has a son and a daughter. $S$ is the mother of $T$. $S$ is $R$'s spouse. $Q$ and $R$ are children of $P$. Then how is $Q$ related to $S$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$Q$ is a sister of $S$"
+        },
+        {
+          "id": "b",
+          "text": "$Q$ is a daughter of $S$"
+        },
+        {
+          "id": "c",
+          "text": "$Q$ is the mother of $S$"
+        },
+        {
+          "id": "d",
+          "text": "$Q$ is a sister of the husband of $S$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q28",
+      "type": "single-choice",
+      "question": "A cut on a solid object divides the object into two parts where the new surfaces thus produced are plane. On the other hand, one single cut can be used to cut more than one object at a time. In an experiment, the total number of pieces produced by applying $n$ cuts is denoted by $x_n$. The experiment is performed on a solid cube where pieces remain unmoved after each cut. In this experiment, if after the third cut, the pieces are identical, then which of the following is **not** a possible value for $x_4$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "16"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "8"
+        },
+        {
+          "id": "d",
+          "text": "5"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q29",
+      "type": "single-choice",
+      "question": "$P$, $Q$, $R$, $S$ and $T$ are ranked 1 to 5 (not necessarily in that order). The rank of $P$ is 4, the rank of $Q$ is not 5, the rank of $R$ is 1, the rank of $S$ is not 2, the rank of $T$ is not 3. Then which of the following is/are correct?\nI. If the rank of $S$ is 3, then that of $T$ is 2.\nII. If the rank of $Q$ is 3, then that of $T$ is 5.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q30",
+      "type": "single-choice",
+      "question": "There are four types of weights, namely 1 kg, 2 kg, 5 kg and 10 kg. What is the maximum number of different ways one can measure 20 kg, if at least eight but not more than eleven weights of 1 kg are to be used while measuring?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "10"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q31",
+      "type": "single-choice",
+      "question": "$X$ and $Y$ are two runners who run for the same duration of time on the same circular track. They started running at the same time in the same direction with uniform speeds. When $X$ completed 7 rounds, $Y$ did exactly 5. After completing 5 rounds, $Y$ changed his direction and started running in the opposite direction with speed which is double of his earlier speed. On the other hand, $X$ continued to run with the same speed. They stopped running when $X$ completed exactly 21 rounds. How many times did $X$ and $Y$ meet after they had started and before they finally stopped?",
+      "options": [
+        {
+          "id": "a",
+          "text": "35"
+        },
+        {
+          "id": "b",
+          "text": "34"
+        },
+        {
+          "id": "c",
+          "text": "31"
+        },
+        {
+          "id": "d",
+          "text": "29"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q32",
+      "type": "single-choice",
+      "question": "Seven cubes are identical in shape. Out of these, the weight of each of the six cubes is equal and the weight of the remaining cube is less than the weight of any other cube. A balance is used to identify the lightest cube. What is the minimum number of attempts required to distinguish the odd cube with certainty?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "3"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "1"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q33",
+      "type": "single-choice",
+      "question": "A person saves 10% of his salary every month. If his salary increases by 12% and the expenditure increases by 10%, then what will be the change in his saving per month?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20% increase"
+        },
+        {
+          "id": "b",
+          "text": "30% increase"
+        },
+        {
+          "id": "c",
+          "text": "03% decrease"
+        },
+        {
+          "id": "d",
+          "text": "02% decrease"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q34",
+      "type": "single-choice",
+      "question": "Suppose $x$, $y$ and $z$ are variables taking positive real numbers as their possible values. It is given that $y$ is directly proportional to $x^2$ and $x$ is inversely proportional to $z$. For $z = \\frac{7}{25}$, the values of $x$ and $y$ are 5 and 50, respectively. If $y = 98$, what is $z$ equal to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$\\frac{1}{7}$"
+        },
+        {
+          "id": "b",
+          "text": "$\\frac{1}{5}$"
+        },
+        {
+          "id": "c",
+          "text": "$\\frac{5}{7}$"
+        },
+        {
+          "id": "d",
+          "text": "1"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q35",
+      "type": "single-choice",
+      "question": "How many times does 5 appear in all two-digit positive integers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "18"
+        },
+        {
+          "id": "b",
+          "text": "19"
+        },
+        {
+          "id": "c",
+          "text": "20"
+        },
+        {
+          "id": "d",
+          "text": "21"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q36",
+      "type": "single-choice",
+      "question": "Three variables $x$, $y$ and $z$ take values $2, 3, 4$ or 5 such that their values are always distinct. If $M$ and $N$ denote the largest possible value and the smallest possible value, respectively, for the expression $\\{(x \\times y) + z\\}$; then $M - N$ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "11"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "13"
+        },
+        {
+          "id": "d",
+          "text": "14"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q37",
+      "type": "single-choice",
+      "question": "An alloy $P$ contains $20\\%$ copper and $80\\%$ zinc by weight. Another alloy $Q$ contains $60\\%$ copper and $40\\%$ zinc by weight. A third alloy $R$ is to be prepared from $P$ and $Q$ so that it contains equal amount of copper and zinc. In what ratio, amounts of $P$ and $Q$ be mixed in order to get $R$?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$1:3$"
+        },
+        {
+          "id": "b",
+          "text": "$3:1$"
+        },
+        {
+          "id": "c",
+          "text": "$2:3$"
+        },
+        {
+          "id": "d",
+          "text": "$3:2$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q38",
+      "type": "single-choice",
+      "question": "How many three-digit numbers can be expressed as an integral power of 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q39",
+      "type": "single-choice",
+      "question": "A train has to complete a journey of 800 km. If it meets a minor accident, its speed becomes half of the existing speed. If there is a mechanical defect, the speed becomes one-fourth of the existing speed. On its way, the train meets with a minor accident after 200 km; and 400 km thereafter, it develops a mechanical defect. Had the train developed the mechanical defect after 200 km and met the minor accident 400 km thereafter, it would have taken 4 more hours to reach its destination. What was the original speed of the train in km per hour?",
+      "options": [
+        {
+          "id": "a",
+          "text": "200"
+        },
+        {
+          "id": "b",
+          "text": "190"
+        },
+        {
+          "id": "c",
+          "text": "150"
+        },
+        {
+          "id": "d",
+          "text": "100"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q40",
+      "type": "single-choice",
+      "question": "Which among the following actions would constitute the most appropriate directive(s) in resolving interpersonal conflict in an office with culturally diverse personnel?\n\n1. Direct personnel to practise activities that are the cultural markers of diverse groups\n2. Allow conflicts to resolve naturally over time to set an appropriate precedent of leadership\n3. Encourage personnel to seek each other's perspectives\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q41",
+      "type": "single-choice",
+      "question": "For $\\frac{1}{3} < x < y < 2$, which of the following statements is/are always correct?\nI. $x + \\frac{1}{x} < y + \\frac{1}{y}$\nII. $\\frac{\\sqrt{1 + y^2}}{y} < \\frac{\\sqrt{1 + x^2}}{x}$\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q42",
+      "type": "single-choice",
+      "question": "Match List-I with List-II and select the answer using the code given below the Lists:\n\n**List-I (Tool of communication)**\nA. Memorandum\nB. Flyer\nC. Bcc\nD. Minutes\n\n**List-II (Purpose)**\n1. To record decisions\n2. To inform confidentially\n3. To intimate a directive\n4. To disseminate non-targeted information",
+      "options": [
+        {
+          "id": "a",
+          "text": "A-1, B-4, C-2, D-3"
+        },
+        {
+          "id": "b",
+          "text": "A-1, B-2, C-4, D-3"
+        },
+        {
+          "id": "c",
+          "text": "A-3, B-4, C-2, D-1"
+        },
+        {
+          "id": "d",
+          "text": "A-3, B-2, C-4, D-1"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q43",
+      "type": "single-choice",
+      "question": "A pattern formed by two characters $a$ and $b$ is repeated more than once in the following string:\n\n$x \\, b \\, x \\, a \\, x \\, a \\, x \\, x \\, a \\, x \\, a \\, x \\, b \\, a \\, b$\n\nWhat is $x \\, x$ in the 7th and 8th positions from the left in the above string?",
+      "options": [
+        {
+          "id": "a",
+          "text": "$aa$"
+        },
+        {
+          "id": "b",
+          "text": "$ab$"
+        },
+        {
+          "id": "c",
+          "text": "$ba$"
+        },
+        {
+          "id": "d",
+          "text": "$bb$"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q44",
+      "type": "single-choice",
+      "question": "There are three types of rectangular tiles: $3' \\times 3'$, $3' \\times 7'$ and $3' \\times 11'$. An area of rectangular shape of dimensions $3' \\times 100'$ is to be covered using these tiles without breaking them. If $x$ and $y$ are the maximum and minimum numbers of tiles of various sizes, respectively, that can be used to cover the area exactly, then $x - y$ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "20"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q45",
+      "type": "single-choice",
+      "question": "You are required to design a 'questionnaire' to be filled on-location by visitors, based on the following objective while writing a report:\n\n\"To determine the feasibility of setting up a family-oriented vacation resort in the vicinity of a lake destination in the mountains\"\n\nWhich of the following heads would you include in the questionnaire to make it most appropriate for your purpose?\n\n1. Size of family\n2. Budget\n3. Number of earners in the family\n4. Food allergies and dietary restrictions\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q46",
+      "type": "single-choice",
+      "question": "If the product of the HCF and LCM of two distinct numbers is the cube of one of the numbers, then which of the following statements is/are correct?\n\nI. The difference of the numbers is an even number.\nII. One of the numbers is a perfect square.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q47",
+      "type": "single-choice",
+      "question": "An explosion takes place at a certain distance from an army camp. As soon as the sensor in the camp receives the sound of the explosion, a drone starts flying towards the spot of explosion. The drone clicks a picture from the spot and the camp receives it at the same time. Immediately another drone starts flying to the spot and it also sends a picture as soon as it reaches the spot. The two pictures were received at 5:02 PM and 5:05 PM, respectively. If the speed of the drones is 30 m/s, at what time did the explosion take place? Assume that the speed of sound is 300 m/s.",
+      "options": [
+        {
+          "id": "a",
+          "text": "4:59:00 PM"
+        },
+        {
+          "id": "b",
+          "text": "4:59:02 PM"
+        },
+        {
+          "id": "c",
+          "text": "4:58:42 PM"
+        },
+        {
+          "id": "d",
+          "text": "4:56:32 PM"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q48",
+      "type": "single-choice",
+      "question": "$A$ is a 2-digit number with different digits. $B$ is also a 2-digit number and is obtained by reversing the digits of $A$. If $A - B$ is a multiple of 27, where $A > B$, how many such different $A$'s are possible?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "9"
+        },
+        {
+          "id": "c",
+          "text": "12"
+        },
+        {
+          "id": "d",
+          "text": "18"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q49",
+      "type": "single-choice",
+      "question": "There are four statements $X$, $Y$, $Z$ and $W$. Their relations are as follows:\nIf $X$ is incorrect, then so is $Z$; if $Y$ is incorrect, then $W$ is correct; if $W$ is correct, then $X$ is incorrect.\nWhich of the following is/are correct?\nI. If $X$ is correct, then so is $Y$.\nII. If $Z$ is correct, then it is not necessary that $Y$ is correct.\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I only"
+        },
+        {
+          "id": "b",
+          "text": "II only"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q50",
+      "type": "single-choice",
+      "question": "Three partners $A$, $B$ and $C$ entered into a business. $A$ invested one-third of the capital for one-third duration. $B$ invested one-fourth of the capital for one-fourth duration. $C$ invested the remaining capital for the whole duration. Out of a profit of ₹ $17,000$, how much profit will $C$ get?",
+      "options": [
+        {
+          "id": "a",
+          "text": "₹ $12,000$"
+        },
+        {
+          "id": "b",
+          "text": "₹ $10,000$"
+        },
+        {
+          "id": "c",
+          "text": "₹ $12,500$"
+        },
+        {
+          "id": "d",
+          "text": "₹ $10,750$"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q51",
+      "type": "single-choice",
+      "question": "With reference to 'circular letters', which of the following statements is/are correct?\n\n1. Circular letters are usually addressed to a group of people.\n2. Non-standard and customized content is typical of circular letters.\n3. Circular letters are used to intimate appraisals and increments of employees within organisations.\n4. Circular letters are less cost-effective than personalised and specific recipient-directed letters.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q52",
+      "type": "single-choice",
+      "question": "$X$, $Y$ and $Z$ jump forward $4'$, $6'$ and $5'$, respectively. At 8 AM, they all land on mark $199'$. How many times will they all land on the same mark (need not be at the same moment) between mark $195'$ and $1000'$, if all of them cross mark $1000'$ by 9 AM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "11"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "13"
+        },
+        {
+          "id": "d",
+          "text": "14"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q53",
+      "type": "single-choice",
+      "question": "$X$ travels 6 km on a bicycle with average speeds of 5 km per hour, 10 km per hour and 4 km per hour during the first 1 km, the next 2 km and the remaining 3 km, respectively. $Y$ travels the same distances with average speeds of 4 km per hour, 10 km per hour and 5 km per hour, respectively. How many minutes early will $Y$ complete the journey if both $X$ and $Y$ start at the same time?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q54",
+      "type": "single-choice",
+      "question": "If $10^m \\times 1000 \\times n = 75^{25} \\times 25^{32} \\times 32^{75}$, where $n$ is not divisible by 10, then the value of $m$ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "101"
+        },
+        {
+          "id": "b",
+          "text": "111"
+        },
+        {
+          "id": "c",
+          "text": "121"
+        },
+        {
+          "id": "d",
+          "text": "131"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q55",
+      "type": "single-choice",
+      "question": "Match List-I with List-II and select the answer using the code given below the Lists:\n\n**List-I (Barrier to communication)**\nA. Semantic\nB. Cognitive\nC. Organisational\nD. Affective\n\n**List-II (Example)**\n1. Lack of feedback\n2. Misunderstanding the meaning of a word\n3. Fear of social stigma\n4. Information overload",
+      "options": [
+        {
+          "id": "a",
+          "text": "A-3, B-1, C-4, D-2"
+        },
+        {
+          "id": "b",
+          "text": "A-3, B-4, C-1, D-2"
+        },
+        {
+          "id": "c",
+          "text": "A-2, B-1, C-4, D-3"
+        },
+        {
+          "id": "d",
+          "text": "A-2, B-4, C-1, D-3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q56",
+      "type": "single-choice",
+      "question": "Seven persons $A$, $B$, $C$, $D$, $E$, $F$ and $G$ travel by three cars $X$, $Y$, $Z$. $A$ and another two of them travel by $X$. Only $E$ travels with $G$. $C$ travels by $Z$, but $B$ does not travel by $Y$. Besides, $A$ and $B$ do not travel by the same car. Then which of the following are correct?\nI. No one travels alone.\nII. Only $D$ travels with $F$.\nIII. Only $C$ travels with $B$.\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I and II only"
+        },
+        {
+          "id": "b",
+          "text": "I and III only"
+        },
+        {
+          "id": "c",
+          "text": "II and III only"
+        },
+        {
+          "id": "d",
+          "text": "All the three"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q57",
+      "type": "single-choice",
+      "question": "$X$ receives three coins of different denominations: 1, 2, 5, 10 and 20. If the total amount received by $X$ is $m$, does $X$ receive a coin of denomination 5?\nStatement I:\n$m$ is not a prime number.\nStatement II:\nThe sum of the digits of $m$ is greater than 5.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Select this option if the question can be answered using one of these statements alone, but cannot be answered using other statement"
+        },
+        {
+          "id": "b",
+          "text": "Select this option if the question can be answered using either statement alone"
+        },
+        {
+          "id": "c",
+          "text": "Select this option if the question can be answered using both the statements together, but cannot be answered using either statement alone"
+        },
+        {
+          "id": "d",
+          "text": "Select this option if the question cannot be answered even using any of the statements"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "maths"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q58",
+      "type": "single-choice",
+      "question": "India is starting to deploy AI for critical use cases such as weather forecasting, pest detection and control, and crop yield optimisation. However, penetration is limited to a small subset of tech-savvy farmers. In the US and in Europe, generative AI tools have started offering precision farming at scale, integrating large datasets to provide real-time agronomic insights. For at-scale integration and accessibility of AI tools in India, it would be helpful to develop Indian languages-based AI tools for smallholder farmers, partner with AgTechs to create affordable AI solutions, and disseminate AI-based advisory services through government programmes.\n\nWhich of the following assumptions is/are **valid**?\n1. Agricultural productivity has marched ahead in the West because of the economies of scale facilitated by the adoption of AI tools.\n2. Affordable AI tools rendered available in local languages can help AI-based solutions reach more and more small farmers.\n3. Though penetration is as yet low, critical application areas deploying AI tools are already in use in India.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q59",
+      "type": "single-choice",
+      "question": "India is starting to deploy AI for critical use cases such as weather forecasting, pest detection and control, and crop yield optimisation. However, penetration is limited to a small subset of tech-savvy farmers. In the US and in Europe, generative AI tools have started offering precision farming at scale, integrating large datasets to provide real-time agronomic insights. For at-scale integration and accessibility of AI tools in India, it would be helpful to develop Indian languages-based AI tools for smallholder farmers, partner with AgTechs to create affordable AI solutions, and disseminate AI-based advisory services through government programmes.\n\nWhich of the following statements is/are **not** correct?\n1. Tech-savvy farmers will drive the AgTech companies of the future.\n2. The development of advisory services by the government programmes for the use of AI tools in agriculture would be helpful.\n3. In the US and Europe, AI tools have replaced traditional agricultural practices.\n4. The integration of large datasets for use in real-time agronomic analysis is already a reality.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q60",
+      "type": "single-choice",
+      "question": "The Juvenile Justice (Care and Protection of Children) Act, or the JJ Act, 2015 allows for the possibility for trying adolescents above 16 as adults if they are accused of committing a heinous offence. A heinous offence is one with a minimum punishment of seven years. Offences such as culpable homicide and causing death by negligence, which are common in drunken driving cases, are not heinous offences because they do not have a prescribed minimum punishment. The JJ Act, amended in 2021, now categorises an offence that has no minimum sentence, but has a maximum sentence of seven years or more as a serious offence which nonetheless, in the opinion of activists, does not merit the transfer of a case to the adult criminal justice system.\n\nWhich of the following conclusions is/are valid?\n1. Only a serious offence as categorised by the revised JJ Act, justifies the transfer of a case to the adult judicial system.\n2. The JJ Act, 2021, categorises an offence as a serious offence based on the maximum sentence it carries, rather than on the minimum sentence.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q61",
+      "type": "single-choice",
+      "question": "The Juvenile Justice (Care and Protection of Children) Act, or the JJ Act, 2015 allows for the possibility for trying adolescents above 16 as adults if they are accused of committing a heinous offence. A heinous offence is one with a minimum punishment of seven years. Offences such as culpable homicide and causing death by negligence, which are common in drunken driving cases, are not heinous offences because they do not have a prescribed minimum punishment. The JJ Act, amended in 2021, now categorises an offence that has no minimum sentence, but has a maximum sentence of seven years or more as a serious offence which nonetheless, in the opinion of activists, does not merit the transfer of a case to the adult criminal justice system.\n\nWhich of the following statements is/are correct?\n1. If an offence has no minimum prescribed punishment, it cannot be considered heinous as per the JJ Act, 2015.\n2. As per the JJ Act, 2021, an offence for which there is a provision for a maximum sentence of seven years or more, but no minimum sentence, is to be considered a serious offence.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q62",
+      "type": "single-choice",
+      "question": "Cattle from the nearby villages came to the common ground to graze, and there was still a cool freshness in the air. Hori took several deep breaths and thought of sitting down for a while, since he'd be dying of heat in the scorching 'loo' wind the rest of the day. A number of farmers were eager to lease this bit of land and had offered a good price, but Rai Sahib—God bless him—had plainly told them it was reserved for grazing and would not be relinquished for any price. If he'd been one of those selfish Zamindars, he'd have said the cattle could go to hell, that there was no reason for him to miss the chance to make a little money. But the Rai Sahib still held to the old values, feeling that any landlord who didn't look after his tenants was less than human.\n\nWhich of the following statements are **not** correct?\n1. The landholdings of Rai Sahib were currently not being used for farming.\n2. Temperamentally, Rai Sahib was as greedy as other landlords.\n3. It cannot be ascertained that Rai Sahib could have made some money by leasing out the grazing land.\n4. It may be asserted that Rai Sahib valued his tenants and wanted to protect their livelihood.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q63",
+      "type": "single-choice",
+      "question": "Cattle from the nearby villages came to the common ground to graze, and there was still a cool freshness in the air. Hori took several deep breaths and thought of sitting down for a while, since he'd be dying of heat in the scorching 'loo' wind the rest of the day. A number of farmers were eager to lease this bit of land and had offered a good price, but Rai Sahib—God bless him—had plainly told them it was reserved for grazing and would not be relinquished for any price. If he'd been one of those selfish Zamindars, he'd have said the cattle could go to hell, that there was no reason for him to miss the chance to make a little money. But the Rai Sahib still held to the old values, feeling that any landlord who didn't look after his tenants was less than human.\n\nWhich of the following conclusions is/are correct?\n1. All landlords essentially have some goodness trapped within them.\n2. The common grazing grounds of a village are intended for use by the cattle of that village.\n3. Landlords who believe in tradition tend to be more concerned about their tenants.\n4. Winds later in the day tend to be cooler post the hot winds of the morning.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "2 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q64",
+      "type": "single-choice",
+      "question": "The key source of the battle for clean skies and clear lungs is the fuel we burn—from household chulhas to the thermal power plants. In most cases, it is biomass or coal. The Supreme Court banned the use of pet coke—the dirtiest of such fuels. The Delhi Government banned the use of coal, which was later extended to the entire National Capital Region. It was also agreed that the thermal power plants would clean up or shut down. Action on this has been patchy to say the least. The lesson from the transition to CNG is that people need alternatives for a ban to be effective. When diesel buses were stopped, CNG supply had to be assured. It also had to be feasible in terms of cost. The Supreme Court agreed that fiscal measures were needed to keep clean fuel cheaper than dirty fuel. Now even as coal is banned, the price of natural gas makes industry uncompetitive.\n\nWhich of the following statements is/are correct?\n1. Thermal power stations in Delhi were required to summarily shut down.\n2. CNG supplies had to be assured once diesel vehicles were prohibited from plying.\n3. The Supreme Court banned the use of coal across the National Capital Region.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q65",
+      "type": "single-choice",
+      "question": "The key source of the battle for clean skies and clear lungs is the fuel we burn—from household chulhas to the thermal power plants. In most cases, it is biomass or coal. The Supreme Court banned the use of pet coke—the dirtiest of such fuels. The Delhi Government banned the use of coal, which was later extended to the entire National Capital Region. It was also agreed that the thermal power plants would clean up or shut down. Action on this has been patchy to say the least. The lesson from the transition to CNG is that people need alternatives for a ban to be effective. When diesel buses were stopped, CNG supply had to be assured. It also had to be feasible in terms of cost. The Supreme Court agreed that fiscal measures were needed to keep clean fuel cheaper than dirty fuel. Now even as coal is banned, the price of natural gas makes industry uncompetitive.\n\nWhich of the following inferences is/are correct?\n1. The source of the energy we consume is the key to the battle for cleaner air.\n2. Bans are effective where the will is strong and the people are convinced that such bans are for the greater good of society.\n3. There is judicial approval for a policy that intervenes fiscally to facilitate benevolent pricing for cleaner fuel.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q66",
+      "type": "single-choice",
+      "question": "The process by which countries close their labour-productivity gap with the technology leader is based on convergence theory. The convergence model divides economic eras into three phases: the breakaway, the catch-up, and the fine-tuning phase. It also divides economic entities into two categories: the technology leaders and the technology followers. The process begins with the development of a new technology, such as scavenging three million years ago (MYA), hunting—one MYA, farming—12 thousand years ago, and industrial technology—a little more than 200 years ago. During the breakaway phase, the per capita income of the technology leaders (e.g., Western Europe and North America in the industrial era) rises, but is unchanged for the technology followers. In the catch-up phase, the followers adopt the new technology and close their per capita income gap with the technology leaders. In the fine-tuning phase, where participants try to extract the remaining benefits from an increasingly exhausted technology, leaders and followers have similar per capita incomes.\n\nWhich of the following conclusions are correct?\n\n1. In the breakaway phase, economic progress is slow for the technology followers.\n2. In the catch-up phase, leaders stagnate and followers, therefore, close the gap between them and the leaders.\n3. In the fine-tuning phase, technology is exhausted, as it were, and both leaders and followers attempt to extract leftover benefits, leading to more or less similar per capita income levels.\n4. Industrial technology followed scavenging, which preceded hunting, which itself was followed by farming.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 and 4 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q67",
+      "type": "single-choice",
+      "question": "The process by which countries close their labour-productivity gap with the technology leader is based on convergence theory. The convergence model divides economic eras into three phases: the breakaway, the catch-up, and the fine-tuning phase. It also divides economic entities into two categories: the technology leaders and the technology followers. The process begins with the development of a new technology, such as scavenging three million years ago (MYA), hunting—one MYA, farming—12 thousand years ago, and industrial technology—a little more than 200 years ago. During the breakaway phase, the per capita income of the technology leaders (e.g., Western Europe and North America in the industrial era) rises, but is unchanged for the technology followers. In the catch-up phase, the followers adopt the new technology and close their per capita income gap with the technology leaders. In the fine-tuning phase, where participants try to extract the remaining benefits from an increasingly exhausted technology, leaders and followers have similar per capita incomes.\n\nWhich of the following statements is/are correct?\n\n1. The convergence model divides nations into three phases of economic progress.\n2. At the heart of the convergence theory is the closing of the gap between labour and productivity.\n3. Technology leaders typically have arrived earlier at different economic eras.\n4. The time period covered by the convergence theory presented herein encompasses, as mentioned, 4012200 years.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 and 4"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q68",
+      "type": "single-choice",
+      "question": "How is deflation done? Most countries use a method called 'double deflation', where input and output prices are deflated separately. Consider a manufacturer importing oil for use in production. If oil prices fall, output prices do not and quantities remain the same, real value added should not change. But if the same deflator is used for inputs and outputs, as in India, it would look as if the manufacturer had become more productive.\n\nWhich of the following assumptions is/are valid?\n\n1. Deflation strategies can be used to make manufacturers appear to be doing better than they actually are.\n2. When input and output prices are both deflated against a single input price, it is referred to as 'double deflation'.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q69",
+      "type": "single-choice",
+      "question": "How is deflation done? Most countries use a method called 'double deflation', where input and output prices are deflated separately. Consider a manufacturer importing oil for use in production. If oil prices fall, output prices do not and quantities remain the same, real value added should not change. But if the same deflator is used for inputs and outputs, as in India, it would look as if the manufacturer had become more productive.\n\nWhich of the following statements is/are correct?\n\n1. Real value should not change in the instance of static output cost and unchanged quantities against falling oil prices.\n2. Deflators are to be used separately for inputs and outputs, and this is a practice universally adopted by all economies.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q70",
+      "type": "single-choice",
+      "question": "When SARS-CoV-2 was first detected in 2019, it was a truly novel virus for the world. At that time, no one in the world had been exposed to SARS-CoV-2 or had specific immunity against it. In contrast, people across the world have been exposed to HMPV for decades and the virus is well-studied. HMPV and SARS-CoV-2 belong to two very different virus families with fundamentally different characteristics and epidemiology, with strong seasonality seen in HMPV, unlike SARS-CoV-2. Both viruses cause different severity of symms, particularly over the long term, and the affected population segments do not fully overlap. In general, HMPV causes milder illness with deaths being very rare and with no long-term post-viral symms.\n\nWhich of the following conclusions is/are valid?\n1. Though SARS-CoV-2 and HMPV are similar viruses with somewhat different epidemiology, the former became a pandemic because it was novel and people had not been exposed to it in the past.\n2. The two viruses have fundamentally different impacts on human populations and should not therefore be dealt with in a similar manner.\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q71",
+      "type": "single-choice",
+      "question": "When SARS-CoV-2 was first detected in 2019, it was a truly novel virus for the world. At that time, no one in the world had been exposed to SARS-CoV-2 or had specific immunity against it. In contrast, people across the world have been exposed to HMPV for decades and the virus is well-studied. HMPV and SARS-CoV-2 belong to two very different virus families with fundamentally different characteristics and epidemiology, with strong seasonality seen in HMPV, unlike SARS-CoV-2. Both viruses cause different severity of symms, particularly over the long term, and the affected population segments do not fully overlap. In general, HMPV causes milder illness with deaths being very rare and with no long-term post-viral symms.\n\nWhich of the following statements reflect the logical and rational inferences that can be drawn from the passage?\n1. HMPV has, historically, had longer documentation of studies when compared with SARS-CoV2\n2. The two viruses are different from each other and this results in markedly different outcomes amongst those affected.\n3. Long-term impacts of the two viruses are dissimilar and this is an important differentiator between them.\n4. One of the common factors between the two viruses is seasonal specificity.\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q72",
+      "type": "single-choice",
+      "question": "When SARS-CoV-2 was first detected in 2019, it was a truly novel virus for the world. At that time, no one in the world had been exposed to SARS-CoV-2 or had specific immunity against it. In contrast, people across the world have been exposed to HMPV for decades and the virus is well-studied. HMPV and SARS-CoV-2 belong to two very different virus families with fundamentally different characteristics and epidemiology, with strong seasonality seen in HMPV, unlike SARS-CoV-2. Both viruses cause different severity of symms, particularly over the long term, and the affected population segments do not fully overlap. In general, HMPV causes milder illness with deaths being very rare and with no long-term post-viral symms.\n\nWhich of the following reflect the intent of the writer in the above passage?\n1. To evolve methodologies for objective analysis of the two viruses\n2. To establish the epidemiological similarities and differences between the two viruses\n3. To offer a better understanding of the remedies of HMPV when analysed in conjunction with SARS-CoV-2\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q73",
+      "type": "single-choice",
+      "question": "Was it the sun-dappled ambience, the strawberries and cream, the frustration of Flavio Cobolli's unforced errors against Serbian Novak Djokovic on Centre Court or simply the crushing weight of being a 64-year-old man in the third act of a very public life? Whatever the reason, Hugh Grant, the actor, deserves empathy. There he was, in the Royal Box at Wimbledon, flanked by Britain's well-dressed and well-rested spectators, watching the men's singles quarterfinals, when the actor did something quietly radical: head at a tilt, eyes closed, utterly unbothered, he took a nap. So praise be to Grant for serving up an unexpected ace. In that small, delicious moment, he didn't merely catch forty winks, he made an elegant case for surrender. Not to laziness, but to limits. To the body's quiet wisdom over society's relentless performance metrics. Wimbledon had its tennis. The perpetually sleep-deprived discovered a leading man, not of action, but of rest.\n\nWhich of the following statements is/are correct?\n1. Hugh Grant was watching, from the Royal Box, the men's semifinal match on Centre Court between Flavio Cobolli and Novak Djokovic.\n2. The phrase 'unexpected ace' in the context uses a term from the game of tennis to highlight Hugh Grant's somewhat uncharacteristic act of catching 'forty winks'; an act that is viewed with opprobrium.\n3. Grant subjects the demands of society to the wisdom of his body.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q74",
+      "type": "single-choice",
+      "question": "Was it the sun-dappled ambience, the strawberries and cream, the frustration of Flavio Cobolli's unforced errors against Serbian Novak Djokovic on Centre Court or simply the crushing weight of being a 64-year-old man in the third act of a very public life? Whatever the reason, Hugh Grant, the actor, deserves empathy. There he was, in the Royal Box at Wimbledon, flanked by Britain's well-dressed and well-rested spectators, watching the men's singles quarterfinals, when the actor did something quietly radical: head at a tilt, eyes closed, utterly unbothered, he took a nap. So praise be to Grant for serving up an unexpected ace. In that small, delicious moment, he didn't merely catch forty winks, he made an elegant case for surrender. Not to laziness, but to limits. To the body's quiet wisdom over society's relentless performance metrics. Wimbledon had its tennis. The perpetually sleep-deprived discovered a leading man, not of action, but of rest.\n\nWhich of the following statements is/are correct?\n1. Radical action can also be attributed to mild surrender where one acts against societal expectations.\n2. Submitting to one's limitations, given the effect of age and other factors, ought not to be conflated with laziness.\n3. 'Leading man' usually refers to one who plays the lead role in a movie; in this instance the implication is that Hugh Grant is performing the role of not an action hero, but that of a resting one!\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q75",
+      "type": "single-choice",
+      "question": "'Kalagram', the cultural village set up at the Maha Kumbh Mela, unfolded as a mosaic of India's diverse regions, each represented by seven meticulously crafted 'Sanskriti Angans'—stepping through the grand portal was like entering another world. These thematic zones, inspired by iconic temples like the Dakshineshwar Kali Temple and the Brahma Mandir, were treasure troves of regional artistry. Bengal's Pattachitra paintings, Assam's bamboo crafts, Tamil Nadu's Thanjavur paintings, and Madhya Pradesh's tribal sculpture—all were showcased in these living galleries where 230 master artisans breathed life into them using age-old techniques, their hands shaping India's ancient history into creations to behold.\n\nWhich one of the following statements is **not** correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Paintings from four States of India have been mentioned."
+        },
+        {
+          "id": "b",
+          "text": "Stepping into Kalagram is likened to stepping into another world."
+        },
+        {
+          "id": "c",
+          "text": "The Angans have been described as living galleries."
+        },
+        {
+          "id": "d",
+          "text": "Kalagram is divided into thematic zones, inspired by well-known temples of India."
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q76",
+      "type": "single-choice",
+      "question": "'Kalagram', the cultural village set up at the Maha Kumbh Mela, unfolded as a mosaic of India's diverse regions, each represented by seven meticulously crafted 'Sanskriti Angans'—stepping through the grand portal was like entering another world. These thematic zones, inspired by iconic temples like the Dakshineshwar Kali Temple and the Brahma Mandir, were treasure troves of regional artistry. Bengal's Pattachitra paintings, Assam's bamboo crafts, Tamil Nadu's Thanjavur paintings, and Madhya Pradesh's tribal sculpture—all were showcased in these living galleries where 230 master artisans breathed life into them using age-old techniques, their hands shaping India's ancient history into creations to behold.\n\nWhich of the following conclusions are valid?\n1. Seven Sanskriti Angans, representing different regions of India, had been showcased in Kalagram.\n2. Regional artistry was recognised via the inspiration drawn from iconic temples.\n3. India's ancient history had been crafted by the contemporary craftsmanship of 230 artisans into creations to behold.\n4. Art forms from all regions of India had been showcased in these living galleries.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q77",
+      "type": "single-choice",
+      "question": "Previous waves of customer-service technology, including email and those pesky voice menus, stoked concerns of job losses, only for them to fail to materialise. AI could yet prove different. And if it does, its effects may be salutary. Human agents could be freed up to spend more time on creative and rewarding tasks, like using feedback to make products and services better—and thereby spend less time listening to irate customers!\n\nWhich one among the following statements most appropriately reflects the point of view of the given passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If AI were to take over customer service, there would be no work left for human subjects to do."
+        },
+        {
+          "id": "b",
+          "text": "Irritating voice menus and email could not achieve human redundancy to the extent that AI might."
+        },
+        {
+          "id": "c",
+          "text": "The value of human intervention in the workplace affected by AI might be enhanced through redirection towards more fulfilling tasks."
+        },
+        {
+          "id": "d",
+          "text": "Unlike previous waves in customer-service technology, AI has raised the alarm of worker replacement."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q78",
+      "type": "single-choice",
+      "question": "Previous waves of customer-service technology, including email and those pesky voice menus, stoked concerns of job losses, only for them to fail to materialise. AI could yet prove different. And if it does, its effects may be salutary. Human agents could be freed up to spend more time on creative and rewarding tasks, like using feedback to make products and services better—and thereby spend less time listening to irate customers!\n\nWhich of the following conclusions, made on the basis of the given passage, is/are correct?\n1. The advent of new customer-service technology had invariably sparked fears about job losses.\n2. Often it is found that instead of job losses, alternative channels for employee engagement are discovered while certain tasks are replaced by technology.\n3. The advent of technology inevitably leads to stressful outcomes.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 and 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q79",
+      "type": "single-choice",
+      "question": "Sport is not just about winning medals or getting jobs through a sports quota. Today's generation is struggling with issues like depression and anxiety. Parents often say that their children are inactive and rarely leave the house. Sport can help tackle these problems. From sport you can learn time management, fitness, teamwork, coordination, and so much more. We need to develop a culture in which sport is seen as a way of life—a path to building a healthier, happier society.\n\nWhich of the following statements is/are correct?\n1. Parents are not encouraging enough when it comes to children playing sport.\n2. Participation in sporting activities can help develop life skills.\n3. Sport as a way of life can help evolve the very nature of society itself.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 only"
+        },
+        {
+          "id": "d",
+          "text": "3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "upsc_2026_csat_q80",
+      "type": "single-choice",
+      "question": "Sport is not just about winning medals or getting jobs through a sports quota. Today's generation is struggling with issues like depression and anxiety. Parents often say that their children are inactive and rarely leave the house. Sport can help tackle these problems. From sport you can learn time management, fitness, teamwork, coordination, and so much more. We need to develop a culture in which sport is seen as a way of life—a path to building a healthier, happier society.\n\nWhich of the following conclusions are valid?\n1. Sport is more than just games; it is a way of life.\n2. Sport can help mitigate the problems of seclusion among the young.\n3. Earning laurels in sport can help one secure a job on the basis of an assigned quota.\n4. Standard corporate sector skills cannot be learnt through sport.\n\nSelect the answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "b",
+          "text": "2 and 4 only"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.5,
+      "negativeMarks": 0.833,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Prelims CSAT (GS Paper II)",
+        "comprehension"
+      ]
+    }
+  ]
+}
